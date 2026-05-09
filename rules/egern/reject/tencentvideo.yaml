@@ -1,0 +1,33 @@
+# Gins-Rules: tencentvideo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "api.poll.video.qq.com"
+  - "gdt.qq.com"
+  - "gdtimg.com"
+  - "l.qq.com"
+  - "omgmta.qq.com"
+  - "omgmta1.qq.com"
+  - "static-res.qq.com"
+  - "tpns.tencent.com"
+  - "video.mpush.qq.com"
+domain_set:
+  - "activity.video.qq.com"
+  - "aegis.qq.com"
+  - "iacc.qq.com"
+  - "info4.video.qq.com"
+  - "info6.video.qq.com"
+  - "rdelivery.qq.com"
+  - "rmonitor.qq.com"
+  - "tux.qq.com"
+  - "ugchsy.gtimg.com"
+domain_keyword_set:
+  - "1258344696.file.myqcloud.com"
+  - "pgdt.gtimg.c"
+  - "trace.qq.com"
+  - "trace.video.qq.com"
+  - "track.qq.com"
+ip_cidr_set:
+  - "111.6.166.107/32"
+  - "120.222.144.64/32"
+  - "183.201.213.194/32"

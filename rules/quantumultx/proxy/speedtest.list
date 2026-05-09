@@ -1,0 +1,15 @@
+host-suffix,cdnst.net,Proxy
+host-suffix,cellmaps.com,Proxy
+host-suffix,ekahau.cloud,Proxy
+host-suffix,ekahau.com,Proxy
+host-suffix,fast.com,Proxy
+host-suffix,ookla.com,Proxy
+host-suffix,ooklaserver.net,Proxy
+host-suffix,pingtest.net,Proxy
+host-suffix,speed.cloudflare.com,Proxy
+host-suffix,speed.dler.io,Proxy
+host-suffix,speedtest.co,Proxy
+host-suffix,speedtest.net,Proxy
+host-suffix,speedtestcustom.com,Proxy
+host-suffix,webtest.net,Proxy
+host-keyword,speedtest,Proxy

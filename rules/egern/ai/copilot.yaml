@@ -1,0 +1,14 @@
+# Gins-Rules: copilot
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "api.githubcopilot.com"
+  - "bing.com"
+  - "copilot-proxy.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+  - "copilot.github.com"
+  - "copilot.microsoft.com"
+  - "default.exp-tas.com"
+  - "githubcopilot.com"
+domain_set:
+  - "sydney.bing.com"

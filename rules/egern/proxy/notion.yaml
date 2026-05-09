@@ -1,0 +1,7 @@
+# Gins-Rules: notion
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "notion.com"
+  - "notion.site"
+  - "notion.so"

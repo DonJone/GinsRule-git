@@ -1,0 +1,20 @@
+# Gins-Rules: line
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "line.me"
+  - "line-apps.com"
+  - "line-scdn.net"
+  - "linecorp.com"
+  - "line.biz"
+  - "lin.ee"
+  - "naver.jp"
+  - "line.naver.jp"
+domain_set:
+  - "legy.line-apps.com"
+  - "obs.line-apps.com"
+  - "scdn.line-apps.com"
+  - "api.line.me"
+  - "access.line.me"
+  - "liff.line.me"
+  - "media.line.me"

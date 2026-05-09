@@ -1,0 +1,8 @@
+# Gins-Rules: reddit
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "redd.it"
+  - "reddit.com"
+  - "redditmedia.com"
+  - "redditstatic.com"

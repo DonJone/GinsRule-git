@@ -1,0 +1,11 @@
+# Gins-Rules: zoom
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "zoom.com"
+  - "zoom.us"
+  - "zoomcdn.com"
+  - "zoomgov.com"
+  - "zoominfo.com"
+domain_set:
+  - "zoom.cdn.arkoselabs.com"

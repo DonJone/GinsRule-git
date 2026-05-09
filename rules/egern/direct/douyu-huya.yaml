@@ -1,0 +1,18 @@
+# Gins-Rules: douyu-huya
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "bytefcdnrd.com"
+  - "douyu.com"
+  - "douyu.tv"
+  - "douyucdn.cn"
+  - "douyucdn2.cn"
+  - "douyuscdn.com"
+  - "douyutv.com"
+  - "edgesrv.com"
+  - "huya.com"
+  - "huyacdn.cn"
+  - "huyagame.cn"
+  - "msstatic.com"
+  - "peiwanlu.com"
+  - "snapplay.com"

@@ -1,0 +1,9 @@
+host-suffix,apple-relay.akamaized.net,Proxy
+host-suffix,apple-relay.apple.com,Proxy
+host-suffix,apple-relay.cloudflare.com,Proxy
+host-suffix,apple-relay.fastly-edge.com,Proxy
+host-suffix,apps.mzstatic.com,Proxy
+host-suffix,cp4.cloudflare.com,Proxy
+host-suffix,gateway.icloud.com,Proxy
+host-suffix,gspe1-ssl.ls.apple.com,Proxy
+host-suffix,guzzoni.apple.com,Proxy

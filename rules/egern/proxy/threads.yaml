@@ -1,0 +1,6 @@
+# Gins-Rules: threads
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "threads.com"
+  - "threads.net"

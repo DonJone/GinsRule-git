@@ -1,0 +1,9 @@
+# Gins-Rules: zhihu
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "csdn.net"
+  - "jianshu.com"
+  - "jianshu.io"
+  - "zhihu.com"
+  - "zhimg.com"

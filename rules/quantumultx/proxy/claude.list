@@ -1,0 +1,13 @@
+host-suffix,anthropic.com,Proxy
+host-suffix,clau.de,Proxy
+host-suffix,claude.ai,Proxy
+host-suffix,claude.com,Proxy
+host-suffix,claude.site,Proxy
+host-suffix,claudeusercontent.com,Proxy
+host,api.anthropic.com,Proxy
+host,cdn.usefathom.com,Proxy
+host,console.anthropic.com,Proxy
+host,docs.anthropic.com,Proxy
+host,status.anthropic.com,Proxy
+ip-cidr,160.79.104.0/23,Proxy
+ip6-cidr,2607:6bc0::/48,Proxy

@@ -1,0 +1,27 @@
+# Gins-Rules: onedrive
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "1drv.com"
+  - "1drv.ms"
+  - "admin.onedrive.com"
+  - "docs.live.net"
+  - "g.live.com"
+  - "livefilestore.com"
+  - "microsoftpersonalcontent.com"
+  - "oneclient.sfx.ms"
+  - "onedrive.com"
+  - "onedrive.live.com"
+  - "photos.live.com"
+  - "sharepoint.com"
+  - "sharepointonline.com"
+  - "skyapi.onedrive.live.com"
+  - "skydrive.wearelive.cn"
+  - "skydrive.wns.windows.com"
+  - "spoprod-a.akamaihd.net"
+  - "storage.live.com"
+  - "storage.msn.com"
+domain_keyword_set:
+  - "1drv"
+  - "onedrive"
+  - "skydrive"

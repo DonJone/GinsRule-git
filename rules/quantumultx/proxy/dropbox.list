@@ -1,0 +1,17 @@
+host-suffix,db.tt,Proxy
+host-suffix,dropbox-dns.com,Proxy
+host-suffix,dropbox.com,Proxy
+host-suffix,dropbox.tech,Proxy
+host-suffix,dropbox.zendesk.com,Proxy
+host-suffix,dropboxapi.com,Proxy
+host-suffix,dropboxbusiness.com,Proxy
+host-suffix,dropboxcaptcha.com,Proxy
+host-suffix,dropboxforum.com,Proxy
+host-suffix,dropboxforums.com,Proxy
+host-suffix,dropboxinsiders.com,Proxy
+host-suffix,dropboxmail.com,Proxy
+host-suffix,dropboxpartners.com,Proxy
+host-suffix,dropboxstatic.com,Proxy
+host-suffix,dropboxusercontent.com,Proxy
+host-suffix,getdropbox.com,Proxy
+host-keyword,dropbox,Proxy

@@ -1,0 +1,9 @@
+# Gins-Rules: mihoyo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "bh3.com"
+  - "mihoyo.com"
+  - "miyoushe.com"
+  - "mob.com"
+  - "yuanshen.com"

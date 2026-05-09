@@ -1,0 +1,6 @@
+# Gins-Rules: douyin
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "amemv.com"
+  - "douyinvod.com"

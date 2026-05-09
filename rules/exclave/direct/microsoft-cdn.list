@@ -1,0 +1,16 @@
+domain:activation.sls.microsoft.com
+domain:adl.windows.com
+domain:crl.microsoft.com
+domain:download.microsoft.com
+domain:go.microsoft.com
+domain:microsoft.akadns.net
+domain:office15client.microsoft.com
+domain:officecdn.microsoft.com
+domain:officecdn.microsoft.com.edgesuite.net
+domain:officeclient.microsoft.com
+domain:otelrules.azureedge.net
+domain:update.microsoft.com
+domain:windows.com
+domain:windows.net
+domain:windowsupdate.com
+domain:wns.windows.com

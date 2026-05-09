@@ -1,0 +1,11 @@
+host-suffix,applemusic.apple,Proxy
+host-suffix,applemusic.com,Proxy
+host-suffix,blobstore.apple.com,Proxy
+host-suffix,music.apple.com,Proxy
+host,aod-ssl.itunes.apple.com,Proxy
+host,aod.itunes.apple.com,Proxy
+host,audio-ssl.itunes.apple.com,Proxy
+host,audio.itunes.apple.com,Proxy
+host,mvod.itunes.apple.com,Proxy
+host,play.itunes.apple.com,Proxy
+host,streamingaudio.itunes.apple.com,Proxy

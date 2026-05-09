@@ -1,0 +1,38 @@
+name: Sync Rules
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Daily at UTC 00:00 (SGT 08:00, after 07:28 refresh)
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync rules
+        run: python scripts/sync_rules.py
+
+      - name: Commit and push if changed
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rules/ manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "sync: update rules $(date +%Y-%m-%d)"
+            git push
+          fi

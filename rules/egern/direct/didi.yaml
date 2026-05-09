@@ -1,0 +1,8 @@
+# Gins-Rules: didi
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "didi.com"
+  - "didialift.com"
+  - "didiglobal.com"
+  - "udache.com"

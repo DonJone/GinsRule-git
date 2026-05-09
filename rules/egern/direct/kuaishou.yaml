@@ -1,0 +1,10 @@
+# Gins-Rules: kuaishou
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "apissl.ksapisrv.com"
+  - "gifshow.com"
+  - "ksapisrv.com"
+  - "kuaishou.com"
+  - "kuaishouzt.com"
+  - "yxixy.com"

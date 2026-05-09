@@ -1,0 +1,9 @@
+# Gins-Rules: protonmail
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "pm.me"
+  - "proton.ch"
+  - "proton.me"
+  - "protonmail.com"
+  - "protonvpn.com"

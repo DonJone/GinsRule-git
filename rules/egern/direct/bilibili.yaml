@@ -1,0 +1,26 @@
+# Gins-Rules: bilibili
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "acg.tv"
+  - "acgvideo.com"
+  - "b23.tv"
+  - "bigfun.cn"
+  - "bigfunapp.cn"
+  - "biliapi.com"
+  - "biliapi.net"
+  - "bilibili.co"
+  - "bilibili.com"
+  - "bilibili.tv"
+  - "bilicomic.com"
+  - "biligame.com"
+  - "biligame.net"
+  - "biliintl.co"
+  - "bilivideo.cn"
+  - "bilivideo.com"
+  - "hdslb.com"
+  - "im9.com"
+  - "smtcdns.net"
+domain_set:
+  - "apiintl.biliapi.net"
+  - "upos-hz-mirrorakam.akamaized.net"

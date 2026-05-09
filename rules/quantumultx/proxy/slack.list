@@ -1,0 +1,6 @@
+host-suffix,slack-edge.com,Proxy
+host-suffix,slack-files.com,Proxy
+host-suffix,slack-imgs.com,Proxy
+host-suffix,slack-msgs.com,Proxy
+host-suffix,slack.com,Proxy
+host-suffix,slack.engineering,Proxy

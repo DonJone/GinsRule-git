@@ -1,0 +1,8 @@
+# Gins-Rules: signal
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "signal.art"
+  - "signal.group"
+  - "signal.org"
+  - "whispersystems.org"

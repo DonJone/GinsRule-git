@@ -1,0 +1,8 @@
+# Gins-Rules: stackoverflow
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "sstatic.net"
+  - "stackexchange.com"
+  - "stackoverflow.com"
+  - "stackoverflowteams.com"

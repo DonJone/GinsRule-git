@@ -1,0 +1,7 @@
+# Gins-Rules: duckduckgo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "ddg.gg"
+  - "duck.com"
+  - "duckduckgo.com"

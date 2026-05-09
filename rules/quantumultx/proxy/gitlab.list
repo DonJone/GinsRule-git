@@ -1,0 +1,6 @@
+host-suffix,gitlab.com,Proxy
+host-suffix,gitlab.io,Proxy
+host-suffix,gitlab.net,Proxy
+host-suffix,gitter-static.net,Proxy
+host-suffix,gitter.im,Proxy
+host-keyword,gitlab,Proxy

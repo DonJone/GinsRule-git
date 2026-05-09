@@ -1,0 +1,6 @@
+host-suffix,mfx.mobilefuse.co,Proxy
+host-suffix,tktn.be,Proxy
+ip-cidr,205.164.56.29/24,Proxy
+ip-cidr,50.117.27.0/24,Proxy
+ip-cidr,63.251.124.0/24,Proxy
+ip-cidr,69.46.75.0/24,Proxy

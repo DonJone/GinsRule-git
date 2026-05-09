@@ -1,0 +1,8 @@
+# Gins-Rules: nintendo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "nintendo.co.jp"
+  - "nintendo.com"
+  - "nintendo.net"
+  - "nso.nintendo.net"

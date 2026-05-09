@@ -1,0 +1,9 @@
+# Gins-Rules: whatsapp
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "waba.inner.fbpigeon.com"
+  - "whatsapp.com"
+  - "whatsapp.net"
+domain_keyword_set:
+  - "whatsapp"

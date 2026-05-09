@@ -1,0 +1,9 @@
+host-suffix,api.githubcopilot.com,Proxy
+host-suffix,bing.com,Proxy
+host-suffix,copilot-proxy.githubusercontent.com,Proxy
+host-suffix,copilot-telemetry.githubusercontent.com,Proxy
+host-suffix,copilot.github.com,Proxy
+host-suffix,copilot.microsoft.com,Proxy
+host-suffix,default.exp-tas.com,Proxy
+host-suffix,githubcopilot.com,Proxy
+host,sydney.bing.com,Proxy

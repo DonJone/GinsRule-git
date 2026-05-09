@@ -1,0 +1,14 @@
+host-suffix,ai.google.dev,Proxy
+host-suffix,aida.googleapis.com,Proxy
+host-suffix,aistudio.google.com,Proxy
+host-suffix,alkalicore-pa.clients6.google.com,Proxy
+host-suffix,alkalimakersuite-pa.clients6.google.com,Proxy
+host-suffix,bard.google.com,Proxy
+host-suffix,deepmind.com,Proxy
+host-suffix,deepmind.google,Proxy
+host-suffix,geller-pa.googleapis.com,Proxy
+host-suffix,gemini.google.com,Proxy
+host-suffix,generativeai.google,Proxy
+host-suffix,generativelanguage.googleapis.com,Proxy
+host-suffix,makersuite.google.com,Proxy
+host-suffix,proactivebackend-pa.googleapis.com,Proxy

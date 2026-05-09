@@ -1,0 +1,6 @@
+# Gins-Rules: pinduoduo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "pinduoduo.com"
+  - "yangkeduo.com"

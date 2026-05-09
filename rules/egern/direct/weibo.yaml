@@ -1,0 +1,13 @@
+# Gins-Rules: weibo
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "sina.com"
+  - "sina.com.cn"
+  - "sinaimg.cn"
+  - "sinajs.cn"
+  - "weibo.cn"
+  - "weibo.com"
+  - "weibocdn.com"
+domain_keyword_set:
+  - "weibo"

@@ -1,0 +1,10 @@
+# Gins-Rules: playstation
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "playstation.com"
+  - "playstation.net"
+  - "playstationnetwork.com"
+  - "sie.com"
+  - "sony.com"
+  - "sonyentertainmentnetwork.com"

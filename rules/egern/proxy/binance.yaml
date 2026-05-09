@@ -1,0 +1,17 @@
+# Gins-Rules: binance
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "appsflayer.com"
+  - "binance.cloud"
+  - "binance.com"
+  - "binance.info"
+  - "binance.me"
+  - "binancecnt.com"
+  - "binancefuture.com"
+  - "bnappzh.co"
+  - "bnbstatic.com"
+  - "bnbzh.ac"
+  - "bntrace.com"
+  - "saasexch.cc"
+  - "saasexch.com"

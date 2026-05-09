@@ -1,0 +1,7 @@
+# Gins-Rules: instagram
+# Optimized Egern Rule Set
+
+domain_suffix_set:
+  - "instagram.com"
+  - "instagr.am"
+  - "cdninstagram.com"

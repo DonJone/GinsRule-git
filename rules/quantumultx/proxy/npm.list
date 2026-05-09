@@ -1,0 +1,12 @@
+host-suffix,cocoapods.org,Proxy
+host-suffix,crates.io,Proxy
+host-suffix,gradle.org,Proxy
+host-suffix,jsdelivr.net,Proxy
+host-suffix,mvnrepository.com,Proxy
+host-suffix,npmjs.com,Proxy
+host-suffix,npmjs.org,Proxy
+host-suffix,packagist.org,Proxy
+host-suffix,pypi.org,Proxy
+host-suffix,pythonhosted.org,Proxy
+host-suffix,rubygems.org,Proxy
+host-suffix,unpkg.com,Proxy

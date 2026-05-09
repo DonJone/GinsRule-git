@@ -1,0 +1,5 @@
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitter-static.net
+.gitter.im
