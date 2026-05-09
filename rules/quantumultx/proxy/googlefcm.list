@@ -1,0 +1,15 @@
+host-suffix,alt1-mtalk.google.com,Proxy
+host-suffix,alt2-mtalk.google.com,Proxy
+host-suffix,alt3-mtalk.google.com,Proxy
+host-suffix,alt4-mtalk.google.com,Proxy
+host-suffix,alt5-mtalk.google.com,Proxy
+host-suffix,alt6-mtalk.google.com,Proxy
+host-suffix,alt7-mtalk.google.com,Proxy
+host-suffix,alt8-mtalk.google.com,Proxy
+host-suffix,android.apis.google.com,Proxy
+host-suffix,device-provisioning.googleapis.com,Proxy
+host-suffix,firebaseinstallations.googleapis.com,Proxy
+host-suffix,mtalk-dev.google.com,Proxy
+host-suffix,mtalk-staging.google.com,Proxy
+host-suffix,mtalk.google.com,Proxy
+host-suffix,mtalk4.google.com,Proxy
