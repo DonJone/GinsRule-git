@@ -5,7 +5,6 @@ Discovers rules by parsing the homepage HTML (not hardcoded),
 detects changes via ETag comparison, and downloads only updated files.
 """
 
-import hashlib
 import json
 import os
 import re
@@ -145,6 +144,89 @@ def check_and_download(url, local_path, old_etag):
         return (url, old_etag, None, False)
 
 
+CATEGORY_LABELS = {
+    "proxy":  "需代理访问的域名/服务",
+    "direct": "直连域名（国内服务）",
+    "reject": "拒绝/广告屏蔽",
+    "ip":     "GeoIP 分流",
+    "asn":    "ASN 网络分流",
+    "ai":     "AI 服务分流",
+}
+
+README_FILE = Path("README.md")
+
+
+def count_files():
+    """Count downloaded files per client. Returns {client: count}."""
+    counts = {}
+    if RULES_DIR.exists():
+        for d in sorted(RULES_DIR.iterdir()):
+            if d.is_dir():
+                count = sum(1 for _ in d.rglob("*") if _.is_file())
+                if count > 0:
+                    counts[d.name] = count
+    return counts
+
+
+def update_readme(rules):
+    """Replace auto-marked sections in README with live data."""
+    if not README_FILE.exists():
+        return
+
+    text = README_FILE.read_text()
+
+    # --- Summary line ---
+    total_rules = sum(len(v) for v in rules.values())
+    num_cats = len(rules)
+    summary_new = (
+        f"每日自动从 [Gins-Rules](https://rules.ichimarugin728.dev) "
+        f"同步代理规则文件，覆盖 **11 个客户端格式**、"
+        f"**{num_cats} 个分类**、**{total_rules} 条规则**。"
+    )
+    text = re.sub(
+        r"<!-- AUTO_START: summary -->.*<!-- AUTO_END: summary -->",
+        f"<!-- AUTO_START: summary -->\n{summary_new}\n<!-- AUTO_END: summary -->",
+        text,
+        flags=re.DOTALL,
+    )
+
+    # --- Category table ---
+    table_lines = [
+        "| 分类 | 规则数 | 说明 |",
+        "|------|--------|------|",
+    ]
+    for cat in sorted(rules):
+        label = CATEGORY_LABELS.get(cat, "")
+        table_lines.append(f"| `{cat}` | {len(rules[cat])} | {label} |")
+    table_str = "\n".join(table_lines)
+    text = re.sub(
+        r"<!-- AUTO_START: categories -->.*<!-- AUTO_END: categories -->",
+        f"<!-- AUTO_START: categories -->\n{table_str}\n<!-- AUTO_END: categories -->",
+        text,
+        flags=re.DOTALL,
+    )
+
+    # --- Last sync timestamp ---
+    now = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    sync_badge = f"> 最近同步: {now} · 共 {total_rules} 条规则 · {sum(count_files().values())} 个文件"
+    if "<!-- AUTO_START: sync_time -->" in text:
+        text = re.sub(
+            r"<!-- AUTO_START: sync_time -->.*<!-- AUTO_END: sync_time -->",
+            f"<!-- AUTO_START: sync_time -->\n{sync_badge}\n<!-- AUTO_END: sync_time -->",
+            text,
+            flags=re.DOTALL,
+        )
+    else:
+        # Insert after summary marker
+        text = text.replace(
+            "<!-- AUTO_END: summary -->",
+            f"<!-- AUTO_END: summary -->\n\n<!-- AUTO_START: sync_time -->\n{sync_badge}\n<!-- AUTO_END: sync_time -->",
+        )
+
+    README_FILE.write_text(text)
+    print("  README updated")
+
+
 def main():
     start_time = time.time()
 
@@ -191,10 +273,13 @@ def main():
     # 5. Save manifest
     save_manifest(new_manifest)
 
+    # 6. Update README with live counts
+    update_readme(rules)
+
     elapsed = time.time() - start_time
     print(f"\n→ Done in {elapsed:.1f}s — {changed} changed, {skipped} unchanged, {not_found} not found")
 
-    # 6. Exit code: 0 = no changes, 1 = changes detected
+    # 7. Exit code: 0 = no changes, 1 = changes detected
     if changed > 0:
         sys.exit(1)
     else:

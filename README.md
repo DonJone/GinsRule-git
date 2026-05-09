@@ -1,6 +1,12 @@
 # GinsRules Sync
 
+<!-- AUTO_START: summary -->
 每日自动从 [Gins-Rules](https://rules.ichimarugin728.dev) 同步代理规则文件，覆盖 **11 个客户端格式**、**6 个分类**、**134 条规则**。
+<!-- AUTO_END: summary -->
+
+<!-- AUTO_START: sync_time -->
+> 最近同步: 2026-05-09 01:44:21 UTC · 共 134 条规则 · 1418 个文件
+<!-- AUTO_END: sync_time -->
 
 > 感谢 [IchimaruGin728](https://rules.ichimarugin728.dev) 提供的 Gins-Rules 规则分发控制平面，统一了多格式代理规则的生成与分发。
 
@@ -77,14 +83,16 @@ https://cdn.jsdelivr.net/gh/DonJone/GinsRule-git@master/rules/mihomo/proxy/googl
 
 ## 分类说明
 
+<!-- AUTO_START: categories -->
 | 分类 | 规则数 | 说明 |
 |------|--------|------|
-| `proxy` | 66 | 需代理访问的域名/服务 |
-| `direct` | 28 | 直连域名（国内服务） |
-| `reject` | 6 | 拒绝/广告屏蔽 |
-| `ip` | 8 | GeoIP 分流 |
-| `asn` | 20 | ASN 网络分流 |
 | `ai` | 6 | AI 服务分流 |
+| `asn` | 20 | ASN 网络分流 |
+| `direct` | 28 | 直连域名（国内服务） |
+| `ip` | 8 | GeoIP 分流 |
+| `proxy` | 66 | 需代理访问的域名/服务 |
+| `reject` | 6 | 拒绝/广告屏蔽 |
+<!-- AUTO_END: categories -->
 
 ## 客户端格式
 
