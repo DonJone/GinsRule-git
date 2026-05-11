@@ -23,9 +23,10 @@ jobs:
 
       - name: Sync rules
         run: python scripts/sync_rules.py
+        continue-on-error: true
 
       - name: Commit and push if changed
-        if: success()
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
