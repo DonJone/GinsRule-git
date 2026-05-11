@@ -1,5 +1,5 @@
-host-suffix,pm.me,Proxy
-host-suffix,proton.ch,Proxy
-host-suffix,proton.me,Proxy
-host-suffix,protonmail.com,Proxy
-host-suffix,protonvpn.com,Proxy
+HOST-SUFFIX,pm.me
+HOST-SUFFIX,proton.ch
+HOST-SUFFIX,proton.me
+HOST-SUFFIX,protonmail.com
+HOST-SUFFIX,protonvpn.com

@@ -1,4 +1,4 @@
-host-suffix,redd.it,Proxy
-host-suffix,reddit.com,Proxy
-host-suffix,redditmedia.com,Proxy
-host-suffix,redditstatic.com,Proxy
+HOST-SUFFIX,redd.it
+HOST-SUFFIX,reddit.com
+HOST-SUFFIX,redditmedia.com
+HOST-SUFFIX,redditstatic.com

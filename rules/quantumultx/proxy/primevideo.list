@@ -1,4 +1,4 @@
-host-suffix,aiv-cdn.net,Proxy
-host-suffix,amazonvideo.com,Proxy
-host-suffix,atv-ps.amazon.com,Proxy
-host-suffix,primevideo.com,Proxy
+HOST-SUFFIX,aiv-cdn.net
+HOST-SUFFIX,amazonvideo.com
+HOST-SUFFIX,atv-ps.amazon.com
+HOST-SUFFIX,primevideo.com

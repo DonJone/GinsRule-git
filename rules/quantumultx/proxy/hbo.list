@@ -1,7 +1,7 @@
-host-suffix,discomax.com,Proxy
-host-suffix,hbo.com,Proxy
-host-suffix,hbogo.com,Proxy
-host-suffix,hbomax.com,Proxy
-host-suffix,hbomaxcdn.com,Proxy
-host-suffix,hbonow.com,Proxy
-host-suffix,max.com,Proxy
+HOST-SUFFIX,discomax.com
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbomax.com
+HOST-SUFFIX,hbomaxcdn.com
+HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,max.com

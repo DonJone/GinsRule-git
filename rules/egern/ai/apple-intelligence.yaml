@@ -1,13 +1,10 @@
-# Gins-Rules: apple-intelligence
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "apple-relay.akamaized.net"
-  - "apple-relay.apple.com"
-  - "apple-relay.cloudflare.com"
-  - "apple-relay.fastly-edge.com"
-  - "apps.mzstatic.com"
-  - "cp4.cloudflare.com"
-  - "gateway.icloud.com"
-  - "gspe1-ssl.ls.apple.com"
-  - "guzzoni.apple.com"
+rules:
+  - DOMAIN-SUFFIX,apple-relay.akamaized.net,Direct
+  - DOMAIN-SUFFIX,apple-relay.apple.com,Direct
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com,Direct
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Direct
+  - DOMAIN-SUFFIX,apps.mzstatic.com,Direct
+  - DOMAIN-SUFFIX,cp4.cloudflare.com,Direct
+  - DOMAIN-SUFFIX,gateway.icloud.com,Direct
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Direct
+  - DOMAIN-SUFFIX,guzzoni.apple.com,Direct

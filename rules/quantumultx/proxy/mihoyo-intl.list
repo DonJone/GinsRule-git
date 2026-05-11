@@ -1,6 +1,6 @@
-host-suffix,genshin.hoyoverse.com,Proxy
-host-suffix,honkaiimpact3.com,Proxy
-host-suffix,hoyolab.com,Proxy
-host-suffix,hoyoverse.com,Proxy
-host-suffix,starrails.com,Proxy
-host-suffix,zenlesszonezerohoyoverse.com,Proxy
+HOST-SUFFIX,genshin.hoyoverse.com
+HOST-SUFFIX,honkaiimpact3.com
+HOST-SUFFIX,hoyolab.com
+HOST-SUFFIX,hoyoverse.com
+HOST-SUFFIX,starrails.com
+HOST-SUFFIX,zenlesszonezerohoyoverse.com

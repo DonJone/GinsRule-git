@@ -1,4 +1,4 @@
-host-suffix,licdn.com,Proxy
-host-suffix,linkedin.cn,Proxy
-host-suffix,linkedin.com,Proxy
-host-suffix,lnkd.in,Proxy
+HOST-SUFFIX,licdn.com
+HOST-SUFFIX,linkedin.cn
+HOST-SUFFIX,linkedin.com
+HOST-SUFFIX,lnkd.in

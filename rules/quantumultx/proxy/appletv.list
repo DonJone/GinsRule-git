@@ -1,4 +1,14 @@
 host-suffix,trailers.apple.com,Proxy
 host-suffix,tv.apple.com,Proxy
+host-suffix,tv.apple.com,Proxy
+host-suffix,tv.apple.com,Proxy
+host,np-edge.itunes.apple.com,Proxy
+host,play-edge.itunes.apple.com,Proxy
+host,hls-amt.itunes.apple.com,Proxy
+host,hls.itunes.apple.com,Proxy
+host,np-edge.itunes.apple.com,Proxy
+host,play-edge.itunes.apple.com,Proxy
+host,tv.applemusic.com,Proxy
+host,uts-api.itunes.apple.com,Proxy
 host,np-edge.itunes.apple.com,Proxy
 host,play-edge.itunes.apple.com,Proxy

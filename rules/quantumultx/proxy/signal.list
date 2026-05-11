@@ -1,4 +1,4 @@
-host-suffix,signal.art,Proxy
-host-suffix,signal.group,Proxy
-host-suffix,signal.org,Proxy
-host-suffix,whispersystems.org,Proxy
+HOST-SUFFIX,signal.art
+HOST-SUFFIX,signal.group
+HOST-SUFFIX,signal.org
+HOST-SUFFIX,whispersystems.org

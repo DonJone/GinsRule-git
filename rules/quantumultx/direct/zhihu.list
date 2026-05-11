@@ -1,5 +1,5 @@
-host-suffix,csdn.net,Direct
-host-suffix,jianshu.com,Direct
-host-suffix,jianshu.io,Direct
-host-suffix,zhihu.com,Direct
-host-suffix,zhimg.com,Direct
+HOST-SUFFIX,csdn.net
+HOST-SUFFIX,jianshu.com
+HOST-SUFFIX,jianshu.io
+HOST-SUFFIX,zhihu.com
+HOST-SUFFIX,zhimg.com

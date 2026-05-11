@@ -1,4 +1,4 @@
-host-suffix,dianping.com,Direct
-host-suffix,dpfile.com,Direct
-host-suffix,meituan.com,Direct
-host-suffix,meituan.net,Direct
+HOST-SUFFIX,dianping.com
+HOST-SUFFIX,dpfile.com
+HOST-SUFFIX,meituan.com
+HOST-SUFFIX,meituan.net

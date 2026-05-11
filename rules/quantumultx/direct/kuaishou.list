@@ -1,6 +1,6 @@
-host-suffix,apissl.ksapisrv.com,Direct
-host-suffix,gifshow.com,Direct
-host-suffix,ksapisrv.com,Direct
-host-suffix,kuaishou.com,Direct
-host-suffix,kuaishouzt.com,Direct
-host-suffix,yxixy.com,Direct
+HOST-SUFFIX,apissl.ksapisrv.com
+HOST-SUFFIX,gifshow.com
+HOST-SUFFIX,ksapisrv.com
+HOST-SUFFIX,kuaishou.com
+HOST-SUFFIX,kuaishouzt.com
+HOST-SUFFIX,yxixy.com

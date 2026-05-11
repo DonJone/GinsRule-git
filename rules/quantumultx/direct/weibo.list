@@ -1,8 +1,7 @@
-host-suffix,sina.com,Direct
-host-suffix,sina.com.cn,Direct
-host-suffix,sinaimg.cn,Direct
-host-suffix,sinajs.cn,Direct
-host-suffix,weibo.cn,Direct
-host-suffix,weibo.com,Direct
-host-suffix,weibocdn.com,Direct
-host-keyword,weibo,Direct
+HOST-SUFFIX,sina.com
+HOST-SUFFIX,sina.com.cn
+HOST-SUFFIX,sinaimg.cn
+HOST-SUFFIX,sinajs.cn
+HOST-SUFFIX,weibo.cn
+HOST-SUFFIX,weibo.com
+HOST-SUFFIX,weibocdn.com
