@@ -1,15 +1,35 @@
 # Gins-Rules: xiaomi
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "coloros.com"
-  - "honor.com"
-  - "huawei.com"
-  - "mi.com"
-  - "miui.com"
-  - "oneplus.com"
-  - "oppo.com"
-  - "realme.com"
-  - "vivo.com"
-  - "xiaomi.com"
-  - "xiaomiev.com"
+rules:
+- domain_suffix:
+    match: coloros.com
+    policy: Proxy
+- domain_suffix:
+    match: honor.com
+    policy: Proxy
+- domain_suffix:
+    match: huawei.com
+    policy: Proxy
+- domain_suffix:
+    match: mi.com
+    policy: Proxy
+- domain_suffix:
+    match: miui.com
+    policy: Proxy
+- domain_suffix:
+    match: oneplus.com
+    policy: Proxy
+- domain_suffix:
+    match: oppo.com
+    policy: Proxy
+- domain_suffix:
+    match: realme.com
+    policy: Proxy
+- domain_suffix:
+    match: vivo.com
+    policy: Proxy
+- domain_suffix:
+    match: xiaomi.com
+    policy: Proxy
+- domain_suffix:
+    match: xiaomiev.com
+    policy: Proxy

@@ -1,35 +1,92 @@
 # Gins-Rules: github
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "atom.io"
-  - "copilot-proxy.githubusercontent.com"
-  - "dependabot.com"
-  - "ghcr.io"
-  - "git.io"
-  - "github-cloud.s3.amazonaws.com"
-  - "github.blog"
-  - "github.com"
-  - "github.community"
-  - "github.dev"
-  - "github.io"
-  - "githubapp.com"
-  - "githubassets.com"
-  - "githubcopilot.com"
-  - "githubhackathon.com"
-  - "githubnext.com"
-  - "githubpreview.dev"
-  - "githubstatus.com"
-  - "githubuniverse.com"
-  - "githubusercontent.com"
-  - "myoctocat.com"
-  - "npm.community"
-  - "npmjs.com"
-  - "npmjs.org"
-  - "opensource.guide"
-  - "rawgit.com"
-  - "rawgithub.com"
-  - "repo.new"
-  - "thegithubshop.com"
-domain_keyword_set:
-  - "github"
+rules:
+- domain_suffix:
+    match: atom.io
+    policy: Proxy
+- domain_suffix:
+    match: copilot-proxy.githubusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: dependabot.com
+    policy: Proxy
+- domain_suffix:
+    match: ghcr.io
+    policy: Proxy
+- domain_suffix:
+    match: git.io
+    policy: Proxy
+- domain_suffix:
+    match: github-cloud.s3.amazonaws.com
+    policy: Proxy
+- domain_suffix:
+    match: github.blog
+    policy: Proxy
+- domain_suffix:
+    match: github.com
+    policy: Proxy
+- domain_suffix:
+    match: github.community
+    policy: Proxy
+- domain_suffix:
+    match: github.dev
+    policy: Proxy
+- domain_suffix:
+    match: github.io
+    policy: Proxy
+- domain_suffix:
+    match: githubapp.com
+    policy: Proxy
+- domain_suffix:
+    match: githubassets.com
+    policy: Proxy
+- domain_suffix:
+    match: githubcopilot.com
+    policy: Proxy
+- domain_suffix:
+    match: githubhackathon.com
+    policy: Proxy
+- domain_suffix:
+    match: githubnext.com
+    policy: Proxy
+- domain_suffix:
+    match: githubpreview.dev
+    policy: Proxy
+- domain_suffix:
+    match: githubstatus.com
+    policy: Proxy
+- domain_suffix:
+    match: githubuniverse.com
+    policy: Proxy
+- domain_suffix:
+    match: githubusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: myoctocat.com
+    policy: Proxy
+- domain_suffix:
+    match: npm.community
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.com
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.org
+    policy: Proxy
+- domain_suffix:
+    match: opensource.guide
+    policy: Proxy
+- domain_suffix:
+    match: rawgit.com
+    policy: Proxy
+- domain_suffix:
+    match: rawgithub.com
+    policy: Proxy
+- domain_suffix:
+    match: repo.new
+    policy: Proxy
+- domain_suffix:
+    match: thegithubshop.com
+    policy: Proxy
+- domain_keyword:
+    match: github
+    policy: Proxy

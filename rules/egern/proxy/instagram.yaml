@@ -1,7 +1,11 @@
 # Gins-Rules: instagram
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "instagram.com"
-  - "instagr.am"
-  - "cdninstagram.com"
+rules:
+- domain_suffix:
+    match: cdninstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: instagr.am
+    policy: Proxy
+- domain_suffix:
+    match: instagram.com
+    policy: Proxy

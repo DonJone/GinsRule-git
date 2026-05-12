@@ -1,27 +1,68 @@
 # Gins-Rules: onedrive
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "1drv.com"
-  - "1drv.ms"
-  - "admin.onedrive.com"
-  - "docs.live.net"
-  - "g.live.com"
-  - "livefilestore.com"
-  - "microsoftpersonalcontent.com"
-  - "oneclient.sfx.ms"
-  - "onedrive.com"
-  - "onedrive.live.com"
-  - "photos.live.com"
-  - "sharepoint.com"
-  - "sharepointonline.com"
-  - "skyapi.onedrive.live.com"
-  - "skydrive.wearelive.cn"
-  - "skydrive.wns.windows.com"
-  - "spoprod-a.akamaihd.net"
-  - "storage.live.com"
-  - "storage.msn.com"
-domain_keyword_set:
-  - "1drv"
-  - "onedrive"
-  - "skydrive"
+rules:
+- domain_suffix:
+    match: 1drv.com
+    policy: Proxy
+- domain_suffix:
+    match: 1drv.ms
+    policy: Proxy
+- domain_suffix:
+    match: admin.onedrive.com
+    policy: Proxy
+- domain_suffix:
+    match: docs.live.net
+    policy: Proxy
+- domain_suffix:
+    match: g.live.com
+    policy: Proxy
+- domain_suffix:
+    match: livefilestore.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftpersonalcontent.com
+    policy: Proxy
+- domain_suffix:
+    match: oneclient.sfx.ms
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.com
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.live.com
+    policy: Proxy
+- domain_suffix:
+    match: photos.live.com
+    policy: Proxy
+- domain_suffix:
+    match: sharepoint.com
+    policy: Proxy
+- domain_suffix:
+    match: sharepointonline.com
+    policy: Proxy
+- domain_suffix:
+    match: skyapi.onedrive.live.com
+    policy: Proxy
+- domain_suffix:
+    match: skydrive.wearelive.cn
+    policy: Proxy
+- domain_suffix:
+    match: skydrive.wns.windows.com
+    policy: Proxy
+- domain_suffix:
+    match: spoprod-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: storage.live.com
+    policy: Proxy
+- domain_suffix:
+    match: storage.msn.com
+    policy: Proxy
+- domain_keyword:
+    match: 1drv
+    policy: Proxy
+- domain_keyword:
+    match: onedrive
+    policy: Proxy
+- domain_keyword:
+    match: skydrive
+    policy: Proxy

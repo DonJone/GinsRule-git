@@ -1,0 +1,5 @@
+# Gins-Rules: manual
+rules:
+- domain_suffix:
+    match: ecs-api.xns.one
+    policy: Proxy

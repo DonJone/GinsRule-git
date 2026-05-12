@@ -1,5 +1,5 @@
-HOST-SUFFIX,csdn.net
-HOST-SUFFIX,jianshu.com
-HOST-SUFFIX,jianshu.io
-HOST-SUFFIX,zhihu.com
-HOST-SUFFIX,zhimg.com
+HOST-SUFFIX,csdn.net,Proxy
+HOST-SUFFIX,jianshu.com,Proxy
+HOST-SUFFIX,jianshu.io,Proxy
+HOST-SUFFIX,zhihu.com,Proxy
+HOST-SUFFIX,zhimg.com,Proxy

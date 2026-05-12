@@ -1,180 +1,527 @@
 # Gins-Rules: disney
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "20thcenturystudios.com.au"
-  - "20thcenturystudios.com.br"
-  - "20thcenturystudios.jp"
-  - "abc-studios.com"
-  - "abc.com"
-  - "abcnews.com"
-  - "abcnews.edgesuite.net"
-  - "adobedtm.com"
-  - "adventuresbydisney.com"
-  - "babble.com"
-  - "babyzone.com"
-  - "bam.nr-data.net"
-  - "bamgrid.com"
-  - "beautyandthebeastmusical.co.uk"
-  - "braze.com"
-  - "cdn.optimizely.com"
-  - "conviva.com"
-  - "d9.flashtalking.com"
-  - "dilcdn.com"
-  - "disney-asia.com"
-  - "disney-discount.com"
-  - "disney-plus.net"
-  - "disney-portal.my.onetrust.com"
-  - "disney-studio.com"
-  - "disney-studio.net"
-  - "disney.asia"
-  - "disney.be"
-  - "disney.bg"
-  - "disney.ca"
-  - "disney.ch"
-  - "disney.co.il"
-  - "disney.co.jp"
-  - "disney.co.kr"
-  - "disney.co.th"
-  - "disney.co.uk"
-  - "disney.co.za"
-  - "disney.com"
-  - "disney.com.au"
-  - "disney.com.br"
-  - "disney.com.hk"
-  - "disney.com.tw"
-  - "disney.cz"
-  - "disney.de"
-  - "disney.demdex.net"
-  - "disney.dk"
-  - "disney.es"
-  - "disney.fi"
-  - "disney.fr"
-  - "disney.gr"
-  - "disney.hu"
-  - "disney.id"
-  - "disney.in"
-  - "disney.io"
-  - "disney.it"
-  - "disney.my"
-  - "disney.my.sentry.io"
-  - "disney.nl"
-  - "disney.no"
-  - "disney.ph"
-  - "disney.pl"
-  - "disney.pt"
-  - "disney.ro"
-  - "disney.ru"
-  - "disney.se"
-  - "disney.sg"
-  - "disneyadsales.com"
-  - "disneyarena.com"
-  - "disneyaulani.com"
-  - "disneybaby.com"
-  - "disneycareers.com"
-  - "disneychannelonstage.com"
-  - "disneychannelroadtrip.com"
-  - "disneycruisebrasil.com"
-  - "disneyenconcert.com"
-  - "disneyiejobs.com"
-  - "disneyinflight.com"
-  - "disneyinternational.com"
-  - "disneyinternationalhd.com"
-  - "disneyjunior.com"
-  - "disneyjuniortreataday.com"
-  - "disneylandparis.com"
-  - "disneylatino.com"
-  - "disneymagicmoments.co.il"
-  - "disneymagicmoments.co.uk"
-  - "disneymagicmoments.co.za"
-  - "disneymagicmoments.de"
-  - "disneymagicmoments.es"
-  - "disneymagicmoments.fr"
-  - "disneymagicmoments.gen.tr"
-  - "disneymagicmoments.gr"
-  - "disneymagicmoments.it"
-  - "disneymagicmoments.pl"
-  - "disneymagicmomentsme.com"
-  - "disneyme.com"
-  - "disneymeetingsandevents.com"
-  - "disneymovieinsiders.com"
-  - "disneymusicpromotion.com"
-  - "disneynewseries.com"
-  - "disneynow.com"
-  - "disneypeoplesurveys.com"
-  - "disneyplus.bn5x.net"
-  - "disneyplus.com"
-  - "disneyplus.com.ssl.sc.omtrdc.net"
-  - "disneyprivacycenter.com"
-  - "disneyredirects.com"
-  - "disneysrivieraresort.com"
-  - "disneystore.com"
-  - "disneystreaming.com"
-  - "disneysubscription.com"
-  - "disneytermsofuse.com"
-  - "disneytickets.co.uk"
-  - "disneyturkiye.com.tr"
-  - "disneytvajobs.com"
-  - "disneyworld-go.com"
-  - "dlp-media.com"
-  - "dmed.technology"
-  - "dssedge.com"
-  - "dssott.com"
-  - "dtci.co"
-  - "dtci.technology"
-  - "edgedatg.com"
-  - "espn.co.uk"
-  - "espn.com"
-  - "espn.hb.omtrdc.net"
-  - "espn.net"
-  - "espncdn.com"
-  - "espndotcom.tt.omtrdc.net"
-  - "espnqa.com"
-  - "execute-api.us-east-1.amazonaws.com"
-  - "go-disneyworldgo.com"
-  - "go.com"
-  - "hotstar-cdn.net"
-  - "hotstar-labs.com"
-  - "hotstar.com"
-  - "hotstarext.com"
-  - "hsprepack.akamaized.net"
-  - "js-agent.newrelic.com"
-  - "marvel.com"
-  - "marvel10thanniversary.com"
-  - "marveldimensionofheroes.com"
-  - "marvelparty.net"
-  - "marvelpinball.com"
-  - "marvelsdoubleagent.com"
-  - "marvelspotlightplays.com"
-  - "marvelsuperheroseptember.com"
-  - "marvelsuperwar.com"
-  - "mickey.tv"
-  - "moviesanywhere.com"
-  - "natgeomaps.com"
-  - "nationalgeographic.com"
-  - "nationalgeographicpartners.com"
-  - "ngeo.com"
-  - "nomadlandmovie.ch"
-  - "playmation.com"
-  - "shopdisney.com"
-  - "shops-disney.com"
-  - "sorcerersarena.com"
-  - "spaindisney.com"
-  - "star-brasil.com"
-  - "star-latam.com"
-  - "starott.com"
-  - "starplus.com"
-  - "starwars.com"
-  - "starwarsgalacticstarcruiser.com"
-  - "starwarskids.com"
-  - "streamingdisney.net"
-  - "themarvelexperiencetour.com"
-  - "thestationbymaker.com"
-  - "thewaltdisneycompany.com"
-  - "thisispolaris.com"
-  - "watchdisneyfe.com"
-  - "watchespn.com"
-domain_set:
-  - "cdn.registerdisney.go.com"
-user_agent_set:
-  - "Disney+*"
+rules:
+- domain_suffix:
+    match: 20thcenturystudios.com.au
+    policy: Proxy
+- domain_suffix:
+    match: 20thcenturystudios.com.br
+    policy: Proxy
+- domain_suffix:
+    match: 20thcenturystudios.jp
+    policy: Proxy
+- domain_suffix:
+    match: '404: Not Found'
+    policy: Proxy
+- domain_suffix:
+    match: abc-studios.com
+    policy: Proxy
+- domain_suffix:
+    match: abc.com
+    policy: Proxy
+- domain_suffix:
+    match: abcnews.com
+    policy: Proxy
+- domain_suffix:
+    match: abcnews.edgesuite.net
+    policy: Proxy
+- domain_suffix:
+    match: adobedtm.com
+    policy: Proxy
+- domain_suffix:
+    match: adventuresbydisney.com
+    policy: Proxy
+- domain_suffix:
+    match: babble.com
+    policy: Proxy
+- domain_suffix:
+    match: babyzone.com
+    policy: Proxy
+- domain_suffix:
+    match: bam.nr-data.net
+    policy: Proxy
+- domain_suffix:
+    match: bamgrid.com
+    policy: Proxy
+- domain_suffix:
+    match: beautyandthebeastmusical.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: braze.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn.optimizely.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn.registerdisney.go.com
+    policy: Proxy
+- domain_suffix:
+    match: conviva.com
+    policy: Proxy
+- domain_suffix:
+    match: d9.flashtalking.com
+    policy: Proxy
+- domain_suffix:
+    match: dilcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: disney-asia.com
+    policy: Proxy
+- domain_suffix:
+    match: disney-discount.com
+    policy: Proxy
+- domain_suffix:
+    match: disney-plus.net
+    policy: Proxy
+- domain_suffix:
+    match: disney-portal.my.onetrust.com
+    policy: Proxy
+- domain_suffix:
+    match: disney-studio.com
+    policy: Proxy
+- domain_suffix:
+    match: disney-studio.net
+    policy: Proxy
+- domain_suffix:
+    match: disney.asia
+    policy: Proxy
+- domain_suffix:
+    match: disney.be
+    policy: Proxy
+- domain_suffix:
+    match: disney.bg
+    policy: Proxy
+- domain_suffix:
+    match: disney.ca
+    policy: Proxy
+- domain_suffix:
+    match: disney.ch
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.il
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.jp
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.kr
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.th
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: disney.co.za
+    policy: Proxy
+- domain_suffix:
+    match: disney.com
+    policy: Proxy
+- domain_suffix:
+    match: disney.com.au
+    policy: Proxy
+- domain_suffix:
+    match: disney.com.br
+    policy: Proxy
+- domain_suffix:
+    match: disney.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: disney.com.tw
+    policy: Proxy
+- domain_suffix:
+    match: disney.cz
+    policy: Proxy
+- domain_suffix:
+    match: disney.de
+    policy: Proxy
+- domain_suffix:
+    match: disney.demdex.net
+    policy: Proxy
+- domain_suffix:
+    match: disney.dk
+    policy: Proxy
+- domain_suffix:
+    match: disney.es
+    policy: Proxy
+- domain_suffix:
+    match: disney.fi
+    policy: Proxy
+- domain_suffix:
+    match: disney.fr
+    policy: Proxy
+- domain_suffix:
+    match: disney.gr
+    policy: Proxy
+- domain_suffix:
+    match: disney.hu
+    policy: Proxy
+- domain_suffix:
+    match: disney.id
+    policy: Proxy
+- domain_suffix:
+    match: disney.in
+    policy: Proxy
+- domain_suffix:
+    match: disney.io
+    policy: Proxy
+- domain_suffix:
+    match: disney.it
+    policy: Proxy
+- domain_suffix:
+    match: disney.my
+    policy: Proxy
+- domain_suffix:
+    match: disney.my.sentry.io
+    policy: Proxy
+- domain_suffix:
+    match: disney.nl
+    policy: Proxy
+- domain_suffix:
+    match: disney.no
+    policy: Proxy
+- domain_suffix:
+    match: disney.ph
+    policy: Proxy
+- domain_suffix:
+    match: disney.pl
+    policy: Proxy
+- domain_suffix:
+    match: disney.pt
+    policy: Proxy
+- domain_suffix:
+    match: disney.ro
+    policy: Proxy
+- domain_suffix:
+    match: disney.ru
+    policy: Proxy
+- domain_suffix:
+    match: disney.se
+    policy: Proxy
+- domain_suffix:
+    match: disney.sg
+    policy: Proxy
+- domain_suffix:
+    match: disneyadsales.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyarena.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyaulani.com
+    policy: Proxy
+- domain_suffix:
+    match: disneybaby.com
+    policy: Proxy
+- domain_suffix:
+    match: disneycareers.com
+    policy: Proxy
+- domain_suffix:
+    match: disneychannelonstage.com
+    policy: Proxy
+- domain_suffix:
+    match: disneychannelroadtrip.com
+    policy: Proxy
+- domain_suffix:
+    match: disneycruisebrasil.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyenconcert.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyiejobs.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyinflight.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyinternational.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyinternationalhd.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyjunior.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyjuniortreataday.com
+    policy: Proxy
+- domain_suffix:
+    match: disneylandparis.com
+    policy: Proxy
+- domain_suffix:
+    match: disneylatino.com
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.co.il
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.co.za
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.de
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.es
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.fr
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.gen.tr
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.gr
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.it
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmoments.pl
+    policy: Proxy
+- domain_suffix:
+    match: disneymagicmomentsme.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyme.com
+    policy: Proxy
+- domain_suffix:
+    match: disneymeetingsandevents.com
+    policy: Proxy
+- domain_suffix:
+    match: disneymovieinsiders.com
+    policy: Proxy
+- domain_suffix:
+    match: disneymusicpromotion.com
+    policy: Proxy
+- domain_suffix:
+    match: disneynewseries.com
+    policy: Proxy
+- domain_suffix:
+    match: disneynow.com
+    policy: Proxy
+- domain_suffix:
+    match: disneypeoplesurveys.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyplus.bn5x.net
+    policy: Proxy
+- domain_suffix:
+    match: disneyplus.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyplus.com.ssl.sc.omtrdc.net
+    policy: Proxy
+- domain_suffix:
+    match: disneyprivacycenter.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyredirects.com
+    policy: Proxy
+- domain_suffix:
+    match: disneysrivieraresort.com
+    policy: Proxy
+- domain_suffix:
+    match: disneystore.com
+    policy: Proxy
+- domain_suffix:
+    match: disneystreaming.com
+    policy: Proxy
+- domain_suffix:
+    match: disneysubscription.com
+    policy: Proxy
+- domain_suffix:
+    match: disneytermsofuse.com
+    policy: Proxy
+- domain_suffix:
+    match: disneytickets.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: disneyturkiye.com.tr
+    policy: Proxy
+- domain_suffix:
+    match: disneytvajobs.com
+    policy: Proxy
+- domain_suffix:
+    match: disneyworld-go.com
+    policy: Proxy
+- domain_suffix:
+    match: dlp-media.com
+    policy: Proxy
+- domain_suffix:
+    match: dmed.technology
+    policy: Proxy
+- domain_suffix:
+    match: dssedge.com
+    policy: Proxy
+- domain_suffix:
+    match: dssott.com
+    policy: Proxy
+- domain_suffix:
+    match: dtci.co
+    policy: Proxy
+- domain_suffix:
+    match: dtci.technology
+    policy: Proxy
+- domain_suffix:
+    match: edgedatg.com
+    policy: Proxy
+- domain_suffix:
+    match: espn.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: espn.com
+    policy: Proxy
+- domain_suffix:
+    match: espn.hb.omtrdc.net
+    policy: Proxy
+- domain_suffix:
+    match: espn.net
+    policy: Proxy
+- domain_suffix:
+    match: espncdn.com
+    policy: Proxy
+- domain_suffix:
+    match: espndotcom.tt.omtrdc.net
+    policy: Proxy
+- domain_suffix:
+    match: espnqa.com
+    policy: Proxy
+- domain_suffix:
+    match: execute-api.us-east-1.amazonaws.com
+    policy: Proxy
+- domain_suffix:
+    match: go-disneyworldgo.com
+    policy: Proxy
+- domain_suffix:
+    match: go.com
+    policy: Proxy
+- domain_suffix:
+    match: hotstar-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: hotstar-labs.com
+    policy: Proxy
+- domain_suffix:
+    match: hotstar.com
+    policy: Proxy
+- domain_suffix:
+    match: hotstarext.com
+    policy: Proxy
+- domain_suffix:
+    match: hsprepack.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: js-agent.newrelic.com
+    policy: Proxy
+- domain_suffix:
+    match: marvel.com
+    policy: Proxy
+- domain_suffix:
+    match: marvel10thanniversary.com
+    policy: Proxy
+- domain_suffix:
+    match: marveldimensionofheroes.com
+    policy: Proxy
+- domain_suffix:
+    match: marvelparty.net
+    policy: Proxy
+- domain_suffix:
+    match: marvelpinball.com
+    policy: Proxy
+- domain_suffix:
+    match: marvelsdoubleagent.com
+    policy: Proxy
+- domain_suffix:
+    match: marvelspotlightplays.com
+    policy: Proxy
+- domain_suffix:
+    match: marvelsuperheroseptember.com
+    policy: Proxy
+- domain_suffix:
+    match: marvelsuperwar.com
+    policy: Proxy
+- domain_suffix:
+    match: mickey.tv
+    policy: Proxy
+- domain_suffix:
+    match: moviesanywhere.com
+    policy: Proxy
+- domain_suffix:
+    match: natgeomaps.com
+    policy: Proxy
+- domain_suffix:
+    match: nationalgeographic.com
+    policy: Proxy
+- domain_suffix:
+    match: nationalgeographicpartners.com
+    policy: Proxy
+- domain_suffix:
+    match: ngeo.com
+    policy: Proxy
+- domain_suffix:
+    match: nomadlandmovie.ch
+    policy: Proxy
+- domain_suffix:
+    match: playmation.com
+    policy: Proxy
+- domain_suffix:
+    match: shopdisney.com
+    policy: Proxy
+- domain_suffix:
+    match: shops-disney.com
+    policy: Proxy
+- domain_suffix:
+    match: sorcerersarena.com
+    policy: Proxy
+- domain_suffix:
+    match: spaindisney.com
+    policy: Proxy
+- domain_suffix:
+    match: star-brasil.com
+    policy: Proxy
+- domain_suffix:
+    match: star-latam.com
+    policy: Proxy
+- domain_suffix:
+    match: starott.com
+    policy: Proxy
+- domain_suffix:
+    match: starplus.com
+    policy: Proxy
+- domain_suffix:
+    match: starwars.com
+    policy: Proxy
+- domain_suffix:
+    match: starwarsgalacticstarcruiser.com
+    policy: Proxy
+- domain_suffix:
+    match: starwarskids.com
+    policy: Proxy
+- domain_suffix:
+    match: streamingdisney.net
+    policy: Proxy
+- domain_suffix:
+    match: themarvelexperiencetour.com
+    policy: Proxy
+- domain_suffix:
+    match: thestationbymaker.com
+    policy: Proxy
+- domain_suffix:
+    match: thewaltdisneycompany.com
+    policy: Proxy
+- domain_suffix:
+    match: thisispolaris.com
+    policy: Proxy
+- domain_suffix:
+    match: watchdisneyfe.com
+    policy: Proxy
+- domain_suffix:
+    match: watchespn.com
+    policy: Proxy
+- domain:
+    match: cdn.registerdisney.go.com
+    policy: Proxy

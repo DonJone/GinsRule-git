@@ -1,7 +1,7 @@
-HOST-SUFFIX,sc-cdn.net
-HOST-SUFFIX,sc-jpl.com
-HOST-SUFFIX,sc-prod.net
-HOST-SUFFIX,sc-static.net
-HOST-SUFFIX,snap.com
-HOST-SUFFIX,snapchat.com
-HOST-SUFFIX,snapkit.co
+HOST-SUFFIX,sc-cdn.net,Proxy
+HOST-SUFFIX,sc-jpl.com,Proxy
+HOST-SUFFIX,sc-prod.net,Proxy
+HOST-SUFFIX,sc-static.net,Proxy
+HOST-SUFFIX,snap.com,Proxy
+HOST-SUFFIX,snapchat.com,Proxy
+HOST-SUFFIX,snapkit.co,Proxy

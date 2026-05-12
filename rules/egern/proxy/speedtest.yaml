@@ -1,20 +1,47 @@
 # Gins-Rules: speedtest
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "cdnst.net"
-  - "cellmaps.com"
-  - "ekahau.cloud"
-  - "ekahau.com"
-  - "fast.com"
-  - "ookla.com"
-  - "ooklaserver.net"
-  - "pingtest.net"
-  - "speed.cloudflare.com"
-  - "speed.dler.io"
-  - "speedtest.co"
-  - "speedtest.net"
-  - "speedtestcustom.com"
-  - "webtest.net"
-domain_keyword_set:
-  - "speedtest"
+rules:
+- domain_suffix:
+    match: cdnst.net
+    policy: Proxy
+- domain_suffix:
+    match: cellmaps.com
+    policy: Proxy
+- domain_suffix:
+    match: ekahau.cloud
+    policy: Proxy
+- domain_suffix:
+    match: ekahau.com
+    policy: Proxy
+- domain_suffix:
+    match: fast.com
+    policy: Proxy
+- domain_suffix:
+    match: ookla.com
+    policy: Proxy
+- domain_suffix:
+    match: ooklaserver.net
+    policy: Proxy
+- domain_suffix:
+    match: pingtest.net
+    policy: Proxy
+- domain_suffix:
+    match: speed.cloudflare.com
+    policy: Proxy
+- domain_suffix:
+    match: speed.dler.io
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.co
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtestcustom.com
+    policy: Proxy
+- domain_suffix:
+    match: webtest.net
+    policy: Proxy
+- domain_keyword:
+    match: speedtest
+    policy: Proxy

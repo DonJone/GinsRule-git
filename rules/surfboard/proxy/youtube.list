@@ -1,8 +1,13 @@
+DOMAIN-SUFFIX,404: Not Found
+DOMAIN-SUFFIX,HOST-WILDCARD,youtube.*,YouTube
+DOMAIN-SUFFIX,HOST-WILDCARD,youtube.*.*,YouTube
+DOMAIN-SUFFIX,HOST-WILDCARD,youtube.com.*,YouTube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,music.youtube.com
 DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
@@ -176,6 +181,7 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,music.youtube.com
 DOMAIN,youtubei.googleapis.com

@@ -1,19 +1,47 @@
 # Gins-Rules: cn-cdn
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "75cdn.cn"
-  - "bootcdn.cn"
-  - "bspapp.com"
-  - "cdn.bootcdn.net"
-  - "cdn.bootcss.com"
-  - "cdn.npmmirror.com"
-  - "npmmirror.com"
-  - "qbox.me"
-  - "qiniu.com"
-  - "qiniucdn.com"
-  - "qiniudn.com"
-  - "registry.npmmirror.com"
-  - "staticfile.org"
-  - "ucloud.cn"
-  - "upyun.com"
+rules:
+- domain_suffix:
+    match: 75cdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: bootcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: bspapp.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn.bootcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: cdn.bootcss.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn.npmmirror.com
+    policy: Proxy
+- domain_suffix:
+    match: npmmirror.com
+    policy: Proxy
+- domain_suffix:
+    match: qbox.me
+    policy: Proxy
+- domain_suffix:
+    match: qiniu.com
+    policy: Proxy
+- domain_suffix:
+    match: qiniucdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qiniudn.com
+    policy: Proxy
+- domain_suffix:
+    match: registry.npmmirror.com
+    policy: Proxy
+- domain_suffix:
+    match: staticfile.org
+    policy: Proxy
+- domain_suffix:
+    match: ucloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: upyun.com
+    policy: Proxy

@@ -1,22 +1,53 @@
 # Gins-Rules: dropbox
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "db.tt"
-  - "dropbox-dns.com"
-  - "dropbox.com"
-  - "dropbox.tech"
-  - "dropbox.zendesk.com"
-  - "dropboxapi.com"
-  - "dropboxbusiness.com"
-  - "dropboxcaptcha.com"
-  - "dropboxforum.com"
-  - "dropboxforums.com"
-  - "dropboxinsiders.com"
-  - "dropboxmail.com"
-  - "dropboxpartners.com"
-  - "dropboxstatic.com"
-  - "dropboxusercontent.com"
-  - "getdropbox.com"
-domain_keyword_set:
-  - "dropbox"
+rules:
+- domain_suffix:
+    match: db.tt
+    policy: Proxy
+- domain_suffix:
+    match: dropbox-dns.com
+    policy: Proxy
+- domain_suffix:
+    match: dropbox.com
+    policy: Proxy
+- domain_suffix:
+    match: dropbox.tech
+    policy: Proxy
+- domain_suffix:
+    match: dropbox.zendesk.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxapi.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxbusiness.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxcaptcha.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxforum.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxforums.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxinsiders.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxmail.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxpartners.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: dropboxusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: getdropbox.com
+    policy: Proxy
+- domain_keyword:
+    match: dropbox
+    policy: Proxy

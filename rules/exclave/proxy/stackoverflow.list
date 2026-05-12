@@ -1,4 +1,4 @@
-domain:sstatic.net
-domain:stackexchange.com
-domain:stackoverflow.com
-domain:stackoverflowteams.com
++.sstatic.net
++.stackoverflowteams.com
++.stackexchange.com
++.stackoverflow.com

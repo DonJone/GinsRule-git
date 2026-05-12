@@ -1,6 +1,8 @@
 # Gins-Rules: threads
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "threads.com"
-  - "threads.net"
+rules:
+- domain_suffix:
+    match: threads.com
+    policy: Proxy
+- domain_suffix:
+    match: threads.net
+    policy: Proxy

@@ -1,4 +1,4 @@
-HOST-SUFFIX,licdn.com
-HOST-SUFFIX,linkedin.cn
-HOST-SUFFIX,linkedin.com
-HOST-SUFFIX,lnkd.in
+HOST-SUFFIX,licdn.com,Proxy
+HOST-SUFFIX,linkedin.cn,Proxy
+HOST-SUFFIX,linkedin.com,Proxy
+HOST-SUFFIX,lnkd.in,Proxy

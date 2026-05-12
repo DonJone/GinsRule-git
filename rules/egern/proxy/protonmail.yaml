@@ -1,9 +1,17 @@
 # Gins-Rules: protonmail
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "pm.me"
-  - "proton.ch"
-  - "proton.me"
-  - "protonmail.com"
-  - "protonvpn.com"
+rules:
+- domain_suffix:
+    match: pm.me
+    policy: Proxy
+- domain_suffix:
+    match: proton.ch
+    policy: Proxy
+- domain_suffix:
+    match: proton.me
+    policy: Proxy
+- domain_suffix:
+    match: protonmail.com
+    policy: Proxy
+- domain_suffix:
+    match: protonvpn.com
+    policy: Proxy

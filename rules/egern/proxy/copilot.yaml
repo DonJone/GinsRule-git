@@ -1,14 +1,29 @@
 # Gins-Rules: copilot
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "api.githubcopilot.com"
-  - "bing.com"
-  - "copilot-proxy.githubusercontent.com"
-  - "copilot-telemetry.githubusercontent.com"
-  - "copilot.github.com"
-  - "copilot.microsoft.com"
-  - "default.exp-tas.com"
-  - "githubcopilot.com"
-domain_set:
-  - "sydney.bing.com"
+rules:
+- domain_suffix:
+    match: api.githubcopilot.com
+    policy: Proxy
+- domain_suffix:
+    match: bing.com
+    policy: Proxy
+- domain_suffix:
+    match: copilot-proxy.githubusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: copilot-telemetry.githubusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: copilot.github.com
+    policy: Proxy
+- domain_suffix:
+    match: copilot.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: default.exp-tas.com
+    policy: Proxy
+- domain_suffix:
+    match: githubcopilot.com
+    policy: Proxy
+- domain:
+    match: sydney.bing.com
+    policy: Proxy

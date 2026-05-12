@@ -1,7 +1,7 @@
-domain:sc-cdn.net
-domain:sc-jpl.com
-domain:sc-prod.net
-domain:sc-static.net
-domain:snap.com
-domain:snapchat.com
-domain:snapkit.co
++.snapchat.com
++.sc-static.net
++.sc-cdn.net
++.sc-jpl.com
++.sc-prod.net
++.snapkit.co
++.snap.com

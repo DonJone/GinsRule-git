@@ -1,9 +1,17 @@
 # Gins-Rules: jd
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "360buyimg.com"
-  - "jd.cn"
-  - "jd.com"
-  - "jd.hk"
-  - "jdcloud.com"
+rules:
+- domain_suffix:
+    match: 360buyimg.com
+    policy: Proxy
+- domain_suffix:
+    match: jd.cn
+    policy: Proxy
+- domain_suffix:
+    match: jd.com
+    policy: Proxy
+- domain_suffix:
+    match: jd.hk
+    policy: Proxy
+- domain_suffix:
+    match: jdcloud.com
+    policy: Proxy

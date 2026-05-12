@@ -1,8 +1,14 @@
 # Gins-Rules: blizzard
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "battle.net"
-  - "battlenet.com"
-  - "blizzard.com"
-  - "blz-contentstack.com"
+rules:
+- domain_suffix:
+    match: battle.net
+    policy: Proxy
+- domain_suffix:
+    match: battlenet.com
+    policy: Proxy
+- domain_suffix:
+    match: blizzard.com
+    policy: Proxy
+- domain_suffix:
+    match: blz-contentstack.com
+    policy: Proxy

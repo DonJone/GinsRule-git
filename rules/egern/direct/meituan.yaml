@@ -1,8 +1,14 @@
 # Gins-Rules: meituan
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "dianping.com"
-  - "dpfile.com"
-  - "meituan.com"
-  - "meituan.net"
+rules:
+- domain_suffix:
+    match: dianping.com
+    policy: Proxy
+- domain_suffix:
+    match: dpfile.com
+    policy: Proxy
+- domain_suffix:
+    match: meituan.com
+    policy: Proxy
+- domain_suffix:
+    match: meituan.net
+    policy: Proxy

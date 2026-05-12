@@ -1,28 +1,74 @@
 # Gins-Rules: tracking
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "51.la"
-  - "adjust.com"
-  - "ads.facebook.com"
-  - "an.facebook.com"
-  - "analytics.bytedance.com"
-  - "analytics.google.com"
-  - "app-measurement.com"
-  - "appsflyer.com"
-  - "branch.io"
-  - "cnzz.com"
-  - "crash.firebase.google.com"
-  - "firebaselogging-pa.googleapis.com"
-  - "google-analytics.com"
-  - "graph.facebook.com"
-  - "growingio.com"
-  - "hm.baidu.com"
-  - "hmma.baidu.com"
-  - "pixel.facebook.com"
-  - "sensors.com"
-  - "sensorsdata.cn"
-  - "ssl.google-analytics.com"
-  - "toblog.ctobsnssdk.com"
-  - "tongji.baidu.com"
-  - "umeng.com"
+rules:
+- domain_suffix:
+    match: 51.la
+    policy: Proxy
+- domain_suffix:
+    match: adjust.com
+    policy: Proxy
+- domain_suffix:
+    match: ads.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: an.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: analytics.bytedance.com
+    policy: Proxy
+- domain_suffix:
+    match: analytics.google.com
+    policy: Proxy
+- domain_suffix:
+    match: app-measurement.com
+    policy: Proxy
+- domain_suffix:
+    match: appsflyer.com
+    policy: Proxy
+- domain_suffix:
+    match: branch.io
+    policy: Proxy
+- domain_suffix:
+    match: cnzz.com
+    policy: Proxy
+- domain_suffix:
+    match: crash.firebase.google.com
+    policy: Proxy
+- domain_suffix:
+    match: firebaselogging-pa.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: google-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: graph.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: growingio.com
+    policy: Proxy
+- domain_suffix:
+    match: hm.baidu.com
+    policy: Proxy
+- domain_suffix:
+    match: hmma.baidu.com
+    policy: Proxy
+- domain_suffix:
+    match: pixel.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: sensors.com
+    policy: Proxy
+- domain_suffix:
+    match: sensorsdata.cn
+    policy: Proxy
+- domain_suffix:
+    match: ssl.google-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: toblog.ctobsnssdk.com
+    policy: Proxy
+- domain_suffix:
+    match: tongji.baidu.com
+    policy: Proxy
+- domain_suffix:
+    match: umeng.com
+    policy: Proxy

@@ -1,5 +1,5 @@
 # Gins-Rules: redbook
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "edith.xiaohongshu.com"
+rules:
+- domain_suffix:
+    match: edith.xiaohongshu.com
+    policy: Proxy

@@ -1,8 +1,14 @@
 # Gins-Rules: primevideo
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "aiv-cdn.net"
-  - "amazonvideo.com"
-  - "atv-ps.amazon.com"
-  - "primevideo.com"
+rules:
+- domain_suffix:
+    match: aiv-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: amazonvideo.com
+    policy: Proxy
+- domain_suffix:
+    match: atv-ps.amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.com
+    policy: Proxy

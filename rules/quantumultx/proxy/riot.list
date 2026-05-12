@@ -1,3 +1,3 @@
-HOST-SUFFIX,leagueoflegends.com
-HOST-SUFFIX,riotcdn.net
-HOST-SUFFIX,riotgames.com
+HOST-SUFFIX,leagueoflegends.com,Proxy
+HOST-SUFFIX,riotcdn.net,Proxy
+HOST-SUFFIX,riotgames.com,Proxy

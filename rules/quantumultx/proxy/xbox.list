@@ -1,3 +1,3 @@
-HOST-SUFFIX,xbox.com
-HOST-SUFFIX,xboxlive.com
-HOST-SUFFIX,xboxservices.com
+HOST-SUFFIX,xbox.com,Proxy
+HOST-SUFFIX,xboxlive.com,Proxy
+HOST-SUFFIX,xboxservices.com,Proxy

@@ -1,45 +1,7693 @@
 # Gins-Rules: tencent
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "docs.qq.com"
-  - "foxmail.com"
-  - "game.qq.com"
-  - "gtimg.cn"
-  - "gtimg.com"
-  - "idqqimg.com"
-  - "igamecj.com"
-  - "im.qq.com"
-  - "kg.qq.com"
-  - "mail.qq.com"
-  - "myapp.com"
-  - "myqcloud.com"
-  - "qcloud.com"
-  - "qcloudimg.com"
-  - "qlogo.cn"
-  - "qpic.cn"
-  - "qq.com"
-  - "qqmail.com"
-  - "qqurl.com"
-  - "qzone.qq.com"
-  - "servicewechat.com"
-  - "smtcdns.com"
-  - "smtcdns.net"
-  - "soso.com"
-  - "tencent-cloud.net"
-  - "tencent.com"
-  - "tencentmind.com"
-  - "tenpay.com"
-  - "v.qq.com"
-  - "v.smtcdns.com"
-  - "video.qq.com"
-  - "wechat.com"
-  - "wechatlegal.net"
-  - "wechatpay.com"
-  - "weixin.com"
-  - "weixin.qq.com"
-  - "weixinbridge.com"
-  - "weixinsxy.com"
-  - "weiyun.com"
-  - "wxapp.tc.qq.com"
-  - "y.qq.com"
+rules:
+- domain_suffix:
+    match: 001dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 002dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 003dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 004dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 005dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 006dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 007dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 007url.cn
+    policy: Proxy
+- domain_suffix:
+    match: 008dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 009dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 011dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 012dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 013dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 014dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 015dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 016dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 017dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 018dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 019dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 020dl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 1010gamer.com
+    policy: Proxy
+- domain_suffix:
+    match: 1700.cn
+    policy: Proxy
+- domain_suffix:
+    match: 17look.com
+    policy: Proxy
+- domain_suffix:
+    match: 17roco.com
+    policy: Proxy
+- domain_suffix:
+    match: 1browser.net
+    policy: Proxy
+- domain_suffix:
+    match: 2sos.cn
+    policy: Proxy
+- domain_suffix:
+    match: 31i9ti.com
+    policy: Proxy
+- domain_suffix:
+    match: '404: Not Found'
+    policy: Proxy
+- domain_suffix:
+    match: 4short.cn
+    policy: Proxy
+- domain_suffix:
+    match: 4surl.cn
+    policy: Proxy
+- domain_suffix:
+    match: 51poweron.com
+    policy: Proxy
+- domain_suffix:
+    match: 6tktrd.com
+    policy: Proxy
+- domain_suffix:
+    match: 700chat.com
+    policy: Proxy
+- domain_suffix:
+    match: 7888.com
+    policy: Proxy
+- domain_suffix:
+    match: 7grandcross.com
+    policy: Proxy
+- domain_suffix:
+    match: 91facts.com
+    policy: Proxy
+- domain_suffix:
+    match: 9uma.cn
+    policy: Proxy
+- domain_suffix:
+    match: abetterchoice.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.com
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.net
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.org
+    policy: Proxy
+- domain_suffix:
+    match: accessibility-union.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.com
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.net
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.org
+    policy: Proxy
+- domain_suffix:
+    match: accessibilityunion.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: acclb.com
+    policy: Proxy
+- domain_suffix:
+    match: acclb.net
+    policy: Proxy
+- domain_suffix:
+    match: acctdns.com
+    policy: Proxy
+- domain_suffix:
+    match: acctdns.net
+    policy: Proxy
+- domain_suffix:
+    match: acimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: addpcn.com
+    policy: Proxy
+- domain_suffix:
+    match: adshonor.net
+    policy: Proxy
+- domain_suffix:
+    match: agcloudcs.com
+    policy: Proxy
+- domain_suffix:
+    match: agpolis.com
+    policy: Proxy
+- domain_suffix:
+    match: aigclsp.com
+    policy: Proxy
+- domain_suffix:
+    match: aitangyou.com
+    policy: Proxy
+- domain_suffix:
+    match: aitransfy.com
+    policy: Proxy
+- domain_suffix:
+    match: aizools.com
+    policy: Proxy
+- domain_suffix:
+    match: aka700.com
+    policy: Proxy
+- domain_suffix:
+    match: aka700.net
+    policy: Proxy
+- domain_suffix:
+    match: alloyteam.com
+    policy: Proxy
+- domain_suffix:
+    match: ams-aigc.com
+    policy: Proxy
+- domain_suffix:
+    match: animate.art
+    policy: Proxy
+- domain_suffix:
+    match: anticheatexpert.com
+    policy: Proxy
+- domain_suffix:
+    match: anxin.link
+    policy: Proxy
+- domain_suffix:
+    match: aoxingrelang.com
+    policy: Proxy
+- domain_suffix:
+    match: apaas-zone-test.com
+    policy: Proxy
+- domain_suffix:
+    match: apcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: apcdns.net
+    policy: Proxy
+- domain_suffix:
+    match: apd-pcdnwxlogin.teg.tencent-cloud.net
+    policy: Proxy
+- domain_suffix:
+    match: apdcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: apdcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: api-vod-qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: apigateway.info
+    policy: Proxy
+- domain_suffix:
+    match: apigwtencent.com
+    policy: Proxy
+- domain_suffix:
+    match: aqtwpc.com
+    policy: Proxy
+- domain_suffix:
+    match: aqtwwxemail.com
+    policy: Proxy
+- domain_suffix:
+    match: aquaterra.cn
+    policy: Proxy
+- domain_suffix:
+    match: aquaterra.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: aquaterramail.com
+    policy: Proxy
+- domain_suffix:
+    match: arenabreakoutcn.com
+    policy: Proxy
+- domain_suffix:
+    match: armaf.org
+    policy: Proxy
+- domain_suffix:
+    match: arthubdam.com
+    policy: Proxy
+- domain_suffix:
+    match: ating.info
+    policy: Proxy
+- domain_suffix:
+    match: autodnsv1.com
+    policy: Proxy
+- domain_suffix:
+    match: autodnsv1.net
+    policy: Proxy
+- domain_suffix:
+    match: autolabautobus.cn
+    policy: Proxy
+- domain_suffix:
+    match: backupdesktopcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: battlecare.net
+    policy: Proxy
+- domain_suffix:
+    match: bcfmglobal.com
+    policy: Proxy
+- domain_suffix:
+    match: behaviac.com
+    policy: Proxy
+- domain_suffix:
+    match: bgrwgglz.com
+    policy: Proxy
+- domain_suffix:
+    match: binaryai.cn
+    policy: Proxy
+- domain_suffix:
+    match: binaryai.net
+    policy: Proxy
+- domain_suffix:
+    match: binaryai.tech
+    policy: Proxy
+- domain_suffix:
+    match: bitosscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: bj-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: bj-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: bj-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: bj-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: bjjr-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: bjjr-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: bjjr-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: bjjr-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: bjxingzheng.com
+    policy: Proxy
+- domain_suffix:
+    match: bk-cdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: bkapigw.com
+    policy: Proxy
+- domain_suffix:
+    match: bkapps.com
+    policy: Proxy
+- domain_suffix:
+    match: bkcloud.cc
+    policy: Proxy
+- domain_suffix:
+    match: bkclouds.cc
+    policy: Proxy
+- domain_suffix:
+    match: bkcode.net
+    policy: Proxy
+- domain_suffix:
+    match: bktencent.com
+    policy: Proxy
+- domain_suffix:
+    match: boodo.com
+    policy: Proxy
+- domain_suffix:
+    match: boombeach.cn
+    policy: Proxy
+- domain_suffix:
+    match: box-anchor.com
+    policy: Proxy
+- domain_suffix:
+    match: bqqpx.com
+    policy: Proxy
+- domain_suffix:
+    match: brawlstars.cn
+    policy: Proxy
+- domain_suffix:
+    match: btrace.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: build9s.io
+    policy: Proxy
+- domain_suffix:
+    match: building9s.io
+    policy: Proxy
+- domain_suffix:
+    match: businessinchina.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: byodonline.com
+    policy: Proxy
+- domain_suffix:
+    match: c1channel.com
+    policy: Proxy
+- domain_suffix:
+    match: ca-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: ca-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: ca-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: ca-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: calatopia.com
+    policy: Proxy
+- domain_suffix:
+    match: carbonxprogram.com
+    policy: Proxy
+- domain_suffix:
+    match: cd-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: cd-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: cd-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: cd-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: cdn-go.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdn2-go.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdndoctor.com
+    policy: Proxy
+- domain_suffix:
+    match: cdngot.com
+    policy: Proxy
+- domain_suffix:
+    match: cdnoutcheck.com
+    policy: Proxy
+- domain_suffix:
+    match: cdntip.com
+    policy: Proxy
+- domain_suffix:
+    match: cdntipbak.com
+    policy: Proxy
+- domain_suffix:
+    match: cdntips.com
+    policy: Proxy
+- domain_suffix:
+    match: cdntips.net
+    policy: Proxy
+- domain_suffix:
+    match: cdnv1.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdnv2.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdnv3.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdnv4-go.cn
+    policy: Proxy
+- domain_suffix:
+    match: cemodule.com
+    policy: Proxy
+- domain_suffix:
+    match: cemsurveys.com
+    policy: Proxy
+- domain_suffix:
+    match: cemsurveys.net
+    policy: Proxy
+- domain_suffix:
+    match: cfmeutencent.com
+    policy: Proxy
+- domain_suffix:
+    match: cfmna-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: cfmseatencent.com
+    policy: Proxy
+- domain_suffix:
+    match: cfogc.com
+    policy: Proxy
+- domain_suffix:
+    match: cfogc.net
+    policy: Proxy
+- domain_suffix:
+    match: cgoec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: cgoec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: cgoec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: cgoec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: chinatechie.cn
+    policy: Proxy
+- domain_suffix:
+    match: chinatechie.com
+    policy: Proxy
+- domain_suffix:
+    match: chinatechie.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: chinatechie.net
+    policy: Proxy
+- domain_suffix:
+    match: chinatechinsights.com
+    policy: Proxy
+- domain_suffix:
+    match: chuhai.group
+    policy: Proxy
+- domain_suffix:
+    match: clashminigame.cn
+    policy: Proxy
+- domain_suffix:
+    match: clashofclans.cn
+    policy: Proxy
+- domain_suffix:
+    match: clashroyale.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloud-industry-delivery.site
+    policy: Proxy
+- domain_suffix:
+    match: cloud-rtc.com
+    policy: Proxy
+- domain_suffix:
+    match: cloud-rtc.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudacc1.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudacc1.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudbase.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudbase.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudbase.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudcdnv1.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudidaas.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudmarket-apigw.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudpages.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudsec1.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudsec1.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudses.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudsesbk.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudsesbk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cloudsite.vip
+    policy: Proxy
+- domain_suffix:
+    match: cloudstudio-app.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudstudio.club
+    policy: Proxy
+- domain_suffix:
+    match: cloudstudio.run
+    policy: Proxy
+- domain_suffix:
+    match: cloudstudio.work
+    policy: Proxy
+- domain_suffix:
+    match: clsshare.cn
+    policy: Proxy
+- domain_suffix:
+    match: clsshare.com
+    policy: Proxy
+- domain_suffix:
+    match: clsshare.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cmfu.com
+    policy: Proxy
+- domain_suffix:
+    match: cmgdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: cmgdb.com
+    policy: Proxy
+- domain_suffix:
+    match: cmgdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cnb.cool
+    policy: Proxy
+- domain_suffix:
+    match: cnb.run
+    policy: Proxy
+- domain_suffix:
+    match: cnb.space
+    policy: Proxy
+- domain_suffix:
+    match: cncqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: cocdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: codebuddy.info
+    policy: Proxy
+- domain_suffix:
+    match: codebuddy.net
+    policy: Proxy
+- domain_suffix:
+    match: codebuddy.pro
+    policy: Proxy
+- domain_suffix:
+    match: codebuddy.work
+    policy: Proxy
+- domain_suffix:
+    match: codehub.cn
+    policy: Proxy
+- domain_suffix:
+    match: codeweixin.com
+    policy: Proxy
+- domain_suffix:
+    match: coding-io.com
+    policy: Proxy
+- domain_suffix:
+    match: coding-newsletter.com
+    policy: Proxy
+- domain_suffix:
+    match: coding.love
+    policy: Proxy
+- domain_suffix:
+    match: coding.me
+    policy: Proxy
+- domain_suffix:
+    match: coding.net
+    policy: Proxy
+- domain_suffix:
+    match: codingcorp.net
+    policy: Proxy
+- domain_suffix:
+    match: codm.com
+    policy: Proxy
+- domain_suffix:
+    match: cofile.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cofile.net
+    policy: Proxy
+- domain_suffix:
+    match: cofile.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: computeinit.com
+    policy: Proxy
+- domain_suffix:
+    match: comsenz.com
+    policy: Proxy
+- domain_suffix:
+    match: coolsite.vip
+    policy: Proxy
+- domain_suffix:
+    match: cosdnsresolve-wxzf.com
+    policy: Proxy
+- domain_suffix:
+    match: cosdnsresolve.com
+    policy: Proxy
+- domain_suffix:
+    match: cq-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: cq-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: cq-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: cq-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: crmpower.cn
+    policy: Proxy
+- domain_suffix:
+    match: cross-zone.com
+    policy: Proxy
+- domain_suffix:
+    match: crtrcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: crystalskeleton.com
+    policy: Proxy
+- domain_suffix:
+    match: csec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: csec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: csec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: csec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: ctgia.com
+    policy: Proxy
+- domain_suffix:
+    match: cunhao.net
+    policy: Proxy
+- domain_suffix:
+    match: cunistatic.cn
+    policy: Proxy
+- domain_suffix:
+    match: cxyfjd.com
+    policy: Proxy
+- domain_suffix:
+    match: dafenghk.cn
+    policy: Proxy
+- domain_suffix:
+    match: dafenghk.com
+    policy: Proxy
+- domain_suffix:
+    match: dafenghk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dafenghk.hk.cn
+    policy: Proxy
+- domain_suffix:
+    match: dafenghk.net
+    policy: Proxy
+- domain_suffix:
+    match: dashenw.cn
+    policy: Proxy
+- domain_suffix:
+    match: dashenw.com
+    policy: Proxy
+- domain_suffix:
+    match: daxuepc.com
+    policy: Proxy
+- domain_suffix:
+    match: dayucdntip.com
+    policy: Proxy
+- domain_suffix:
+    match: dayugf.com
+    policy: Proxy
+- domain_suffix:
+    match: dayugslb.cn
+    policy: Proxy
+- domain_suffix:
+    match: dayugslb.com
+    policy: Proxy
+- domain_suffix:
+    match: dayulego.com
+    policy: Proxy
+- domain_suffix:
+    match: dayulegobak.com
+    policy: Proxy
+- domain_suffix:
+    match: dbmeta.net
+    policy: Proxy
+- domain_suffix:
+    match: dcloudlive.com
+    policy: Proxy
+- domain_suffix:
+    match: dcloudlive.net
+    policy: Proxy
+- domain_suffix:
+    match: dcloudsp.com
+    policy: Proxy
+- domain_suffix:
+    match: dcloudsp.net
+    policy: Proxy
+- domain_suffix:
+    match: dcloudstc.com
+    policy: Proxy
+- domain_suffix:
+    match: dcloudstc.net
+    policy: Proxy
+- domain_suffix:
+    match: dcloudvod.com
+    policy: Proxy
+- domain_suffix:
+    match: dcloudvod.net
+    policy: Proxy
+- domain_suffix:
+    match: de-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: de-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: de-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: de-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: deltaverse.cn
+    policy: Proxy
+- domain_suffix:
+    match: deltaverse.net
+    policy: Proxy
+- domain_suffix:
+    match: devcopilot.cn
+    policy: Proxy
+- domain_suffix:
+    match: developwechat.com
+    policy: Proxy
+- domain_suffix:
+    match: developweixin.com
+    policy: Proxy
+- domain_suffix:
+    match: devweixin.com
+    policy: Proxy
+- domain_suffix:
+    match: dgs-td2.com
+    policy: Proxy
+- domain_suffix:
+    match: dh5a.com
+    policy: Proxy
+- domain_suffix:
+    match: discuz.chat
+    policy: Proxy
+- domain_suffix:
+    match: discuz.com
+    policy: Proxy
+- domain_suffix:
+    match: discuz.net
+    policy: Proxy
+- domain_suffix:
+    match: discuz.org
+    policy: Proxy
+- domain_suffix:
+    match: dl.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: dldir1.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: dllzff.cn
+    policy: Proxy
+- domain_suffix:
+    match: dns.pub
+    policy: Proxy
+- domain_suffix:
+    match: dnsapi.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse0.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse0.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse0.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse1.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse1.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse1.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse2.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse2.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse2.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse3.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse3.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse3.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse4.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse4.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse4.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse5.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnse5.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse5.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse6.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse6.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse7.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse7.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse8.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse8.net
+    policy: Proxy
+- domain_suffix:
+    match: dnse9.com
+    policy: Proxy
+- domain_suffix:
+    match: dnse9.net
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe1.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe2.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe3.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe4.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe5.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsoe6.com
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.com
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.mobi
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.net
+    policy: Proxy
+- domain_suffix:
+    match: dnspod.org
+    policy: Proxy
+- domain_suffix:
+    match: dnstest.vip
+    policy: Proxy
+- domain_suffix:
+    match: dnsv1.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv10.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv11.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv12.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv2.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv20.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv3.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv4.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv5.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsv6.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv7.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv8.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsv9.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv1.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv1.net
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv2.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv2.net
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv3.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv3.net
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv4.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv4.net
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv5.com
+    policy: Proxy
+- domain_suffix:
+    match: dnsxv5.net
+    policy: Proxy
+- domain_suffix:
+    match: docs.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: doh.pub
+    policy: Proxy
+- domain_suffix:
+    match: dothework.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyu.com
+    policy: Proxy
+- domain_suffix:
+    match: douyu.tv
+    policy: Proxy
+- domain_suffix:
+    match: douyuba.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyucdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyucdn2.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyupcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyuscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: douyutv.com
+    policy: Proxy
+- domain_suffix:
+    match: doyonoc.com
+    policy: Proxy
+- domain_suffix:
+    match: drm-lic-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: dyinglightcommunity.cn
+    policy: Proxy
+- domain_suffix:
+    match: dyspcdntip.com
+    policy: Proxy
+- domain_suffix:
+    match: e-jitp-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: e-jitp-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: e-jitp-glo.com
+    policy: Proxy
+- domain_suffix:
+    match: e-jitp-glo.net
+    policy: Proxy
+- domain_suffix:
+    match: easyfunfun.com
+    policy: Proxy
+- domain_suffix:
+    match: econtactsplus.com
+    policy: Proxy
+- domain_suffix:
+    match: ectencent.cn
+    policy: Proxy
+- domain_suffix:
+    match: ectencent.com
+    policy: Proxy
+- domain_suffix:
+    match: ectencent.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: edgeone-ai-dev.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeone-ai.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeone-browser-rendering-dev.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeone-browser-rendering.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeone.cool
+    policy: Proxy
+- domain_suffix:
+    match: edgeone.run
+    policy: Proxy
+- domain_suffix:
+    match: edgeone.site
+    policy: Proxy
+- domain_suffix:
+    match: edgeonedl1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonedl1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonedy1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonedy1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonestic1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonestic1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonetcp1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonetcp1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev2.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev2.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev3.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev3.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev4.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev4.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev5.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonev5.net
+    policy: Proxy
+- domain_suffix:
+    match: edgeonevod1.com
+    policy: Proxy
+- domain_suffix:
+    match: edgeonevod1.net
+    policy: Proxy
+- domain_suffix:
+    match: edgep.net
+    policy: Proxy
+- domain_suffix:
+    match: edgesrv.com
+    policy: Proxy
+- domain_suffix:
+    match: edulivevideo.com
+    policy: Proxy
+- domain_suffix:
+    match: eedzvv.com
+    policy: Proxy
+- domain_suffix:
+    match: embed-cloudstudio.net
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions.cn
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions1.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions2.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions3.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions4.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions5.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions6.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions7.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions8.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-edgefunctions9.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-preview.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-shieldspace.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod1.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod2.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod3.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod4.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vod5.com
+    policy: Proxy
+- domain_suffix:
+    match: eo-vpcgw.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacc2.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacme-dev.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacme0.cn
+    policy: Proxy
+- domain_suffix:
+    match: eoacme0.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacme1.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacme2.com
+    policy: Proxy
+- domain_suffix:
+    match: eoacme3.com
+    policy: Proxy
+- domain_suffix:
+    match: eofreqctrl.com
+    policy: Proxy
+- domain_suffix:
+    match: eofreqctrlbk.com
+    policy: Proxy
+- domain_suffix:
+    match: eogamewechat.com
+    policy: Proxy
+- domain_suffix:
+    match: eovod.com
+    policy: Proxy
+- domain_suffix:
+    match: epeo.net
+    policy: Proxy
+- domain_suffix:
+    match: esports-console.com
+    policy: Proxy
+- domain_suffix:
+    match: esportsreg.cn
+    policy: Proxy
+- domain_suffix:
+    match: esportsreg.com
+    policy: Proxy
+- domain_suffix:
+    match: essurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: essurl.com
+    policy: Proxy
+- domain_suffix:
+    match: ettdns.com
+    policy: Proxy
+- domain_suffix:
+    match: ettdns.net
+    policy: Proxy
+- domain_suffix:
+    match: ettdnsv.com
+    policy: Proxy
+- domain_suffix:
+    match: ettdnsv.net
+    policy: Proxy
+- domain_suffix:
+    match: events.pub
+    policy: Proxy
+- domain_suffix:
+    match: exmailgz.com
+    policy: Proxy
+- domain_suffix:
+    match: extqq.com
+    policy: Proxy
+- domain_suffix:
+    match: eyaodev.xyz
+    policy: Proxy
+- domain_suffix:
+    match: fatfreader.com
+    policy: Proxy
+- domain_suffix:
+    match: feie.work
+    policy: Proxy
+- domain_suffix:
+    match: ffbuddy.com
+    policy: Proxy
+- domain_suffix:
+    match: fhzggame.com
+    policy: Proxy
+- domain_suffix:
+    match: financetcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: financetcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: fitgroup.com
+    policy: Proxy
+- domain_suffix:
+    match: flzhan.cn
+    policy: Proxy
+- domain_suffix:
+    match: flzhan.com
+    policy: Proxy
+- domain_suffix:
+    match: forceclouds.com
+    policy: Proxy
+- domain_suffix:
+    match: foxmail.com
+    policy: Proxy
+- domain_suffix:
+    match: foxmail.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: fsight.ai
+    policy: Proxy
+- domain_suffix:
+    match: fsight.cn
+    policy: Proxy
+- domain_suffix:
+    match: fsight.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: fsight.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: fsightai.com
+    policy: Proxy
+- domain_suffix:
+    match: fsllq.com
+    policy: Proxy
+- domain_suffix:
+    match: fsllq.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: fsphere.cn
+    policy: Proxy
+- domain_suffix:
+    match: fusure.com
+    policy: Proxy
+- domain_suffix:
+    match: fusureum.com
+    policy: Proxy
+- domain_suffix:
+    match: futurenetlab.com
+    policy: Proxy
+- domain_suffix:
+    match: fyab.net
+    policy: Proxy
+- domain_suffix:
+    match: fyak.net
+    policy: Proxy
+- domain_suffix:
+    match: fyal.net
+    policy: Proxy
+- domain_suffix:
+    match: fyan.net
+    policy: Proxy
+- domain_suffix:
+    match: fyat.net
+    policy: Proxy
+- domain_suffix:
+    match: fyau.net
+    policy: Proxy
+- domain_suffix:
+    match: fyaw.net
+    policy: Proxy
+- domain_suffix:
+    match: fyec.net
+    policy: Proxy
+- domain_suffix:
+    match: fyeds.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds0.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds1.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds2.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds3.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds4.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds5.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds6.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds7.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds8.com
+    policy: Proxy
+- domain_suffix:
+    match: fyeds9.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall0.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall1.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall2.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall3.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall4.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall5.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall6.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall7.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall8.com
+    policy: Proxy
+- domain_suffix:
+    match: fymall9.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa0.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa1.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa2.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa3.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa4.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa5.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa6.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa7.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa8.com
+    policy: Proxy
+- domain_suffix:
+    match: fymallqa9.com
+    policy: Proxy
+- domain_suffix:
+    match: fynb.net
+    policy: Proxy
+- domain_suffix:
+    match: fypage.cn
+    policy: Proxy
+- domain_suffix:
+    match: fypage.com
+    policy: Proxy
+- domain_suffix:
+    match: fypage.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: fypt.net
+    policy: Proxy
+- domain_suffix:
+    match: fzec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: fzec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: fzec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: fzec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: g-proxy.com
+    policy: Proxy
+- domain_suffix:
+    match: g0wx.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc001.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc002.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc003.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc004.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc005.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc006.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc007.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc008.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc009.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc010.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc011.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc012.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc013.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc014.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc015.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc016.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc017.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc018.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc019.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc020.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc021.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc022.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc023.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc024.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc025.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc026.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc027.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc028.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc029.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapacc030.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapdns.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: gaapqcloud.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapqcloudbackup01.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapqcloudbackup02.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaapqcloudbackup03.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaaptest.com
+    policy: Proxy
+- domain_suffix:
+    match: galileo.work
+    policy: Proxy
+- domain_suffix:
+    match: galileosight.cn
+    policy: Proxy
+- domain_suffix:
+    match: galiosight.cn
+    policy: Proxy
+- domain_suffix:
+    match: game.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: gamebonfire.com
+    policy: Proxy
+- domain_suffix:
+    match: gamegocenter.cn
+    policy: Proxy
+- domain_suffix:
+    match: gamegocenter.com
+    policy: Proxy
+- domain_suffix:
+    match: gamegocenter.net
+    policy: Proxy
+- domain_suffix:
+    match: gameitop.com
+    policy: Proxy
+- domain_suffix:
+    match: gameloop.com
+    policy: Proxy
+- domain_suffix:
+    match: gameloop.fun
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud.net
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud1.com
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloud2.com
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloudbackup.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloudbackup.com
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloudbackup.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gaqcloudbackup.net
+    policy: Proxy
+- domain_suffix:
+    match: gautomator.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudcs.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudcstest.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudcstestonly.com
+    policy: Proxy
+- domain_suffix:
+    match: gclouddolphin.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudgbs.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudsdk.com
+    policy: Proxy
+- domain_suffix:
+    match: gcloudsvcs.com
+    policy: Proxy
+- domain_suffix:
+    match: gdtadx.com
+    policy: Proxy
+- domain_suffix:
+    match: gdtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: geekpwn.com
+    policy: Proxy
+- domain_suffix:
+    match: gitdrone.cn
+    policy: Proxy
+- domain_suffix:
+    match: globaltenpay.cn
+    policy: Proxy
+- domain_suffix:
+    match: globaltenpay.com
+    policy: Proxy
+- domain_suffix:
+    match: gmedev.cn
+    policy: Proxy
+- domain_suffix:
+    match: gmertc.com
+    policy: Proxy
+- domain_suffix:
+    match: gongyi.net
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.cn
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.com
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.mobi
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.net
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: goto-game.org
+    policy: Proxy
+- domain_suffix:
+    match: gotolink.net
+    policy: Proxy
+- domain_suffix:
+    match: govqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: govtcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: gqqsm.com
+    policy: Proxy
+- domain_suffix:
+    match: grouppic.cn
+    policy: Proxy
+- domain_suffix:
+    match: gsadds.com
+    policy: Proxy
+- domain_suffix:
+    match: gslbauto.com
+    policy: Proxy
+- domain_suffix:
+    match: gtgres.com
+    policy: Proxy
+- domain_suffix:
+    match: gtimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: gtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: gtimg.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: gtm.pub
+    policy: Proxy
+- domain_suffix:
+    match: guguyuyin.com
+    policy: Proxy
+- domain_suffix:
+    match: guichuideng.com
+    policy: Proxy
+- domain_suffix:
+    match: gz-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: gz-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: gz-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: gz-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: gzlwycft-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: gzlwycft-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: gzlwycft-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: gzlwycft-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: gzopen-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: gzopen-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: gzopen-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: gzopen-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: gzwxzf-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: gzwxzf-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: gzwxzf-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: gzwxzf-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: hacker5t2ohub.com
+    policy: Proxy
+- domain_suffix:
+    match: haihub.cn
+    policy: Proxy
+- domain_suffix:
+    match: haihub.co
+    policy: Proxy
+- domain_suffix:
+    match: haina.com
+    policy: Proxy
+- domain_suffix:
+    match: haina.net
+    policy: Proxy
+- domain_suffix:
+    match: haiwaioo.com
+    policy: Proxy
+- domain_suffix:
+    match: hayday-game.cn
+    policy: Proxy
+- domain_suffix:
+    match: haydaypop.cn
+    policy: Proxy
+- domain_suffix:
+    match: helixapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: helmicro.com
+    policy: Proxy
+- domain_suffix:
+    match: heyyo.com
+    policy: Proxy
+- domain_suffix:
+    match: hfeec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: hfeec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: hfeec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: hfeec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: hgyrnk.com
+    policy: Proxy
+- domain_suffix:
+    match: himoral.com
+    policy: Proxy
+- domain_suffix:
+    match: himoral.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: himorale.com
+    policy: Proxy
+- domain_suffix:
+    match: hk-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: hk-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: hk-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: hk-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: hkgcloudcs.com
+    policy: Proxy
+- domain_suffix:
+    match: hongxiu.com
+    policy: Proxy
+- domain_suffix:
+    match: hostacc.net
+    policy: Proxy
+- domain_suffix:
+    match: hostacc1.com
+    policy: Proxy
+- domain_suffix:
+    match: hostacc2.com
+    policy: Proxy
+- domain_suffix:
+    match: hr-welink.com
+    policy: Proxy
+- domain_suffix:
+    match: hrcwelink.com
+    policy: Proxy
+- domain_suffix:
+    match: html5mark.com
+    policy: Proxy
+- domain_suffix:
+    match: huajiangai.com
+    policy: Proxy
+- domain_suffix:
+    match: huamengxiaoshuo.com
+    policy: Proxy
+- domain_suffix:
+    match: huya.com
+    policy: Proxy
+- domain_suffix:
+    match: huyagame.cn
+    policy: Proxy
+- domain_suffix:
+    match: huyaos.com
+    policy: Proxy
+- domain_suffix:
+    match: hzec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: hzec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: hzec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: hzec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: iamvloger.com
+    policy: Proxy
+- domain_suffix:
+    match: iamvlogger.com
+    policy: Proxy
+- domain_suffix:
+    match: icpenguin.com
+    policy: Proxy
+- domain_suffix:
+    match: icpenguin.net
+    policy: Proxy
+- domain_suffix:
+    match: idcgcloudcs.com
+    policy: Proxy
+- domain_suffix:
+    match: idqqimg.com
+    policy: Proxy
+- domain_suffix:
+    match: iemiq.com
+    policy: Proxy
+- domain_suffix:
+    match: ifjqq.com
+    policy: Proxy
+- domain_suffix:
+    match: igamecj.com
+    policy: Proxy
+- domain_suffix:
+    match: igcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: ign.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: igtm-meeting-tencent.cn
+    policy: Proxy
+- domain_suffix:
+    match: igtm-meeting-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: igtm-yuanbao.cn
+    policy: Proxy
+- domain_suffix:
+    match: igtm-yuanbao.com
+    policy: Proxy
+- domain_suffix:
+    match: igtm.pub
+    policy: Proxy
+- domain_suffix:
+    match: ihappystudio.cn
+    policy: Proxy
+- domain_suffix:
+    match: ihappystudio.com
+    policy: Proxy
+- domain_suffix:
+    match: ihappystudio.net
+    policy: Proxy
+- domain_suffix:
+    match: ijkxt.com
+    policy: Proxy
+- domain_suffix:
+    match: ilcweloc.com
+    policy: Proxy
+- domain_suffix:
+    match: im.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: imagefuture101.com
+    policy: Proxy
+- domain_suffix:
+    match: imcq.net
+    policy: Proxy
+- domain_suffix:
+    match: imlianpu.com
+    policy: Proxy
+- domain_suffix:
+    match: imok.net
+    policy: Proxy
+- domain_suffix:
+    match: imqq.cn
+    policy: Proxy
+- domain_suffix:
+    match: imqq.com
+    policy: Proxy
+- domain_suffix:
+    match: imqq.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: imqq.net
+    policy: Proxy
+- domain_suffix:
+    match: imqq.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: imqq.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: imweb.io
+    policy: Proxy
+- domain_suffix:
+    match: in-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: in-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: in-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: in-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: in.th
+    policy: Proxy
+- domain_suffix:
+    match: incentivepower.cn
+    policy: Proxy
+- domain_suffix:
+    match: industryai.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: insightpower.cn
+    policy: Proxy
+- domain_suffix:
+    match: intencent.com
+    policy: Proxy
+- domain_suffix:
+    match: intlgame.cn
+    policy: Proxy
+- domain_suffix:
+    match: ioasaas.com
+    policy: Proxy
+- domain_suffix:
+    match: iot-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: iqmie.com
+    policy: Proxy
+- domain_suffix:
+    match: isa0.cn
+    policy: Proxy
+- domain_suffix:
+    match: isd.com
+    policy: Proxy
+- domain_suffix:
+    match: ispqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: itddo2page.com
+    policy: Proxy
+- domain_suffix:
+    match: itopplay.com
+    policy: Proxy
+- domain_suffix:
+    match: itopsdk.com
+    policy: Proxy
+- domain_suffix:
+    match: ivweb.io
+    policy: Proxy
+- domain_suffix:
+    match: iwiki.com
+    policy: Proxy
+- domain_suffix:
+    match: jerpx.com
+    policy: Proxy
+- domain_suffix:
+    match: jiangzidushu.com
+    policy: Proxy
+- domain_suffix:
+    match: jiangzikanshu.cn
+    policy: Proxy
+- domain_suffix:
+    match: jiangzikanshu.com
+    policy: Proxy
+- domain_suffix:
+    match: jiangziyuedu.com
+    policy: Proxy
+- domain_suffix:
+    match: jkt-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: jkt-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: jkt-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: jkt-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: jnec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: jnec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: jnec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: jnec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: joox.com
+    policy: Proxy
+- domain_suffix:
+    match: joyworkshop.com
+    policy: Proxy
+- domain_suffix:
+    match: jp-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: jp-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: jp-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: jp-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: jrzk.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: juluape.com
+    policy: Proxy
+- domain_suffix:
+    match: jxemailbk.cn
+    policy: Proxy
+- domain_suffix:
+    match: jxemailbk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: jxqy.city
+    policy: Proxy
+- domain_suffix:
+    match: kachabank.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: kefu01.com
+    policy: Proxy
+- domain_suffix:
+    match: kg.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: kr-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: kr-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: kr-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: kr-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: kting.info
+    policy: Proxy
+- domain_suffix:
+    match: kuledushu.com
+    policy: Proxy
+- domain_suffix:
+    match: kwsou.cn
+    policy: Proxy
+- domain_suffix:
+    match: kxmz.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: l1xn.cn
+    policy: Proxy
+- domain_suffix:
+    match: labycore.cn
+    policy: Proxy
+- domain_suffix:
+    match: lazyaudio.com
+    policy: Proxy
+- domain_suffix:
+    match: lbs.gtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: leshare.work
+    policy: Proxy
+- domain_suffix:
+    match: lexiang-app.com
+    policy: Proxy
+- domain_suffix:
+    match: lexiang-asset.com
+    policy: Proxy
+- domain_suffix:
+    match: lexiang-asset.net
+    policy: Proxy
+- domain_suffix:
+    match: lexiang-ops.com
+    policy: Proxy
+- domain_suffix:
+    match: lexiangla.com
+    policy: Proxy
+- domain_suffix:
+    match: lexiangla.net
+    policy: Proxy
+- domain_suffix:
+    match: lic-slf-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: lic-slf-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: light-cos.cn
+    policy: Proxy
+- domain_suffix:
+    match: light-cos.com
+    policy: Proxy
+- domain_suffix:
+    match: lightalk.com
+    policy: Proxy
+- domain_suffix:
+    match: lightalk.me
+    policy: Proxy
+- domain_suffix:
+    match: lightbox.games
+    policy: Proxy
+- domain_suffix:
+    match: lightspeed-dc.com
+    policy: Proxy
+- domain_suffix:
+    match: lightspeed-lic.com
+    policy: Proxy
+- domain_suffix:
+    match: lightspeed-og.com
+    policy: Proxy
+- domain_suffix:
+    match: liuyunflow.com
+    policy: Proxy
+- domain_suffix:
+    match: lldlf.cn
+    policy: Proxy
+- domain_suffix:
+    match: lldlf.com
+    policy: Proxy
+- domain_suffix:
+    match: localxcafe.com
+    policy: Proxy
+- domain_suffix:
+    match: lrts.me
+    policy: Proxy
+- domain_suffix:
+    match: lssdexternal.com
+    policy: Proxy
+- domain_suffix:
+    match: ludosuperstar.cn
+    policy: Proxy
+- domain_suffix:
+    match: ludosuperstar.com
+    policy: Proxy
+- domain_suffix:
+    match: ludoworld.cn
+    policy: Proxy
+- domain_suffix:
+    match: ludoworld.net
+    policy: Proxy
+- domain_suffix:
+    match: m1.run
+    policy: Proxy
+- domain_suffix:
+    match: m6.run
+    policy: Proxy
+- domain_suffix:
+    match: m9.run
+    policy: Proxy
+- domain_suffix:
+    match: ma.run
+    policy: Proxy
+- domain_suffix:
+    match: magicwatchface.com
+    policy: Proxy
+- domain_suffix:
+    match: mahjongai.cn
+    policy: Proxy
+- domain_suffix:
+    match: mahjongai.com
+    policy: Proxy
+- domain_suffix:
+    match: mahjongai.net
+    policy: Proxy
+- domain_suffix:
+    match: mahjongcup.cn
+    policy: Proxy
+- domain_suffix:
+    match: mahjongcup.com
+    policy: Proxy
+- domain_suffix:
+    match: mahjongcup.net
+    policy: Proxy
+- domain_suffix:
+    match: mail.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: mandnsv1.com
+    policy: Proxy
+- domain_suffix:
+    match: mandnsv1.net
+    policy: Proxy
+- domain_suffix:
+    match: map-tencent.cn
+    policy: Proxy
+- domain_suffix:
+    match: map-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: map.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: maplecheck.tech
+    policy: Proxy
+- domain_suffix:
+    match: maxgamehub.com
+    policy: Proxy
+- domain_suffix:
+    match: me-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: meitusiyu.com
+    policy: Proxy
+- domain_suffix:
+    match: metalrevolution.com
+    policy: Proxy
+- domain_suffix:
+    match: mgobe-webattle.com
+    policy: Proxy
+- domain_suffix:
+    match: mgse.info
+    policy: Proxy
+- domain_suffix:
+    match: mh2u.cn
+    policy: Proxy
+- domain_suffix:
+    match: microaiav.com
+    policy: Proxy
+- domain_suffix:
+    match: miloli.info
+    policy: Proxy
+- domain_suffix:
+    match: mini-program-acc.com
+    policy: Proxy
+- domain_suffix:
+    match: minishops.co
+    policy: Proxy
+- domain_suffix:
+    match: mjxpay.com
+    policy: Proxy
+- domain_suffix:
+    match: mmatch.tech
+    policy: Proxy
+- domain_suffix:
+    match: mmbizurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: mmecimage.cn
+    policy: Proxy
+- domain_suffix:
+    match: mmqidian.com
+    policy: Proxy
+- domain_suffix:
+    match: mobilemgr-global.com
+    policy: Proxy
+- domain_suffix:
+    match: mobilemgr-global.net
+    policy: Proxy
+- domain_suffix:
+    match: moco-game.cn
+    policy: Proxy
+- domain_suffix:
+    match: molo.cn
+    policy: Proxy
+- domain_suffix:
+    match: moneydata.hk
+    policy: Proxy
+- domain_suffix:
+    match: morefunstudio.com
+    policy: Proxy
+- domain_suffix:
+    match: mps.live
+    policy: Proxy
+- domain_suffix:
+    match: mqqurl.com
+    policy: Proxy
+- domain_suffix:
+    match: mqzoneapp.com
+    policy: Proxy
+- domain_suffix:
+    match: mrrvendor.com
+    policy: Proxy
+- domain_suffix:
+    match: msdkpass.com
+    policy: Proxy
+- domain_suffix:
+    match: msstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: mszdld.cn
+    policy: Proxy
+- domain_suffix:
+    match: mszdld.com
+    policy: Proxy
+- domain_suffix:
+    match: mszdld.net
+    policy: Proxy
+- domain_suffix:
+    match: mting.info
+    policy: Proxy
+- domain_suffix:
+    match: multimodalmatch.com
+    policy: Proxy
+- domain_suffix:
+    match: mxflutter.com
+    policy: Proxy
+- domain_suffix:
+    match: my-cpaas.com
+    policy: Proxy
+- domain_suffix:
+    match: my-imcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: my-qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: my-tcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: myapp.com
+    policy: Proxy
+- domain_suffix:
+    match: myappdl1.com
+    policy: Proxy
+- domain_suffix:
+    match: myappdl1.net
+    policy: Proxy
+- domain_suffix:
+    match: myappdl2.com
+    policy: Proxy
+- domain_suffix:
+    match: myappdl2.net
+    policy: Proxy
+- domain_suffix:
+    match: myelasticsearch.com
+    policy: Proxy
+- domain_suffix:
+    match: mylightsite.com
+    policy: Proxy
+- domain_suffix:
+    match: myoed.com
+    policy: Proxy
+- domain_suffix:
+    match: myqcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: myqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: myqcloud.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: myqcloud.net
+    policy: Proxy
+- domain_suffix:
+    match: myrtx.com
+    policy: Proxy
+- domain_suffix:
+    match: mytencentes.com
+    policy: Proxy
+- domain_suffix:
+    match: mytt.com
+    policy: Proxy
+- domain_suffix:
+    match: nagcloudcs.com
+    policy: Proxy
+- domain_suffix:
+    match: nazarstudios.com
+    policy: Proxy
+- domain_suffix:
+    match: nba.com
+    policy: Proxy
+- domain_suffix:
+    match: neuroxiv.cn
+    policy: Proxy
+- domain_suffix:
+    match: neuroxiv.com
+    policy: Proxy
+- domain_suffix:
+    match: neuroxiv.net
+    policy: Proxy
+- domain_suffix:
+    match: next-bei.com
+    policy: Proxy
+- domain_suffix:
+    match: next-playground.com
+    policy: Proxy
+- domain_suffix:
+    match: nextplayground.cn
+    policy: Proxy
+- domain_suffix:
+    match: nextplayground.com
+    policy: Proxy
+- domain_suffix:
+    match: nextplayground.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: nextstudios.com
+    policy: Proxy
+- domain_suffix:
+    match: nextworkshop.net
+    policy: Proxy
+- domain_suffix:
+    match: nintendoswitch.cn
+    policy: Proxy
+- domain_suffix:
+    match: nintendoswitch.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: nj-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: nj-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: nj-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: nj-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: njiabe.com
+    policy: Proxy
+- domain_suffix:
+    match: njmapp.com
+    policy: Proxy
+- domain_suffix:
+    match: njxfcft-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: njxfcft-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: njxfcft-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: njxfcft-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: nktzj.cn
+    policy: Proxy
+- domain_suffix:
+    match: nohost.pro
+    policy: Proxy
+- domain_suffix:
+    match: nokialumia.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: nrzb0.com
+    policy: Proxy
+- domain_suffix:
+    match: oedcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: onebrowser.net
+    policy: Proxy
+- domain_suffix:
+    match: onexmail.com
+    policy: Proxy
+- domain_suffix:
+    match: onezapp.com
+    policy: Proxy
+- domain_suffix:
+    match: onlygamefans.com
+    policy: Proxy
+- domain_suffix:
+    match: onwork.com
+    policy: Proxy
+- domain_suffix:
+    match: openapp.run
+    policy: Proxy
+- domain_suffix:
+    match: opencloudos.tech
+    policy: Proxy
+- domain_suffix:
+    match: opendatacenter.cn
+    policy: Proxy
+- domain_suffix:
+    match: opengame0.com
+    policy: Proxy
+- domain_suffix:
+    match: openhippy.com
+    policy: Proxy
+- domain_suffix:
+    match: openmidas.com
+    policy: Proxy
+- domain_suffix:
+    match: oracle-on-qcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: oracle-tencent.net
+    policy: Proxy
+- domain_suffix:
+    match: oracle-tencent.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: oracle-tencent.org
+    policy: Proxy
+- domain_suffix:
+    match: orange-ci.net
+    policy: Proxy
+- domain_suffix:
+    match: overseasops.com
+    policy: Proxy
+- domain_suffix:
+    match: ovscdns.com
+    policy: Proxy
+- domain_suffix:
+    match: ovscdns.net
+    policy: Proxy
+- domain_suffix:
+    match: oywtv.com
+    policy: Proxy
+- domain_suffix:
+    match: p-sig-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: p-sig-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: pag.art
+    policy: Proxy
+- domain_suffix:
+    match: pagedoo.cn
+    policy: Proxy
+- domain_suffix:
+    match: pagedoo.com
+    policy: Proxy
+- domain_suffix:
+    match: palmda.com
+    policy: Proxy
+- domain_suffix:
+    match: pcmgr-global.com
+    policy: Proxy
+- domain_suffix:
+    match: pcmgr-global.net
+    policy: Proxy
+- domain_suffix:
+    match: pdm.tech
+    policy: Proxy
+- domain_suffix:
+    match: peiwanlu.com
+    policy: Proxy
+- domain_suffix:
+    match: pengyou.com
+    policy: Proxy
+- domain_suffix:
+    match: pengyou.net
+    policy: Proxy
+- domain_suffix:
+    match: pfif.cn
+    policy: Proxy
+- domain_suffix:
+    match: pfif.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: pfif.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: pgosglobal.com
+    policy: Proxy
+- domain_suffix:
+    match: playbattleaces.com
+    policy: Proxy
+- domain_suffix:
+    match: plusrtc.com
+    policy: Proxy
+- domain_suffix:
+    match: pn1waq.com
+    policy: Proxy
+- domain_suffix:
+    match: pokercup.net
+    policy: Proxy
+- domain_suffix:
+    match: polarismesh.cn
+    policy: Proxy
+- domain_suffix:
+    match: potops.cn
+    policy: Proxy
+- domain_suffix:
+    match: potops.com
+    policy: Proxy
+- domain_suffix:
+    match: poweron.cc
+    policy: Proxy
+- domain_suffix:
+    match: prayaya.com
+    policy: Proxy
+- domain_suffix:
+    match: prayaya.net
+    policy: Proxy
+- domain_suffix:
+    match: prayaya.org
+    policy: Proxy
+- domain_suffix:
+    match: private-tech.cn
+    policy: Proxy
+- domain_suffix:
+    match: prizesapp.com
+    policy: Proxy
+- domain_suffix:
+    match: projectserval.cn
+    policy: Proxy
+- domain_suffix:
+    match: projectserval.com
+    policy: Proxy
+- domain_suffix:
+    match: proximabeta.com
+    policy: Proxy
+- domain_suffix:
+    match: pts-ai-texture.com
+    policy: Proxy
+- domain_suffix:
+    match: pts.games
+    policy: Proxy
+- domain_suffix:
+    match: pubghelper.com
+    policy: Proxy
+- domain_suffix:
+    match: pubgno1.cn
+    policy: Proxy
+- domain_suffix:
+    match: pubgtool.com
+    policy: Proxy
+- domain_suffix:
+    match: putdl.com
+    policy: Proxy
+- domain_suffix:
+    match: qbanking.cn
+    policy: Proxy
+- domain_suffix:
+    match: qbview.com
+    policy: Proxy
+- domain_suffix:
+    match: qcdne.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcdne.com
+    policy: Proxy
+- domain_suffix:
+    match: qcdnlog.com
+    policy: Proxy
+- domain_suffix:
+    match: qcdntest.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcdntest.com
+    policy: Proxy
+- domain_suffix:
+    match: qcdntest.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcdntest.net
+    policy: Proxy
+- domain_suffix:
+    match: qclivecdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: qclivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloud-edumall.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloud.la
+    policy: Proxy
+- domain_suffix:
+    match: qcloudapps.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcdn.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcdnsrc.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcdntest.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcjgj.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcjgj.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudclass.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcos.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcos.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcos.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudcos.net
+    policy: Proxy
+- domain_suffix:
+    match: qcloudecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qclouder.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudestate.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudgme.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudimg.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudipv6.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudmail.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudmailbk.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudmailbk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudmarket.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudns.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudocdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudoceanus.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudsmartiot.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudtcic.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudteo.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudtiw.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudtrip.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudtt.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudwaf.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudwzgj.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudwzgj.com
+    policy: Proxy
+- domain_suffix:
+    match: qcloudzygj.cn
+    policy: Proxy
+- domain_suffix:
+    match: qcloudzygj.com
+    policy: Proxy
+- domain_suffix:
+    match: qcly.xyz
+    policy: Proxy
+- domain_suffix:
+    match: qdcloudsolution.com
+    policy: Proxy
+- domain_suffix:
+    match: qdd.gd
+    policy: Proxy
+- domain_suffix:
+    match: qdd.gg
+    policy: Proxy
+- domain_suffix:
+    match: qdd.la
+    policy: Proxy
+- domain_suffix:
+    match: qdkefu.com
+    policy: Proxy
+- domain_suffix:
+    match: qdmm.com
+    policy: Proxy
+- domain_suffix:
+    match: qdstsy.cn
+    policy: Proxy
+- domain_suffix:
+    match: qdurl.cc
+    policy: Proxy
+- domain_suffix:
+    match: qdwebim.com
+    policy: Proxy
+- domain_suffix:
+    match: qdwenxue.com
+    policy: Proxy
+- domain_suffix:
+    match: qdwpa.com
+    policy: Proxy
+- domain_suffix:
+    match: qeoacc.com
+    policy: Proxy
+- domain_suffix:
+    match: qeoacc.net
+    policy: Proxy
+- domain_suffix:
+    match: qeodns.com
+    policy: Proxy
+- domain_suffix:
+    match: qeodns.net
+    policy: Proxy
+- domain_suffix:
+    match: qgodb.cn
+    policy: Proxy
+- domain_suffix:
+    match: qgodb.com
+    policy: Proxy
+- domain_suffix:
+    match: qgodb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qidian-cos-backup.com
+    policy: Proxy
+- domain_suffix:
+    match: qidian-cos.com
+    policy: Proxy
+- domain_suffix:
+    match: qidian.cn
+    policy: Proxy
+- domain_suffix:
+    match: qidian.com
+    policy: Proxy
+- domain_suffix:
+    match: qidianmm.com
+    policy: Proxy
+- domain_suffix:
+    match: qiejingsu.com
+    policy: Proxy
+- domain_suffix:
+    match: qieracing.com
+    policy: Proxy
+- domain_suffix:
+    match: qingliaoapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qjia.com
+    policy: Proxy
+- domain_suffix:
+    match: qlippie.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivecdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: qlivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivecloud.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivertc.cn
+    policy: Proxy
+- domain_suffix:
+    match: qlivertc.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivertc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: qlivertc2.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivewebrtc.cn
+    policy: Proxy
+- domain_suffix:
+    match: qlivewebrtc.com
+    policy: Proxy
+- domain_suffix:
+    match: qlivewebrtc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: qlivewebrtc2.com
+    policy: Proxy
+- domain_suffix:
+    match: qlogo.cn
+    policy: Proxy
+- domain_suffix:
+    match: qmail.com
+    policy: Proxy
+- domain_suffix:
+    match: qmrms.com
+    policy: Proxy
+- domain_suffix:
+    match: qmtjgame.com
+    policy: Proxy
+- domain_suffix:
+    match: qpic.cn
+    policy: Proxy
+- domain_suffix:
+    match: qpimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: qplus.com
+    policy: Proxy
+- domain_suffix:
+    match: qplusstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: qq.cn.com
+    policy: Proxy
+- domain_suffix:
+    match: qq.com
+    policy: Proxy
+- domain_suffix:
+    match: qq.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qq.design
+    policy: Proxy
+- domain_suffix:
+    match: qq.travel
+    policy: Proxy
+- domain_suffix:
+    match: qq.wang
+    policy: Proxy
+- domain_suffix:
+    match: qq.xn--fiqs8s
+    policy: Proxy
+- domain_suffix:
+    match: qq.zone
+    policy: Proxy
+- domain_suffix:
+    match: qqbrowser.mobi
+    policy: Proxy
+- domain_suffix:
+    match: qqcfw.net
+    policy: Proxy
+- domain_suffix:
+    match: qqclass.com
+    policy: Proxy
+- domain_suffix:
+    match: qqclock.com
+    policy: Proxy
+- domain_suffix:
+    match: qqdr.com
+    policy: Proxy
+- domain_suffix:
+    match: qqexpert.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqexpert.com
+    policy: Proxy
+- domain_suffix:
+    match: qqfamily.com
+    policy: Proxy
+- domain_suffix:
+    match: qqgameapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qqgamedesign.com
+    policy: Proxy
+- domain_suffix:
+    match: qqgamemall.com
+    policy: Proxy
+- domain_suffix:
+    match: qqgames.com
+    policy: Proxy
+- domain_suffix:
+    match: qqhangjia.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqhangjia.com
+    policy: Proxy
+- domain_suffix:
+    match: qqhaoma.com
+    policy: Proxy
+- domain_suffix:
+    match: qqhaoma.net
+    policy: Proxy
+- domain_suffix:
+    match: qqimage.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqimage.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqimage.net
+    policy: Proxy
+- domain_suffix:
+    match: qqimage.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqimg.net
+    policy: Proxy
+- domain_suffix:
+    match: qqjapan.com
+    policy: Proxy
+- domain_suffix:
+    match: qqmail.com
+    policy: Proxy
+- domain_suffix:
+    match: qqmapyx.com
+    policy: Proxy
+- domain_suffix:
+    match: qqmra.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqmra.com
+    policy: Proxy
+- domain_suffix:
+    match: qqmusic.store
+    policy: Proxy
+- domain_suffix:
+    match: qqnaozhong.com
+    policy: Proxy
+- domain_suffix:
+    match: qqopenapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qqplusapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qqservice.mobi
+    policy: Proxy
+- domain_suffix:
+    match: qqspark.com
+    policy: Proxy
+- domain_suffix:
+    match: qqumall.com
+    policy: Proxy
+- domain_suffix:
+    match: qqun.com
+    policy: Proxy
+- domain_suffix:
+    match: qqurl.com
+    policy: Proxy
+- domain_suffix:
+    match: qqwebapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qqwiki.com
+    policy: Proxy
+- domain_suffix:
+    match: qqwinner.com
+    policy: Proxy
+- domain_suffix:
+    match: qrobot.com
+    policy: Proxy
+- domain_suffix:
+    match: qstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: qtslog.com
+    policy: Proxy
+- domain_suffix:
+    match: qutecall.com
+    policy: Proxy
+- domain_suffix:
+    match: qutechat.com
+    policy: Proxy
+- domain_suffix:
+    match: qutemessenger.com
+    policy: Proxy
+- domain_suffix:
+    match: qutetalk.com
+    policy: Proxy
+- domain_suffix:
+    match: qutevoice.com
+    policy: Proxy
+- domain_suffix:
+    match: qwebapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qy-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: qy-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: qy-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: qy-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: qymdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: qymdb.com
+    policy: Proxy
+- domain_suffix:
+    match: qymdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: qyunapp.com
+    policy: Proxy
+- domain_suffix:
+    match: qyuner.com
+    policy: Proxy
+- domain_suffix:
+    match: qyxa-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: qyxa-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: qyxa-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: qyxa-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: qzone.com
+    policy: Proxy
+- domain_suffix:
+    match: qzone.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: qzoneapp.com
+    policy: Proxy
+- domain_suffix:
+    match: randongada.com
+    policy: Proxy
+- domain_suffix:
+    match: raycim.com
+    policy: Proxy
+- domain_suffix:
+    match: raydata-asset.com
+    policy: Proxy
+- domain_suffix:
+    match: raydata-mobile.com
+    policy: Proxy
+- domain_suffix:
+    match: raydata-open.com
+    policy: Proxy
+- domain_suffix:
+    match: raydata-web.com
+    policy: Proxy
+- domain_suffix:
+    match: raydata.cc
+    policy: Proxy
+- domain_suffix:
+    match: raydata.info
+    policy: Proxy
+- domain_suffix:
+    match: raydata.pro
+    policy: Proxy
+- domain_suffix:
+    match: raydataasset.com
+    policy: Proxy
+- domain_suffix:
+    match: raydatamobile.com
+    policy: Proxy
+- domain_suffix:
+    match: raydataopen.com
+    policy: Proxy
+- domain_suffix:
+    match: raydataweb.com
+    policy: Proxy
+- domain_suffix:
+    match: raykite.club
+    policy: Proxy
+- domain_suffix:
+    match: raykite.cn
+    policy: Proxy
+- domain_suffix:
+    match: raykite.com
+    policy: Proxy
+- domain_suffix:
+    match: raykite.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: raykite.info
+    policy: Proxy
+- domain_suffix:
+    match: raykite.net
+    policy: Proxy
+- domain_suffix:
+    match: raykite.vip
+    policy: Proxy
+- domain_suffix:
+    match: raykite.xyz
+    policy: Proxy
+- domain_suffix:
+    match: raynext.cn
+    policy: Proxy
+- domain_suffix:
+    match: raynext.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: raynext.info
+    policy: Proxy
+- domain_suffix:
+    match: rbxcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: rdcv1.com
+    policy: Proxy
+- domain_suffix:
+    match: rdcv1.net
+    policy: Proxy
+- domain_suffix:
+    match: rdgz.org
+    policy: Proxy
+- domain_suffix:
+    match: reachentrophy.cn
+    policy: Proxy
+- domain_suffix:
+    match: readnovel.com
+    policy: Proxy
+- domain_suffix:
+    match: realcybertron.com
+    policy: Proxy
+- domain_suffix:
+    match: realmofswords.com
+    policy: Proxy
+- domain_suffix:
+    match: ricenter.cn
+    policy: Proxy
+- domain_suffix:
+    match: ringofelysium.com
+    policy: Proxy
+- domain_suffix:
+    match: ringofelysiumonline.com
+    policy: Proxy
+- domain_suffix:
+    match: rmall-solution.com
+    policy: Proxy
+- domain_suffix:
+    match: rmwxgame.com
+    policy: Proxy
+- domain_suffix:
+    match: roblox.cn
+    policy: Proxy
+- domain_suffix:
+    match: romzj.com
+    policy: Proxy
+- domain_suffix:
+    match: ronghe-edu.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: rongheedu.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: rootjl.com
+    policy: Proxy
+- domain_suffix:
+    match: rtx.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: rtxapp.com
+    policy: Proxy
+- domain_suffix:
+    match: rtxonline.com
+    policy: Proxy
+- domain_suffix:
+    match: rumt-zh.com
+    policy: Proxy
+- domain_suffix:
+    match: ruyh.cn
+    policy: Proxy
+- domain_suffix:
+    match: rxwsls.com
+    policy: Proxy
+- domain_suffix:
+    match: rxwsls.net
+    policy: Proxy
+- domain_suffix:
+    match: s-tech.com
+    policy: Proxy
+- domain_suffix:
+    match: s0ox.cn
+    policy: Proxy
+- domain_suffix:
+    match: sa-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sa-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sa-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sa-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: safejmp.cn
+    policy: Proxy
+- domain_suffix:
+    match: safejmp.com
+    policy: Proxy
+- domain_suffix:
+    match: safejmp.net
+    policy: Proxy
+- domain_suffix:
+    match: sagsaas.com
+    policy: Proxy
+- domain_suffix:
+    match: sao-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sao-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sao-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sao-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: sccreator.cn
+    policy: Proxy
+- domain_suffix:
+    match: scescdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: scid.cn
+    policy: Proxy
+- domain_suffix:
+    match: scl0.cn
+    policy: Proxy
+- domain_suffix:
+    match: scratchmirror.com
+    policy: Proxy
+- domain_suffix:
+    match: scratchmirror.net
+    policy: Proxy
+- domain_suffix:
+    match: scsentry.cn
+    policy: Proxy
+- domain_suffix:
+    match: sdaswq.com
+    policy: Proxy
+- domain_suffix:
+    match: serverlesscloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: servicewechat.com
+    policy: Proxy
+- domain_suffix:
+    match: serviceweixin.com
+    policy: Proxy
+- domain_suffix:
+    match: sfapower.cn
+    policy: Proxy
+- domain_suffix:
+    match: sg-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sg-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sg-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sg-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: sgfindershort.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sgilinkshort.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sglong.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sgminorshort.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sgquic.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sgrastudio.com
+    policy: Proxy
+- domain_suffix:
+    match: sgshort.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: sgurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: sh-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sh-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sh-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sh-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shadc-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shadc-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shadc-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shadc-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: sheec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sheec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sheec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sheec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shhqcft-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shhqcft-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shhqcft-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shhqcft-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shhqcftfzhj-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shhqcftfzhj-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shhqcftfzhj-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shhqcftfzhj-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shhqcftfzhjtencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shjr-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shjr-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shjr-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shjr-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shuame.com
+    policy: Proxy
+- domain_suffix:
+    match: shurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: shwxzf-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shwxzf-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shwxzf-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shwxzf-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: shwxzfjpyzc-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: shwxzfjpyzc-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: shwxzfjpyzc-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: shwxzfjpyzc-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: silvertek.cn
+    policy: Proxy
+- domain_suffix:
+    match: sixjoy.com
+    policy: Proxy
+- domain_suffix:
+    match: sjwec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: sjwec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: sjwec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: sjwec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: slife.xy-asia.com
+    policy: Proxy
+- domain_suffix:
+    match: smoba.net
+    policy: Proxy
+- domain_suffix:
+    match: smtcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: smtcdns.net
+    policy: Proxy
+- domain_suffix:
+    match: snapplay.com
+    policy: Proxy
+- domain_suffix:
+    match: snoba.net
+    policy: Proxy
+- domain_suffix:
+    match: sogou-compress.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-diskmgr.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-inner.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-kantu-pic.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-kantu.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-pdf.com
+    policy: Proxy
+- domain_suffix:
+    match: sogou-wallpaper.com
+    policy: Proxy
+- domain_suffix:
+    match: soso.com
+    policy: Proxy
+- domain_suffix:
+    match: soup.v.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page0.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page1.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page2.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page3.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page4.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page5.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page6.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page7.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page8.com
+    policy: Proxy
+- domain_suffix:
+    match: spark-page9.com
+    policy: Proxy
+- domain_suffix:
+    match: spcdntip.com
+    policy: Proxy
+- domain_suffix:
+    match: spcdntipbak.com
+    policy: Proxy
+- domain_suffix:
+    match: spcloudhw.com
+    policy: Proxy
+- domain_suffix:
+    match: spcloudhw.net
+    policy: Proxy
+- domain_suffix:
+    match: squadbusters-game.cn
+    policy: Proxy
+- domain_suffix:
+    match: squadbustersgame.cn
+    policy: Proxy
+- domain_suffix:
+    match: srccdn.com
+    policy: Proxy
+- domain_suffix:
+    match: srccdn2.com
+    policy: Proxy
+- domain_suffix:
+    match: srcge.com
+    policy: Proxy
+- domain_suffix:
+    match: srmkp.cn
+    policy: Proxy
+- domain_suffix:
+    match: ssibility-union.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: starlakelab.com
+    policy: Proxy
+- domain_suffix:
+    match: stor-helper.com
+    policy: Proxy
+- domain_suffix:
+    match: sundaydragon.com
+    policy: Proxy
+- domain_suffix:
+    match: supercellcommunity.cn
+    policy: Proxy
+- domain_suffix:
+    match: supercellsupport.cn
+    policy: Proxy
+- domain_suffix:
+    match: superfix.cn
+    policy: Proxy
+- domain_suffix:
+    match: superfix.com
+    policy: Proxy
+- domain_suffix:
+    match: superfix.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: surveyqq.com
+    policy: Proxy
+- domain_suffix:
+    match: swd7.cn
+    policy: Proxy
+- domain_suffix:
+    match: systemserviceable.com
+    policy: Proxy
+- domain_suffix:
+    match: syurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: szjr-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: szjr-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: szjr-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: szjr-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: szjxcft-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: szjxcft-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: szjxcft-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: szjxcft-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: szsycft-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: szsycft-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: szsycft-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: szsycft-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: szx-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: szx-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: szx-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: szx-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: szyxlx.cn
+    policy: Proxy
+- domain_suffix:
+    match: t-npm.com
+    policy: Proxy
+- domain_suffix:
+    match: t-tlearning.com
+    policy: Proxy
+- domain_suffix:
+    match: tadsim.cn
+    policy: Proxy
+- domain_suffix:
+    match: tadsim.com
+    policy: Proxy
+- domain_suffix:
+    match: tadsim.net
+    policy: Proxy
+- domain_suffix:
+    match: tailuosi.cn
+    policy: Proxy
+- domain_suffix:
+    match: tairos.ac.cn
+    policy: Proxy
+- domain_suffix:
+    match: tairos.cc
+    policy: Proxy
+- domain_suffix:
+    match: tairos.net
+    policy: Proxy
+- domain_suffix:
+    match: tairos.tech
+    policy: Proxy
+- domain_suffix:
+    match: tamaegis.com
+    policy: Proxy
+- domain_suffix:
+    match: tamlab.net
+    policy: Proxy
+- domain_suffix:
+    match: tanlive.cn
+    policy: Proxy
+- domain_suffix:
+    match: tanlive.com
+    policy: Proxy
+- domain_suffix:
+    match: taotao.com
+    policy: Proxy
+- domain_suffix:
+    match: tapd-app.com
+    policy: Proxy
+- domain_suffix:
+    match: tapd-devops.cn
+    policy: Proxy
+- domain_suffix:
+    match: tapd-private.cn
+    policy: Proxy
+- domain_suffix:
+    match: tapd.cn
+    policy: Proxy
+- domain_suffix:
+    match: tapd.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tav-global.com
+    policy: Proxy
+- domain_suffix:
+    match: tav-global.net
+    policy: Proxy
+- domain_suffix:
+    match: tbaas.tech
+    policy: Proxy
+- domain_suffix:
+    match: tbizmail.com
+    policy: Proxy
+- domain_suffix:
+    match: tcbautomation.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcbe.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcbqcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcbqcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tcbqcloud.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdlive.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdndl1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdndl2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdndl3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdndl4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdneo.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdneo.net
+    policy: Proxy
+- domain_suffix:
+    match: tcdnhw.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnhw.net
+    policy: Proxy
+- domain_suffix:
+    match: tcdnkc.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnkcbak.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnlive.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnlivebak1.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnlivebak2.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnlp.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnos.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnos.net
+    policy: Proxy
+- domain_suffix:
+    match: tcdnstc1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnstc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnstc3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnstc4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdntip.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvod.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvod1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvod2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvod3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvod4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvodbak.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnvodnew.com
+    policy: Proxy
+- domain_suffix:
+    match: tcdnx1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnx2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcdnzb.com
+    policy: Proxy
+- domain_suffix:
+    match: tced-transsion.com
+    policy: Proxy
+- domain_suffix:
+    match: tcedshare.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcedshare.com
+    policy: Proxy
+- domain_suffix:
+    match: tcedshare.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcfmglobal.com
+    policy: Proxy
+- domain_suffix:
+    match: tchy.net
+    policy: Proxy
+- domain_suffix:
+    match: tcimage.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbase.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbase.net
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbaseapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbaseapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbaseappbp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbaseappbp.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbasegateway.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbasestatic.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbh.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudbi.com
+    policy: Proxy
+- domain_suffix:
+    match: tclouddrive.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudedu.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudhw.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudhw.net
+    policy: Proxy
+- domain_suffix:
+    match: tcloudlive.cn
+    policy: Proxy
+- domain_suffix:
+    match: tcloudlive.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tcloudscdn.net
+    policy: Proxy
+- domain_suffix:
+    match: tcmppcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tcsdk.com
+    policy: Proxy
+- domain_suffix:
+    match: td2cn.com
+    policy: Proxy
+- domain_suffix:
+    match: tdlcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tdlcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: tdns127.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdl5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdlovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdlovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdlovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdlovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdlovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdp5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdpovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdpovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdpovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdpovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsdpovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnslive5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsliveovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsliveovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsliveovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsliveovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsliveovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnspub.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnspub.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssp5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsspovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsspovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsspovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsspovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsspovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsstic5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnssticovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnssticovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnssticovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnssticovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnssticovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv1.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv10.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv10.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv11.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv11.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv12.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv12.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv13.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv13.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv14.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv14.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv15.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv15.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv2.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv3.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv4.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv5.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv6.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv6.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv7.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv7.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv8.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv8.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv9.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsv9.net
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod1.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod2.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod3.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod4.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod5.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvod5.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvodovs1.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvodovs2.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvodovs3.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvodovs4.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsvodovs5.com
+    policy: Proxy
+- domain_suffix:
+    match: tdnsx1.com
+    policy: Proxy
+- domain_suffix:
+    match: techo.chat
+    policy: Proxy
+- domain_suffix:
+    match: techo.pub
+    policy: Proxy
+- domain_suffix:
+    match: techo.show
+    policy: Proxy
+- domain_suffix:
+    match: tefscloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tefscloud.net
+    policy: Proxy
+- domain_suffix:
+    match: ten.design
+    policy: Proxy
+- domain_suffix:
+    match: tenant-zone-dev.com
+    policy: Proxy
+- domain_suffix:
+    match: tencdns.com
+    policy: Proxy
+- domain_suffix:
+    match: tencdns.net
+    policy: Proxy
+- domain_suffix:
+    match: tencent-blackboard.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent-cloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencent-cloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent-cloud.net
+    policy: Proxy
+- domain_suffix:
+    match: tencent-education.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent-gcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent-qejs.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencent.co.id
+    policy: Proxy
+- domain_suffix:
+    match: tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: tencent.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencent.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: tencent.design
+    policy: Proxy
+- domain_suffix:
+    match: tencent.net
+    policy: Proxy
+- domain_suffix:
+    match: tencent.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentads.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentads.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentads.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentadx.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentanxin.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentapigw.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentapigw.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentapigw.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentapis.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentapps.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentart.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentbh.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentbh.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentbh.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentbyod.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcdb.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcds.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcds.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcds.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcfs.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcfs.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcfs.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentci.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentci.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentciam.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentciam.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentciam.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.cc
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.host
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.info
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.link
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.online
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.plus
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.pro
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.site
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.space
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.team
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.tech
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.top
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.vip
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: tencentclb.zone
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloud-aiot.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloud-demo.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloud.io
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapi.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapi.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapimarket.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudapp.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudbase.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudbase.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudbase.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudclub.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudcore.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudcore.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudcr.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga001.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga001.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga001.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga001.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga002.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga002.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga002.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga002.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga003.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga003.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga003.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga003.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga004.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga004.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga004.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga004.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga005.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga005.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga005.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga005.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga006.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga006.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga006.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga006.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga007.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga007.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga007.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga007.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga008.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga008.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga008.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga008.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga009.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga009.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga009.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga009.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga010.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga010.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga010.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga010.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga011.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga011.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga011.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga011.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga012.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga012.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga012.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga012.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga013.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga013.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga013.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga013.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga014.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga014.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga014.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga014.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga015.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga015.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga015.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga015.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga016.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga016.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga016.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga016.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga017.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga017.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga017.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga017.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga018.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga018.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga018.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga018.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga019.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga019.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga019.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga019.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga020.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga020.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga020.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga020.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga021.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga021.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga021.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga021.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga022.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga022.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga022.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga022.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga023.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga023.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga023.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga023.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga024.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga024.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga024.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga024.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga025.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga025.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga025.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga025.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga026.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga026.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga026.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga026.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga027.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga027.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga027.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga027.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga028.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga028.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga028.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga028.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga029.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga029.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga029.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga029.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga030.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga030.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga030.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudga030.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudipv6.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudlab.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudlive.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudlive.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudmarket.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudmq.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudmq.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudns.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudsandbox.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudsec.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudses.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudsso.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcloudsso.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcls.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcls.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcmq.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcode.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcode.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcomics.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentconsulting.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcos.cloud
+    policy: Proxy
+- domain_suffix:
+    match: tencentcos.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcos.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcos.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcos.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentcs.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcs.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentcs.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentcsms.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdayu.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentdayu.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentdb.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentddos.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentddos.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdevices.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdigitalassistant.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdmp.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentdms.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentedi.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentehs.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenteiam.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentelasticsearch.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentelasticsearch.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentelasticsearch.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentemr.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentes.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentes.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentes.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentexpert.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentexpert.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentfanyi.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentff.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentfilm.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentfoundation.org
+    policy: Proxy
+- domain_suffix:
+    match: tencentga.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentgames.co
+    policy: Proxy
+- domain_suffix:
+    match: tencentgames.us
+    policy: Proxy
+- domain_suffix:
+    match: tencentgme.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentgoosefs.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentgse.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentgy.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenthangjia.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenthangjia.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenthttpdns.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentiam.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenticp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenticp.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenticp.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentid.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentidaas.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentidentity.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentidentity.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentidentity.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentimage.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentimage.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentimage.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentimage.net
+    policy: Proxy
+- domain_suffix:
+    match: tencentimage.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentiotcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentiotmedia.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentipv6.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentiss.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentiss.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentivc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentlab.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentlegalservices.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentlink.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentlkfz.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentlog.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmap.wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentmdb.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentmeeting.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmfa.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentmfa.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmfa.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentmind.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmovie.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmusic.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentntp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentntp.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentoa.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentoceanus.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentpay.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentpic.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentproxy.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentrce.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentrce.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentrce.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentrcpcsdk.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentrcpcsdk.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentrcpcsdk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentresearch.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentrio.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentscf.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentscf.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentscf.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsecsdk.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsecsdk.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsecsdk.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentserverless.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentserverless.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentservicewatcher.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentses.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsite.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmh.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmh.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhcname.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhcname.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhcname.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhuc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhuc.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsmhuc.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentsource.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentstart.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsuite.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsurvey.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentsurvey.net
+    policy: Proxy
+- domain_suffix:
+    match: tencenttcr.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenttcr.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttcr.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenttdai.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttdmq.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenttdmq.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttdmq.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenttds.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttid.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttione.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttree.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttrtc.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttymaas.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencenttymaas.com
+    policy: Proxy
+- domain_suffix:
+    match: tencenttymaas.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentuc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentud.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentvpc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentvpc.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentvpc.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentweiban.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentwemeet.club
+    policy: Proxy
+- domain_suffix:
+    match: tencentwepark.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentwf.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentwf.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentwf.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentwsd.cn
+    policy: Proxy
+- domain_suffix:
+    match: tencentwukong.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentxinge.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentyouth.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentyun.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentzhzf.com
+    policy: Proxy
+- domain_suffix:
+    match: tencity.com
+    policy: Proxy
+- domain_suffix:
+    match: tendbcluster.cn
+    policy: Proxy
+- domain_suffix:
+    match: tendbcluster.com
+    policy: Proxy
+- domain_suffix:
+    match: tendbcluster.net
+    policy: Proxy
+- domain_suffix:
+    match: tendis.cn
+    policy: Proxy
+- domain_suffix:
+    match: tendis.net
+    policy: Proxy
+- domain_suffix:
+    match: tengjia.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: tengmed.cn
+    policy: Proxy
+- domain_suffix:
+    match: tengmed.com
+    policy: Proxy
+- domain_suffix:
+    match: tengyunqq.com
+    policy: Proxy
+- domain_suffix:
+    match: tenovatech.com
+    policy: Proxy
+- domain_suffix:
+    match: tenpay.com
+    policy: Proxy
+- domain_suffix:
+    match: tenpayglobal.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tensure.com
+    policy: Proxy
+- domain_suffix:
+    match: tenwukong.com
+    policy: Proxy
+- domain_suffix:
+    match: teo-rum.com
+    policy: Proxy
+- domain_suffix:
+    match: teoacc.com
+    policy: Proxy
+- domain_suffix:
+    match: teoacc.net
+    policy: Proxy
+- domain_suffix:
+    match: teodns.com
+    policy: Proxy
+- domain_suffix:
+    match: teodns.net
+    policy: Proxy
+- domain_suffix:
+    match: territorypower.cn
+    policy: Proxy
+- domain_suffix:
+    match: testinsight.net
+    policy: Proxy
+- domain_suffix:
+    match: testjrzk.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: testmeet.cn
+    policy: Proxy
+- domain_suffix:
+    match: testmrrvendor.com
+    policy: Proxy
+- domain_suffix:
+    match: testsparkling.com
+    policy: Proxy
+- domain_suffix:
+    match: testwaf.com
+    policy: Proxy
+- domain_suffix:
+    match: texasholdemcup.cn
+    policy: Proxy
+- domain_suffix:
+    match: texasholdemcup.com
+    policy: Proxy
+- domain_suffix:
+    match: texasholdemcup.net
+    policy: Proxy
+- domain_suffix:
+    match: tez-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: tez-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: tez-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: tfogc.com
+    policy: Proxy
+- domain_suffix:
+    match: tfogc.net
+    policy: Proxy
+- domain_suffix:
+    match: tgametalent.com
+    policy: Proxy
+- domain_suffix:
+    match: tgovcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: th-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: th-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: th-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: th-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: thecss.cn
+    policy: Proxy
+- domain_suffix:
+    match: thegreatwallpro.cn
+    policy: Proxy
+- domain_suffix:
+    match: thepredictivemodel.com
+    policy: Proxy
+- domain_suffix:
+    match: tiantiancaige.com
+    policy: Proxy
+- domain_suffix:
+    match: tianxiawuzei.org
+    policy: Proxy
+- domain_suffix:
+    match: tianyutest.com
+    policy: Proxy
+- domain_suffix:
+    match: tidaas.com
+    policy: Proxy
+- domain_suffix:
+    match: timatrix.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: timedl.com
+    policy: Proxy
+- domain_suffix:
+    match: timibase.com
+    policy: Proxy
+- domain_suffix:
+    match: timmerse.com
+    policy: Proxy
+- domain_suffix:
+    match: tingbook.com
+    policy: Proxy
+- domain_suffix:
+    match: tisi.org
+    policy: Proxy
+- domain_suffix:
+    match: titanm.com
+    policy: Proxy
+- domain_suffix:
+    match: tlbsbigdata.com
+    policy: Proxy
+- domain_suffix:
+    match: tlinkaccess.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlinkaccess.com
+    policy: Proxy
+- domain_suffix:
+    match: tlinkaccess2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlinkaccess2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveapi.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveapi2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveapi2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveauth.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveauth.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveauth2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveauth2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdn.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv1.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv3.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv4.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecdnv4.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecontroller.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecontroller.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivecontroller2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivecontroller2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedal.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedal.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedal2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedal2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedeliver.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedispatch.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedispatch.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedispatch2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedispatch2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedns.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedns.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivedns2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivedns2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivednsv1.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivednsv1.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivegslb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivegslb.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivehttpdns.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivehttpdns2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm3.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveigtm3.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivemcdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivemcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivemcdnsched.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivemcdnsched.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveplay.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveplaydemo.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveproxy.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveproxy.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveproxy2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveproxy2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivepush.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivepush.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivepush.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivepush2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivertc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivertc.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivertc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivertc2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdk.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdk.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdk2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdk2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdkconfig.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdkconfig.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdkconfig2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesdkconfig2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesource.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrc.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrc2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcaccess.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcaccess.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcaccess2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcaccess2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcapp2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcapp2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcdemo.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcschedule.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcschedule.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcschedule2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivesrcschedule2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivessl.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivessl.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivessl2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivessl2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivestability.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivestability2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivestream.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivestream.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivestream2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivestream2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveupload.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveupload.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveupload2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveupload2.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveweb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveweb.com
+    policy: Proxy
+- domain_suffix:
+    match: tliveweb2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tliveweb2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtc.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtc2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtc2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpush.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpush.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpush2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpush2.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpushsch.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpushsch.com
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpushsch2.cn
+    policy: Proxy
+- domain_suffix:
+    match: tlivewebrtcpushsch2.com
+    policy: Proxy
+- domain_suffix:
+    match: tmc-youqun.com
+    policy: Proxy
+- domain_suffix:
+    match: tmcdl.cn
+    policy: Proxy
+- domain_suffix:
+    match: tmcqd.cn
+    policy: Proxy
+- domain_suffix:
+    match: tmcyx.cn
+    policy: Proxy
+- domain_suffix:
+    match: tmecd.com
+    policy: Proxy
+- domain_suffix:
+    match: tmfcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: tmgdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: tmgdb.com
+    policy: Proxy
+- domain_suffix:
+    match: tmgdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: tmigrate.com
+    policy: Proxy
+- domain_suffix:
+    match: tnebula.cn
+    policy: Proxy
+- domain_suffix:
+    match: tnebula.net
+    policy: Proxy
+- domain_suffix:
+    match: todolist.chat
+    policy: Proxy
+- domain_suffix:
+    match: todolist.email
+    policy: Proxy
+- domain_suffix:
+    match: todolist.pub
+    policy: Proxy
+- domain_suffix:
+    match: tos.cn
+    policy: Proxy
+- domain_suffix:
+    match: totope.com
+    policy: Proxy
+- domain_suffix:
+    match: tourismshow.cn
+    policy: Proxy
+- domain_suffix:
+    match: tourismuser.cn
+    policy: Proxy
+- domain_suffix:
+    match: tpdmp.com
+    policy: Proxy
+- domain_suffix:
+    match: tpe-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: tpe-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: tpe-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: tpe-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: tpiccdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tpiccdn.net
+    policy: Proxy
+- domain_suffix:
+    match: tqapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: tqapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tqapp.net
+    policy: Proxy
+- domain_suffix:
+    match: tquic.net
+    policy: Proxy
+- domain_suffix:
+    match: tri.cn
+    policy: Proxy
+- domain_suffix:
+    match: trimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: trpc.center
+    policy: Proxy
+- domain_suffix:
+    match: trpc.group
+    policy: Proxy
+- domain_suffix:
+    match: trpc.tech
+    policy: Proxy
+- domain_suffix:
+    match: trtccloud.com
+    policy: Proxy
+- domain_suffix:
+    match: trtccloud.net
+    policy: Proxy
+- domain_suffix:
+    match: trtcrecover.com
+    policy: Proxy
+- domain_suffix:
+    match: trtcube-license.cn
+    policy: Proxy
+- domain_suffix:
+    match: tsa-lp.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page0.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page1.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page2.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page3.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page4.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page5.com
+    policy: Proxy
+- domain_suffix:
+    match: tsa-page6.com
+    policy: Proxy
+- domain_suffix:
+    match: tsapage.com
+    policy: Proxy
+- domain_suffix:
+    match: tsasc.cn
+    policy: Proxy
+- domain_suffix:
+    match: tsd0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tsecdapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tsepcn.com
+    policy: Proxy
+- domain_suffix:
+    match: tsm-license-test.com
+    policy: Proxy
+- domain_suffix:
+    match: tsm-license.com
+    policy: Proxy
+- domain_suffix:
+    match: tsm0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tsn-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: tsn-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: tsn-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: tsn-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: tsn0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tsparkling.com
+    policy: Proxy
+- domain_suffix:
+    match: tswjs.net
+    policy: Proxy
+- domain_suffix:
+    match: tswjs.org
+    policy: Proxy
+- domain_suffix:
+    match: tts0.cn
+    policy: Proxy
+- domain_suffix:
+    match: ttsim.cn
+    policy: Proxy
+- domain_suffix:
+    match: ttsim.com
+    policy: Proxy
+- domain_suffix:
+    match: ttsim.net
+    policy: Proxy
+- domain_suffix:
+    match: tuicross.com
+    policy: Proxy
+- domain_suffix:
+    match: tvodapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tvodapibk.com
+    policy: Proxy
+- domain_suffix:
+    match: twsapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tx-exhibition.com
+    policy: Proxy
+- domain_suffix:
+    match: txacc1.com
+    policy: Proxy
+- domain_suffix:
+    match: txacc1.net
+    policy: Proxy
+- domain_suffix:
+    match: txbanche.com
+    policy: Proxy
+- domain_suffix:
+    match: txbyod.com
+    policy: Proxy
+- domain_suffix:
+    match: txcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: txcdns.net
+    policy: Proxy
+- domain_suffix:
+    match: txclivecdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: txclivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: txcloudlive.cn
+    policy: Proxy
+- domain_suffix:
+    match: txcloudlive.com
+    policy: Proxy
+- domain_suffix:
+    match: txcode.com
+    policy: Proxy
+- domain_suffix:
+    match: txcxjd.com
+    policy: Proxy
+- domain_suffix:
+    match: txdl1.com
+    policy: Proxy
+- domain_suffix:
+    match: txdl1.net
+    policy: Proxy
+- domain_suffix:
+    match: txdl2.com
+    policy: Proxy
+- domain_suffix:
+    match: txdl2.net
+    policy: Proxy
+- domain_suffix:
+    match: txelive.cn
+    policy: Proxy
+- domain_suffix:
+    match: txelive.com
+    policy: Proxy
+- domain_suffix:
+    match: txelvb.cn
+    policy: Proxy
+- domain_suffix:
+    match: txelvb.com
+    policy: Proxy
+- domain_suffix:
+    match: txeo.net
+    policy: Proxy
+- domain_suffix:
+    match: txhttpdns.cn
+    policy: Proxy
+- domain_suffix:
+    match: txhttpdns.net
+    policy: Proxy
+- domain_suffix:
+    match: txidc.wang
+    policy: Proxy
+- domain_suffix:
+    match: txleshare.com
+    policy: Proxy
+- domain_suffix:
+    match: txlivecdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: txlivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: txlivecdn2.com
+    policy: Proxy
+- domain_suffix:
+    match: txmdb.cn
+    policy: Proxy
+- domain_suffix:
+    match: txmdb.com
+    policy: Proxy
+- domain_suffix:
+    match: txmdb.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: txresearch.com
+    policy: Proxy
+- domain_suffix:
+    match: txscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: txtyxg.com
+    policy: Proxy
+- domain_suffix:
+    match: txvideo1.com
+    policy: Proxy
+- domain_suffix:
+    match: txvideo2.com
+    policy: Proxy
+- domain_suffix:
+    match: txyscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: txyscdn.net
+    policy: Proxy
+- domain_suffix:
+    match: tym0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tyn0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tyu0.cn
+    policy: Proxy
+- domain_suffix:
+    match: tyxcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: tyxcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: u-con-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: u-con-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: uatmrrvendor.com
+    policy: Proxy
+- domain_suffix:
+    match: ugc-up-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: ugc-up-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: ugcimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: ugdtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: uisa0.cn
+    policy: Proxy
+- domain_suffix:
+    match: um.run
+    policy: Proxy
+- domain_suffix:
+    match: uncnn.cn
+    policy: Proxy
+- domain_suffix:
+    match: univod.cn
+    policy: Proxy
+- domain_suffix:
+    match: up-hl.3g.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: upqzfile.com
+    policy: Proxy
+- domain_suffix:
+    match: upqzfilebk.com
+    policy: Proxy
+- domain_suffix:
+    match: url.cn
+    policy: Proxy
+- domain_suffix:
+    match: urldx.cn
+    policy: Proxy
+- domain_suffix:
+    match: urlget.cn
+    policy: Proxy
+- domain_suffix:
+    match: urlsecajog.com
+    policy: Proxy
+- domain_suffix:
+    match: urlshare.cn
+    policy: Proxy
+- domain_suffix:
+    match: usao5.cn
+    policy: Proxy
+- domain_suffix:
+    match: usao8.cn
+    policy: Proxy
+- domain_suffix:
+    match: usao8.com
+    policy: Proxy
+- domain_suffix:
+    match: use-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: use-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: use-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: use-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: usw-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: usw-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: usw-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: usw-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: v-jitp-dom.com
+    policy: Proxy
+- domain_suffix:
+    match: v-jitp-dom.net
+    policy: Proxy
+- domain_suffix:
+    match: v-jitp-glo.com
+    policy: Proxy
+- domain_suffix:
+    match: v-jitp-glo.net
+    policy: Proxy
+- domain_suffix:
+    match: v.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: v.smtcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: v2xdatacenter.com
+    policy: Proxy
+- domain_suffix:
+    match: v2xdatasource.com
+    policy: Proxy
+- domain_suffix:
+    match: v2xengine.com
+    policy: Proxy
+- domain_suffix:
+    match: vcloudlive.com
+    policy: Proxy
+- domain_suffix:
+    match: vcloudlive.net
+    policy: Proxy
+- domain_suffix:
+    match: vcloudsp.com
+    policy: Proxy
+- domain_suffix:
+    match: vcloudsp.net
+    policy: Proxy
+- domain_suffix:
+    match: vcloudstc.com
+    policy: Proxy
+- domain_suffix:
+    match: vcloudstc.net
+    policy: Proxy
+- domain_suffix:
+    match: vcloudvod.com
+    policy: Proxy
+- domain_suffix:
+    match: vcloudvod.net
+    policy: Proxy
+- domain_suffix:
+    match: vendor-src-eo.com
+    policy: Proxy
+- domain_suffix:
+    match: video.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: videohudong.com
+    policy: Proxy
+- domain_suffix:
+    match: videoxiaoyouxi.com
+    policy: Proxy
+- domain_suffix:
+    match: videoyx.com
+    policy: Proxy
+- domain_suffix:
+    match: vigtm-meeting-tencent.cn
+    policy: Proxy
+- domain_suffix:
+    match: vigtm-meeting-tencent.com
+    policy: Proxy
+- domain_suffix:
+    match: vip-lexiang.com
+    policy: Proxy
+- domain_suffix:
+    match: visvice.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: visvise.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: vitaloffice.life
+    policy: Proxy
+- domain_suffix:
+    match: vlinkapi.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-backup.net
+    policy: Proxy
+- domain_suffix:
+    match: vod-bk-qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-content.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-content.net
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo1.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo2.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo3.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo4.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-eo5.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-igtm.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-pro.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-test.com
+    policy: Proxy
+- domain_suffix:
+    match: vod-upload.com
+    policy: Proxy
+- domain_suffix:
+    match: vodapis.com
+    policy: Proxy
+- domain_suffix:
+    match: vodapisbk.com
+    policy: Proxy
+- domain_suffix:
+    match: vodeoapi.com
+    policy: Proxy
+- domain_suffix:
+    match: vodeoapibk.com
+    policy: Proxy
+- domain_suffix:
+    match: vodeointernal.com
+    policy: Proxy
+- domain_suffix:
+    match: vodinternal.com
+    policy: Proxy
+- domain_suffix:
+    match: vodinternalbk.com
+    policy: Proxy
+- domain_suffix:
+    match: vodplayvideo.com
+    policy: Proxy
+- domain_suffix:
+    match: vodplayvideo.net
+    policy: Proxy
+- domain_suffix:
+    match: vodpro-upload.com
+    policy: Proxy
+- domain_suffix:
+    match: vodpro-upload1.com
+    policy: Proxy
+- domain_suffix:
+    match: vodpro-upload2.com
+    policy: Proxy
+- domain_suffix:
+    match: vodpro-uploadbk.com
+    policy: Proxy
+- domain_suffix:
+    match: vodtcbk.com
+    policy: Proxy
+- domain_suffix:
+    match: vodxl-qcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: voovlive.com
+    policy: Proxy
+- domain_suffix:
+    match: voovlive.net
+    policy: Proxy
+- domain_suffix:
+    match: voovmeeting.com
+    policy: Proxy
+- domain_suffix:
+    match: voovnow.com
+    policy: Proxy
+- domain_suffix:
+    match: vulrange.com
+    policy: Proxy
+- domain_suffix:
+    match: vurl.fun
+    policy: Proxy
+- domain_suffix:
+    match: vurl.link
+    policy: Proxy
+- domain_suffix:
+    match: vurl.pro
+    policy: Proxy
+- domain_suffix:
+    match: vurl.tech
+    policy: Proxy
+- domain_suffix:
+    match: vurl1.cn
+    policy: Proxy
+- domain_suffix:
+    match: vurl3.vip
+    policy: Proxy
+- domain_suffix:
+    match: vweixinf.tc.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: vweixinthumb.tc.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: vxo7tu.com
+    policy: Proxy
+- domain_suffix:
+    match: wangzherongyao.com
+    policy: Proxy
+- domain_suffix:
+    match: wanjiashow.com
+    policy: Proxy
+- domain_suffix:
+    match: warframeofficial.com
+    policy: Proxy
+- domain_suffix:
+    match: wavecommittee.com
+    policy: Proxy
+- domain_suffix:
+    match: wcbygame.com
+    policy: Proxy
+- domain_suffix:
+    match: we-park.cn
+    policy: Proxy
+- domain_suffix:
+    match: we-pass.com
+    policy: Proxy
+- domain_suffix:
+    match: webacc.net
+    policy: Proxy
+- domain_suffix:
+    match: websec1.com
+    policy: Proxy
+- domain_suffix:
+    match: websec1.net
+    policy: Proxy
+- domain_suffix:
+    match: wechat.com
+    policy: Proxy
+- domain_suffix:
+    match: wechat.design
+    policy: Proxy
+- domain_suffix:
+    match: wechat.me
+    policy: Proxy
+- domain_suffix:
+    match: wechat.org
+    policy: Proxy
+- domain_suffix:
+    match: wechatapp.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatapp.us
+    policy: Proxy
+- domain_suffix:
+    match: wechatauthdemo.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatdevelop.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatlegal.cn
+    policy: Proxy
+- domain_suffix:
+    match: wechatlegal.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatlegal.net
+    policy: Proxy
+- domain_suffix:
+    match: wechatmessenger.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatmessenger.us
+    policy: Proxy
+- domain_suffix:
+    match: wechatos.net
+    policy: Proxy
+- domain_suffix:
+    match: wechatpay.cn
+    policy: Proxy
+- domain_suffix:
+    match: wechatpay.com
+    policy: Proxy
+- domain_suffix:
+    match: wechatpay.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: wechatpay.com.my
+    policy: Proxy
+- domain_suffix:
+    match: wecom.work
+    policy: Proxy
+- domain_suffix:
+    match: wedev.cool
+    policy: Proxy
+- domain_suffix:
+    match: wedeveloper.com
+    policy: Proxy
+- domain_suffix:
+    match: wegame.com
+    policy: Proxy
+- domain_suffix:
+    match: wegame.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: wegamedesign.com
+    policy: Proxy
+- domain_suffix:
+    match: wegamedeveloper.com
+    policy: Proxy
+- domain_suffix:
+    match: wegamemail.com
+    policy: Proxy
+- domain_suffix:
+    match: wegameplus.com
+    policy: Proxy
+- domain_suffix:
+    match: weiaixiaoshuo.com
+    policy: Proxy
+- domain_suffix:
+    match: weicunmall.com
+    policy: Proxy
+- domain_suffix:
+    match: weishi.com
+    policy: Proxy
+- domain_suffix:
+    match: weisurvey.com
+    policy: Proxy
+- domain_suffix:
+    match: weisurvey.net
+    policy: Proxy
+- domain_suffix:
+    match: weixin.com
+    policy: Proxy
+- domain_suffix:
+    match: weixin.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: weixin110.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: weixinbridge.com
+    policy: Proxy
+- domain_suffix:
+    match: weixindevelop.com
+    policy: Proxy
+- domain_suffix:
+    match: weixinsxy.com
+    policy: Proxy
+- domain_suffix:
+    match: weiyun.com
+    policy: Proxy
+- domain_suffix:
+    match: weknow.io
+    policy: Proxy
+- domain_suffix:
+    match: weparks.cn
+    policy: Proxy
+- domain_suffix:
+    match: werepository.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: wesimiot.com
+    policy: Proxy
+- domain_suffix:
+    match: wesing-game.com
+    policy: Proxy
+- domain_suffix:
+    match: wesingapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: wesingapp.com
+    policy: Proxy
+- domain_suffix:
+    match: wetest.cn
+    policy: Proxy
+- domain_suffix:
+    match: wetest.host
+    policy: Proxy
+- domain_suffix:
+    match: wetest.net
+    policy: Proxy
+- domain_suffix:
+    match: wetest.org
+    policy: Proxy
+- domain_suffix:
+    match: wetestlab.cn
+    policy: Proxy
+- domain_suffix:
+    match: wetestlab.net
+    policy: Proxy
+- domain_suffix:
+    match: wetv.vip
+    policy: Proxy
+- domain_suffix:
+    match: wetvinfo.com
+    policy: Proxy
+- domain_suffix:
+    match: weui.io
+    policy: Proxy
+- domain_suffix:
+    match: wework-pro.com
+    policy: Proxy
+- domain_suffix:
+    match: wework-studio.com
+    policy: Proxy
+- domain_suffix:
+    match: wgimg.com
+    policy: Proxy
+- domain_suffix:
+    match: whec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: whec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: whec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: whec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: whyrtc.com
+    policy: Proxy
+- domain_suffix:
+    match: wisefx.cn
+    policy: Proxy
+- domain_suffix:
+    match: wisefx.com
+    policy: Proxy
+- domain_suffix:
+    match: withzz.com
+    policy: Proxy
+- domain_suffix:
+    match: wizsci.com
+    policy: Proxy
+- domain_suffix:
+    match: wkdimg.com
+    policy: Proxy
+- domain_suffix:
+    match: wkzstencent.com
+    policy: Proxy
+- domain_suffix:
+    match: wltong.cn
+    policy: Proxy
+- domain_suffix:
+    match: wltong.com
+    policy: Proxy
+- domain_suffix:
+    match: wnspic.com
+    policy: Proxy
+- domain_suffix:
+    match: wnspicbk.com
+    policy: Proxy
+- domain_suffix:
+    match: wnsqzone.com
+    policy: Proxy
+- domain_suffix:
+    match: wnsqzonebk.com
+    policy: Proxy
+- domain_suffix:
+    match: woa.com
+    policy: Proxy
+- domain_suffix:
+    match: wqsnx.org.cn
+    policy: Proxy
+- domain_suffix:
+    match: wqstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: wsstplay.com
+    policy: Proxy
+- domain_suffix:
+    match: wting.info
+    policy: Proxy
+- domain_suffix:
+    match: wujicode.cn
+    policy: Proxy
+- domain_suffix:
+    match: wujicode.com
+    policy: Proxy
+- domain_suffix:
+    match: wujisite.com
+    policy: Proxy
+- domain_suffix:
+    match: wujistatic.com
+    policy: Proxy
+- domain_suffix:
+    match: wup.imtt.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: wx.gtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: wx.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: wx.tenpay.com
+    policy: Proxy
+- domain_suffix:
+    match: wxamedia.com
+    policy: Proxy
+- domain_suffix:
+    match: wxapp.tc.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: wxaurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: wxcloudrun.com
+    policy: Proxy
+- domain_suffix:
+    match: wxgamemini.com
+    policy: Proxy
+- domain_suffix:
+    match: wxgateway.com
+    policy: Proxy
+- domain_suffix:
+    match: wxgmkt.com
+    policy: Proxy
+- domain_suffix:
+    match: wxgongkaike.com
+    policy: Proxy
+- domain_suffix:
+    match: wxlagame.com
+    policy: Proxy
+- domain_suffix:
+    match: wxlivecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: wxmpurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: wxpayglobal.cn
+    policy: Proxy
+- domain_suffix:
+    match: wxpayui.com
+    policy: Proxy
+- domain_suffix:
+    match: wxs.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: wxscan.cn
+    policy: Proxy
+- domain_suffix:
+    match: wxshops.co
+    policy: Proxy
+- domain_suffix:
+    match: wxutil.com
+    policy: Proxy
+- domain_suffix:
+    match: wxworklive.com
+    policy: Proxy
+- domain_suffix:
+    match: wxxd.co
+    policy: Proxy
+- domain_suffix:
+    match: wzrygcht.com
+    policy: Proxy
+- domain_suffix:
+    match: xbec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: xbec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: xbec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: xbec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: xdxiaoshuo.com
+    policy: Proxy
+- domain_suffix:
+    match: xga0.cn
+    policy: Proxy
+- domain_suffix:
+    match: xgamecenter.com
+    policy: Proxy
+- domain_suffix:
+    match: xgz0.cn
+    policy: Proxy
+- domain_suffix:
+    match: xgz1.cn
+    policy: Proxy
+- domain_suffix:
+    match: xgz2.cn
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan0.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan1.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan2.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan3.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan4.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan5.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan6.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan7.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan8.com
+    policy: Proxy
+- domain_suffix:
+    match: xijingjianzhan9.com
+    policy: Proxy
+- domain_suffix:
+    match: xindongdinglv.com
+    policy: Proxy
+- domain_suffix:
+    match: xinyueclub.com
+    policy: Proxy
+- domain_suffix:
+    match: xiyec-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: xiyec-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: xiyec-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: xiyec-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: xn--r70as2s.xn--fiqs8s
+    policy: Proxy
+- domain_suffix:
+    match: xqa1.cn
+    policy: Proxy
+- domain_suffix:
+    match: xqd1.cn
+    policy: Proxy
+- domain_suffix:
+    match: xqg1.cn
+    policy: Proxy
+- domain_suffix:
+    match: xqk1.cn
+    policy: Proxy
+- domain_suffix:
+    match: xqymuy.com
+    policy: Proxy
+- domain_suffix:
+    match: xqz0.cn
+    policy: Proxy
+- domain_suffix:
+    match: xs.cn
+    policy: Proxy
+- domain_suffix:
+    match: xs8.cn
+    policy: Proxy
+- domain_suffix:
+    match: xuz0.cn
+    policy: Proxy
+- domain_suffix:
+    match: xxsy.com
+    policy: Proxy
+- domain_suffix:
+    match: xxsy.net
+    policy: Proxy
+- domain_suffix:
+    match: y.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: yakgamer.com
+    policy: Proxy
+- domain_suffix:
+    match: yayagushi.cn
+    policy: Proxy
+- domain_suffix:
+    match: yayagushi.com
+    policy: Proxy
+- domain_suffix:
+    match: yfsail.net
+    policy: Proxy
+- domain_suffix:
+    match: yidiancun.cn
+    policy: Proxy
+- domain_suffix:
+    match: yirgalab.com
+    policy: Proxy
+- domain_suffix:
+    match: ym.link
+    policy: Proxy
+- domain_suffix:
+    match: ym.run
+    policy: Proxy
+- domain_suffix:
+    match: ymzxconf.com
+    policy: Proxy
+- domain_suffix:
+    match: yqacg.com
+    policy: Proxy
+- domain_suffix:
+    match: yuewen.com
+    policy: Proxy
+- domain_suffix:
+    match: yufuid.com
+    policy: Proxy
+- domain_suffix:
+    match: yufuid.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: yufuid.net
+    policy: Proxy
+- domain_suffix:
+    match: yun-hl.3g.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: yunassess.com
+    policy: Proxy
+- domain_suffix:
+    match: yunji.work
+    policy: Proxy
+- domain_suffix:
+    match: yunjitele.com
+    policy: Proxy
+- domain_suffix:
+    match: yuntus.cn
+    policy: Proxy
+- domain_suffix:
+    match: yuntus.com
+    policy: Proxy
+- domain_suffix:
+    match: yuntus.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: yuntus.net
+    policy: Proxy
+- domain_suffix:
+    match: yux.team
+    policy: Proxy
+- domain_suffix:
+    match: ywurl.cn
+    policy: Proxy
+- domain_suffix:
+    match: ywurl.com
+    policy: Proxy
+- domain_suffix:
+    match: yximg.cn
+    policy: Proxy
+- domain_suffix:
+    match: yxsgame.com
+    policy: Proxy
+- domain_suffix:
+    match: yxzggame.com
+    policy: Proxy
+- domain_suffix:
+    match: zenvideo.cn
+    policy: Proxy
+- domain_suffix:
+    match: zhiqi.info
+    policy: Proxy
+- domain_suffix:
+    match: zhixinliancos.cn
+    policy: Proxy
+- domain_suffix:
+    match: zhixunfang.com
+    policy: Proxy
+- domain_suffix:
+    match: zhjmp.cn
+    policy: Proxy
+- domain_suffix:
+    match: zhn0.cn
+    policy: Proxy
+- domain_suffix:
+    match: zhuoyuegame.cn
+    policy: Proxy
+- domain_suffix:
+    match: zhuoyuegame.com
+    policy: Proxy
+- domain_suffix:
+    match: zhuoyuegame.net
+    policy: Proxy
+- domain_suffix:
+    match: zjdwz.cn
+    policy: Proxy
+- domain_suffix:
+    match: zjump.cn
+    policy: Proxy
+- domain_suffix:
+    match: zndls.com
+    policy: Proxy
+- domain_suffix:
+    match: znzcompass.com
+    policy: Proxy
+- domain_suffix:
+    match: znzcompass.net
+    policy: Proxy
+- domain_suffix:
+    match: ztcv1.cn
+    policy: Proxy
+- domain_suffix:
+    match: ztcv2.cn
+    policy: Proxy
+- domain_suffix:
+    match: ztcv3.cn
+    policy: Proxy
+- domain_suffix:
+    match: ztnwork.com
+    policy: Proxy
+- domain_suffix:
+    match: zulllv.com
+    policy: Proxy
+- domain_suffix:
+    match: zw-tencentclb.cloud
+    policy: Proxy
+- domain_suffix:
+    match: zw-tencentclb.com
+    policy: Proxy
+- domain_suffix:
+    match: zw-tencentclb.net
+    policy: Proxy
+- domain_suffix:
+    match: zw-tencentclb.work
+    policy: Proxy
+- domain_suffix:
+    match: zxgcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: zxgstock.com
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.104.4/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.104.41/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.104.56/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.118.25/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.133.16/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.133.209/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.32.133.53/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 103.238.16.0/23
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 103.7.28.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 119.147.8.78/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 120.41.44.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 122.5.0.129/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 129.226.107.244/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 129.226.3.47/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 140.249.239.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 140.249.28.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 150.138.137.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 150.139.143.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 27.159.95.0/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 58.58.81.129/32
+    no_resolve: 'true'
+    policy: Proxy

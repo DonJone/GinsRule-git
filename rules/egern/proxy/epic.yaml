@@ -1,8 +1,14 @@
 # Gins-Rules: epic
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "epicgames.com"
-  - "epicgames.dev"
-  - "ol.epicgames.com"
-  - "unrealengine.com"
+rules:
+- domain_suffix:
+    match: epicgames.com
+    policy: Proxy
+- domain_suffix:
+    match: epicgames.dev
+    policy: Proxy
+- domain_suffix:
+    match: ol.epicgames.com
+    policy: Proxy
+- domain_suffix:
+    match: unrealengine.com
+    policy: Proxy

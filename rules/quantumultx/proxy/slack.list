@@ -1,6 +1,6 @@
-HOST-SUFFIX,slack-edge.com
-HOST-SUFFIX,slack-files.com
-HOST-SUFFIX,slack-imgs.com
-HOST-SUFFIX,slack-msgs.com
-HOST-SUFFIX,slack.com
-HOST-SUFFIX,slack.engineering
+HOST-SUFFIX,slack-edge.com,Proxy
+HOST-SUFFIX,slack-files.com,Proxy
+HOST-SUFFIX,slack-imgs.com,Proxy
+HOST-SUFFIX,slack-msgs.com,Proxy
+HOST-SUFFIX,slack.com,Proxy
+HOST-SUFFIX,slack.engineering,Proxy

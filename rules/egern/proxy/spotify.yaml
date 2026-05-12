@@ -1,34 +1,112 @@
 # Gins-Rules: spotify
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "audio-ak-spotify-com.akamaized.net"
-  - "byspotify.com"
-  - "heads4-ak-spotify-com.akamaized.net"
-  - "pscdn.co"
-  - "scdn.co"
-  - "spoti.fi"
-  - "spotify-com.akamaized.net"
-  - "spotify-everywhere.com"
-  - "spotify.app.link"
-  - "spotify.com"
-  - "spotify.design"
-  - "spotifycdn.com"
-  - "spotifycdn.net"
-  - "spotifycharts.com"
-  - "spotifycodes.com"
-  - "spotifyforbrands.com"
-  - "spotifyjobs.com"
-  - "spotifynewsroom.jp"
-  - "spotilocal.com"
-  - "tospotify.com"
-domain_set:
-  - "audio4-ak-spotify-com.akamaized.net"
-  - "cdn-spotify-experiments.conductrics.com"
-  - "heads-ak-spotify-com.akamaized.net"
-  - "spotify.com.edgesuite.net"
-  - "spotify.map.fastly.net"
-  - "spotify.map.fastlylb.net"
-domain_keyword_set:
-  - "-spotify-"
-  - "spotify.com"
+rules:
+- domain_suffix:
+    match: audio-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: audio4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: byspotify.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn-spotify-experiments.conductrics.com
+    policy: Proxy
+- domain_suffix:
+    match: heads-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: heads4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: pscdn.co
+    policy: Proxy
+- domain_suffix:
+    match: scdn.co
+    policy: Proxy
+- domain_suffix:
+    match: spoti.fi
+    policy: Proxy
+- domain_suffix:
+    match: spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: spotify-everywhere.com
+    policy: Proxy
+- domain_suffix:
+    match: spotify.app.link
+    policy: Proxy
+- domain_suffix:
+    match: spotify.com
+    policy: Proxy
+- domain_suffix:
+    match: spotify.com.edgesuite.net
+    policy: Proxy
+- domain_suffix:
+    match: spotify.design
+    policy: Proxy
+- domain_suffix:
+    match: spotify.map.fastly.net
+    policy: Proxy
+- domain_suffix:
+    match: spotify.map.fastlylb.net
+    policy: Proxy
+- domain_suffix:
+    match: spotifycdn.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifycdn.net
+    policy: Proxy
+- domain_suffix:
+    match: spotifycharts.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifycodes.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifyforbrands.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifyjobs.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifynewsroom.jp
+    policy: Proxy
+- domain_suffix:
+    match: spotilocal.com
+    policy: Proxy
+- domain_suffix:
+    match: tospotify.com
+    policy: Proxy
+- domain:
+    match: audio4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain:
+    match: cdn-spotify-experiments.conductrics.com
+    policy: Proxy
+- domain:
+    match: heads-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain:
+    match: spotify.com.edgesuite.net
+    policy: Proxy
+- domain:
+    match: spotify.map.fastly.net
+    policy: Proxy
+- domain:
+    match: spotify.map.fastlylb.net
+    policy: Proxy
+- domain_keyword:
+    match: -spotify-
+    policy: Proxy
+- domain_keyword:
+    match: spotify.com
+    policy: Proxy
+- ip_cidr:
+    match: 104.154.127.126/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 35.186.224.47/32
+    no_resolve: 'true'
+    policy: Proxy

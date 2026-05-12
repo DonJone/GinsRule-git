@@ -1,16 +1,38 @@
 # Gins-Rules: npm
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "cocoapods.org"
-  - "crates.io"
-  - "gradle.org"
-  - "jsdelivr.net"
-  - "mvnrepository.com"
-  - "npmjs.com"
-  - "npmjs.org"
-  - "packagist.org"
-  - "pypi.org"
-  - "pythonhosted.org"
-  - "rubygems.org"
-  - "unpkg.com"
+rules:
+- domain_suffix:
+    match: cocoapods.org
+    policy: Proxy
+- domain_suffix:
+    match: crates.io
+    policy: Proxy
+- domain_suffix:
+    match: gradle.org
+    policy: Proxy
+- domain_suffix:
+    match: jsdelivr.net
+    policy: Proxy
+- domain_suffix:
+    match: mvnrepository.com
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.com
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.org
+    policy: Proxy
+- domain_suffix:
+    match: packagist.org
+    policy: Proxy
+- domain_suffix:
+    match: pypi.org
+    policy: Proxy
+- domain_suffix:
+    match: pythonhosted.org
+    policy: Proxy
+- domain_suffix:
+    match: rubygems.org
+    policy: Proxy
+- domain_suffix:
+    match: unpkg.com
+    policy: Proxy

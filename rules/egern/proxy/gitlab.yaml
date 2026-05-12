@@ -1,11 +1,20 @@
 # Gins-Rules: gitlab
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "gitlab.com"
-  - "gitlab.io"
-  - "gitlab.net"
-  - "gitter-static.net"
-  - "gitter.im"
-domain_keyword_set:
-  - "gitlab"
+rules:
+- domain_suffix:
+    match: gitlab.com
+    policy: Proxy
+- domain_suffix:
+    match: gitlab.io
+    policy: Proxy
+- domain_suffix:
+    match: gitlab.net
+    policy: Proxy
+- domain_suffix:
+    match: gitter-static.net
+    policy: Proxy
+- domain_suffix:
+    match: gitter.im
+    policy: Proxy
+- domain_keyword:
+    match: gitlab
+    policy: Proxy

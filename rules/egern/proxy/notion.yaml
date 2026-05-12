@@ -1,7 +1,11 @@
 # Gins-Rules: notion
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "notion.com"
-  - "notion.site"
-  - "notion.so"
+rules:
+- domain_suffix:
+    match: notion.com
+    policy: Proxy
+- domain_suffix:
+    match: notion.site
+    policy: Proxy
+- domain_suffix:
+    match: notion.so
+    policy: Proxy

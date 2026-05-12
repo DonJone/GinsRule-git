@@ -1,12 +1,23 @@
 # Gins-Rules: twitch
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "ext-twitch.tv"
-  - "jtvnw.net"
-  - "ttvnw.net"
-  - "twitch-ext.rootonline.de"
-  - "twitch.tv"
-  - "twitchcdn.net"
-domain_keyword_set:
-  - "ttvnw"
+rules:
+- domain_suffix:
+    match: ext-twitch.tv
+    policy: Proxy
+- domain_suffix:
+    match: jtvnw.net
+    policy: Proxy
+- domain_suffix:
+    match: ttvnw.net
+    policy: Proxy
+- domain_suffix:
+    match: twitch-ext.rootonline.de
+    policy: Proxy
+- domain_suffix:
+    match: twitch.tv
+    policy: Proxy
+- domain_suffix:
+    match: twitchcdn.net
+    policy: Proxy
+- domain_keyword:
+    match: ttvnw
+    policy: Proxy

@@ -1,6 +1,8 @@
 # Gins-Rules: douyin
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "amemv.com"
-  - "douyinvod.com"
+rules:
+- domain_suffix:
+    match: amemv.com
+    policy: Proxy
+- domain_suffix:
+    match: douyinvod.com
+    policy: Proxy

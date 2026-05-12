@@ -1,4 +1,4 @@
-HOST-SUFFIX,redd.it
-HOST-SUFFIX,reddit.com
-HOST-SUFFIX,redditmedia.com
-HOST-SUFFIX,redditstatic.com
+HOST-SUFFIX,redd.it,Proxy
+HOST-SUFFIX,reddit.com,Proxy
+HOST-SUFFIX,redditmedia.com,Proxy
+HOST-SUFFIX,redditstatic.com,Proxy

@@ -1,4 +1,4 @@
-domain:signal.art
-domain:signal.group
-domain:signal.org
-domain:whispersystems.org
++.signal.org
++.signal.group
++.signal.art
++.whispersystems.org

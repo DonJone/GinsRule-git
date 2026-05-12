@@ -1,561 +1,1726 @@
 # Gins-Rules: facebook
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "aboutfacebook.com"
-  - "accessfacebookfromschool.com"
-  - "accountkit.com"
-  - "acebooik.com"
-  - "acebook.com"
-  - "achat-followers-instagram.com"
-  - "acheter-followers-instagram.com"
-  - "acheterdesfollowersinstagram.com"
-  - "acheterfollowersinstagram.com"
-  - "advancediddetection.com"
-  - "askfacebook.net"
-  - "askfacebook.org"
-  - "atdmt2.com"
-  - "atlasdmt.com"
-  - "atlasonepoint.com"
-  - "atscaleconference.com"
-  - "binoculus.com"
-  - "bookstagram.com"
-  - "botorch.org"
-  - "buck.build"
-  - "buckbuild.com"
-  - "buyingfacebooklikes.com"
-  - "buyoculus.com"
-  - "careersatfb.com"
-  - "carstagram.com"
-  - "cdninstagram.com"
-  - "celebgramme.com"
-  - "chickstagram.com"
-  - "china-facebook.com"
-  - "click-url.com"
-  - "como-hackearfacebook.com"
-  - "componentkit.org"
-  - "crowdtangle.com"
-  - "dacebook.com"
-  - "dlfacebook.com"
-  - "dotfacebook.com"
-  - "dotfacebook.net"
-  - "draftjs.org"
-  - "expresswifi.com"
-  - "f8.com"
-  - "faacebok.com"
-  - "faacebook.com"
-  - "faasbook.com"
-  - "facbebook.com"
-  - "facbeok.com"
-  - "facboo.com"
-  - "facbook.com"
-  - "facbool.com"
-  - "facboox.com"
-  - "faccebook.com"
-  - "faccebookk.com"
-  - "facdbook.com"
-  - "facdebook.com"
-  - "face-book.com"
-  - "faceabook.com"
-  - "facebboc.com"
-  - "facebbook.com"
-  - "facebboook.com"
-  - "facebcook.com"
-  - "facebdok.com"
-  - "facebgook.com"
-  - "facebhook.com"
-  - "facebkkk.com"
-  - "facebo-ok.com"
-  - "faceboak.com"
-  - "facebock.com"
-  - "facebocke.com"
-  - "facebof.com"
-  - "faceboik.com"
-  - "facebok.com"
-  - "facebokbook.com"
-  - "facebokc.com"
-  - "facebokk.com"
-  - "facebokok.com"
-  - "faceboks.com"
-  - "facebol.com"
-  - "facebolk.com"
-  - "facebomok.com"
-  - "faceboo.com"
-  - "facebooa.com"
-  - "faceboob.com"
-  - "faceboobok.com"
-  - "facebooc.com"
-  - "faceboock.com"
-  - "facebood.com"
-  - "facebooe.com"
-  - "faceboof.com"
-  - "facebooi.com"
-  - "facebooik.com"
-  - "facebooik.org"
-  - "facebooj.com"
-  - "facebook-corp.com"
-  - "facebook-covid-19.com"
-  - "facebook-ebook.com"
-  - "facebook-forum.com"
-  - "facebook-hardware.com"
-  - "facebook-inc.com"
-  - "facebook-login.com"
-  - "facebook-newsroom.com"
-  - "facebook-newsroom.org"
-  - "facebook-pmdcenter.com"
-  - "facebook-pmdcenter.net"
-  - "facebook-pmdcenter.org"
-  - "facebook-privacy.com"
-  - "facebook-program.com"
-  - "facebook-studio.com"
-  - "facebook-support.org"
-  - "facebook-texas-holdem.com"
-  - "facebook-texas-holdem.net"
-  - "facebook.br"
-  - "facebook.ca"
-  - "facebook.cc"
-  - "facebook.com"
-  - "facebook.design"
-  - "facebook.hu"
-  - "facebook.in"
-  - "facebook.net"
-  - "facebook.nl"
-  - "facebook.org"
-  - "facebook.se"
-  - "facebook.shop"
-  - "facebook.tv"
-  - "facebook.us"
-  - "facebook.wang"
-  - "facebook123.org"
-  - "facebook30.com"
-  - "facebook30.net"
-  - "facebook30.org"
-  - "facebook4business.com"
-  - "facebookads.com"
-  - "facebookadvertisingsecrets.com"
-  - "facebookappcenter.info"
-  - "facebookappcenter.net"
-  - "facebookappcenter.org"
-  - "facebookatschool.com"
-  - "facebookawards.com"
-  - "facebookblueprint.net"
-  - "facebookbrand.com"
-  - "facebookbrand.net"
-  - "facebookcanadianelectionintegrityinitiative.com"
-  - "facebookcareer.com"
-  - "facebookcheats.com"
-  - "facebookck.com"
-  - "facebookclub.com"
-  - "facebookcom.com"
-  - "facebookconnect.com"
-  - "facebookconsultant.org"
-  - "facebookcorewwwi.onion"
-  - "facebookcoronavirus.com"
-  - "facebookcovers.org"
-  - "facebookcredits.info"
-  - "facebookdating.net"
-  - "facebookdevelopergarage.com"
-  - "facebookdusexe.org"
-  - "facebookemail.com"
-  - "facebookenespanol.com"
-  - "facebookexchange.com"
-  - "facebookexchange.net"
-  - "facebookfacebook.com"
-  - "facebookflow.com"
-  - "facebookgames.com"
-  - "facebookgraphsearch.com"
-  - "facebookgraphsearch.info"
-  - "facebookgroups.com"
-  - "facebookhome.cc"
-  - "facebookhome.com"
-  - "facebookhome.info"
-  - "facebookhub.com"
-  - "facebooki.com"
-  - "facebookinc.com"
-  - "facebookland.com"
-  - "facebooklikeexchange.com"
-  - "facebooklive.com"
-  - "facebooklivestaging.net"
-  - "facebooklivestaging.org"
-  - "facebooklogin.com"
-  - "facebooklogin.info"
-  - "facebookloginhelp.net"
-  - "facebooklogs.com"
-  - "facebookmail.com"
-  - "facebookmail.tv"
-  - "facebookmanager.info"
-  - "facebookmarketing.info"
-  - "facebookmarketingpartner.com"
-  - "facebookmarketingpartners.com"
-  - "facebookmobile.com"
-  - "facebookmsn.com"
-  - "facebooknews.com"
-  - "facebooknfl.com"
-  - "facebooknude.com"
-  - "facebookofsex.com"
-  - "facebookook.com"
-  - "facebookpaper.com"
-  - "facebookpay.com"
-  - "facebookphonenumber.net"
-  - "facebookphoto.com"
-  - "facebookphotos.com"
-  - "facebookpmdcenter.com"
-  - "facebookpoke.net"
-  - "facebookpoke.org"
-  - "facebookpoker.info"
-  - "facebookpokerchips.info"
-  - "facebookporn.net"
-  - "facebookporn.org"
-  - "facebookporno.net"
-  - "facebookportal.com"
-  - "facebookquotes4u.com"
-  - "facebooks.com"
-  - "facebooksafety.com"
-  - "facebooksecurity.net"
-  - "facebookshop.com"
-  - "facebooksignup.net"
-  - "facebooksite.net"
-  - "facebookstories.com"
-  - "facebookstudios.net"
-  - "facebookstudios.org"
-  - "facebooksupplier.com"
-  - "facebooksuppliers.com"
-  - "facebookswagemea.com"
-  - "facebookswagstore.com"
-  - "facebooksz.com"
-  - "facebookthreads.net"
-  - "facebooktv.net"
-  - "facebooktv.org"
-  - "facebookvacation.com"
-  - "facebookw.com"
-  - "facebookwork.com"
-  - "facebookworld.com"
-  - "facebool.com"
-  - "facebool.info"
-  - "facebooll.com"
-  - "faceboom.com"
-  - "faceboon.com"
-  - "faceboonk.com"
-  - "faceboooik.com"
-  - "faceboook.com"
-  - "faceboop.com"
-  - "faceboot.com"
-  - "faceboox.com"
-  - "facebopk.com"
-  - "facebpook.com"
-  - "facebuk.com"
-  - "facebuok.com"
-  - "facebvook.com"
-  - "facebyook.com"
-  - "facebzook.com"
-  - "facecbgook.com"
-  - "facecbook.com"
-  - "facecbook.org"
-  - "facecook.com"
-  - "facecook.org"
-  - "facedbook.com"
-  - "faceebok.com"
-  - "faceebook.com"
-  - "faceebot.com"
-  - "facegbok.com"
-  - "facegbook.com"
-  - "faceobk.com"
-  - "faceobok.com"
-  - "faceobook.com"
-  - "faceook.com"
-  - "facerbooik.com"
-  - "facerbook.com"
-  - "facesbooc.com"
-  - "facesounds.com"
-  - "facetook.com"
-  - "facevbook.com"
-  - "facewbook.co"
-  - "facewook.com"
-  - "facfacebook.com"
-  - "facfebook.com"
-  - "faciometrics.com"
-  - "fackebook.com"
-  - "facnbook.com"
-  - "facrbook.com"
-  - "facvebook.com"
-  - "facwebook.com"
-  - "facxebook.com"
-  - "fadebook.com"
-  - "faebok.com"
-  - "faebook.com"
-  - "faebookc.com"
-  - "faeboook.com"
-  - "faecebok.com"
-  - "faesebook.com"
-  - "fafacebook.com"
-  - "faicbooc.com"
-  - "fasebokk.com"
-  - "fasebook.com"
-  - "faseboox.com"
-  - "fasttext.cc"
-  - "favebook.com"
-  - "faycbok.com"
-  - "fb.careers"
-  - "fb.com"
-  - "fb.gg"
-  - "fb.me"
-  - "fb.watch"
-  - "fbacebook.com"
-  - "fbaddins.com"
-  - "fbbmarket.com"
-  - "fbboostyourbusiness.com"
-  - "fbcdn-a.akamaihd.net"
-  - "fbcdn.com"
-  - "fbcdn.net"
-  - "fbf8.com"
-  - "fbfeedback.com"
-  - "fbhome.com"
-  - "fbidb.io"
-  - "fbinc.com"
-  - "fbinfer.com"
-  - "fbinnovation.com"
-  - "fblitho.com"
-  - "fbmarketing.com"
-  - "fbmessenger.com"
-  - "fbpigeon.com"
-  - "fbredex.com"
-  - "fbreg.com"
-  - "fbrell.com"
-  - "fbrpms.com"
-  - "fbsbx.com"
-  - "fbsbx.net"
-  - "fbsupport-covid.net"
-  - "fbthirdpartypixel.com"
-  - "fbthirdpartypixel.net"
-  - "fbthirdpartypixel.org"
-  - "fburl.com"
-  - "fbworkmail.com"
-  - "fcacebook.com"
-  - "fcaebook.com"
-  - "fcebook.com"
-  - "fcebookk.com"
-  - "fcfacebook.com"
-  - "fdacebook.info"
-  - "feacboo.com"
-  - "feacbook.com"
-  - "feacbooke.com"
-  - "feacebook.com"
-  - "fecbbok.com"
-  - "fecbooc.com"
-  - "fecbook.com"
-  - "feceboock.com"
-  - "fecebook.net"
-  - "feceboox.com"
-  - "fececbook.com"
-  - "feook.com"
-  - "ferabook.com"
-  - "fescebook.com"
-  - "fesebook.com"
-  - "ffacebook.com"
-  - "fgacebook.com"
-  - "ficeboock.com"
-  - "flow.dev"
-  - "flow.org"
-  - "flowtype.org"
-  - "fmcebook.com"
-  - "fnacebook.com"
-  - "fosebook.com"
-  - "fpacebook.com"
-  - "fqcebook.com"
-  - "fracebook.com"
-  - "freeb.com"
-  - "freebasics.com"
-  - "freebasics.net"
-  - "freebs.com"
-  - "freefacebook.com"
-  - "freefacebook.net"
-  - "freefacebookads.net"
-  - "freefblikes.com"
-  - "freindfeed.com"
-  - "frescolib.org"
-  - "friendbook.info"
-  - "friendfed.com"
-  - "friendfeed-api.com"
-  - "friendfeed-media.com"
-  - "friendfeed.com"
-  - "friendfeedmedia.com"
-  - "fsacebok.com"
-  - "fscebook.com"
-  - "fundraisingwithfacebook.com"
-  - "funnyfacebook.org"
-  - "futureofbusinesssurvey.org"
-  - "gacebook.com"
-  - "gameroom.com"
-  - "gfacecbook.com"
-  - "groups.com"
-  - "hackerfacebook.com"
-  - "hackfacebook.com"
-  - "hackfacebookid.com"
-  - "hacklang.org"
-  - "hhvm.com"
-  - "hifacebook.info"
-  - "howtohackfacebook-account.com"
-  - "hsfacebook.com"
-  - "httpfacebook.com"
-  - "httpsfacebook.com"
-  - "httpwwwfacebook.com"
-  - "i.org"
-  - "ig.me"
-  - "igcdn.com"
-  - "igsonar.com"
-  - "igtv.com"
-  - "imstagram.com"
-  - "imtagram.com"
-  - "instaadder.com"
-  - "instachecker.com"
-  - "instafallow.com"
-  - "instafollower.com"
-  - "instagainer.com"
-  - "instagda.com"
-  - "instagify.com"
-  - "instagmania.com"
-  - "instagor.com"
-  - "instagr.am"
-  - "instagram-brand.com"
-  - "instagram-engineering.com"
-  - "instagram-help.com"
-  - "instagram-press.com"
-  - "instagram-press.net"
-  - "instagram.com"
-  - "instagramci.com"
-  - "instagramcn.com"
-  - "instagramdi.com"
-  - "instagramhashtags.net"
-  - "instagramhilecim.com"
-  - "instagramhilesi.org"
-  - "instagramium.com"
-  - "instagramizlenme.com"
-  - "instagramkusu.com"
-  - "instagramlogin.com"
-  - "instagramm.com"
-  - "instagramn.com"
-  - "instagrampartners.com"
-  - "instagramphoto.com"
-  - "instagramq.com"
-  - "instagramsepeti.com"
-  - "instagramtakipcisatinal.net"
-  - "instagramtakiphilesi.com"
-  - "instagramtips.com"
-  - "instagramtr.com"
-  - "instagran.com"
-  - "instagranm.com"
-  - "instagrem.com"
-  - "instagrm.com"
-  - "instagtram.com"
-  - "instagy.com"
-  - "instamgram.com"
-  - "instangram.com"
-  - "instanttelegram.com"
-  - "instaplayer.net"
-  - "instastyle.tv"
-  - "instgram.com"
-  - "intagram.com"
-  - "intagrm.com"
-  - "internet.org"
-  - "intgram.com"
-  - "ip6.static.sl-reverse.com"
-  - "kingstagram.com"
-  - "klik.me"
-  - "liverail.com"
-  - "liverail.tv"
-  - "lnstagram-help.com"
-  - "login-account.net"
-  - "loom-sdk.com"
-  - "m.me"
-  - "makeitopen.com"
-  - "markzuckerberg.com"
-  - "mcrouter.net"
-  - "mcrouter.org"
-  - "messenger.com"
-  - "messengerdevelopers.com"
-  - "meta.ai"
-  - "meta.com"
-  - "midentsolutions.com"
-  - "mobilefacebook.com"
-  - "moneywithfacebook.com"
-  - "myfbfans.com"
-  - "nbabot.net"
-  - "newsfeed.com"
-  - "nextstop.com"
-  - "ocul.us"
-  - "oculus-china.com"
-  - "oculus.com"
-  - "oculus2014.com"
-  - "oculus3d.com"
-  - "oculusblog.com"
-  - "oculusbrand.com"
-  - "oculuscasino.net"
-  - "oculuscdn.com"
-  - "oculusconnect.com"
-  - "oculusdiving.com"
-  - "oculusforbusiness.com"
-  - "oculusrift.com"
-  - "oculusvr.com"
-  - "ogp.me"
-  - "oninstagram.com"
-  - "online-deals.net"
-  - "online-instagram.com"
-  - "onlineinstagram.com"
-  - "opencreate.org"
-  - "opengraphprotocol.com"
-  - "opengraphprotocol.org"
-  - "oversightboard.com"
-  - "parse.com"
-  - "powersunitedvr.com"
-  - "pyrobot.org"
-  - "reachtheworldonfacebook.com"
-  - "react.com"
-  - "reactjs.com"
-  - "reactjs.org"
-  - "recoiljs.org"
-  - "redkix.com"
-  - "rocksdb.com"
-  - "rocksdb.net"
-  - "rocksdb.org"
-  - "shopfacebook.com"
-  - "sportsfacebook.com"
-  - "sportstream.com"
-  - "supportfacebook.com"
-  - "terragraph.com"
-  - "thefacebook.com"
-  - "thefacebook.net"
-  - "thefind.com"
-  - "theinstagramhack.com"
-  - "threads.net"
-  - "threadsapp.net"
-  - "toplayerserver.com"
-  - "viewpointsfromfacebook.com"
-  - "wa.me"
-  - "web-instagram.net"
-  - "whatsapp-plus.info"
-  - "whatsapp-plus.me"
-  - "whatsapp-plus.net"
-  - "whatsapp.biz"
-  - "whatsapp.cc"
-  - "whatsapp.com"
-  - "whatsapp.info"
-  - "whatsapp.net"
-  - "whatsapp.org"
-  - "whatsapp.tv"
-  - "whatsappbrand.com"
-  - "whyfacebook.com"
-  - "wit.ai"
-  - "workplace.com"
-  - "workplaceusecases.com"
-  - "worldhack.com"
-  - "www-facebook.com"
-  - "wwwfacebok.com"
-  - "wwwfacebook.com"
-  - "wwwinstagram.com"
-  - "wwwmfacebook.com"
-  - "yogalayout.com"
-  - "zuckerberg.com"
-  - "zuckerberg.net"
-domain_keyword_set:
-  - "facebook"
-  - "fbcdn"
+rules:
+- domain_suffix:
+    match: aboutfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: accessfacebookfromschool.com
+    policy: Proxy
+- domain_suffix:
+    match: accountkit.com
+    policy: Proxy
+- domain_suffix:
+    match: acebooik.com
+    policy: Proxy
+- domain_suffix:
+    match: acebook.com
+    policy: Proxy
+- domain_suffix:
+    match: achat-followers-instagram.com
+    policy: Proxy
+- domain_suffix:
+    match: acheter-followers-instagram.com
+    policy: Proxy
+- domain_suffix:
+    match: acheterdesfollowersinstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: acheterfollowersinstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: advancediddetection.com
+    policy: Proxy
+- domain_suffix:
+    match: askfacebook.net
+    policy: Proxy
+- domain_suffix:
+    match: askfacebook.org
+    policy: Proxy
+- domain_suffix:
+    match: atdmt2.com
+    policy: Proxy
+- domain_suffix:
+    match: atlasdmt.com
+    policy: Proxy
+- domain_suffix:
+    match: atlasonepoint.com
+    policy: Proxy
+- domain_suffix:
+    match: atscaleconference.com
+    policy: Proxy
+- domain_suffix:
+    match: binoculus.com
+    policy: Proxy
+- domain_suffix:
+    match: bookstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: botorch.org
+    policy: Proxy
+- domain_suffix:
+    match: buck.build
+    policy: Proxy
+- domain_suffix:
+    match: buckbuild.com
+    policy: Proxy
+- domain_suffix:
+    match: buyingfacebooklikes.com
+    policy: Proxy
+- domain_suffix:
+    match: buyoculus.com
+    policy: Proxy
+- domain_suffix:
+    match: careersatfb.com
+    policy: Proxy
+- domain_suffix:
+    match: carstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: cdninstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: celebgramme.com
+    policy: Proxy
+- domain_suffix:
+    match: chickstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: china-facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: click-url.com
+    policy: Proxy
+- domain_suffix:
+    match: como-hackearfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: componentkit.org
+    policy: Proxy
+- domain_suffix:
+    match: crowdtangle.com
+    policy: Proxy
+- domain_suffix:
+    match: dacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: dlfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: dotfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: dotfacebook.net
+    policy: Proxy
+- domain_suffix:
+    match: draftjs.org
+    policy: Proxy
+- domain_suffix:
+    match: expresswifi.com
+    policy: Proxy
+- domain_suffix:
+    match: f8.com
+    policy: Proxy
+- domain_suffix:
+    match: faacebok.com
+    policy: Proxy
+- domain_suffix:
+    match: faacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faasbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facbebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facbeok.com
+    policy: Proxy
+- domain_suffix:
+    match: facboo.com
+    policy: Proxy
+- domain_suffix:
+    match: facbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facbool.com
+    policy: Proxy
+- domain_suffix:
+    match: facboox.com
+    policy: Proxy
+- domain_suffix:
+    match: faccebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faccebookk.com
+    policy: Proxy
+- domain_suffix:
+    match: facdbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facdebook.com
+    policy: Proxy
+- domain_suffix:
+    match: face-book.com
+    policy: Proxy
+- domain_suffix:
+    match: faceabook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebboc.com
+    policy: Proxy
+- domain_suffix:
+    match: facebbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebboook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebcook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebdok.com
+    policy: Proxy
+- domain_suffix:
+    match: facebgook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebhook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebkkk.com
+    policy: Proxy
+- domain_suffix:
+    match: facebo-ok.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboak.com
+    policy: Proxy
+- domain_suffix:
+    match: facebock.com
+    policy: Proxy
+- domain_suffix:
+    match: facebocke.com
+    policy: Proxy
+- domain_suffix:
+    match: facebof.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboik.com
+    policy: Proxy
+- domain_suffix:
+    match: facebok.com
+    policy: Proxy
+- domain_suffix:
+    match: facebokbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebokc.com
+    policy: Proxy
+- domain_suffix:
+    match: facebokk.com
+    policy: Proxy
+- domain_suffix:
+    match: facebokok.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboks.com
+    policy: Proxy
+- domain_suffix:
+    match: facebol.com
+    policy: Proxy
+- domain_suffix:
+    match: facebolk.com
+    policy: Proxy
+- domain_suffix:
+    match: facebomok.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboo.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooa.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboob.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboobok.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooc.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboock.com
+    policy: Proxy
+- domain_suffix:
+    match: facebood.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooe.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboof.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooi.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooik.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooik.org
+    policy: Proxy
+- domain_suffix:
+    match: facebooj.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-corp.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-covid-19.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-ebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-forum.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-hardware.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-inc.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-login.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-newsroom.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-newsroom.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook-pmdcenter.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-pmdcenter.net
+    policy: Proxy
+- domain_suffix:
+    match: facebook-pmdcenter.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook-privacy.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-program.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-studio.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-support.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook-texas-holdem.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook-texas-holdem.net
+    policy: Proxy
+- domain_suffix:
+    match: facebook.br
+    policy: Proxy
+- domain_suffix:
+    match: facebook.ca
+    policy: Proxy
+- domain_suffix:
+    match: facebook.cc
+    policy: Proxy
+- domain_suffix:
+    match: facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook.design
+    policy: Proxy
+- domain_suffix:
+    match: facebook.hu
+    policy: Proxy
+- domain_suffix:
+    match: facebook.in
+    policy: Proxy
+- domain_suffix:
+    match: facebook.net
+    policy: Proxy
+- domain_suffix:
+    match: facebook.nl
+    policy: Proxy
+- domain_suffix:
+    match: facebook.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook.se
+    policy: Proxy
+- domain_suffix:
+    match: facebook.shop
+    policy: Proxy
+- domain_suffix:
+    match: facebook.tv
+    policy: Proxy
+- domain_suffix:
+    match: facebook.us
+    policy: Proxy
+- domain_suffix:
+    match: facebook.wang
+    policy: Proxy
+- domain_suffix:
+    match: facebook123.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook30.com
+    policy: Proxy
+- domain_suffix:
+    match: facebook30.net
+    policy: Proxy
+- domain_suffix:
+    match: facebook30.org
+    policy: Proxy
+- domain_suffix:
+    match: facebook4business.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookads.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookadvertisingsecrets.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookappcenter.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookappcenter.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookappcenter.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookatschool.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookawards.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookblueprint.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookbrand.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookbrand.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookcanadianelectionintegrityinitiative.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookcareer.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookcheats.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookck.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookclub.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookcom.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookconnect.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookconsultant.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookcorewwwi.onion
+    policy: Proxy
+- domain_suffix:
+    match: facebookcoronavirus.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookcovers.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookcredits.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookdating.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookdevelopergarage.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookdusexe.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookemail.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookenespanol.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookexchange.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookexchange.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookflow.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookgames.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookgraphsearch.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookgraphsearch.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookgroups.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookhome.cc
+    policy: Proxy
+- domain_suffix:
+    match: facebookhome.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookhome.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookhub.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooki.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookinc.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookland.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooklikeexchange.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooklive.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooklivestaging.net
+    policy: Proxy
+- domain_suffix:
+    match: facebooklivestaging.org
+    policy: Proxy
+- domain_suffix:
+    match: facebooklogin.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooklogin.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookloginhelp.net
+    policy: Proxy
+- domain_suffix:
+    match: facebooklogs.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookmail.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookmail.tv
+    policy: Proxy
+- domain_suffix:
+    match: facebookmanager.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookmarketing.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookmarketingpartner.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookmarketingpartners.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookmobile.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookmsn.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooknews.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooknfl.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooknude.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookofsex.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookpaper.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookpay.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookphonenumber.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookphoto.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookphotos.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookpmdcenter.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookpoke.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookpoke.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookpoker.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookpokerchips.info
+    policy: Proxy
+- domain_suffix:
+    match: facebookporn.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookporn.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookporno.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookportal.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookquotes4u.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooks.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooksafety.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooksecurity.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookshop.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooksignup.net
+    policy: Proxy
+- domain_suffix:
+    match: facebooksite.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookstories.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookstudios.net
+    policy: Proxy
+- domain_suffix:
+    match: facebookstudios.org
+    policy: Proxy
+- domain_suffix:
+    match: facebooksupplier.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooksuppliers.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookswagemea.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookswagstore.com
+    policy: Proxy
+- domain_suffix:
+    match: facebooksz.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookthreads.net
+    policy: Proxy
+- domain_suffix:
+    match: facebooktv.net
+    policy: Proxy
+- domain_suffix:
+    match: facebooktv.org
+    policy: Proxy
+- domain_suffix:
+    match: facebookvacation.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookw.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookwork.com
+    policy: Proxy
+- domain_suffix:
+    match: facebookworld.com
+    policy: Proxy
+- domain_suffix:
+    match: facebool.com
+    policy: Proxy
+- domain_suffix:
+    match: facebool.info
+    policy: Proxy
+- domain_suffix:
+    match: facebooll.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboom.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboon.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboonk.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboooik.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboook.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboop.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboot.com
+    policy: Proxy
+- domain_suffix:
+    match: faceboox.com
+    policy: Proxy
+- domain_suffix:
+    match: facebopk.com
+    policy: Proxy
+- domain_suffix:
+    match: facebpook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebuk.com
+    policy: Proxy
+- domain_suffix:
+    match: facebuok.com
+    policy: Proxy
+- domain_suffix:
+    match: facebvook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebyook.com
+    policy: Proxy
+- domain_suffix:
+    match: facebzook.com
+    policy: Proxy
+- domain_suffix:
+    match: facecbgook.com
+    policy: Proxy
+- domain_suffix:
+    match: facecbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facecbook.org
+    policy: Proxy
+- domain_suffix:
+    match: facecook.com
+    policy: Proxy
+- domain_suffix:
+    match: facecook.org
+    policy: Proxy
+- domain_suffix:
+    match: facedbook.com
+    policy: Proxy
+- domain_suffix:
+    match: faceebok.com
+    policy: Proxy
+- domain_suffix:
+    match: faceebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faceebot.com
+    policy: Proxy
+- domain_suffix:
+    match: facegbok.com
+    policy: Proxy
+- domain_suffix:
+    match: facegbook.com
+    policy: Proxy
+- domain_suffix:
+    match: faceobk.com
+    policy: Proxy
+- domain_suffix:
+    match: faceobok.com
+    policy: Proxy
+- domain_suffix:
+    match: faceobook.com
+    policy: Proxy
+- domain_suffix:
+    match: faceook.com
+    policy: Proxy
+- domain_suffix:
+    match: facerbooik.com
+    policy: Proxy
+- domain_suffix:
+    match: facerbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facesbooc.com
+    policy: Proxy
+- domain_suffix:
+    match: facesounds.com
+    policy: Proxy
+- domain_suffix:
+    match: facetook.com
+    policy: Proxy
+- domain_suffix:
+    match: facevbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facewbook.co
+    policy: Proxy
+- domain_suffix:
+    match: facewook.com
+    policy: Proxy
+- domain_suffix:
+    match: facfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facfebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faciometrics.com
+    policy: Proxy
+- domain_suffix:
+    match: fackebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facnbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facrbook.com
+    policy: Proxy
+- domain_suffix:
+    match: facvebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facwebook.com
+    policy: Proxy
+- domain_suffix:
+    match: facxebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fadebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faebok.com
+    policy: Proxy
+- domain_suffix:
+    match: faebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faebookc.com
+    policy: Proxy
+- domain_suffix:
+    match: faeboook.com
+    policy: Proxy
+- domain_suffix:
+    match: faecebok.com
+    policy: Proxy
+- domain_suffix:
+    match: faesebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fafacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faicbooc.com
+    policy: Proxy
+- domain_suffix:
+    match: fasebokk.com
+    policy: Proxy
+- domain_suffix:
+    match: fasebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faseboox.com
+    policy: Proxy
+- domain_suffix:
+    match: fasttext.cc
+    policy: Proxy
+- domain_suffix:
+    match: favebook.com
+    policy: Proxy
+- domain_suffix:
+    match: faycbok.com
+    policy: Proxy
+- domain_suffix:
+    match: fb.careers
+    policy: Proxy
+- domain_suffix:
+    match: fb.com
+    policy: Proxy
+- domain_suffix:
+    match: fb.gg
+    policy: Proxy
+- domain_suffix:
+    match: fb.me
+    policy: Proxy
+- domain_suffix:
+    match: fb.watch
+    policy: Proxy
+- domain_suffix:
+    match: fbacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fbaddins.com
+    policy: Proxy
+- domain_suffix:
+    match: fbbmarket.com
+    policy: Proxy
+- domain_suffix:
+    match: fbboostyourbusiness.com
+    policy: Proxy
+- domain_suffix:
+    match: fbcdn-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: fbcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: fbcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: fbf8.com
+    policy: Proxy
+- domain_suffix:
+    match: fbfeedback.com
+    policy: Proxy
+- domain_suffix:
+    match: fbhome.com
+    policy: Proxy
+- domain_suffix:
+    match: fbidb.io
+    policy: Proxy
+- domain_suffix:
+    match: fbinc.com
+    policy: Proxy
+- domain_suffix:
+    match: fbinfer.com
+    policy: Proxy
+- domain_suffix:
+    match: fbinnovation.com
+    policy: Proxy
+- domain_suffix:
+    match: fblitho.com
+    policy: Proxy
+- domain_suffix:
+    match: fbmarketing.com
+    policy: Proxy
+- domain_suffix:
+    match: fbmessenger.com
+    policy: Proxy
+- domain_suffix:
+    match: fbpigeon.com
+    policy: Proxy
+- domain_suffix:
+    match: fbredex.com
+    policy: Proxy
+- domain_suffix:
+    match: fbreg.com
+    policy: Proxy
+- domain_suffix:
+    match: fbrell.com
+    policy: Proxy
+- domain_suffix:
+    match: fbrpms.com
+    policy: Proxy
+- domain_suffix:
+    match: fbsbx.com
+    policy: Proxy
+- domain_suffix:
+    match: fbsbx.net
+    policy: Proxy
+- domain_suffix:
+    match: fbsupport-covid.net
+    policy: Proxy
+- domain_suffix:
+    match: fbthirdpartypixel.com
+    policy: Proxy
+- domain_suffix:
+    match: fbthirdpartypixel.net
+    policy: Proxy
+- domain_suffix:
+    match: fbthirdpartypixel.org
+    policy: Proxy
+- domain_suffix:
+    match: fburl.com
+    policy: Proxy
+- domain_suffix:
+    match: fbworkmail.com
+    policy: Proxy
+- domain_suffix:
+    match: fcacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fcaebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fcebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fcebookk.com
+    policy: Proxy
+- domain_suffix:
+    match: fcfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fdacebook.info
+    policy: Proxy
+- domain_suffix:
+    match: feacboo.com
+    policy: Proxy
+- domain_suffix:
+    match: feacbook.com
+    policy: Proxy
+- domain_suffix:
+    match: feacbooke.com
+    policy: Proxy
+- domain_suffix:
+    match: feacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fecbbok.com
+    policy: Proxy
+- domain_suffix:
+    match: fecbooc.com
+    policy: Proxy
+- domain_suffix:
+    match: fecbook.com
+    policy: Proxy
+- domain_suffix:
+    match: feceboock.com
+    policy: Proxy
+- domain_suffix:
+    match: fecebook.net
+    policy: Proxy
+- domain_suffix:
+    match: feceboox.com
+    policy: Proxy
+- domain_suffix:
+    match: fececbook.com
+    policy: Proxy
+- domain_suffix:
+    match: feook.com
+    policy: Proxy
+- domain_suffix:
+    match: ferabook.com
+    policy: Proxy
+- domain_suffix:
+    match: fescebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fesebook.com
+    policy: Proxy
+- domain_suffix:
+    match: ffacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fgacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: ficeboock.com
+    policy: Proxy
+- domain_suffix:
+    match: flow.dev
+    policy: Proxy
+- domain_suffix:
+    match: flow.org
+    policy: Proxy
+- domain_suffix:
+    match: flowtype.org
+    policy: Proxy
+- domain_suffix:
+    match: fmcebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fnacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fosebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fpacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fqcebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fracebook.com
+    policy: Proxy
+- domain_suffix:
+    match: freeb.com
+    policy: Proxy
+- domain_suffix:
+    match: freebasics.com
+    policy: Proxy
+- domain_suffix:
+    match: freebasics.net
+    policy: Proxy
+- domain_suffix:
+    match: freebs.com
+    policy: Proxy
+- domain_suffix:
+    match: freefacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: freefacebook.net
+    policy: Proxy
+- domain_suffix:
+    match: freefacebookads.net
+    policy: Proxy
+- domain_suffix:
+    match: freefblikes.com
+    policy: Proxy
+- domain_suffix:
+    match: freindfeed.com
+    policy: Proxy
+- domain_suffix:
+    match: frescolib.org
+    policy: Proxy
+- domain_suffix:
+    match: friendbook.info
+    policy: Proxy
+- domain_suffix:
+    match: friendfed.com
+    policy: Proxy
+- domain_suffix:
+    match: friendfeed-api.com
+    policy: Proxy
+- domain_suffix:
+    match: friendfeed-media.com
+    policy: Proxy
+- domain_suffix:
+    match: friendfeed.com
+    policy: Proxy
+- domain_suffix:
+    match: friendfeedmedia.com
+    policy: Proxy
+- domain_suffix:
+    match: fsacebok.com
+    policy: Proxy
+- domain_suffix:
+    match: fscebook.com
+    policy: Proxy
+- domain_suffix:
+    match: fundraisingwithfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: funnyfacebook.org
+    policy: Proxy
+- domain_suffix:
+    match: futureofbusinesssurvey.org
+    policy: Proxy
+- domain_suffix:
+    match: gacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: gameroom.com
+    policy: Proxy
+- domain_suffix:
+    match: gfacecbook.com
+    policy: Proxy
+- domain_suffix:
+    match: groups.com
+    policy: Proxy
+- domain_suffix:
+    match: hackerfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: hackfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: hackfacebookid.com
+    policy: Proxy
+- domain_suffix:
+    match: hacklang.org
+    policy: Proxy
+- domain_suffix:
+    match: hhvm.com
+    policy: Proxy
+- domain_suffix:
+    match: hifacebook.info
+    policy: Proxy
+- domain_suffix:
+    match: howtohackfacebook-account.com
+    policy: Proxy
+- domain_suffix:
+    match: hsfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: httpfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: httpsfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: httpwwwfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: i.org
+    policy: Proxy
+- domain_suffix:
+    match: ig.me
+    policy: Proxy
+- domain_suffix:
+    match: igcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: igsonar.com
+    policy: Proxy
+- domain_suffix:
+    match: igtv.com
+    policy: Proxy
+- domain_suffix:
+    match: imstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: imtagram.com
+    policy: Proxy
+- domain_suffix:
+    match: instaadder.com
+    policy: Proxy
+- domain_suffix:
+    match: instachecker.com
+    policy: Proxy
+- domain_suffix:
+    match: instafallow.com
+    policy: Proxy
+- domain_suffix:
+    match: instafollower.com
+    policy: Proxy
+- domain_suffix:
+    match: instagainer.com
+    policy: Proxy
+- domain_suffix:
+    match: instagda.com
+    policy: Proxy
+- domain_suffix:
+    match: instagify.com
+    policy: Proxy
+- domain_suffix:
+    match: instagmania.com
+    policy: Proxy
+- domain_suffix:
+    match: instagor.com
+    policy: Proxy
+- domain_suffix:
+    match: instagr.am
+    policy: Proxy
+- domain_suffix:
+    match: instagram-brand.com
+    policy: Proxy
+- domain_suffix:
+    match: instagram-engineering.com
+    policy: Proxy
+- domain_suffix:
+    match: instagram-help.com
+    policy: Proxy
+- domain_suffix:
+    match: instagram-press.com
+    policy: Proxy
+- domain_suffix:
+    match: instagram-press.net
+    policy: Proxy
+- domain_suffix:
+    match: instagram.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramci.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramcn.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramdi.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramhashtags.net
+    policy: Proxy
+- domain_suffix:
+    match: instagramhilecim.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramhilesi.org
+    policy: Proxy
+- domain_suffix:
+    match: instagramium.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramizlenme.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramkusu.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramlogin.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramm.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramn.com
+    policy: Proxy
+- domain_suffix:
+    match: instagrampartners.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramphoto.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramq.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramsepeti.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramtakipcisatinal.net
+    policy: Proxy
+- domain_suffix:
+    match: instagramtakiphilesi.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramtips.com
+    policy: Proxy
+- domain_suffix:
+    match: instagramtr.com
+    policy: Proxy
+- domain_suffix:
+    match: instagran.com
+    policy: Proxy
+- domain_suffix:
+    match: instagranm.com
+    policy: Proxy
+- domain_suffix:
+    match: instagrem.com
+    policy: Proxy
+- domain_suffix:
+    match: instagrm.com
+    policy: Proxy
+- domain_suffix:
+    match: instagtram.com
+    policy: Proxy
+- domain_suffix:
+    match: instagy.com
+    policy: Proxy
+- domain_suffix:
+    match: instamgram.com
+    policy: Proxy
+- domain_suffix:
+    match: instangram.com
+    policy: Proxy
+- domain_suffix:
+    match: instanttelegram.com
+    policy: Proxy
+- domain_suffix:
+    match: instaplayer.net
+    policy: Proxy
+- domain_suffix:
+    match: instastyle.tv
+    policy: Proxy
+- domain_suffix:
+    match: instgram.com
+    policy: Proxy
+- domain_suffix:
+    match: intagram.com
+    policy: Proxy
+- domain_suffix:
+    match: intagrm.com
+    policy: Proxy
+- domain_suffix:
+    match: internet.org
+    policy: Proxy
+- domain_suffix:
+    match: intgram.com
+    policy: Proxy
+- domain_suffix:
+    match: ip6.static.sl-reverse.com
+    policy: Proxy
+- domain_suffix:
+    match: kingstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: klik.me
+    policy: Proxy
+- domain_suffix:
+    match: liverail.com
+    policy: Proxy
+- domain_suffix:
+    match: liverail.tv
+    policy: Proxy
+- domain_suffix:
+    match: lnstagram-help.com
+    policy: Proxy
+- domain_suffix:
+    match: login-account.net
+    policy: Proxy
+- domain_suffix:
+    match: loom-sdk.com
+    policy: Proxy
+- domain_suffix:
+    match: m.me
+    policy: Proxy
+- domain_suffix:
+    match: makeitopen.com
+    policy: Proxy
+- domain_suffix:
+    match: markzuckerberg.com
+    policy: Proxy
+- domain_suffix:
+    match: mcrouter.net
+    policy: Proxy
+- domain_suffix:
+    match: mcrouter.org
+    policy: Proxy
+- domain_suffix:
+    match: messenger.com
+    policy: Proxy
+- domain_suffix:
+    match: messengerdevelopers.com
+    policy: Proxy
+- domain_suffix:
+    match: meta.ai
+    policy: Proxy
+- domain_suffix:
+    match: meta.com
+    policy: Proxy
+- domain_suffix:
+    match: midentsolutions.com
+    policy: Proxy
+- domain_suffix:
+    match: mobilefacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: moneywithfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: myfbfans.com
+    policy: Proxy
+- domain_suffix:
+    match: nbabot.net
+    policy: Proxy
+- domain_suffix:
+    match: newsfeed.com
+    policy: Proxy
+- domain_suffix:
+    match: nextstop.com
+    policy: Proxy
+- domain_suffix:
+    match: ocul.us
+    policy: Proxy
+- domain_suffix:
+    match: oculus-china.com
+    policy: Proxy
+- domain_suffix:
+    match: oculus.com
+    policy: Proxy
+- domain_suffix:
+    match: oculus2014.com
+    policy: Proxy
+- domain_suffix:
+    match: oculus3d.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusblog.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusbrand.com
+    policy: Proxy
+- domain_suffix:
+    match: oculuscasino.net
+    policy: Proxy
+- domain_suffix:
+    match: oculuscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusconnect.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusdiving.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusforbusiness.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusrift.com
+    policy: Proxy
+- domain_suffix:
+    match: oculusvr.com
+    policy: Proxy
+- domain_suffix:
+    match: ogp.me
+    policy: Proxy
+- domain_suffix:
+    match: oninstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: online-deals.net
+    policy: Proxy
+- domain_suffix:
+    match: online-instagram.com
+    policy: Proxy
+- domain_suffix:
+    match: onlineinstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: opencreate.org
+    policy: Proxy
+- domain_suffix:
+    match: opengraphprotocol.com
+    policy: Proxy
+- domain_suffix:
+    match: opengraphprotocol.org
+    policy: Proxy
+- domain_suffix:
+    match: oversightboard.com
+    policy: Proxy
+- domain_suffix:
+    match: parse.com
+    policy: Proxy
+- domain_suffix:
+    match: powersunitedvr.com
+    policy: Proxy
+- domain_suffix:
+    match: pyrobot.org
+    policy: Proxy
+- domain_suffix:
+    match: reachtheworldonfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: react.com
+    policy: Proxy
+- domain_suffix:
+    match: reactjs.com
+    policy: Proxy
+- domain_suffix:
+    match: reactjs.org
+    policy: Proxy
+- domain_suffix:
+    match: recoiljs.org
+    policy: Proxy
+- domain_suffix:
+    match: redkix.com
+    policy: Proxy
+- domain_suffix:
+    match: rocksdb.com
+    policy: Proxy
+- domain_suffix:
+    match: rocksdb.net
+    policy: Proxy
+- domain_suffix:
+    match: rocksdb.org
+    policy: Proxy
+- domain_suffix:
+    match: shopfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: sportsfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: sportstream.com
+    policy: Proxy
+- domain_suffix:
+    match: supportfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: terragraph.com
+    policy: Proxy
+- domain_suffix:
+    match: thefacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: thefacebook.net
+    policy: Proxy
+- domain_suffix:
+    match: thefind.com
+    policy: Proxy
+- domain_suffix:
+    match: theinstagramhack.com
+    policy: Proxy
+- domain_suffix:
+    match: threads.net
+    policy: Proxy
+- domain_suffix:
+    match: threadsapp.net
+    policy: Proxy
+- domain_suffix:
+    match: toplayerserver.com
+    policy: Proxy
+- domain_suffix:
+    match: viewpointsfromfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: wa.me
+    policy: Proxy
+- domain_suffix:
+    match: web-instagram.net
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp-plus.info
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp-plus.me
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp-plus.net
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.biz
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.cc
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.com
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.info
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.net
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.org
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp.tv
+    policy: Proxy
+- domain_suffix:
+    match: whatsappbrand.com
+    policy: Proxy
+- domain_suffix:
+    match: whyfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: wit.ai
+    policy: Proxy
+- domain_suffix:
+    match: workplace.com
+    policy: Proxy
+- domain_suffix:
+    match: workplaceusecases.com
+    policy: Proxy
+- domain_suffix:
+    match: worldhack.com
+    policy: Proxy
+- domain_suffix:
+    match: www-facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: wwwfacebok.com
+    policy: Proxy
+- domain_suffix:
+    match: wwwfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: wwwinstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: wwwmfacebook.com
+    policy: Proxy
+- domain_suffix:
+    match: yogalayout.com
+    policy: Proxy
+- domain_suffix:
+    match: zuckerberg.com
+    policy: Proxy
+- domain_suffix:
+    match: zuckerberg.net
+    policy: Proxy
+- domain_keyword:
+    match: facebook
+    policy: Proxy
+- domain_keyword:
+    match: fbcdn
+    policy: Proxy
+- ip_cidr:
+    match: 103.4.96.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 129.134.0.0/17
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 157.240.0.0/17
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 173.252.64.0/18
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 179.60.192.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 185.60.216.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 204.15.20.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 31.13.24.0/21
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 31.13.64.0/18
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 45.64.40.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 66.220.144.0/20
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 69.171.224.0/19
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 69.63.176.0/20
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 74.119.76.0/22
+    no_resolve: 'true'
+    policy: Proxy

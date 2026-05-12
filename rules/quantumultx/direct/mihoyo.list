@@ -1,5 +1,5 @@
-HOST-SUFFIX,bh3.com
-HOST-SUFFIX,mihoyo.com
-HOST-SUFFIX,miyoushe.com
-HOST-SUFFIX,mob.com
-HOST-SUFFIX,yuanshen.com
+HOST-SUFFIX,bh3.com,Proxy
+HOST-SUFFIX,mihoyo.com,Proxy
+HOST-SUFFIX,miyoushe.com,Proxy
+HOST-SUFFIX,mob.com,Proxy
+HOST-SUFFIX,yuanshen.com,Proxy

@@ -1,6 +1,6 @@
-HOST-SUFFIX,apissl.ksapisrv.com
-HOST-SUFFIX,gifshow.com
-HOST-SUFFIX,ksapisrv.com
-HOST-SUFFIX,kuaishou.com
-HOST-SUFFIX,kuaishouzt.com
-HOST-SUFFIX,yxixy.com
+HOST-SUFFIX,apissl.ksapisrv.com,Proxy
+HOST-SUFFIX,gifshow.com,Proxy
+HOST-SUFFIX,ksapisrv.com,Proxy
+HOST-SUFFIX,kuaishou.com,Proxy
+HOST-SUFFIX,kuaishouzt.com,Proxy
+HOST-SUFFIX,yxixy.com,Proxy

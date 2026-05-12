@@ -1,4 +1,4 @@
-HOST-SUFFIX,nintendo.co.jp
-HOST-SUFFIX,nintendo.com
-HOST-SUFFIX,nintendo.net
-HOST-SUFFIX,nso.nintendo.net
+HOST-SUFFIX,nintendo.co.jp,Proxy
+HOST-SUFFIX,nintendo.com,Proxy
+HOST-SUFFIX,nintendo.net,Proxy
+HOST-SUFFIX,nso.nintendo.net,Proxy

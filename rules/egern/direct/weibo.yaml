@@ -1,13 +1,26 @@
 # Gins-Rules: weibo
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "sina.com"
-  - "sina.com.cn"
-  - "sinaimg.cn"
-  - "sinajs.cn"
-  - "weibo.cn"
-  - "weibo.com"
-  - "weibocdn.com"
-domain_keyword_set:
-  - "weibo"
+rules:
+- domain_suffix:
+    match: sina.com
+    policy: Proxy
+- domain_suffix:
+    match: sina.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: sinaimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: sinajs.cn
+    policy: Proxy
+- domain_suffix:
+    match: weibo.cn
+    policy: Proxy
+- domain_suffix:
+    match: weibo.com
+    policy: Proxy
+- domain_suffix:
+    match: weibocdn.com
+    policy: Proxy
+- domain_keyword:
+    match: weibo
+    policy: Proxy

@@ -1,6 +1,8 @@
 # Gins-Rules: pinterest
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "pinimg.com"
-  - "pinterest.com"
+rules:
+- domain_suffix:
+    match: pinimg.com
+    policy: Proxy
+- domain_suffix:
+    match: pinterest.com
+    policy: Proxy

@@ -231,6 +231,7 @@
 .venmo.info
 .venmo.net
 .venmo.org
+.venmo.s3.amazonaws.com
 .webmoneyinfo.com
 .wiremoneytoirelandwithxoomeasierandcheaper.com
 .www-paypal.info

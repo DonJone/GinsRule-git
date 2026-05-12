@@ -1,4 +1,4 @@
-HOST-SUFFIX,didi.com
-HOST-SUFFIX,didialift.com
-HOST-SUFFIX,didiglobal.com
-HOST-SUFFIX,udache.com
+HOST-SUFFIX,didi.com,Proxy
+HOST-SUFFIX,didialift.com,Proxy
+HOST-SUFFIX,didiglobal.com,Proxy
+HOST-SUFFIX,udache.com,Proxy

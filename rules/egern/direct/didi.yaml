@@ -1,8 +1,14 @@
 # Gins-Rules: didi
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "didi.com"
-  - "didialift.com"
-  - "didiglobal.com"
-  - "udache.com"
+rules:
+- domain_suffix:
+    match: didi.com
+    policy: Proxy
+- domain_suffix:
+    match: didialift.com
+    policy: Proxy
+- domain_suffix:
+    match: didiglobal.com
+    policy: Proxy
+- domain_suffix:
+    match: udache.com
+    policy: Proxy

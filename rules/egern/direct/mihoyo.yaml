@@ -1,9 +1,17 @@
 # Gins-Rules: mihoyo
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "bh3.com"
-  - "mihoyo.com"
-  - "miyoushe.com"
-  - "mob.com"
-  - "yuanshen.com"
+rules:
+- domain_suffix:
+    match: bh3.com
+    policy: Proxy
+- domain_suffix:
+    match: mihoyo.com
+    policy: Proxy
+- domain_suffix:
+    match: miyoushe.com
+    policy: Proxy
+- domain_suffix:
+    match: mob.com
+    policy: Proxy
+- domain_suffix:
+    match: yuanshen.com
+    policy: Proxy

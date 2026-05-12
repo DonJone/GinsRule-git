@@ -1,5 +1,5 @@
 # Gins-Rules: medium
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "medium.com"
+rules:
+- domain_suffix:
+    match: medium.com
+    policy: Proxy

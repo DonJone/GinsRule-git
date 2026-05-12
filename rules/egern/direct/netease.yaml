@@ -1,20 +1,50 @@
 # Gins-Rules: netease
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "126.com"
-  - "126.net"
-  - "127.net"
-  - "163.com"
-  - "163yun.com"
-  - "api.iplay.163.com"
-  - "hz.netease.com"
-  - "lofter.com"
-  - "mam.netease.com"
-  - "music.126.net"
-  - "music.163.com"
-  - "music.163.com.163jiasu.com"
-  - "ne.game.163.com"
-  - "netease.com"
-  - "ydstatic.com"
-  - "youdao.com"
+rules:
+- domain_suffix:
+    match: 126.com
+    policy: Proxy
+- domain_suffix:
+    match: 126.net
+    policy: Proxy
+- domain_suffix:
+    match: 127.net
+    policy: Proxy
+- domain_suffix:
+    match: 163.com
+    policy: Proxy
+- domain_suffix:
+    match: 163yun.com
+    policy: Proxy
+- domain_suffix:
+    match: api.iplay.163.com
+    policy: Proxy
+- domain_suffix:
+    match: hz.netease.com
+    policy: Proxy
+- domain_suffix:
+    match: lofter.com
+    policy: Proxy
+- domain_suffix:
+    match: mam.netease.com
+    policy: Proxy
+- domain_suffix:
+    match: music.126.net
+    policy: Proxy
+- domain_suffix:
+    match: music.163.com
+    policy: Proxy
+- domain_suffix:
+    match: music.163.com.163jiasu.com
+    policy: Proxy
+- domain_suffix:
+    match: ne.game.163.com
+    policy: Proxy
+- domain_suffix:
+    match: netease.com
+    policy: Proxy
+- domain_suffix:
+    match: ydstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: youdao.com
+    policy: Proxy

@@ -1,11 +1,23 @@
 # Gins-Rules: hbo
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "discomax.com"
-  - "hbo.com"
-  - "hbogo.com"
-  - "hbomax.com"
-  - "hbomaxcdn.com"
-  - "hbonow.com"
-  - "max.com"
+rules:
+- domain_suffix:
+    match: discomax.com
+    policy: Proxy
+- domain_suffix:
+    match: hbo.com
+    policy: Proxy
+- domain_suffix:
+    match: hbogo.com
+    policy: Proxy
+- domain_suffix:
+    match: hbomax.com
+    policy: Proxy
+- domain_suffix:
+    match: hbomaxcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: hbonow.com
+    policy: Proxy
+- domain_suffix:
+    match: max.com
+    policy: Proxy

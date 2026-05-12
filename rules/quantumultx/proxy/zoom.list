@@ -1,6 +1,6 @@
-HOST-SUFFIX,zoom.com
-HOST-SUFFIX,zoom.us
-HOST-SUFFIX,zoomcdn.com
-HOST-SUFFIX,zoomgov.com
-HOST-SUFFIX,zoominfo.com
-DOMAIN,zoom.cdn.arkoselabs.com
+HOST-SUFFIX,zoom.com,Proxy
+HOST-SUFFIX,zoom.us,Proxy
+HOST-SUFFIX,zoomcdn.com,Proxy
+HOST-SUFFIX,zoomgov.com,Proxy
+HOST-SUFFIX,zoominfo.com,Proxy
+HOST,zoom.cdn.arkoselabs.com,Proxy

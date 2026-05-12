@@ -1,8 +1,13 @@
+.404: Not Found
+.HOST-WILDCARD,youtube.*,YouTube
+.HOST-WILDCARD,youtube.*.*,YouTube
+.HOST-WILDCARD,youtube.com.*,YouTube
 .ggpht.cn
 .ggpht.com
 .googlevideo.com
 .gvt1.com
 .gvt2.com
+.music.youtube.com
 .video.google.com
 .wide-youtube.l.google.com
 .withyoutube.com
@@ -176,6 +181,7 @@
 .youtubekids.com
 .youtubemobilesupport.com
 .yt.be
+.yt3.ggpht.com
 .ytimg.com
 music.youtube.com
 youtubei.googleapis.com

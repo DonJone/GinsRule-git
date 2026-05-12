@@ -1,6 +1,8 @@
 # Gins-Rules: pinduoduo
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "pinduoduo.com"
-  - "yangkeduo.com"
+rules:
+- domain_suffix:
+    match: pinduoduo.com
+    policy: Proxy
+- domain_suffix:
+    match: yangkeduo.com
+    policy: Proxy

@@ -1,33 +1,89 @@
 # Gins-Rules: vercel
-# Optimized Egern Rule Set
-
-domain_suffix_set:
-  - "err.sh"
-  - "hyper.is"
-  - "netlify.app"
-  - "netlify.com"
-  - "nextjs.org"
-  - "now.sh"
-  - "static.fun"
-  - "title.sh"
-  - "turborepo.org"
-  - "vercel-analytics.com"
-  - "vercel-dns.com"
-  - "vercel-insights.com"
-  - "vercel-status.com"
-  - "vercel.app"
-  - "vercel.blog"
-  - "vercel.com"
-  - "vercel.events"
-  - "vercel.link"
-  - "vercel.live"
-  - "vercel.pub"
-  - "vercel.sh"
-  - "vercel.store"
-  - "zeit-world.co.uk"
-  - "zeit-world.com"
-  - "zeit-world.net"
-  - "zeit-world.org"
-  - "zeit.co"
-  - "zeit.sh"
-  - "zeitworld.com"
+rules:
+- domain_suffix:
+    match: err.sh
+    policy: Proxy
+- domain_suffix:
+    match: hyper.is
+    policy: Proxy
+- domain_suffix:
+    match: netlify.app
+    policy: Proxy
+- domain_suffix:
+    match: netlify.com
+    policy: Proxy
+- domain_suffix:
+    match: nextjs.org
+    policy: Proxy
+- domain_suffix:
+    match: now.sh
+    policy: Proxy
+- domain_suffix:
+    match: static.fun
+    policy: Proxy
+- domain_suffix:
+    match: title.sh
+    policy: Proxy
+- domain_suffix:
+    match: turborepo.org
+    policy: Proxy
+- domain_suffix:
+    match: vercel-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: vercel-dns.com
+    policy: Proxy
+- domain_suffix:
+    match: vercel-insights.com
+    policy: Proxy
+- domain_suffix:
+    match: vercel-status.com
+    policy: Proxy
+- domain_suffix:
+    match: vercel.app
+    policy: Proxy
+- domain_suffix:
+    match: vercel.blog
+    policy: Proxy
+- domain_suffix:
+    match: vercel.com
+    policy: Proxy
+- domain_suffix:
+    match: vercel.events
+    policy: Proxy
+- domain_suffix:
+    match: vercel.link
+    policy: Proxy
+- domain_suffix:
+    match: vercel.live
+    policy: Proxy
+- domain_suffix:
+    match: vercel.pub
+    policy: Proxy
+- domain_suffix:
+    match: vercel.sh
+    policy: Proxy
+- domain_suffix:
+    match: vercel.store
+    policy: Proxy
+- domain_suffix:
+    match: zeit-world.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: zeit-world.com
+    policy: Proxy
+- domain_suffix:
+    match: zeit-world.net
+    policy: Proxy
+- domain_suffix:
+    match: zeit-world.org
+    policy: Proxy
+- domain_suffix:
+    match: zeit.co
+    policy: Proxy
+- domain_suffix:
+    match: zeit.sh
+    policy: Proxy
+- domain_suffix:
+    match: zeitworld.com
+    policy: Proxy

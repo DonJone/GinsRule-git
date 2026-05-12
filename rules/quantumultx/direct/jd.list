@@ -1,5 +1,5 @@
-HOST-SUFFIX,360buyimg.com
-HOST-SUFFIX,jd.cn
-HOST-SUFFIX,jd.com
-HOST-SUFFIX,jd.hk
-HOST-SUFFIX,jdcloud.com
+HOST-SUFFIX,360buyimg.com,Proxy
+HOST-SUFFIX,jd.cn,Proxy
+HOST-SUFFIX,jd.com,Proxy
+HOST-SUFFIX,jd.hk,Proxy
+HOST-SUFFIX,jdcloud.com,Proxy

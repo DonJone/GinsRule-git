@@ -1,343 +1,196 @@
-DOMAIN-SUFFIX,AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-), (DOMAIN-SUFFIX, webpubsub.azure.com))
-DOMAIN-SUFFIX,AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
-DOMAIN-SUFFIX,DOMAIN, ai.google.dev
-DOMAIN-SUFFIX,DOMAIN, aida.googleapis.com
-DOMAIN-SUFFIX,DOMAIN, aistudio.google.com
-DOMAIN-SUFFIX,DOMAIN, alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,DOMAIN, alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,DOMAIN, api.githubcopilot.com
-DOMAIN-SUFFIX,DOMAIN, api.x.ai
-DOMAIN-SUFFIX,DOMAIN, bard.google.com
-DOMAIN-SUFFIX,DOMAIN, cdn.auth0.com
-DOMAIN-SUFFIX,DOMAIN, chat.mistral.ai
-DOMAIN-SUFFIX,DOMAIN, chatgpt.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN, console.mistral.ai
-DOMAIN-SUFFIX,DOMAIN, copilot-proxy.githubusercontent.com
-DOMAIN-SUFFIX,DOMAIN, copilot.microsoft.com
-DOMAIN-SUFFIX,DOMAIN, deepmind.com
-DOMAIN-SUFFIX,DOMAIN, deepmind.google
-DOMAIN-SUFFIX,DOMAIN, geller-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN, gemini.google.com
-DOMAIN-SUFFIX,DOMAIN, generativeai.google
-DOMAIN-SUFFIX,DOMAIN, generativelanguage.googleapis.com
-DOMAIN-SUFFIX,DOMAIN, host.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN, imagine.meta.com
-DOMAIN-SUFFIX,DOMAIN, makersuite.google.com
-DOMAIN-SUFFIX,DOMAIN, openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,DOMAIN, openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,DOMAIN, openaicomproductionae4b.blob.core.windows.net
-DOMAIN-SUFFIX,DOMAIN, proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN, production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,DOMAIN, sydney.bing.com
-DOMAIN-SUFFIX,DOMAIN, trae-api-sg.mchost.guru
-DOMAIN-SUFFIX,DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-DOMAIN-SUFFIX,DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,DOMAIN,aida.googleapis.com
-DOMAIN-SUFFIX,DOMAIN,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN,aistudio.google.com
-DOMAIN-SUFFIX,DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,DOMAIN,antigravity-unleash.goog
-DOMAIN-SUFFIX,DOMAIN,antigravity.google
-DOMAIN-SUFFIX,DOMAIN,api-iam.intercom.io
-DOMAIN-SUFFIX,DOMAIN,api.github.com
-DOMAIN-SUFFIX,DOMAIN,api.jetbrains.ai
-DOMAIN-SUFFIX,DOMAIN,api.msn.com
-DOMAIN-SUFFIX,DOMAIN,api.statsig.com
-DOMAIN-SUFFIX,DOMAIN,apple-relay.apple.com
-DOMAIN-SUFFIX,DOMAIN,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,DOMAIN,assets.msn.com
-DOMAIN-SUFFIX,DOMAIN,bard.google.com
-DOMAIN-SUFFIX,DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,DOMAIN,cdn.oaistatic.com
-DOMAIN-SUFFIX,DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,DOMAIN,challenges.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,DOMAIN,cp4.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN,daily-cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN,gateway.ai.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN-SUFFIX,DOMAIN,gateway.bingviz.microsoftapp.net
-DOMAIN-SUFFIX,DOMAIN,gemini.google.com
-DOMAIN-SUFFIX,DOMAIN,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN-SUFFIX,DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,DOMAIN,imagine.meta.com
-DOMAIN-SUFFIX,DOMAIN,in.appcenter.ms
-DOMAIN-SUFFIX,DOMAIN,jules.google.com
-DOMAIN-SUFFIX,DOMAIN,location.microsoft.com
-DOMAIN-SUFFIX,DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,DOMAIN,o33249.ingest.sentry.io
-DOMAIN-SUFFIX,DOMAIN,odc.officeapps.live.com
-DOMAIN-SUFFIX,DOMAIN,openai-api.arkoselabs.com
-DOMAIN-SUFFIX,DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN-SUFFIX,DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN-SUFFIX,DOMAIN,openrouter.ai
-DOMAIN-SUFFIX,DOMAIN,pplx-res.cloudinary.com
-DOMAIN-SUFFIX,DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,DOMAIN,r.bing.com
-DOMAIN-SUFFIX,DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN,self.events.data.microsoft.com
-DOMAIN-SUFFIX,DOMAIN,services.bingapis.com
-DOMAIN-SUFFIX,DOMAIN,static.cloudflareinsights.com
-DOMAIN-SUFFIX,DOMAIN,sydney.bing.com
-DOMAIN-SUFFIX,DOMAIN,www.bing.com
-DOMAIN-SUFFIX,DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, akamaized.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, anthropic.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, chat.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, clau.de
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, claude.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, claudeusercontent.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, githubcopilot.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, grazie.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, grazie.aws.intellij.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, grok.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, hcaptcha.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, jetbrains.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, meta.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, mistral.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, oaistatic.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, oaiusercontent.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, perplexity.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, perplexity.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, pplx.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, sora.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, trae.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, turn.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, vimeo.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, vimeocdn.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX, x.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,android.chat.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,api.microsoftapp.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,api.statsig.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,app.launchdarkly.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apple-relay.akamaized.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,apps.mzstatic.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,auth.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cdn.workos.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cici.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,clientstream.launchdarkly.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,ct.sendgrid.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,desktop.chat.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,dola.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,events.launchdarkly.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,featureassets.org
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,forwarder.workos.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,g.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,gateway.icloud.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,gatewayai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,images.workoscdn.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,ios.chat.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,js.stripe.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,o207216.ingest.sentry.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,o33249.ingest.sentry.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,prodregistryv2.org
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,setup.auth.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,setup.workos.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,tcr9i.chat.openai.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,workos.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,workos.imgix.net
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,zed.dev
-DOMAIN-SUFFIX,HOST,ai.google.dev,Gemini
-DOMAIN-SUFFIX,HOST,alkalimakersuite-pa.clients6.google.com,Gemini
-DOMAIN-SUFFIX,HOST,api.msn.com,Copilot
-DOMAIN-SUFFIX,HOST,api.statsig.com,Copilot
-DOMAIN-SUFFIX,HOST,assets.msn.com,Copilot
-DOMAIN-SUFFIX,HOST,browser-intake-datadoghq.com,Copilot
-DOMAIN-SUFFIX,HOST,cdn.usefathom.com,Claude
-DOMAIN-SUFFIX,HOST,chat.openai.com.cdn.cloudflare.net,Copilot
-DOMAIN-SUFFIX,HOST,copilot.microsoft.com,Copilot
-DOMAIN-SUFFIX,HOST,gateway.bingviz.microsoft.net,Copilot
-DOMAIN-SUFFIX,HOST,gateway.bingviz.microsoftapp.net,Copilot
-DOMAIN-SUFFIX,HOST,in.appcenter.ms,Copilot
-DOMAIN-SUFFIX,HOST,location.microsoft.com,Copilot
-DOMAIN-SUFFIX,HOST,makersuite.google.com,Gemini
-DOMAIN-SUFFIX,HOST,odc.officeapps.live.com,Copilot
-DOMAIN-SUFFIX,HOST,openai-api.arkoselabs.com,Copilot
-DOMAIN-SUFFIX,HOST,openaicomproductionae4b.blob.core.windows.net,Copilot
-DOMAIN-SUFFIX,HOST,production-openaicom-storage.azureedge.net,Copilot
-DOMAIN-SUFFIX,HOST,r.bing.com,Copilot
-DOMAIN-SUFFIX,HOST,self.events.data.microsoft.com,Copilot
-DOMAIN-SUFFIX,HOST,services.bingapis.com,Copilot
-DOMAIN-SUFFIX,HOST,static.cloudflareinsights.com,Copilot
-DOMAIN-SUFFIX,HOST,sydney.bing.com,Copilot
-DOMAIN-SUFFIX,HOST,www.bing.com,Copilot
-DOMAIN-SUFFIX,HOST-KEYWORD,colab,Gemini
-DOMAIN-SUFFIX,HOST-KEYWORD,developerprofiles,Gemini
-DOMAIN-SUFFIX,HOST-KEYWORD,generativelanguage,Gemini
-DOMAIN-SUFFIX,HOST-KEYWORD,openaicom-api,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,algolia.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,anthropic.com,Claude
-DOMAIN-SUFFIX,HOST-SUFFIX,api.microsoftapp.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,apis.google.com,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,auth0.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,bard.google.com,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,challenges.cloudflare.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,chatgpt.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,chatgpt.livekit.cloud,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,claude.ai,Claude
-DOMAIN-SUFFIX,HOST-SUFFIX,client-api.arkoselabs.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,deepmind.com,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,deepmind.google,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,edgeservices.bing.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,events.statsigapi.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,featuregates.org,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,gemini.google.com,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,generativeai.google,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,host.livekit.cloud,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,identrust.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,intercom.io,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,intercomcdn.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,launchdarkly.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,oaistatic.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,oaiusercontent.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,observeit.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,openai.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,openaiapi-site.azureedge.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,openaicom.imgix.net,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
-DOMAIN-SUFFIX,HOST-SUFFIX,segment.io,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,sentry.io,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,stripe.com,Copilot
-DOMAIN-SUFFIX,HOST-SUFFIX,turn.livekit.cloud,Copilot
-DOMAIN-SUFFIX,IP-ASN,14061,Copilot
-DOMAIN-SUFFIX,IP-ASN,14061,no-resolve
-DOMAIN-SUFFIX,IP-ASN,20473,Copilot
-DOMAIN-SUFFIX,IP-ASN,20473,no-resolve
+DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,ai.meta.com
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,akamaized.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,android.chat.openai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,anyscale.com
+DOMAIN-SUFFIX,api-iam.intercom.io
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,api.githubcopilot.com
+DOMAIN-SUFFIX,api.jetbrains.ai
+DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,api.msn.com
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,app.launchdarkly.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,assets.msn.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chat.mistral.ai
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,console.mistral.ai
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,desktop.chat.openai.com
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,events.launchdarkly.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,forwarder.workos.com
+DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,gateway.bingviz.microsoft.net
+DOMAIN-SUFFIX,gateway.bingviz.microsoftapp.net
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,gatewayai.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,images.workoscdn.com
+DOMAIN-SUFFIX,imagine.meta.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,js.intercomcdn.com
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,jules.google.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,llama.meta.com
+DOMAIN-SUFFIX,location.microsoft.com
+DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,o207216.ingest.sentry.io
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,odc.officeapps.live.com
+DOMAIN-SUFFIX,openai-api.arkoselabs.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,self.events.data.microsoft.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,services.bingapis.com
+DOMAIN-SUFFIX,setup.auth.openai.com
+DOMAIN-SUFFIX,setup.workos.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,stability.ai
 DOMAIN-SUFFIX,stablediffusionweb.com
+DOMAIN-SUFFIX,static.cloudflareinsights.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,tcr9i.chat.openai.com
+DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,together.ai
 DOMAIN-SUFFIX,trae-api-sg.mchost.guru
 DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workos.imgix.net
+DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,zed.dev
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN,imagine.meta.com
-IP-CIDR,IP-CIDR, 160.79.104.0/23, no-resolve
-IP-CIDR,IP-CIDR,129.146.3.78/32,no-resolve
-IP-CIDR,IP-CIDR,205.164.56.29/24,no-resolve
-IP-CIDR,IP-CIDR,24.199.123.28/32,Copilot
-IP-CIDR,IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,IP-CIDR,50.117.27.0/24,no-resolve
-IP-CIDR,IP-CIDR,63.251.124.0/24,no-resolve
-IP-CIDR,IP-CIDR,64.23.132.171/32,Copilot
-IP-CIDR,IP-CIDR,64.23.132.171/32,no-resolve
-IP-CIDR,IP-CIDR,69.46.75.0/24,no-resolve
-IP-CIDR6,IP-CIDR6, 2607:6bc0::/48, no-resolve
+IP-CIDR,129.146.3.78/32,no-resolve
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR,205.164.56.29/24,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve

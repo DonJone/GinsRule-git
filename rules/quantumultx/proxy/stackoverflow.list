@@ -1,4 +1,4 @@
-HOST-SUFFIX,sstatic.net
-HOST-SUFFIX,stackexchange.com
-HOST-SUFFIX,stackoverflow.com
-HOST-SUFFIX,stackoverflowteams.com
+HOST-SUFFIX,sstatic.net,Proxy
+HOST-SUFFIX,stackexchange.com,Proxy
+HOST-SUFFIX,stackoverflow.com,Proxy
+HOST-SUFFIX,stackoverflowteams.com,Proxy

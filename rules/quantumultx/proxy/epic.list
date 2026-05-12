@@ -1,4 +1,4 @@
-HOST-SUFFIX,epicgames.com
-HOST-SUFFIX,epicgames.dev
-HOST-SUFFIX,ol.epicgames.com
-HOST-SUFFIX,unrealengine.com
+HOST-SUFFIX,epicgames.com,Proxy
+HOST-SUFFIX,epicgames.dev,Proxy
+HOST-SUFFIX,ol.epicgames.com,Proxy
+HOST-SUFFIX,unrealengine.com,Proxy

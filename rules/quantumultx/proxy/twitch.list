@@ -1,6 +1,6 @@
-HOST-SUFFIX,ext-twitch.tv
-HOST-SUFFIX,jtvnw.net
-HOST-SUFFIX,ttvnw.net
-HOST-SUFFIX,twitch-ext.rootonline.de
-HOST-SUFFIX,twitch.tv
-HOST-SUFFIX,twitchcdn.net
+HOST-SUFFIX,ext-twitch.tv,Proxy
+HOST-SUFFIX,jtvnw.net,Proxy
+HOST-SUFFIX,ttvnw.net,Proxy
+HOST-SUFFIX,twitch-ext.rootonline.de,Proxy
+HOST-SUFFIX,twitch.tv,Proxy
+HOST-SUFFIX,twitchcdn.net,Proxy
