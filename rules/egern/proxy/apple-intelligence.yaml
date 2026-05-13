@@ -1,29 +1,29 @@
 # Gins-Rules: apple-intelligence
 rules:
 - domain_suffix:
+    match: cp4.cloudflare.com
+    policy: Proxy
+- domain_suffix:
     match: apple-relay.akamaized.net
     policy: Proxy
 - domain_suffix:
-    match: apple-relay.apple.com
+    match: guzzoni.apple.com
     policy: Proxy
 - domain_suffix:
     match: apple-relay.cloudflare.com
     policy: Proxy
 - domain_suffix:
-    match: apple-relay.fastly-edge.com
+    match: gspe1-ssl.ls.apple.com
     policy: Proxy
 - domain_suffix:
     match: apps.mzstatic.com
     policy: Proxy
 - domain_suffix:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain_suffix:
     match: gateway.icloud.com
     policy: Proxy
 - domain_suffix:
-    match: gspe1-ssl.ls.apple.com
+    match: apple-relay.apple.com
     policy: Proxy
 - domain_suffix:
-    match: guzzoni.apple.com
+    match: apple-relay.fastly-edge.com
     policy: Proxy

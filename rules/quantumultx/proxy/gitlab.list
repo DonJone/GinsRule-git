@@ -1,5 +1,6 @@
-HOST-SUFFIX,gitlab.com,Proxy
-HOST-SUFFIX,gitlab.io,Proxy
-HOST-SUFFIX,gitlab.net,Proxy
-HOST-SUFFIX,gitter-static.net,Proxy
-HOST-SUFFIX,gitter.im,Proxy
+HOST-KEYWORD,gitlab,PROXY
+HOST-SUFFIX,gitlab.com,PROXY
+HOST-SUFFIX,gitlab.io,PROXY
+HOST-SUFFIX,gitlab.net,PROXY
+HOST-SUFFIX,gitter-static.net,PROXY
+HOST-SUFFIX,gitter.im,PROXY

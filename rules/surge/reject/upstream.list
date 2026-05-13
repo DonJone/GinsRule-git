@@ -9326,6 +9326,7 @@ DOMAIN-SUFFIX,ad.thetyee.ca
 DOMAIN-SUFFIX,ad.thewheelof.com
 DOMAIN-SUFFIX,ad.thisav.com
 DOMAIN-SUFFIX,ad.thsi.cn
+DOMAIN-SUFFIX,ad.tiktokv.us
 DOMAIN-SUFFIX,ad.tjtune.com
 DOMAIN-SUFFIX,ad.topwar.ru
 DOMAIN-SUFFIX,ad.toutiao.com
@@ -11244,6 +11245,7 @@ DOMAIN-SUFFIX,ads-api.kidsnote.com
 DOMAIN-SUFFIX,ads-api.playfun.vn
 DOMAIN-SUFFIX,ads-api.production.nebula-drupal.stuff.co.nz
 DOMAIN-SUFFIX,ads-api.stuff.co.nz
+DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN-SUFFIX,ads-api.twitter.com
 DOMAIN-SUFFIX,ads-api.videy.co
 DOMAIN-SUFFIX,ads-api.x.com
@@ -11279,6 +11281,7 @@ DOMAIN-SUFFIX,ads-i1.xhscdn.com
 DOMAIN-SUFFIX,ads-i2.xhscdn.com
 DOMAIN-SUFFIX,ads-i3.xhscdn.com
 DOMAIN-SUFFIX,ads-i4.xhscdn.com
+DOMAIN-SUFFIX,ads-ie.tiktokw.eu
 DOMAIN-SUFFIX,ads-image.production-public.tubi.io
 DOMAIN-SUFFIX,ads-img-al.xhscdn.com
 DOMAIN-SUFFIX,ads-img-bak.xhscdn.com
@@ -11287,6 +11290,7 @@ DOMAIN-SUFFIX,ads-img.mozilla.org
 DOMAIN-SUFFIX,ads-integration.rustore.ru
 DOMAIN-SUFFIX,ads-interfaces.sc-cdn.net
 DOMAIN-SUFFIX,ads-ios-sdk.ogury.co
+DOMAIN-SUFFIX,ads-jp.tiktok.com
 DOMAIN-SUFFIX,ads-leaseweb.appsgeyser.com
 DOMAIN-SUFFIX,ads-lite.net
 DOMAIN-SUFFIX,ads-lite2.net
@@ -11314,6 +11318,7 @@ DOMAIN-SUFFIX,ads-sdk.upltv.com
 DOMAIN-SUFFIX,ads-segment-profile-noneu.truecaller.com
 DOMAIN-SUFFIX,ads-server.mxplay.com
 DOMAIN-SUFFIX,ads-service.api.linkme.global
+DOMAIN-SUFFIX,ads-sg.tiktok.com
 DOMAIN-SUFFIX,ads-static.conde.digital
 DOMAIN-SUFFIX,ads-static.phonepe.com
 DOMAIN-SUFFIX,ads-static.recon.com
@@ -11324,6 +11329,7 @@ DOMAIN-SUFFIX,ads-thanhnien-vn.cdn.ampproject.org
 DOMAIN-SUFFIX,ads-tm-glb.click
 DOMAIN-SUFFIX,ads-tracking.collectiveaudience.co
 DOMAIN-SUFFIX,ads-trk.vidible.tv
+DOMAIN-SUFFIX,ads-ttp2.tiktokw.eu
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ads-union.jd.com
 DOMAIN-SUFFIX,ads-uo.api.leiniao.com
@@ -12128,6 +12134,8 @@ DOMAIN-SUFFIX,ads.thrillsaffiliates.com
 DOMAIN-SUFFIX,ads.thvli.vn
 DOMAIN-SUFFIX,ads.tiki.vn
 DOMAIN-SUFFIX,ads.tikpage.com
+DOMAIN-SUFFIX,ads.tiktok.com
+DOMAIN-SUFFIX,ads.tiktokw.us
 DOMAIN-SUFFIX,ads.timesunion.com
 DOMAIN-SUFFIX,ads.tiscali.it
 DOMAIN-SUFFIX,ads.tmcs.net
@@ -12175,6 +12183,7 @@ DOMAIN-SUFFIX,ads.unison.bg
 DOMAIN-SUFFIX,ads.unister-gmbh.de
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,ads.urbandictionary.com
+DOMAIN-SUFFIX,ads.us.tiktok.com
 DOMAIN-SUFFIX,ads.usatoday.com
 DOMAIN-SUFFIX,ads.uwayapply.com
 DOMAIN-SUFFIX,ads.uxs.at
@@ -17274,12 +17283,14 @@ DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
 DOMAIN-SUFFIX,analytics-gw.games.wanmei.com
 DOMAIN-SUFFIX,analytics-helper.com
 DOMAIN-SUFFIX,analytics-hub.3plearning.com
+DOMAIN-SUFFIX,analytics-ie.tiktokw.eu
 DOMAIN-SUFFIX,analytics-ingestion-production.tubitv.com
 DOMAIN-SUFFIX,analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 DOMAIN-SUFFIX,analytics-ingestion.pbpms.de
 DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
 DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
 DOMAIN-SUFFIX,analytics-ingress.bitmovin.com
+DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
 DOMAIN-SUFFIX,analytics-lgs.corebridgefinancial.com
 DOMAIN-SUFFIX,analytics-log.withhive.com
 DOMAIN-SUFFIX,analytics-logger.service.junctiontv.net
@@ -17300,6 +17311,7 @@ DOMAIN-SUFFIX,analytics-secure.dollargeneral.com
 DOMAIN-SUFFIX,analytics-server.arras.cx
 DOMAIN-SUFFIX,analytics-server.gimbal.com
 DOMAIN-SUFFIX,analytics-service.api.linkme.global
+DOMAIN-SUFFIX,analytics-sg.tiktok.com
 DOMAIN-SUFFIX,analytics-sm.com
 DOMAIN-SUFFIX,analytics-smhise.smhi.se
 DOMAIN-SUFFIX,analytics-sprint.qoqa.com
@@ -17314,6 +17326,7 @@ DOMAIN-SUFFIX,analytics-stg.samsungknox.com
 DOMAIN-SUFFIX,analytics-track.machbird.com
 DOMAIN-SUFFIX,analytics-tracker.thescore.com
 DOMAIN-SUFFIX,analytics-tracking.meetup.com
+DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu
 DOMAIN-SUFFIX,analytics-union.sandai.net
 DOMAIN-SUFFIX,analytics-union.xunlei.com
 DOMAIN-SUFFIX,analytics-v2.wetransfer.com
@@ -18598,6 +18611,8 @@ DOMAIN-SUFFIX,analytics.ticinolibero.ch
 DOMAIN-SUFFIX,analytics.ticketmaster.com
 DOMAIN-SUFFIX,analytics.tiendaenoferta.com
 DOMAIN-SUFFIX,analytics.tiki.vn
+DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,analytics.tiktokw.us
 DOMAIN-SUFFIX,analytics.timbertrove.com
 DOMAIN-SUFFIX,analytics.timhotel.com
 DOMAIN-SUFFIX,analytics.tio.ch
@@ -18671,6 +18686,7 @@ DOMAIN-SUFFIX,analytics.urban-vpn.com
 DOMAIN-SUFFIX,analytics.urbanapothecarylondon.com
 DOMAIN-SUFFIX,analytics.urbanflowers.com.ua
 DOMAIN-SUFFIX,analytics.us.archive.org
+DOMAIN-SUFFIX,analytics.us.tiktok.com
 DOMAIN-SUFFIX,analytics.ust.com
 DOMAIN-SUFFIX,analytics.utensileriaonline.it
 DOMAIN-SUFFIX,analytics.utopianhours.it
@@ -19897,6 +19913,7 @@ DOMAIN-SUFFIX,api.barbaralimapmu.com.br
 DOMAIN-SUFFIX,api.basisaceleradora.com.br
 DOMAIN-SUFFIX,api.beabadabeleza.com.br
 DOMAIN-SUFFIX,api.beatrizcassane.com.br
+DOMAIN-SUFFIX,api.bela.viradatiktokshop.com
 DOMAIN-SUFFIX,api.benibiju.com.br
 DOMAIN-SUFFIX,api.beopur.pl
 DOMAIN-SUFFIX,api.berrycamp.com.br
@@ -22209,6 +22226,7 @@ DOMAIN-SUFFIX,applocus.com
 DOMAIN-SUFFIX,applog-perf.uc.cn
 DOMAIN-SUFFIX,applog.camera360.com
 DOMAIN-SUFFIX,applog.lc.quark.cn
+DOMAIN-SUFFIX,applog.musical.ly
 DOMAIN-SUFFIX,applog.reader.qq.com
 DOMAIN-SUFFIX,applog.snssdk.com
 DOMAIN-SUFFIX,applog.ssgdfs.com
@@ -32453,6 +32471,8 @@ DOMAIN-SUFFIX,bushsurprising.com
 DOMAIN-SUFFIX,busi.shundorproduct.com
 DOMAIN-SUFFIX,busierflutier.qpon
 DOMAIN-SUFFIX,busilycarnival.com
+DOMAIN-SUFFIX,business-api.tiktok.com
+DOMAIN-SUFFIX,business-api.tiktokw.us
 DOMAIN-SUFFIX,business-cards.americanexpress.com
 DOMAIN-SUFFIX,business-pages.edfenergy.com
 DOMAIN-SUFFIX,business-path-55.com
@@ -70456,6 +70476,7 @@ DOMAIN-SUFFIX,frontend-logger.flippback.com
 DOMAIN-SUFFIX,frontesorson.cfd
 DOMAIN-SUFFIX,fronthlpr.com
 DOMAIN-SUFFIX,frontier.capcutw.us
+DOMAIN-SUFFIX,frontier.musical.ly
 DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com
 DOMAIN-SUFFIX,frontierconsul02.tsunagaru-office.com
 DOMAIN-SUFFIX,frontierpattern.com
@@ -76486,6 +76507,7 @@ DOMAIN-SUFFIX,gpkwvqpnc9oi7885ik4tcw6o3.rest
 DOMAIN-SUFFIX,gplansforourc.org
 DOMAIN-SUFFIX,gplayer.kmpmedia.net
 DOMAIN-SUFFIX,gplinks.in
+DOMAIN-SUFFIX,gplog-sg.byteoversea.com
 DOMAIN-SUFFIX,gplovaumydkv.com
 DOMAIN-SUFFIX,gplpl.dcshoes.com
 DOMAIN-SUFFIX,gplsedtvjuxch.website
@@ -76493,7 +76515,9 @@ DOMAIN-SUFFIX,gplusapi.appspot.com
 DOMAIN-SUFFIX,gplxgovn.vn
 DOMAIN-SUFFIX,gplywfirosiwd.one
 DOMAIN-SUFFIX,gpm-mon-sg.bytegsdk.com
+DOMAIN-SUFFIX,gpm-mon-sg.byteoversea.com
 DOMAIN-SUFFIX,gpm-mon-va.bytegsdk.com
+DOMAIN-SUFFIX,gpm-mon-va.byteoversea.com
 DOMAIN-SUFFIX,gpm.ltd
 DOMAIN-SUFFIX,gpmodmpdrwbrx.space
 DOMAIN-SUFFIX,gpntkngnqg2jpmoz22y.cfd
@@ -100093,6 +100117,7 @@ DOMAIN-SUFFIX,korinbokhara.shop
 DOMAIN-SUFFIX,korinrucheselfing.qpon
 DOMAIN-SUFFIX,korodrogerie.fr
 DOMAIN-SUFFIX,korrelate.net
+DOMAIN-SUFFIX,korshoptiktok.com
 DOMAIN-SUFFIX,korunasrhumba.help
 DOMAIN-SUFFIX,kory.fillyourbooks.com
 DOMAIN-SUFFIX,koryakyjpoprw.space
@@ -103092,6 +103117,7 @@ DOMAIN-SUFFIX,lezbrja.cn
 DOMAIN-SUFFIX,lezntf.heydudeshoesusa.com
 DOMAIN-SUFFIX,lezpress.fr
 DOMAIN-SUFFIX,leztr.giantpartners.com
+DOMAIN-SUFFIX,lf-static.tiktokpangle-cdn-us.com
 DOMAIN-SUFFIX,lf.lelefeminine.com
 DOMAIN-SUFFIX,lf21cgfgpg2cfz.cfd
 DOMAIN-SUFFIX,lf2cgxz0b.com
@@ -105955,6 +105981,7 @@ DOMAIN-SUFFIX,load.api.southbeachofficial.com
 DOMAIN-SUFFIX,load.api.trocvan.com
 DOMAIN-SUFFIX,load.api.tryneurosmile.com
 DOMAIN-SUFFIX,load.api.vagadeempregosp.com.br
+DOMAIN-SUFFIX,load.api.viradatiktokshop.com
 DOMAIN-SUFFIX,load.api9.nicepage.com
 DOMAIN-SUFFIX,load.apimateriais.maximustecidos.com.br
 DOMAIN-SUFFIX,load.app.apelbaum.com
@@ -111405,6 +111432,7 @@ DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,log-v4-insight.kaizenplatform.net
+DOMAIN-SUFFIX,log-va.tiktokv.com
 DOMAIN-SUFFIX,log-verify.hiaiabc.com
 DOMAIN-SUFFIX,log-verify.mob.com
 DOMAIN-SUFFIX,log-video.baotintuc.vn
@@ -111453,6 +111481,7 @@ DOMAIN-SUFFIX,log.bloodppressure.info
 DOMAIN-SUFFIX,log.bloodsugars.live
 DOMAIN-SUFFIX,log.btopenworld.com
 DOMAIN-SUFFIX,log.bunjang.co.kr
+DOMAIN-SUFFIX,log.byteoversea.com
 DOMAIN-SUFFIX,log.china.cn
 DOMAIN-SUFFIX,log.classting.com
 DOMAIN-SUFFIX,log.cleandesigner.live
@@ -111569,6 +111598,7 @@ DOMAIN-SUFFIX,log.molitv.cn
 DOMAIN-SUFFIX,log.mp3.zing.vn
 DOMAIN-SUFFIX,log.mtime.cn
 DOMAIN-SUFFIX,log.music.baidu.com
+DOMAIN-SUFFIX,log.musical.ly
 DOMAIN-SUFFIX,log.news.zing.vn
 DOMAIN-SUFFIX,log.newsvine.com
 DOMAIN-SUFFIX,log.ngaynay.vn
@@ -111651,6 +111681,7 @@ DOMAIN-SUFFIX,log.thuonggiaonline.vn
 DOMAIN-SUFFIX,log.tienphong.vn
 DOMAIN-SUFFIX,log.tieudungthoinay.vn
 DOMAIN-SUFFIX,log.tiexue.net
+DOMAIN-SUFFIX,log.tiktokv.com
 DOMAIN-SUFFIX,log.tinnhanhchungkhoan.vn
 DOMAIN-SUFFIX,log.tinxe.vn
 DOMAIN-SUFFIX,log.tossinvest.com
@@ -111725,6 +111756,7 @@ DOMAIN-SUFFIX,log2.cmpassport.com
 DOMAIN-SUFFIX,log2.ihubgo.info
 DOMAIN-SUFFIX,log2.molitv.cn
 DOMAIN-SUFFIX,log2.mtime.cn
+DOMAIN-SUFFIX,log2.musical.ly
 DOMAIN-SUFFIX,log2.perfectworldgames.com
 DOMAIN-SUFFIX,log2.pwsdk.com
 DOMAIN-SUFFIX,log2.radiko.jp
@@ -115713,6 +115745,7 @@ DOMAIN-SUFFIX,malikiresids.com
 DOMAIN-SUFFIX,maling.dn.no
 DOMAIN-SUFFIX,maling.ue.dn.no
 DOMAIN-SUFFIX,malismfil.cyou
+DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
 DOMAIN-SUFFIX,maljxp.cn
 DOMAIN-SUFFIX,mall0.qiyipic.com
 DOMAIN-SUFFIX,mallcom.com
@@ -118537,8 +118570,17 @@ DOMAIN-SUFFIX,mcqmsotpuwdem.site
 DOMAIN-SUFFIX,mcqtoqhynn.xyz
 DOMAIN-SUFFIX,mcrai.helvetia.cz
 DOMAIN-SUFFIX,mcredit.vaynhanh-bankcredits.com
+DOMAIN-SUFFIX,mcs-ie.tiktokw.eu
+DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu
+DOMAIN-SUFFIX,mcs-sg.tiktok.com
+DOMAIN-SUFFIX,mcs-va-useast2a.tiktokv.com
 DOMAIN-SUFFIX,mcs-va.capcutapi.com
+DOMAIN-SUFFIX,mcs-va.tiktok.com
+DOMAIN-SUFFIX,mcs-va.tiktokv.com
 DOMAIN-SUFFIX,mcs.snssdk.com
+DOMAIN-SUFFIX,mcs.tiktokv.us
+DOMAIN-SUFFIX,mcs.tiktokw.us
+DOMAIN-SUFFIX,mcs.us.tiktokv.com
 DOMAIN-SUFFIX,mcs.zijieapi.com
 DOMAIN-SUFFIX,mcs16-normal-us-ttp.capcutapi.us
 DOMAIN-SUFFIX,mcsatbcs.com
@@ -124509,16 +124551,20 @@ DOMAIN-SUFFIX,mon-com-net.com
 DOMAIN-SUFFIX,mon-conertisseur.fr
 DOMAIN-SUFFIX,mon-pagerank.com
 DOMAIN-SUFFIX,mon-sg.capcutapi.com
+DOMAIN-SUFFIX,mon-va.byteoversea.com
 DOMAIN-SUFFIX,mon-va.capcutapi.com
 DOMAIN-SUFFIX,mon.ad.xelements.cn
 DOMAIN-SUFFIX,mon.avito.ru
+DOMAIN-SUFFIX,mon.byteoversea.com
 DOMAIN-SUFFIX,mon.capcutapi.us
 DOMAIN-SUFFIX,mon.domdog.io
 DOMAIN-SUFFIX,mon.ingservices.nl
 DOMAIN-SUFFIX,mon.isnssdk.com
 DOMAIN-SUFFIX,mon.nveda.in
 DOMAIN-SUFFIX,mon.snssdk.com
+DOMAIN-SUFFIX,mon.tiktokv.com
 DOMAIN-SUFFIX,mon.uppyhouse.com
+DOMAIN-SUFFIX,mon.us.tiktokv.com
 DOMAIN-SUFFIX,mon.xactware.com
 DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,mon11-misc-lq.fqnovel.com
@@ -125648,8 +125694,12 @@ DOMAIN-SUFFIX,mss.radiatorkopen.nl
 DOMAIN-SUFFIX,mssdhde.cn
 DOMAIN-SUFFIX,mssdk-boot.cpacutapi.com
 DOMAIN-SUFFIX,mssdk-bu.bytedance.com
+DOMAIN-SUFFIX,mssdk-sg.byteoversea.com
+DOMAIN-SUFFIX,mssdk-va.byteoversea.com
 DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-SUFFIX,mssdk.capcutapi.us
+DOMAIN-SUFFIX,mssdk.tiktokw.eu
+DOMAIN-SUFFIX,mssdk.tiktokw.us
 DOMAIN-SUFFIX,mssdk.volces.com
 DOMAIN-SUFFIX,mssdk.zijieapi.com
 DOMAIN-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us
@@ -127721,6 +127771,7 @@ DOMAIN-SUFFIX,napvisieutoc.tk
 DOMAIN-SUFFIX,napx3.com
 DOMAIN-SUFFIX,napxquanhuy.com
 DOMAIN-SUFFIX,napxugiare.com
+DOMAIN-SUFFIX,napxutiktok.net
 DOMAIN-SUFFIX,napzingspeed.com
 DOMAIN-SUFFIX,napzingvng.news
 DOMAIN-SUFFIX,naqcufmkaydur.online
@@ -137101,8 +137152,12 @@ DOMAIN-SUFFIX,p1.zhongyoo.com
 DOMAIN-SUFFIX,p11q.cn
 DOMAIN-SUFFIX,p12acx.com
 DOMAIN-SUFFIX,p15vjj3og.com
+DOMAIN-SUFFIX,p16-ad-site-sign-sg.tiktokcdn.com
+DOMAIN-SUFFIX,p16-ad.byteoversea.com
+DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net.iberostar.com
 DOMAIN-SUFFIX,p182qlx5wmkp5k3x1cb8.cfd
 DOMAIN-SUFFIX,p188.cn
+DOMAIN-SUFFIX,p19-ad-site-sign-sg.tiktokcdn.com
 DOMAIN-SUFFIX,p192.eastbaytimes.com
 DOMAIN-SUFFIX,p1fzqmnk5fh1xnv7rhfg1.cfd
 DOMAIN-SUFFIX,p1ib56kf957zj3b6qqnm.rest
@@ -154711,6 +154766,7 @@ DOMAIN-SUFFIX,rtbtrail.com
 DOMAIN-SUFFIX,rtbuniverse.com
 DOMAIN-SUFFIX,rtbuzz.net
 DOMAIN-SUFFIX,rtbweb.com
+DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
 DOMAIN-SUFFIX,rtc-logger.bytevcloud.com
 DOMAIN-SUFFIX,rtc.dymatrix.cloud
 DOMAIN-SUFFIX,rtc.multiscreensite.com
@@ -154825,7 +154881,9 @@ DOMAIN-SUFFIX,rtkndlpcwprqp.online
 DOMAIN-SUFFIX,rtl-most.blogspot.hu
 DOMAIN-SUFFIX,rtl.oewabox.at
 DOMAIN-SUFFIX,rtlfqocrotlhz.website
+DOMAIN-SUFFIX,rtlog.byteoversea.com
 DOMAIN-SUFFIX,rtlog.isnssdk.com
+DOMAIN-SUFFIX,rtlog.tiktokv.com
 DOMAIN-SUFFIX,rtlog.vidown.cn
 DOMAIN-SUFFIX,rtlog3-applog-hl.fqnovel.com
 DOMAIN-SUFFIX,rtlog3-applog.fqnovel.com
@@ -164156,6 +164214,7 @@ DOMAIN-SUFFIX,sf.susannas-brautmode.de
 DOMAIN-SUFFIX,sf.vserv.mobi
 DOMAIN-SUFFIX,sf14g.com
 DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
+DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,sf4567w2a56q.branch.salesfloor.net
 DOMAIN-SUFFIX,sf5q8gbnve37.branch.salesfloor.net
@@ -164294,6 +164353,7 @@ DOMAIN-SUFFIX,sg92.com
 DOMAIN-SUFFIX,sga.ncminvest.com
 DOMAIN-SUFFIX,sgaijlnojrrok.site
 DOMAIN-SUFFIX,sgajop.hififnk.kr
+DOMAIN-SUFFIX,sgali-mcs.byteoversea.com
 DOMAIN-SUFFIX,sgarialfdgbtj.com
 DOMAIN-SUFFIX,sgazxwpurrfsy.space
 DOMAIN-SUFFIX,sgbbc.cn
@@ -167084,6 +167144,7 @@ DOMAIN-SUFFIX,shopdieulinh.com
 DOMAIN-SUFFIX,shopdoitien.com
 DOMAIN-SUFFIX,shopdotkich.net
 DOMAIN-SUFFIX,shopdta.com
+DOMAIN-SUFFIX,shopducmomtiktok.com
 DOMAIN-SUFFIX,shopducmomtv.com
 DOMAIN-SUFFIX,shope1688.com
 DOMAIN-SUFFIX,shopebinful.cyou
@@ -183335,6 +183396,7 @@ DOMAIN-SUFFIX,st.creative-cables.si
 DOMAIN-SUFFIX,st.creative-cables.sk
 DOMAIN-SUFFIX,st.cucine-sartoriali.it
 DOMAIN-SUFFIX,st.db-fernverkehr.com
+DOMAIN-SUFFIX,st.db-tiktok-ticket.de
 DOMAIN-SUFFIX,st.dealatcity.com
 DOMAIN-SUFFIX,st.denvertaichigung.com
 DOMAIN-SUFFIX,st.der-kleine-ice.de
@@ -188473,6 +188535,7 @@ DOMAIN-SUFFIX,stats.tiffany.fr
 DOMAIN-SUFFIX,stats.tiffany.ie
 DOMAIN-SUFFIX,stats.tiffany.kr
 DOMAIN-SUFFIX,stats.tijdschrift.zenleven.nl
+DOMAIN-SUFFIX,stats.tiktoker.win
 DOMAIN-SUFFIX,stats.time2unfold.com
 DOMAIN-SUFFIX,stats.timkhoury.com
 DOMAIN-SUFFIX,stats.timmo.immo
@@ -197276,6 +197339,13 @@ DOMAIN-SUFFIX,tikpd.etrendygo.com
 DOMAIN-SUFFIX,tikt88.com
 DOMAIN-SUFFIX,tiktakz.xyz
 DOMAIN-SUFFIX,tiktikshopvn.com
+DOMAIN-SUFFIX,tiktok-ads.hara.vn
+DOMAIN-SUFFIX,tiktok-user-events.boloforms.com
+DOMAIN-SUFFIX,tiktok.tray.com.br
+DOMAIN-SUFFIX,tiktokcdn1.xyz
+DOMAIN-SUFFIX,tiktokcy1.com
+DOMAIN-SUFFIX,tiktokpangle-b.us
+DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,tiku.io
 DOMAIN-SUFFIX,tikz.cn
 DOMAIN-SUFFIX,tilanalytics.timesinternet.in
@@ -207875,6 +207945,7 @@ DOMAIN-SUFFIX,ufyitneqhuqty.online
 DOMAIN-SUFFIX,ufyxvgupbdcjv.website
 DOMAIN-SUFFIX,ufz.doesxyz.com
 DOMAIN-SUFFIX,ufzvgx.stylepit.se
+DOMAIN-SUFFIX,ug-sg.byteoversea.com
 DOMAIN-SUFFIX,ug.baidu.com
 DOMAIN-SUFFIX,ug.snssdk.com
 DOMAIN-SUFFIX,ug.urban-goddess.com
@@ -211599,6 +211670,7 @@ DOMAIN-SUFFIX,v10-win.vortex.data.microsoft.com.akadns.net
 DOMAIN-SUFFIX,v10.vortex-win.data.microsoft.com
 DOMAIN-SUFFIX,v10c.events.data.microsoft.com
 DOMAIN-SUFFIX,v12group.com
+DOMAIN-SUFFIX,v16-ad.byteoversea.com
 DOMAIN-SUFFIX,v16.56.com
 DOMAIN-SUFFIX,v16m-default.akamaized.net.iberostar.com
 DOMAIN-SUFFIX,v16oumz76l2jkuzh.cfd
@@ -224837,9 +224909,13 @@ DOMAIN-SUFFIX,xlmzkpytpauia.site
 DOMAIN-SUFFIX,xlnkuhkwczqbs.space
 DOMAIN-SUFFIX,xlnlvf.top
 DOMAIN-SUFFIX,xlnrby2uov1x24.cfd
+DOMAIN-SUFFIX,xlog-va.musical.ly
+DOMAIN-SUFFIX,xlog-va.tiktokv.com
+DOMAIN-SUFFIX,xlog.byteoversea.com
 DOMAIN-SUFFIX,xlog.hiido.com
 DOMAIN-SUFFIX,xlog.jd.com
 DOMAIN-SUFFIX,xlog.snssdk.com
+DOMAIN-SUFFIX,xlog.tiktokv.com
 DOMAIN-SUFFIX,xlovecam.com
 DOMAIN-SUFFIX,xlpblc.binding101.com
 DOMAIN-SUFFIX,xlqemkati.com

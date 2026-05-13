@@ -1,19 +1,19 @@
 # Gins-Rules: twitch
 rules:
 - domain_suffix:
+    match: twitch-ext.rootonline.de
+    policy: Proxy
+- domain_suffix:
     match: ext-twitch.tv
     policy: Proxy
 - domain_suffix:
     match: jtvnw.net
     policy: Proxy
 - domain_suffix:
-    match: ttvnw.net
-    policy: Proxy
-- domain_suffix:
-    match: twitch-ext.rootonline.de
-    policy: Proxy
-- domain_suffix:
     match: twitch.tv
+    policy: Proxy
+- domain_suffix:
+    match: ttvnw.net
     policy: Proxy
 - domain_suffix:
     match: twitchcdn.net

@@ -1,4 +1,4 @@
-HOST-SUFFIX,battle.net,Proxy
-HOST-SUFFIX,battlenet.com,Proxy
-HOST-SUFFIX,blizzard.com,Proxy
-HOST-SUFFIX,blz-contentstack.com,Proxy
+HOST-SUFFIX,battle.net,PROXY
+HOST-SUFFIX,battlenet.com,PROXY
+HOST-SUFFIX,blizzard.com,PROXY
+HOST-SUFFIX,blz-contentstack.com,PROXY

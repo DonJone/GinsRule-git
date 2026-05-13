@@ -1,136 +1,124 @@
 # Gins-Rules: amazon
 rules:
 - domain_suffix:
-    match: aboutamazon.com
-    policy: Proxy
-- domain_suffix:
-    match: aiv-cdn.net
-    policy: Proxy
-- domain_suffix:
-    match: aiv-delivery.net
-    policy: Proxy
-- domain_suffix:
-    match: amazon.ca
-    policy: Proxy
-- domain_suffix:
-    match: amazon.co.jp
-    policy: Proxy
-- domain_suffix:
-    match: amazon.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: amazon.com
-    policy: Proxy
-- domain_suffix:
-    match: amazon.de
-    policy: Proxy
-- domain_suffix:
-    match: amazon.fr
-    policy: Proxy
-- domain_suffix:
-    match: amazon.in
-    policy: Proxy
-- domain_suffix:
-    match: amazon.jobs
+    match: seattlespheres.com
     policy: Proxy
 - domain_suffix:
     match: amazonaws.com
     policy: Proxy
 - domain_suffix:
-    match: amazontools.com
+    match: aiv-cdn.net
     policy: Proxy
 - domain_suffix:
-    match: amazontours.com
-    policy: Proxy
-- domain_suffix:
-    match: amazonuniversity.jobs
-    policy: Proxy
-- domain_suffix:
-    match: amazonvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: atv-ps.amazon.com
-    policy: Proxy
-- domain_suffix:
-    match: avodmp4s3ww-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: aws.amazon.com
-    policy: Proxy
-- domain_suffix:
-    match: aws.dev
-    policy: Proxy
-- domain_suffix:
-    match: awsstatic.com
+    match: d25xi40x97liuc.cloudfront.net
     policy: Proxy
 - domain_suffix:
     match: cloudfront.net
     policy: Proxy
 - domain_suffix:
-    match: d1v5ir2lpwr8os.cloudfront.net
-    policy: Proxy
-- domain_suffix:
     match: d1xfray82862hr.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: d22qjgkvxw22r6.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: d25xi40x97liuc.cloudfront.net
     policy: Proxy
 - domain_suffix:
     match: d27xxe7juh1us6.cloudfront.net
     policy: Proxy
 - domain_suffix:
-    match: d3196yreox78o9.cloudfront.net
+    match: amazon.com
     policy: Proxy
 - domain_suffix:
-    match: dmqdd6hw24ucf.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: elasticbeanstalk.com
-    policy: Proxy
-- domain_suffix:
-    match: ktpx.amazon.com
+    match: amazonvideo.com
     policy: Proxy
 - domain_suffix:
     match: media-amazon.com
     policy: Proxy
 - domain_suffix:
-    match: pv-cdn.net
-    policy: Proxy
-- domain_suffix:
     match: s3.amazonaws.com
     policy: Proxy
 - domain_suffix:
-    match: seattlespheres.com
+    match: amazon.fr
     policy: Proxy
-- domain:
-    match: atv-ps.amazon.com
+- domain_suffix:
+    match: amazon.co.jp
     policy: Proxy
-- domain:
+- domain_suffix:
+    match: amazonuniversity.jobs
+    policy: Proxy
+- domain_suffix:
+    match: d3196yreox78o9.cloudfront.net
+    policy: Proxy
+- domain_suffix:
+    match: amazon.de
+    policy: Proxy
+- domain_suffix:
+    match: aws.amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: awsstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: amazon.jobs
+    policy: Proxy
+- domain_suffix:
+    match: dmqdd6hw24ucf.cloudfront.net
+    policy: Proxy
+- domain_suffix:
+    match: ktpx.amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: elasticbeanstalk.com
+    policy: Proxy
+- domain_suffix:
+    match: aiv-delivery.net
+    policy: Proxy
+- domain_suffix:
+    match: aboutamazon.com
+    policy: Proxy
+- domain_suffix:
+    match: pv-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: amazontours.com
+    policy: Proxy
+- domain_suffix:
     match: avodmp4s3ww-a.akamaihd.net
     policy: Proxy
-- domain:
+- domain_suffix:
     match: d1v5ir2lpwr8os.cloudfront.net
     policy: Proxy
-- domain:
-    match: d1xfray82862hr.cloudfront.net
+- domain_suffix:
+    match: amazon.ca
     policy: Proxy
-- domain:
+- domain_suffix:
+    match: aws.dev
+    policy: Proxy
+- domain_suffix:
     match: d22qjgkvxw22r6.cloudfront.net
     policy: Proxy
-- domain:
-    match: d25xi40x97liuc.cloudfront.net
+- domain_suffix:
+    match: atv-ps.amazon.com
     policy: Proxy
-- domain:
-    match: d27xxe7juh1us6.cloudfront.net
+- domain_suffix:
+    match: amazontools.com
+    policy: Proxy
+- domain_suffix:
+    match: amazon.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: amazon.in
     policy: Proxy
 - domain:
     match: d3196yreox78o9.cloudfront.net
     policy: Proxy
 - domain:
-    match: dmqdd6hw24ucf.cloudfront.net
+    match: atv-ps.amazon.com
+    policy: Proxy
+- domain:
+    match: d22qjgkvxw22r6.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d1v5ir2lpwr8os.cloudfront.net
+    policy: Proxy
+- domain:
+    match: avodmp4s3ww-a.akamaihd.net
     policy: Proxy
 - domain:
     match: ktpx.amazon.com
@@ -138,15 +126,35 @@ rules:
 - domain:
     match: signin.aws.amazon.com
     policy: Proxy
+- domain:
+    match: dmqdd6hw24ucf.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d27xxe7juh1us6.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d1xfray82862hr.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d25xi40x97liuc.cloudfront.net
+    policy: Proxy
 - domain_keyword:
     match: avoddashs
     policy: Proxy
 - ip_cidr:
-    match: 13.32.0.0/15
+    match: 13.35.0.0/17
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 13.35.0.0/17
+    match: 52.84.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 18.194.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 54.226.0.0/15
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -154,7 +162,11 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 18.194.0.0/15
+    match: 54.156.0.0/14
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 52.200.0.0/13
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -166,11 +178,7 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 52.200.0.0/13
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 52.58.0.0/15
+    match: 52.77.0.0/16
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -178,26 +186,18 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 52.77.0.0/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 52.84.0.0/15
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 54.156.0.0/14
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 54.226.0.0/15
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
     match: 54.230.156.0/22
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
+    match: 13.32.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
     match: 54.93.0.0/16
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 52.58.0.0/15
     no_resolve: 'true'
     policy: Proxy

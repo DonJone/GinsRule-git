@@ -1,3 +1,5 @@
+DOMAIN,apiintl.biliapi.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN-SUFFIX,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN-SUFFIX,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -94,6 +96,10 @@ DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilivideo.net
+DOMAIN-SUFFIX,com.bilibili.app.blue
+DOMAIN-SUFFIX,com.bilibili.app.in
+DOMAIN-SUFFIX,com.bilibili.comic
+DOMAIN-SUFFIX,com.bilibili.comic.intl
 DOMAIN-SUFFIX,corari.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,dyhgames.com
@@ -110,13 +116,13 @@ DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
 DOMAIN-SUFFIX,p.bstarstatic.com
 DOMAIN-SUFFIX,sharejoytech.com
 DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,tv.danmaku.bili
+DOMAIN-SUFFIX,tv.danmaku.bilibilihd
 DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
-DOMAIN,apiintl.biliapi.net
-DOMAIN,upos-hz-mirrorakam.akamaized.net
 IP-CIDR,106.75.74.76/32
 IP-CIDR,111.206.25.147/32
 IP-CIDR,119.3.238.64/32

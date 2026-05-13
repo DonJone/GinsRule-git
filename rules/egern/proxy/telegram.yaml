@@ -1,37 +1,25 @@
 # Gins-Rules: telegram
 rules:
 - domain_suffix:
-    match: api.imem.app
-    policy: Proxy
-- domain_suffix:
-    match: api.swiftgram.app
-    policy: Proxy
-- domain_suffix:
-    match: cdn-telegram.org
-    policy: Proxy
-- domain_suffix:
-    match: comments.app
-    policy: Proxy
-- domain_suffix:
-    match: contest.com
+    match: telegramdownload.com
     policy: Proxy
 - domain_suffix:
     match: graph.org
     policy: Proxy
 - domain_suffix:
-    match: legra.ph
+    match: t.me
+    policy: Proxy
+- domain_suffix:
+    match: tx.me
     policy: Proxy
 - domain_suffix:
     match: mbrx.app
     policy: Proxy
 - domain_suffix:
-    match: quiz.directory
+    match: telegram.org
     policy: Proxy
 - domain_suffix:
-    match: stel.com
-    policy: Proxy
-- domain_suffix:
-    match: t.me
+    match: tg.dev
     policy: Proxy
 - domain_suffix:
     match: tdesktop.com
@@ -40,37 +28,49 @@ rules:
     match: telega.one
     policy: Proxy
 - domain_suffix:
-    match: telegra.ph
+    match: telesco.pe
     policy: Proxy
 - domain_suffix:
-    match: telegram-cdn.org
+    match: comments.app
     policy: Proxy
 - domain_suffix:
-    match: telegram.dog
+    match: quiz.directory
+    policy: Proxy
+- domain_suffix:
+    match: api.imem.app
     policy: Proxy
 - domain_suffix:
     match: telegram.me
     policy: Proxy
 - domain_suffix:
-    match: telegram.org
+    match: usercontent.dev
+    policy: Proxy
+- domain_suffix:
+    match: contest.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn-telegram.org
+    policy: Proxy
+- domain_suffix:
+    match: telegra.ph
+    policy: Proxy
+- domain_suffix:
+    match: stel.com
+    policy: Proxy
+- domain_suffix:
+    match: telegram-cdn.org
     policy: Proxy
 - domain_suffix:
     match: telegram.space
     policy: Proxy
 - domain_suffix:
-    match: telegramdownload.com
+    match: legra.ph
     policy: Proxy
 - domain_suffix:
-    match: telesco.pe
+    match: telegram.dog
     policy: Proxy
 - domain_suffix:
-    match: tg.dev
-    policy: Proxy
-- domain_suffix:
-    match: tx.me
-    policy: Proxy
-- domain_suffix:
-    match: usercontent.dev
+    match: api.swiftgram.app
     policy: Proxy
 - domain:
     match: api.imem.app
@@ -79,33 +79,13 @@ rules:
     match: api.swiftgram.app
     policy: Proxy
 - domain_keyword:
-    match: nicegram
-    policy: Proxy
-- domain_keyword:
     match: telegram
     policy: Proxy
-- ip_cidr:
-    match: 109.239.140.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 139.59.210.98/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 149.154.160.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 196.55.216.167/32
-    no_resolve: 'true'
+- domain_keyword:
+    match: nicegram
     policy: Proxy
 - ip_cidr6:
-    match: 2001:67c:4e8::/48
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2001:b28:f23c::/47
+    match: 2001:b28:f23f::/48
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr6:
@@ -113,19 +93,19 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr6:
-    match: 2001:b28:f23f::/48
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2a0a:f280::/29
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
     match: 2a0a:f280::/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 5.28.192.0/18
+    match: 95.161.64.0/20
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 149.154.160.0/20
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 139.59.210.98/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -133,6 +113,41 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 95.161.64.0/20
+    match: 5.28.192.0/18
     no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2a0a:f280::/29
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 109.239.140.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2001:b28:f23c::/47
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2001:67c:4e8::/48
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 196.55.216.167/32
+    no_resolve: 'true'
+    policy: Proxy
+- asn:
+    match: AS62041
+    policy: Proxy
+- asn:
+    match: AS211157
+    policy: Proxy
+- asn:
+    match: AS62014
+    policy: Proxy
+- asn:
+    match: AS44907
+    policy: Proxy
+- asn:
+    match: AS59930
     policy: Proxy

@@ -4,11 +4,11 @@ rules:
     match: sstatic.net
     policy: Proxy
 - domain_suffix:
-    match: stackexchange.com
-    policy: Proxy
-- domain_suffix:
     match: stackoverflow.com
     policy: Proxy
 - domain_suffix:
     match: stackoverflowteams.com
+    policy: Proxy
+- domain_suffix:
+    match: stackexchange.com
     policy: Proxy

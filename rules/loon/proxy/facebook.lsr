@@ -1,3 +1,5 @@
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
@@ -552,8 +554,6 @@ DOMAIN-SUFFIX,wwwmfacebook.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,fbcdn
 IP-CIDR,103.4.96.0/22
 IP-CIDR,129.134.0.0/17
 IP-CIDR,157.240.0.0/17

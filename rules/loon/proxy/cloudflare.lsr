@@ -1,3 +1,12 @@
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,ajax.cloudflare.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,dash.cloudflare.com
+DOMAIN,email.cloudflare.com
+DOMAIN,one.one.one.one
+DOMAIN,r2.cloudflarestorage.com
+DOMAIN,speed.cloudflare.com
+DOMAIN,teams.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,cf-ipfs.com
@@ -39,12 +48,3 @@ DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
-DOMAIN,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN,ajax.cloudflare.com
-DOMAIN,cp4.cloudflare.com
-DOMAIN,dash.cloudflare.com
-DOMAIN,email.cloudflare.com
-DOMAIN,one.one.one.one
-DOMAIN,r2.cloudflarestorage.com
-DOMAIN,speed.cloudflare.com
-DOMAIN,teams.cloudflare.com

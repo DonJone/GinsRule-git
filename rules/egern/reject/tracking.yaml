@@ -1,22 +1,19 @@
 # Gins-Rules: tracking
 rules:
 - domain_suffix:
+    match: ssl.google-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: umeng.com
+    policy: Proxy
+- domain_suffix:
+    match: firebaselogging-pa.googleapis.com
+    policy: Proxy
+- domain_suffix:
     match: 51.la
     policy: Proxy
 - domain_suffix:
-    match: adjust.com
-    policy: Proxy
-- domain_suffix:
-    match: ads.facebook.com
-    policy: Proxy
-- domain_suffix:
-    match: an.facebook.com
-    policy: Proxy
-- domain_suffix:
     match: analytics.bytedance.com
-    policy: Proxy
-- domain_suffix:
-    match: analytics.google.com
     policy: Proxy
 - domain_suffix:
     match: app-measurement.com
@@ -28,31 +25,19 @@ rules:
     match: branch.io
     policy: Proxy
 - domain_suffix:
-    match: cnzz.com
-    policy: Proxy
-- domain_suffix:
-    match: crash.firebase.google.com
-    policy: Proxy
-- domain_suffix:
-    match: firebaselogging-pa.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: google-analytics.com
-    policy: Proxy
-- domain_suffix:
-    match: graph.facebook.com
-    policy: Proxy
-- domain_suffix:
     match: growingio.com
     policy: Proxy
 - domain_suffix:
-    match: hm.baidu.com
+    match: pixel.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: an.facebook.com
     policy: Proxy
 - domain_suffix:
     match: hmma.baidu.com
     policy: Proxy
 - domain_suffix:
-    match: pixel.facebook.com
+    match: cnzz.com
     policy: Proxy
 - domain_suffix:
     match: sensors.com
@@ -61,14 +46,29 @@ rules:
     match: sensorsdata.cn
     policy: Proxy
 - domain_suffix:
-    match: ssl.google-analytics.com
-    policy: Proxy
-- domain_suffix:
     match: toblog.ctobsnssdk.com
     policy: Proxy
 - domain_suffix:
     match: tongji.baidu.com
     policy: Proxy
 - domain_suffix:
-    match: umeng.com
+    match: ads.facebook.com
+    policy: Proxy
+- domain_suffix:
+    match: analytics.google.com
+    policy: Proxy
+- domain_suffix:
+    match: adjust.com
+    policy: Proxy
+- domain_suffix:
+    match: hm.baidu.com
+    policy: Proxy
+- domain_suffix:
+    match: crash.firebase.google.com
+    policy: Proxy
+- domain_suffix:
+    match: google-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: graph.facebook.com
     policy: Proxy

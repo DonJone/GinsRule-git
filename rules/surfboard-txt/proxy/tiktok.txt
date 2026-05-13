@@ -3,6 +3,7 @@
 .byteintlapi.com
 .byteoversea.com
 .capcut.com
+.com.zhiliaoapp.musically
 .ibytedtos.com
 .ibyteimg.com
 .ipstatp.com

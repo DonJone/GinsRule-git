@@ -1,15 +1,19 @@
 # Gins-Rules: bypass-ip
 rules:
+- ip_cidr6:
+    match: ff00::/8
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 224.0.0.0/4
+    no_resolve: 'true'
+    policy: Proxy
 - ip_cidr:
     match: 10.0.0.0/8
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 100.64.0.0/10
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 127.0.0.0/8
+    match: 192.168.0.0/16
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -20,8 +24,16 @@ rules:
     match: 172.16.0.0/12
     no_resolve: 'true'
     policy: Proxy
+- ip_cidr6:
+    match: fe80::/10
+    no_resolve: 'true'
+    policy: Proxy
 - ip_cidr:
-    match: 192.168.0.0/16
+    match: 255.255.255.255/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 100.64.0.0/10
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -29,22 +41,10 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 224.0.0.0/4
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 255.255.255.255/32
+    match: 127.0.0.0/8
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr6:
     match: fc00::/7
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: fe80::/10
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: ff00::/8
     no_resolve: 'true'
     policy: Proxy

@@ -1,80 +1,80 @@
 # Gins-Rules: bypass-domain
 rules:
 - domain_suffix:
-    match: captive.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: clients3.google.com
-    policy: Proxy
-- domain_suffix:
-    match: connectivitycheck.gstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: e.crashlytics.com
+    match: p.to
     policy: Proxy
 - domain_suffix:
     match: falogin.cn
     policy: Proxy
 - domain_suffix:
-    match: lan
-    policy: Proxy
-- domain_suffix:
-    match: local
-    policy: Proxy
-- domain_suffix:
-    match: localhost
-    policy: Proxy
-- domain_suffix:
-    match: melogin.cn
-    policy: Proxy
-- domain_suffix:
-    match: miwifi.com
-    policy: Proxy
-- domain_suffix:
-    match: ntp.ntsc.ac.cn
-    policy: Proxy
-- domain_suffix:
-    match: ntp.org
-    policy: Proxy
-- domain_suffix:
-    match: p.to
-    policy: Proxy
-- domain_suffix:
-    match: pool.ntp.org
+    match: time.asia.apple.com
     policy: Proxy
 - domain_suffix:
     match: router
     policy: Proxy
 - domain_suffix:
-    match: router.asus.com
-    policy: Proxy
-- domain_suffix:
-    match: stun.chat.bilibili.com
-    policy: Proxy
-- domain_suffix:
-    match: stun.l.google.com
-    policy: Proxy
-- domain_suffix:
     match: stun.miwifi.com
     policy: Proxy
 - domain_suffix:
-    match: tendawifi.com
+    match: clients3.google.com
+    policy: Proxy
+- domain_suffix:
+    match: localhost
     policy: Proxy
 - domain_suffix:
     match: time.apple.com
     policy: Proxy
 - domain_suffix:
-    match: time.asia.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: time.google.com
-    policy: Proxy
-- domain_suffix:
-    match: tplinklogin.net
+    match: ntp.ntsc.ac.cn
     policy: Proxy
 - domain_suffix:
     match: tplogin.cn
     policy: Proxy
 - domain_suffix:
+    match: lan
+    policy: Proxy
+- domain_suffix:
+    match: captive.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: connectivitycheck.gstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: stun.l.google.com
+    policy: Proxy
+- domain_suffix:
+    match: router.asus.com
+    policy: Proxy
+- domain_suffix:
+    match: miwifi.com
+    policy: Proxy
+- domain_suffix:
+    match: ntp.org
+    policy: Proxy
+- domain_suffix:
     match: zte.home
+    policy: Proxy
+- domain_suffix:
+    match: tplinklogin.net
+    policy: Proxy
+- domain_suffix:
+    match: pool.ntp.org
+    policy: Proxy
+- domain_suffix:
+    match: stun.chat.bilibili.com
+    policy: Proxy
+- domain_suffix:
+    match: local
+    policy: Proxy
+- domain_suffix:
+    match: melogin.cn
+    policy: Proxy
+- domain_suffix:
+    match: e.crashlytics.com
+    policy: Proxy
+- domain_suffix:
+    match: tendawifi.com
+    policy: Proxy
+- domain_suffix:
+    match: time.google.com
     policy: Proxy

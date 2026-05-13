@@ -1,9 +1,9 @@
 +.api.githubcopilot.com
-+.copilot.github.com
-+.copilot-telemetry.githubusercontent.com
-+.default.exp-tas.com
-+.copilot-proxy.githubusercontent.com
 +.bing.com
++.copilot-proxy.githubusercontent.com
++.copilot-telemetry.githubusercontent.com
++.copilot.github.com
 +.copilot.microsoft.com
++.default.exp-tas.com
 +.githubcopilot.com
 sydney.bing.com

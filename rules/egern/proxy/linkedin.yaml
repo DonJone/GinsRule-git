@@ -4,11 +4,11 @@ rules:
     match: licdn.com
     policy: Proxy
 - domain_suffix:
-    match: linkedin.cn
-    policy: Proxy
-- domain_suffix:
     match: linkedin.com
     policy: Proxy
 - domain_suffix:
     match: lnkd.in
+    policy: Proxy
+- domain_suffix:
+    match: linkedin.cn
     policy: Proxy

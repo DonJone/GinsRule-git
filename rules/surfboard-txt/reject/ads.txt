@@ -2159,6 +2159,7 @@
 .xiuxiu.android.dl.meitu.com
 .xiuxiu.mobile.meitudata.com
 .xlmc.sandai.net
+.xlog-va.byteoversea.com
 .xlog.snssdk.com
 .xls.go.sohu.com
 .xmpush.xiaomi.com

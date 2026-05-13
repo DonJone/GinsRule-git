@@ -1,2170 +1,2205 @@
 # Gins-Rules: google
 rules:
 - domain_suffix:
-    match: 0emm.com
-    policy: Proxy
-- domain_suffix:
-    match: 1e100.net
-    policy: Proxy
-- domain_suffix:
-    match: 1ucrs.com
-    policy: Proxy
-- domain_suffix:
-    match: 265.com
-    policy: Proxy
-- domain_suffix:
-    match: 2mdn-cn.net
-    policy: Proxy
-- domain_suffix:
-    match: 2mdn.net
-    policy: Proxy
-- domain_suffix:
-    match: 466453.com
-    policy: Proxy
-- domain_suffix:
-    match: abc.xyz
-    policy: Proxy
-- domain_suffix:
-    match: adgoogle.net
-    policy: Proxy
-- domain_suffix:
-    match: admeld.com
-    policy: Proxy
-- domain_suffix:
-    match: admob-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: admob.com
-    policy: Proxy
-- domain_suffix:
-    match: adsense.com
-    policy: Proxy
-- domain_suffix:
-    match: adsensecustomsearchads.com
-    policy: Proxy
-- domain_suffix:
-    match: adsenseformobileapps.com
-    policy: Proxy
-- domain_suffix:
-    match: advertisercommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: advertiserscommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: adwords-community.com
-    policy: Proxy
-- domain_suffix:
-    match: adwords.com
-    policy: Proxy
-- domain_suffix:
-    match: adwordsexpress.com
-    policy: Proxy
-- domain_suffix:
-    match: amp.dev
-    policy: Proxy
-- domain_suffix:
-    match: ampproject.com
-    policy: Proxy
-- domain_suffix:
-    match: ampproject.net
-    policy: Proxy
-- domain_suffix:
-    match: ampproject.org
-    policy: Proxy
-- domain_suffix:
-    match: android.com
-    policy: Proxy
-- domain_suffix:
-    match: androidify.com
-    policy: Proxy
-- domain_suffix:
-    match: androidtv.com
-    policy: Proxy
-- domain_suffix:
-    match: angulardart.org
-    policy: Proxy
-- domain_suffix:
-    match: api.ai
-    policy: Proxy
-- domain_suffix:
-    match: apigee.com
-    policy: Proxy
-- domain_suffix:
-    match: app-analytics-services.com
-    policy: Proxy
-- domain_suffix:
-    match: app-measurement-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: app-measurement.com
-    policy: Proxy
-- domain_suffix:
-    match: app-measurement.net
-    policy: Proxy
-- domain_suffix:
-    match: appbridge.ca
-    policy: Proxy
-- domain_suffix:
-    match: appbridge.io
-    policy: Proxy
-- domain_suffix:
-    match: appbridge.it
-    policy: Proxy
-- domain_suffix:
-    match: apps5.oingo.com
-    policy: Proxy
-- domain_suffix:
-    match: appspot.com
-    policy: Proxy
-- domain_suffix:
-    match: apture.com
-    policy: Proxy
-- domain_suffix:
-    match: area120.com
-    policy: Proxy
-- domain_suffix:
-    match: asp-cc.com
-    policy: Proxy
-- domain_suffix:
-    match: autodraw.com
-    policy: Proxy
-- domain_suffix:
-    match: avail.googleflights.net
-    policy: Proxy
-- domain_suffix:
-    match: bandpage.com
-    policy: Proxy
-- domain_suffix:
-    match: baselinestudy.com
-    policy: Proxy
-- domain_suffix:
-    match: baselinestudy.org
-    policy: Proxy
-- domain_suffix:
-    match: bazel.build
-    policy: Proxy
-- domain_suffix:
-    match: bdn.dev
-    policy: Proxy
-- domain_suffix:
-    match: beacons.gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: beacons2.gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: beacons3.gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: beatthatquote.com
-    policy: Proxy
-- domain_suffix:
-    match: blink.org
-    policy: Proxy
-- domain_suffix:
-    match: blog.google
-    policy: Proxy
-- domain_suffix:
-    match: blogblog.com
-    policy: Proxy
-- domain_suffix:
-    match: blogger.com
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ae
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.al
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.am
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ba
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.be
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.bg
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.bj
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ca
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.cf
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ch
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.cl
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.at
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.id
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.il
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.ke
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.co.za
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.ar
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.au
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.br
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.by
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.co
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.cy
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.ee
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.eg
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.es
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.mt
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.ng
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.tr
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.com.uy
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.cv
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.cz
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.de
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.dk
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.fi
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.fr
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.gr
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.hk
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.hr
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.hu
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ie
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.in
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.is
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.it
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.jp
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.kr
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.li
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.lt
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.lu
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.md
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.mk
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.mx
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.my
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.nl
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.no
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.pe
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.pt
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.qa
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.re
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ro
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.rs
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ru
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.se
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.sg
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.si
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.sk
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.sn
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.td
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.tw
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.ug
-    policy: Proxy
-- domain_suffix:
-    match: blogspot.vn
-    policy: Proxy
-- domain_suffix:
-    match: brocaproject.com
-    policy: Proxy
-- domain_suffix:
-    match: brotli.org
-    policy: Proxy
-- domain_suffix:
-    match: bumpshare.com
-    policy: Proxy
-- domain_suffix:
-    match: bumptop.ca
-    policy: Proxy
-- domain_suffix:
-    match: bumptop.com
-    policy: Proxy
-- domain_suffix:
-    match: bumptop.net
-    policy: Proxy
-- domain_suffix:
-    match: bumptop.org
-    policy: Proxy
-- domain_suffix:
-    match: bumptunes.com
-    policy: Proxy
-- domain_suffix:
-    match: c.gle
-    policy: Proxy
-- domain_suffix:
-    match: campuslondon.com
-    policy: Proxy
-- domain_suffix:
-    match: capitalg.com
-    policy: Proxy
-- domain_suffix:
-    match: certificate-transparency.dev
-    policy: Proxy
-- domain_suffix:
-    match: certificate-transparency.org
-    policy: Proxy
-- domain_suffix:
-    match: charlestonroadregistry.com
-    policy: Proxy
-- domain_suffix:
-    match: chat.gle
-    policy: Proxy
-- domain_suffix:
-    match: chrome.com
-    policy: Proxy
-- domain_suffix:
-    match: chromebook.com
-    policy: Proxy
-- domain_suffix:
-    match: chromecast.com
-    policy: Proxy
-- domain_suffix:
-    match: chromeexperiments.com
-    policy: Proxy
-- domain_suffix:
-    match: chromeos.dev
-    policy: Proxy
-- domain_suffix:
-    match: chromercise.com
-    policy: Proxy
-- domain_suffix:
-    match: chromestatus.com
-    policy: Proxy
-- domain_suffix:
-    match: chromium.org
-    policy: Proxy
-- domain_suffix:
-    match: chronicle.security
-    policy: Proxy
-- domain_suffix:
-    match: chroniclesec.com
-    policy: Proxy
-- domain_suffix:
-    match: clickserve.cc-dt.com
-    policy: Proxy
-- domain_suffix:
-    match: clickserver.googleads.com
-    policy: Proxy
-- domain_suffix:
-    match: cloud.google.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudburstresearch.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudfunctions.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudproxy.app
-    policy: Proxy
-- domain_suffix:
-    match: cloudrobotics.com
-    policy: Proxy
-- domain_suffix:
-    match: cobrasearch.com
-    policy: Proxy
-- domain_suffix:
-    match: codespot.com
-    policy: Proxy
-- domain_suffix:
-    match: conscrypt.com
-    policy: Proxy
-- domain_suffix:
-    match: conscrypt.org
-    policy: Proxy
-- domain_suffix:
-    match: cookiechoices.org
-    policy: Proxy
-- domain_suffix:
-    match: coova.com
-    policy: Proxy
-- domain_suffix:
-    match: coova.net
-    policy: Proxy
-- domain_suffix:
-    match: coova.org
-    policy: Proxy
-- domain_suffix:
-    match: crashlytics.com
-    policy: Proxy
-- domain_suffix:
-    match: crbug.com
-    policy: Proxy
-- domain_suffix:
-    match: creativelab5.com
-    policy: Proxy
-- domain_suffix:
-    match: crossmediapanel.com
-    policy: Proxy
-- domain_suffix:
-    match: crr.com
-    policy: Proxy
-- domain_suffix:
-    match: crrev.com
-    policy: Proxy
-- domain_suffix:
-    match: cs4hs.com
-    policy: Proxy
-- domain_suffix:
-    match: dart.dev
-    policy: Proxy
-- domain_suffix:
-    match: dartlang.org
-    policy: Proxy
-- domain_suffix:
-    match: dartpad.dev
-    policy: Proxy
-- domain_suffix:
-    match: dartsearch-cn.net
-    policy: Proxy
-- domain_suffix:
-    match: dartsearch.net
-    policy: Proxy
-- domain_suffix:
-    match: data-vocabulary.org
-    policy: Proxy
-- domain_suffix:
-    match: dataliberation.org
-    policy: Proxy
-- domain_suffix:
-    match: debug.com
-    policy: Proxy
-- domain_suffix:
-    match: debugproject.com
-    policy: Proxy
-- domain_suffix:
-    match: deepmind.com
-    policy: Proxy
-- domain_suffix:
-    match: deepmind.google
-    policy: Proxy
-- domain_suffix:
-    match: deja.com
-    policy: Proxy
-- domain_suffix:
-    match: deps.dev
-    policy: Proxy
-- domain_suffix:
-    match: deps.info
-    policy: Proxy
-- domain_suffix:
-    match: devsitetest.how
-    policy: Proxy
-- domain_suffix:
-    match: dialogflow.com
-    policy: Proxy
-- domain_suffix:
-    match: digisfera.com
-    policy: Proxy
-- domain_suffix:
-    match: digitalassetlinks.org
-    policy: Proxy
-- domain_suffix:
-    match: digitalattackmap.com
-    policy: Proxy
-- domain_suffix:
-    match: doubleclick-cn.net
-    policy: Proxy
-- domain_suffix:
-    match: doubleclick.com
-    policy: Proxy
-- domain_suffix:
-    match: doubleclick.net
-    policy: Proxy
-- domain_suffix:
-    match: episodic.com
-    policy: Proxy
-- domain_suffix:
-    match: fastlane.ci
-    policy: Proxy
-- domain_suffix:
-    match: fastlane.tools
-    policy: Proxy
-- domain_suffix:
-    match: feedburner.com
-    policy: Proxy
-- domain_suffix:
-    match: fflick.com
-    policy: Proxy
-- domain_suffix:
-    match: financeleadsonline.com
-    policy: Proxy
-- domain_suffix:
-    match: firebase.google.com
-    policy: Proxy
-- domain_suffix:
-    match: firebaseapp.com
-    policy: Proxy
-- domain_suffix:
-    match: firebaseio.com
-    policy: Proxy
-- domain_suffix:
-    match: firebasestorage.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: flutter.dev
-    policy: Proxy
-- domain_suffix:
-    match: flutterapp.com
-    policy: Proxy
-- domain_suffix:
-    match: foofle.com
-    policy: Proxy
-- domain_suffix:
-    match: froogle.com
-    policy: Proxy
-- domain_suffix:
-    match: fuchsia.dev
-    policy: Proxy
-- domain_suffix:
-    match: g-tun.com
-    policy: Proxy
-- domain_suffix:
-    match: g.cn
-    policy: Proxy
-- domain_suffix:
-    match: g.co
-    policy: Proxy
-- domain_suffix:
-    match: g.dev
-    policy: Proxy
-- domain_suffix:
-    match: g.page
-    policy: Proxy
-- domain_suffix:
-    match: gateway.dev
-    policy: Proxy
-- domain_suffix:
-    match: gcp.gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: gcr.io
-    policy: Proxy
-- domain_suffix:
-    match: gerritcodereview.com
-    policy: Proxy
-- domain_suffix:
-    match: get.app
-    policy: Proxy
-- domain_suffix:
-    match: get.dev
-    policy: Proxy
-- domain_suffix:
-    match: get.how
-    policy: Proxy
-- domain_suffix:
-    match: get.page
-    policy: Proxy
-- domain_suffix:
-    match: getbumptop.com
-    policy: Proxy
-- domain_suffix:
-    match: getmdl.io
-    policy: Proxy
-- domain_suffix:
-    match: getoutline.org
-    policy: Proxy
-- domain_suffix:
-    match: ggoogle.com
-    policy: Proxy
-- domain_suffix:
-    match: ggpht.com
-    policy: Proxy
-- domain_suffix:
-    match: gipscorp.com
-    policy: Proxy
-- domain_suffix:
-    match: gkecnapps.cn
-    policy: Proxy
-- domain_suffix:
-    match: globaledu.org
-    policy: Proxy
-- domain_suffix:
-    match: gmail.com
-    policy: Proxy
-- domain_suffix:
-    match: gmodules.com
-    policy: Proxy
-- domain_suffix:
-    match: go-lang.com
-    policy: Proxy
-- domain_suffix:
-    match: go-lang.net
-    policy: Proxy
-- domain_suffix:
-    match: go-lang.org
-    policy: Proxy
-- domain_suffix:
-    match: go.dev
-    policy: Proxy
-- domain_suffix:
-    match: godoc.org
-    policy: Proxy
-- domain_suffix:
     match: gogle.com
-    policy: Proxy
-- domain_suffix:
-    match: gogole.com
-    policy: Proxy
-- domain_suffix:
-    match: golang.com
-    policy: Proxy
-- domain_suffix:
-    match: golang.net
-    policy: Proxy
-- domain_suffix:
-    match: golang.org
-    policy: Proxy
-- domain_suffix:
-    match: gonglchuangl.net
-    policy: Proxy
-- domain_suffix:
-    match: gongyichuangyi.net
-    policy: Proxy
-- domain_suffix:
-    match: goo.gl
-    policy: Proxy
-- domain_suffix:
-    match: googel.com
-    policy: Proxy
-- domain_suffix:
-    match: googil.com
-    policy: Proxy
-- domain_suffix:
-    match: googl.com
-    policy: Proxy
-- domain_suffix:
-    match: google-analytics-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: google-analytics.com
-    policy: Proxy
-- domain_suffix:
-    match: google-syndication.com
-    policy: Proxy
-- domain_suffix:
-    match: google.ad
-    policy: Proxy
-- domain_suffix:
-    match: google.ae
-    policy: Proxy
-- domain_suffix:
-    match: google.al
-    policy: Proxy
-- domain_suffix:
-    match: google.am
-    policy: Proxy
-- domain_suffix:
-    match: google.as
-    policy: Proxy
-- domain_suffix:
-    match: google.at
-    policy: Proxy
-- domain_suffix:
-    match: google.az
-    policy: Proxy
-- domain_suffix:
-    match: google.ba
-    policy: Proxy
-- domain_suffix:
-    match: google.be
-    policy: Proxy
-- domain_suffix:
-    match: google.berlin
-    policy: Proxy
-- domain_suffix:
-    match: google.bf
-    policy: Proxy
-- domain_suffix:
-    match: google.bg
-    policy: Proxy
-- domain_suffix:
-    match: google.bi
-    policy: Proxy
-- domain_suffix:
-    match: google.bj
-    policy: Proxy
-- domain_suffix:
-    match: google.bs
-    policy: Proxy
-- domain_suffix:
-    match: google.bt
-    policy: Proxy
-- domain_suffix:
-    match: google.by
-    policy: Proxy
-- domain_suffix:
-    match: google.ca
-    policy: Proxy
-- domain_suffix:
-    match: google.cat
-    policy: Proxy
-- domain_suffix:
-    match: google.cd
-    policy: Proxy
-- domain_suffix:
-    match: google.cf
-    policy: Proxy
-- domain_suffix:
-    match: google.cg
-    policy: Proxy
-- domain_suffix:
-    match: google.ch
-    policy: Proxy
-- domain_suffix:
-    match: google.ci
-    policy: Proxy
-- domain_suffix:
-    match: google.cl
-    policy: Proxy
-- domain_suffix:
-    match: google.cm
-    policy: Proxy
-- domain_suffix:
-    match: google.cn
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ao
-    policy: Proxy
-- domain_suffix:
-    match: google.co.bw
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ck
-    policy: Proxy
-- domain_suffix:
-    match: google.co.cr
-    policy: Proxy
-- domain_suffix:
-    match: google.co.id
-    policy: Proxy
-- domain_suffix:
-    match: google.co.il
-    policy: Proxy
-- domain_suffix:
-    match: google.co.in
-    policy: Proxy
-- domain_suffix:
-    match: google.co.jp
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ke
-    policy: Proxy
-- domain_suffix:
-    match: google.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ls
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ma
-    policy: Proxy
-- domain_suffix:
-    match: google.co.mz
-    policy: Proxy
-- domain_suffix:
-    match: google.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: google.co.th
-    policy: Proxy
-- domain_suffix:
-    match: google.co.tz
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ug
-    policy: Proxy
-- domain_suffix:
-    match: google.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: google.co.uz
-    policy: Proxy
-- domain_suffix:
-    match: google.co.ve
-    policy: Proxy
-- domain_suffix:
-    match: google.co.vi
-    policy: Proxy
-- domain_suffix:
-    match: google.co.za
-    policy: Proxy
-- domain_suffix:
-    match: google.co.zm
-    policy: Proxy
-- domain_suffix:
-    match: google.co.zw
-    policy: Proxy
-- domain_suffix:
-    match: google.com
-    policy: Proxy
-- domain_suffix:
-    match: google.com.af
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ag
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ai
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ar
-    policy: Proxy
-- domain_suffix:
-    match: google.com.au
-    policy: Proxy
-- domain_suffix:
-    match: google.com.bd
-    policy: Proxy
-- domain_suffix:
-    match: google.com.bh
-    policy: Proxy
-- domain_suffix:
-    match: google.com.bn
-    policy: Proxy
-- domain_suffix:
-    match: google.com.bo
-    policy: Proxy
-- domain_suffix:
-    match: google.com.br
-    policy: Proxy
-- domain_suffix:
-    match: google.com.bz
-    policy: Proxy
-- domain_suffix:
-    match: google.com.co
-    policy: Proxy
-- domain_suffix:
-    match: google.com.cu
-    policy: Proxy
-- domain_suffix:
-    match: google.com.cy
-    policy: Proxy
-- domain_suffix:
-    match: google.com.do
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ec
-    policy: Proxy
-- domain_suffix:
-    match: google.com.eg
-    policy: Proxy
-- domain_suffix:
-    match: google.com.et
-    policy: Proxy
-- domain_suffix:
-    match: google.com.fj
-    policy: Proxy
-- domain_suffix:
-    match: google.com.gh
-    policy: Proxy
-- domain_suffix:
-    match: google.com.gi
-    policy: Proxy
-- domain_suffix:
-    match: google.com.gt
-    policy: Proxy
-- domain_suffix:
-    match: google.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: google.com.jm
-    policy: Proxy
-- domain_suffix:
-    match: google.com.kh
-    policy: Proxy
-- domain_suffix:
-    match: google.com.kw
-    policy: Proxy
-- domain_suffix:
-    match: google.com.lb
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ly
-    policy: Proxy
-- domain_suffix:
-    match: google.com.mm
-    policy: Proxy
-- domain_suffix:
-    match: google.com.mt
-    policy: Proxy
-- domain_suffix:
-    match: google.com.mx
-    policy: Proxy
-- domain_suffix:
-    match: google.com.my
-    policy: Proxy
-- domain_suffix:
-    match: google.com.na
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ng
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ni
-    policy: Proxy
-- domain_suffix:
-    match: google.com.np
-    policy: Proxy
-- domain_suffix:
-    match: google.com.om
-    policy: Proxy
-- domain_suffix:
-    match: google.com.pa
-    policy: Proxy
-- domain_suffix:
-    match: google.com.pe
-    policy: Proxy
-- domain_suffix:
-    match: google.com.pg
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ph
-    policy: Proxy
-- domain_suffix:
-    match: google.com.pk
-    policy: Proxy
-- domain_suffix:
-    match: google.com.pr
-    policy: Proxy
-- domain_suffix:
-    match: google.com.py
-    policy: Proxy
-- domain_suffix:
-    match: google.com.qa
-    policy: Proxy
-- domain_suffix:
-    match: google.com.sa
-    policy: Proxy
-- domain_suffix:
-    match: google.com.sb
-    policy: Proxy
-- domain_suffix:
-    match: google.com.sg
-    policy: Proxy
-- domain_suffix:
-    match: google.com.sl
-    policy: Proxy
-- domain_suffix:
-    match: google.com.sv
-    policy: Proxy
-- domain_suffix:
-    match: google.com.tj
-    policy: Proxy
-- domain_suffix:
-    match: google.com.tr
-    policy: Proxy
-- domain_suffix:
-    match: google.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: google.com.ua
-    policy: Proxy
-- domain_suffix:
-    match: google.com.uy
-    policy: Proxy
-- domain_suffix:
-    match: google.com.vc
-    policy: Proxy
-- domain_suffix:
-    match: google.com.vn
-    policy: Proxy
-- domain_suffix:
-    match: google.cv
-    policy: Proxy
-- domain_suffix:
-    match: google.cz
-    policy: Proxy
-- domain_suffix:
-    match: google.de
-    policy: Proxy
-- domain_suffix:
-    match: google.dev
-    policy: Proxy
-- domain_suffix:
-    match: google.dj
-    policy: Proxy
-- domain_suffix:
-    match: google.dk
-    policy: Proxy
-- domain_suffix:
-    match: google.dm
-    policy: Proxy
-- domain_suffix:
-    match: google.dz
-    policy: Proxy
-- domain_suffix:
-    match: google.ee
-    policy: Proxy
-- domain_suffix:
-    match: google.es
-    policy: Proxy
-- domain_suffix:
-    match: google.fi
-    policy: Proxy
-- domain_suffix:
-    match: google.fm
-    policy: Proxy
-- domain_suffix:
-    match: google.fr
-    policy: Proxy
-- domain_suffix:
-    match: google.ga
-    policy: Proxy
-- domain_suffix:
-    match: google.ge
-    policy: Proxy
-- domain_suffix:
-    match: google.gg
-    policy: Proxy
-- domain_suffix:
-    match: google.gl
-    policy: Proxy
-- domain_suffix:
-    match: google.gm
-    policy: Proxy
-- domain_suffix:
-    match: google.gr
-    policy: Proxy
-- domain_suffix:
-    match: google.gy
-    policy: Proxy
-- domain_suffix:
-    match: google.hn
-    policy: Proxy
-- domain_suffix:
-    match: google.hr
-    policy: Proxy
-- domain_suffix:
-    match: google.ht
-    policy: Proxy
-- domain_suffix:
-    match: google.hu
-    policy: Proxy
-- domain_suffix:
-    match: google.ie
-    policy: Proxy
-- domain_suffix:
-    match: google.im
-    policy: Proxy
-- domain_suffix:
-    match: google.iq
-    policy: Proxy
-- domain_suffix:
-    match: google.is
-    policy: Proxy
-- domain_suffix:
-    match: google.it
-    policy: Proxy
-- domain_suffix:
-    match: google.je
-    policy: Proxy
-- domain_suffix:
-    match: google.jo
-    policy: Proxy
-- domain_suffix:
-    match: google.kg
-    policy: Proxy
-- domain_suffix:
-    match: google.ki
-    policy: Proxy
-- domain_suffix:
-    match: google.kz
-    policy: Proxy
-- domain_suffix:
-    match: google.la
-    policy: Proxy
-- domain_suffix:
-    match: google.li
-    policy: Proxy
-- domain_suffix:
-    match: google.lk
-    policy: Proxy
-- domain_suffix:
-    match: google.lt
-    policy: Proxy
-- domain_suffix:
-    match: google.lu
-    policy: Proxy
-- domain_suffix:
-    match: google.lv
-    policy: Proxy
-- domain_suffix:
-    match: google.md
-    policy: Proxy
-- domain_suffix:
-    match: google.me
-    policy: Proxy
-- domain_suffix:
-    match: google.mg
-    policy: Proxy
-- domain_suffix:
-    match: google.mk
-    policy: Proxy
-- domain_suffix:
-    match: google.ml
-    policy: Proxy
-- domain_suffix:
-    match: google.mn
-    policy: Proxy
-- domain_suffix:
-    match: google.ms
-    policy: Proxy
-- domain_suffix:
-    match: google.mu
-    policy: Proxy
-- domain_suffix:
-    match: google.mv
-    policy: Proxy
-- domain_suffix:
-    match: google.mw
-    policy: Proxy
-- domain_suffix:
-    match: google.ne
-    policy: Proxy
-- domain_suffix:
-    match: google.net
-    policy: Proxy
-- domain_suffix:
-    match: google.nl
-    policy: Proxy
-- domain_suffix:
-    match: google.no
-    policy: Proxy
-- domain_suffix:
-    match: google.nr
-    policy: Proxy
-- domain_suffix:
-    match: google.nu
-    policy: Proxy
-- domain_suffix:
-    match: google.org
-    policy: Proxy
-- domain_suffix:
-    match: google.pl
-    policy: Proxy
-- domain_suffix:
-    match: google.pn
-    policy: Proxy
-- domain_suffix:
-    match: google.ps
-    policy: Proxy
-- domain_suffix:
-    match: google.pt
-    policy: Proxy
-- domain_suffix:
-    match: google.ro
-    policy: Proxy
-- domain_suffix:
-    match: google.rs
-    policy: Proxy
-- domain_suffix:
-    match: google.ru
-    policy: Proxy
-- domain_suffix:
-    match: google.rw
-    policy: Proxy
-- domain_suffix:
-    match: google.sc
-    policy: Proxy
-- domain_suffix:
-    match: google.se
-    policy: Proxy
-- domain_suffix:
-    match: google.sh
-    policy: Proxy
-- domain_suffix:
-    match: google.si
-    policy: Proxy
-- domain_suffix:
-    match: google.sk
-    policy: Proxy
-- domain_suffix:
-    match: google.sm
-    policy: Proxy
-- domain_suffix:
-    match: google.sn
-    policy: Proxy
-- domain_suffix:
-    match: google.so
-    policy: Proxy
-- domain_suffix:
-    match: google.sr
-    policy: Proxy
-- domain_suffix:
-    match: google.st
-    policy: Proxy
-- domain_suffix:
-    match: google.td
-    policy: Proxy
-- domain_suffix:
-    match: google.tg
-    policy: Proxy
-- domain_suffix:
-    match: google.tl
-    policy: Proxy
-- domain_suffix:
-    match: google.tm
-    policy: Proxy
-- domain_suffix:
-    match: google.tn
-    policy: Proxy
-- domain_suffix:
-    match: google.to
-    policy: Proxy
-- domain_suffix:
-    match: google.tt
-    policy: Proxy
-- domain_suffix:
-    match: google.ventures
-    policy: Proxy
-- domain_suffix:
-    match: google.vg
-    policy: Proxy
-- domain_suffix:
-    match: google.vu
-    policy: Proxy
-- domain_suffix:
-    match: google.ws
-    policy: Proxy
-- domain_suffix:
-    match: googleacquisitionmigration.com
-    policy: Proxy
-- domain_suffix:
-    match: googleadapis.com
-    policy: Proxy
-- domain_suffix:
-    match: googleadservices-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googleadservices.com
-    policy: Proxy
-- domain_suffix:
-    match: googleanalytics.com
-    policy: Proxy
-- domain_suffix:
-    match: googleapis-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googleapis.cn
-    policy: Proxy
-- domain_suffix:
-    match: googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: googleapps-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googleapps.com
-    policy: Proxy
-- domain_suffix:
-    match: googlearth.com
-    policy: Proxy
-- domain_suffix:
-    match: googleblog.com
-    policy: Proxy
-- domain_suffix:
-    match: googlebot.com
-    policy: Proxy
-- domain_suffix:
-    match: googlecapital.com
-    policy: Proxy
-- domain_suffix:
-    match: googlecert.net
-    policy: Proxy
-- domain_suffix:
-    match: googlecloud.com
-    policy: Proxy
-- domain_suffix:
-    match: googlecnapps.cn
-    policy: Proxy
-- domain_suffix:
-    match: googlecode.com
-    policy: Proxy
-- domain_suffix:
-    match: googlecommerce.com
-    policy: Proxy
-- domain_suffix:
-    match: googlecompare.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: googledanmark.com
-    policy: Proxy
-- domain_suffix:
-    match: googledomains.com
-    policy: Proxy
-- domain_suffix:
-    match: googledrive.com
-    policy: Proxy
-- domain_suffix:
-    match: googlee.com
-    policy: Proxy
-- domain_suffix:
-    match: googleearth.com
-    policy: Proxy
-- domain_suffix:
-    match: googlefiber.com
-    policy: Proxy
-- domain_suffix:
-    match: googlefiber.net
-    policy: Proxy
-- domain_suffix:
-    match: googlefinland.com
-    policy: Proxy
-- domain_suffix:
-    match: googleflights-cn.net
-    policy: Proxy
-- domain_suffix:
-    match: googlehosted.com
-    policy: Proxy
-- domain_suffix:
-    match: googlemail.com
-    policy: Proxy
-- domain_suffix:
-    match: googlemaps.com
-    policy: Proxy
-- domain_suffix:
-    match: googlemashups.com
-    policy: Proxy
-- domain_suffix:
-    match: googleoptimize-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googleoptimize.com
-    policy: Proxy
-- domain_suffix:
-    match: googlepagecreator.com
-    policy: Proxy
-- domain_suffix:
-    match: googlephotos.com
-    policy: Proxy
-- domain_suffix:
-    match: googleplay.com
-    policy: Proxy
-- domain_suffix:
-    match: googleplus.com
-    policy: Proxy
-- domain_suffix:
-    match: googlescholar.com
-    policy: Proxy
-- domain_suffix:
-    match: googlesource.com
-    policy: Proxy
-- domain_suffix:
-    match: googlestore.com
-    policy: Proxy
-- domain_suffix:
-    match: googlesverige.com
-    policy: Proxy
-- domain_suffix:
-    match: googlesyndication-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googlesyndication.com
-    policy: Proxy
-- domain_suffix:
-    match: googletagmanager-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googletagmanager.com
-    policy: Proxy
-- domain_suffix:
-    match: googletagservices-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googletagservices.com
-    policy: Proxy
-- domain_suffix:
-    match: googletraveladservices-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googletraveladservices.com
-    policy: Proxy
-- domain_suffix:
-    match: googleusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: googlevads-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: googleventures.com
-    policy: Proxy
-- domain_suffix:
-    match: googlevideo.com
-    policy: Proxy
-- domain_suffix:
-    match: googlr.com
-    policy: Proxy
-- domain_suffix:
-    match: goolge.com
-    policy: Proxy
-- domain_suffix:
-    match: gooogle.com
-    policy: Proxy
-- domain_suffix:
-    match: gridaware.app
-    policy: Proxy
-- domain_suffix:
-    match: gsrc.io
-    policy: Proxy
-- domain_suffix:
-    match: gstatic-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: gstatic.cn
-    policy: Proxy
-- domain_suffix:
-    match: gstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: gstaticcnapps.cn
-    policy: Proxy
-- domain_suffix:
-    match: gsuite.com
-    policy: Proxy
-- domain_suffix:
-    match: gv.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt0.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt1-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt2-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt3.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt5.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt6.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt7.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt9.com
-    policy: Proxy
-- domain_suffix:
-    match: gwtproject.org
-    policy: Proxy
-- domain_suffix:
-    match: hdrplusdata.org
-    policy: Proxy
-- domain_suffix:
-    match: hey.gle
-    policy: Proxy
-- domain_suffix:
-    match: hindiweb.com
-    policy: Proxy
-- domain_suffix:
-    match: howtogetmo.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: html5rocks.com
-    policy: Proxy
-- domain_suffix:
-    match: hwgo.com
-    policy: Proxy
-- domain_suffix:
-    match: iam.soy
-    policy: Proxy
-- domain_suffix:
-    match: iamremarkable.org
-    policy: Proxy
-- domain_suffix:
-    match: igoogle.com
-    policy: Proxy
-- domain_suffix:
-    match: impermium.com
-    policy: Proxy
-- domain_suffix:
-    match: itasoftware.com
-    policy: Proxy
-- domain_suffix:
-    match: j2objc.org
-    policy: Proxy
-- domain_suffix:
-    match: jibemobile.com
-    policy: Proxy
-- domain_suffix:
-    match: kaggle.com
-    policy: Proxy
-- domain_suffix:
-    match: kaggle.io
-    policy: Proxy
-- domain_suffix:
-    match: keyhole.com
-    policy: Proxy
-- domain_suffix:
-    match: keytransparency.com
-    policy: Proxy
-- domain_suffix:
-    match: keytransparency.foo
-    policy: Proxy
-- domain_suffix:
-    match: keytransparency.org
-    policy: Proxy
-- domain_suffix:
-    match: lanternal.com
-    policy: Proxy
-- domain_suffix:
-    match: like.com
-    policy: Proxy
-- domain_suffix:
-    match: madewithcode.com
-    policy: Proxy
-- domain_suffix:
-    match: material.io
-    policy: Proxy
-- domain_suffix:
-    match: mdialog.com
-    policy: Proxy
-- domain_suffix:
-    match: meet.new
-    policy: Proxy
-- domain_suffix:
-    match: mfg-inspector.com
-    policy: Proxy
-- domain_suffix:
-    match: mobileview.page
-    policy: Proxy
-- domain_suffix:
-    match: moodstocks.com
-    policy: Proxy
-- domain_suffix:
-    match: near.by
-    policy: Proxy
-- domain_suffix:
-    match: nest.com
-    policy: Proxy
-- domain_suffix:
-    match: neverware.com
-    policy: Proxy
-- domain_suffix:
-    match: nomulus.foo
-    policy: Proxy
-- domain_suffix:
-    match: oasisfeng.com
-    policy: Proxy
-- domain_suffix:
-    match: oauthz.com
     policy: Proxy
 - domain_suffix:
     match: ok.gle
     policy: Proxy
 - domain_suffix:
-    match: on.here
-    policy: Proxy
-- domain_suffix:
-    match: on2.com
-    policy: Proxy
-- domain_suffix:
-    match: onefifteen.net
-    policy: Proxy
-- domain_suffix:
-    match: onefifteen.org
-    policy: Proxy
-- domain_suffix:
-    match: oneworldmanystories.com
-    policy: Proxy
-- domain_suffix:
-    match: opensourceinsight.dev
-    policy: Proxy
-- domain_suffix:
-    match: opensourceinsights.dev
-    policy: Proxy
-- domain_suffix:
-    match: openthread.io
-    policy: Proxy
-- domain_suffix:
-    match: openweave.io
-    policy: Proxy
-- domain_suffix:
-    match: orbitera.com
-    policy: Proxy
-- domain_suffix:
-    match: page.link
-    policy: Proxy
-- domain_suffix:
-    match: pagespeedmobilizer.com
-    policy: Proxy
-- domain_suffix:
-    match: pageview.mobi
-    policy: Proxy
-- domain_suffix:
-    match: panoramio.com
-    policy: Proxy
-- domain_suffix:
-    match: partylikeits1986.org
-    policy: Proxy
-- domain_suffix:
-    match: paxlicense.org
-    policy: Proxy
-- domain_suffix:
-    match: picasa.com
-    policy: Proxy
-- domain_suffix:
-    match: picasaweb.com
-    policy: Proxy
-- domain_suffix:
-    match: picasaweb.net
-    policy: Proxy
-- domain_suffix:
-    match: picasaweb.org
-    policy: Proxy
-- domain_suffix:
-    match: picnik.com
-    policy: Proxy
-- domain_suffix:
-    match: pittpatt.com
-    policy: Proxy
-- domain_suffix:
-    match: pixate.com
-    policy: Proxy
-- domain_suffix:
-    match: pkg.dev
-    policy: Proxy
-- domain_suffix:
-    match: pki.goog
-    policy: Proxy
-- domain_suffix:
-    match: plus.codes
-    policy: Proxy
-- domain_suffix:
-    match: polymer-project.org
-    policy: Proxy
-- domain_suffix:
-    match: polymerproject.org
-    policy: Proxy
-- domain_suffix:
-    match: postini.com
-    policy: Proxy
-- domain_suffix:
-    match: privacysandbox.com
-    policy: Proxy
-- domain_suffix:
-    match: prod-controlbe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: prod-databe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: prod.databe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: projectara.com
-    policy: Proxy
-- domain_suffix:
-    match: projectbaseline.com
+    match: zukunftswerkstatt.de
     policy: Proxy
 - domain_suffix:
     match: publishproxy.com
     policy: Proxy
 - domain_suffix:
-    match: qiao-cn.com
+    match: flutterapp.com
     policy: Proxy
 - domain_suffix:
-    match: qpx.googleflights.net
+    match: blogspot.com.co
     policy: Proxy
 - domain_suffix:
-    match: questvisual.com
-    policy: Proxy
-- domain_suffix:
-    match: quickoffice.com
-    policy: Proxy
-- domain_suffix:
-    match: quiksee.com
-    policy: Proxy
-- domain_suffix:
-    match: recaptcha-cn.net
-    policy: Proxy
-- domain_suffix:
-    match: recaptcha.net
-    policy: Proxy
-- domain_suffix:
-    match: redhotlabs.com
-    policy: Proxy
-- domain_suffix:
-    match: redirector.gcpcdn.gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: redirector.gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: redirector.offline-maps.gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: redirector.snap.gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: registry.google
-    policy: Proxy
-- domain_suffix:
-    match: revolv.com
-    policy: Proxy
-- domain_suffix:
-    match: ridepenguin.com
-    policy: Proxy
-- domain_suffix:
-    match: run.app
-    policy: Proxy
-- domain_suffix:
-    match: savethedate.foo
-    policy: Proxy
-- domain_suffix:
-    match: saynow.com
-    policy: Proxy
-- domain_suffix:
-    match: schema.org
-    policy: Proxy
-- domain_suffix:
-    match: schemer.com
-    policy: Proxy
-- domain_suffix:
-    match: screenwisetrends.com
-    policy: Proxy
-- domain_suffix:
-    match: screenwisetrendspanel.com
-    policy: Proxy
-- domain_suffix:
-    match: shattered.io
-    policy: Proxy
-- domain_suffix:
-    match: snapseed.com
-    policy: Proxy
-- domain_suffix:
-    match: solveforx.com
-    policy: Proxy
-- domain_suffix:
-    match: stadia.dev
-    policy: Proxy
-- domain_suffix:
-    match: staging-controlbe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: staging-databe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: staging.databe.floonet.goog
-    policy: Proxy
-- domain_suffix:
-    match: stcroixmosquito.com
-    policy: Proxy
-- domain_suffix:
-    match: stcroixmosquitoproject.com
-    policy: Proxy
-- domain_suffix:
-    match: studywatchbyverily.com
-    policy: Proxy
-- domain_suffix:
-    match: studywatchbyverily.org
-    policy: Proxy
-- domain_suffix:
-    match: stxmosquito.com
-    policy: Proxy
-- domain_suffix:
-    match: stxmosquitoproject.com
-    policy: Proxy
-- domain_suffix:
-    match: stxmosquitoproject.net
-    policy: Proxy
-- domain_suffix:
-    match: stxmosquitoproject.org
-    policy: Proxy
-- domain_suffix:
-    match: synergyse.com
-    policy: Proxy
-- domain_suffix:
-    match: teachparentstech.org
-    policy: Proxy
-- domain_suffix:
-    match: tensorflow.org
-    policy: Proxy
-- domain_suffix:
-    match: tfhub.dev
-    policy: Proxy
-- domain_suffix:
-    match: thecleversense.com
-    policy: Proxy
-- domain_suffix:
-    match: thegooglestore.com
-    policy: Proxy
-- domain_suffix:
-    match: thinkquarterly.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: thinkquarterly.com
-    policy: Proxy
-- domain_suffix:
-    match: thinkwithgoogle.com
-    policy: Proxy
-- domain_suffix:
-    match: tiltbrush.com
-    policy: Proxy
-- domain_suffix:
-    match: txcloud.net
-    policy: Proxy
-- domain_suffix:
-    match: txvia.com
-    policy: Proxy
-- domain_suffix:
-    match: unfiltered.news
-    policy: Proxy
-- domain_suffix:
-    match: urchin.com
-    policy: Proxy
-- domain_suffix:
-    match: useplannr.com
-    policy: Proxy
-- domain_suffix:
-    match: usvimosquito.com
-    policy: Proxy
-- domain_suffix:
-    match: usvimosquitoproject.com
-    policy: Proxy
-- domain_suffix:
-    match: v8.dev
-    policy: Proxy
-- domain_suffix:
-    match: v8project.org
-    policy: Proxy
-- domain_suffix:
-    match: velostrata.com
-    policy: Proxy
-- domain_suffix:
-    match: verily.com
-    policy: Proxy
-- domain_suffix:
-    match: verilylifesciences.com
-    policy: Proxy
-- domain_suffix:
-    match: verilystudyhub.com
-    policy: Proxy
-- domain_suffix:
-    match: verilystudywatch.com
-    policy: Proxy
-- domain_suffix:
-    match: verilystudywatch.org
-    policy: Proxy
-- domain_suffix:
-    match: voice.telephony.goog
-    policy: Proxy
-- domain_suffix:
-    match: wallet.com
-    policy: Proxy
-- domain_suffix:
-    match: waveprotocol.org
-    policy: Proxy
-- domain_suffix:
-    match: waymo.com
-    policy: Proxy
-- domain_suffix:
-    match: waze.com
-    policy: Proxy
-- domain_suffix:
-    match: web.app
-    policy: Proxy
-- domain_suffix:
-    match: web.dev
+    match: partylikeits1986.org
     policy: Proxy
 - domain_suffix:
     match: webappfieldguide.com
     policy: Proxy
 - domain_suffix:
-    match: webmproject.org
-    policy: Proxy
-- domain_suffix:
-    match: webpkgcache.com
-    policy: Proxy
-- domain_suffix:
-    match: webrtc.org
-    policy: Proxy
-- domain_suffix:
-    match: weltweitwachsen.de
-    policy: Proxy
-- domain_suffix:
-    match: whatbrowser.org
-    policy: Proxy
-- domain_suffix:
-    match: widevine.com
-    policy: Proxy
-- domain_suffix:
-    match: withgoogle.com
-    policy: Proxy
-- domain_suffix:
-    match: withyoutube.com
-    policy: Proxy
-- domain_suffix:
-    match: womenwill.com
-    policy: Proxy
-- domain_suffix:
-    match: womenwill.com.br
-    policy: Proxy
-- domain_suffix:
-    match: womenwill.id
-    policy: Proxy
-- domain_suffix:
-    match: womenwill.in
-    policy: Proxy
-- domain_suffix:
-    match: womenwill.mx
-    policy: Proxy
-- domain_suffix:
-    match: www.destinationurl.com
-    policy: Proxy
-- domain_suffix:
-    match: www.pxcc.com
-    policy: Proxy
-- domain_suffix:
-    match: x.company
-    policy: Proxy
-- domain_suffix:
-    match: x.team
-    policy: Proxy
-- domain_suffix:
-    match: xn--9kr7l.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--9trs65b.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--flw351e.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--ggle-55da.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--gogl-0nd52e.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--gogl-1nd42e.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--ngstr-lra8j.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--p8j9a0d9c9a.xn--q9jyb4c
-    policy: Proxy
-- domain_suffix:
-    match: xplr.co
-    policy: Proxy
-- domain_suffix:
-    match: youtu.be
-    policy: Proxy
-- domain_suffix:
-    match: youtube-nocookie.com
+    match: google.gg
     policy: Proxy
 - domain_suffix:
     match: youtube.com
     policy: Proxy
 - domain_suffix:
-    match: yt.be
+    match: google.rw
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.fi
+    policy: Proxy
+- domain_suffix:
+    match: apture.com
+    policy: Proxy
+- domain_suffix:
+    match: on.here
+    policy: Proxy
+- domain_suffix:
+    match: financeleadsonline.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.my
+    policy: Proxy
+- domain_suffix:
+    match: creativelab5.com
+    policy: Proxy
+- domain_suffix:
+    match: google.cz
+    policy: Proxy
+- domain_suffix:
+    match: chromeexperiments.com
+    policy: Proxy
+- domain_suffix:
+    match: abc.xyz
+    policy: Proxy
+- domain_suffix:
+    match: google.hn
+    policy: Proxy
+- domain_suffix:
+    match: savethedate.foo
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.am
+    policy: Proxy
+- domain_suffix:
+    match: google.berlin
+    policy: Proxy
+- domain_suffix:
+    match: beatthatquote.com
+    policy: Proxy
+- domain_suffix:
+    match: onefifteen.net
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ru
+    policy: Proxy
+- domain_suffix:
+    match: iam.soy
+    policy: Proxy
+- domain_suffix:
+    match: cloudburstresearch.com
+    policy: Proxy
+- domain_suffix:
+    match: google.bg
+    policy: Proxy
+- domain_suffix:
+    match: google.bf
+    policy: Proxy
+- domain_suffix:
+    match: google-analytics-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.th
+    policy: Proxy
+- domain_suffix:
+    match: bazel.build
+    policy: Proxy
+- domain_suffix:
+    match: gvt7.com
+    policy: Proxy
+- domain_suffix:
+    match: recaptcha.net
+    policy: Proxy
+- domain_suffix:
+    match: itasoftware.com
+    policy: Proxy
+- domain_suffix:
+    match: chromestatus.com
+    policy: Proxy
+- domain_suffix:
+    match: firebaseapp.com
+    policy: Proxy
+- domain_suffix:
+    match: google.fi
+    policy: Proxy
+- domain_suffix:
+    match: picasaweb.net
+    policy: Proxy
+- domain_suffix:
+    match: xn--9trs65b.com
+    policy: Proxy
+- domain_suffix:
+    match: googl.com
+    policy: Proxy
+- domain_suffix:
+    match: gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: whatbrowser.org
+    policy: Proxy
+- domain_suffix:
+    match: google.com.py
+    policy: Proxy
+- domain_suffix:
+    match: google.com.af
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ie
+    policy: Proxy
+- domain_suffix:
+    match: get.dev
+    policy: Proxy
+- domain_suffix:
+    match: google.ga
+    policy: Proxy
+- domain_suffix:
+    match: pittpatt.com
+    policy: Proxy
+- domain_suffix:
+    match: google.tl
+    policy: Proxy
+- domain_suffix:
+    match: verilystudywatch.com
+    policy: Proxy
+- domain_suffix:
+    match: withyoutube.com
+    policy: Proxy
+- domain_suffix:
+    match: zynamics.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.cy
+    policy: Proxy
+- domain_suffix:
+    match: brotli.org
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ao
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ng
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.es
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.jp
+    policy: Proxy
+- domain_suffix:
+    match: google.co.kr
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.at
+    policy: Proxy
+- domain_suffix:
+    match: google.co.tz
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.be
+    policy: Proxy
+- domain_suffix:
+    match: postini.com
+    policy: Proxy
+- domain_suffix:
+    match: conscrypt.com
+    policy: Proxy
+- domain_suffix:
+    match: beacons3.gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: flutter.dev
+    policy: Proxy
+- domain_suffix:
+    match: qpx.googleflights.net
+    policy: Proxy
+- domain_suffix:
+    match: google.cm
+    policy: Proxy
+- domain_suffix:
+    match: google.com.gh
+    policy: Proxy
+- domain_suffix:
+    match: google.dk
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.za
+    policy: Proxy
+- domain_suffix:
+    match: google.ml
+    policy: Proxy
+- domain_suffix:
+    match: debug.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.by
+    policy: Proxy
+- domain_suffix:
+    match: google.gl
+    policy: Proxy
+- domain_suffix:
+    match: google.nu
+    policy: Proxy
+- domain_suffix:
+    match: prod-databe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: googlehosted.com
+    policy: Proxy
+- domain_suffix:
+    match: googlebot.com
+    policy: Proxy
+- domain_suffix:
+    match: googleadservices.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.mt
+    policy: Proxy
+- domain_suffix:
+    match: html5rocks.com
+    policy: Proxy
+- domain_suffix:
+    match: tensorflow.org
+    policy: Proxy
+- domain_suffix:
+    match: 466453.com
+    policy: Proxy
+- domain_suffix:
+    match: cobrasearch.com
+    policy: Proxy
+- domain_suffix:
+    match: admeld.com
+    policy: Proxy
+- domain_suffix:
+    match: google.bi
+    policy: Proxy
+- domain_suffix:
+    match: google.sn
+    policy: Proxy
+- domain_suffix:
+    match: google.md
+    policy: Proxy
+- domain_suffix:
+    match: Google.Drive*
+    policy: Proxy
+- domain_suffix:
+    match: google.gm
+    policy: Proxy
+- domain_suffix:
+    match: pixate.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.bj
+    policy: Proxy
+- domain_suffix:
+    match: on2.com
+    policy: Proxy
+- domain_suffix:
+    match: google.be
+    policy: Proxy
+- domain_suffix:
+    match: google.com.eg
+    policy: Proxy
+- domain_suffix:
+    match: googleacquisitionmigration.com
+    policy: Proxy
+- domain_suffix:
+    match: www.pxcc.com
+    policy: Proxy
+- domain_suffix:
+    match: autodraw.com
+    policy: Proxy
+- domain_suffix:
+    match: picasaweb.com
+    policy: Proxy
+- domain_suffix:
+    match: google.mg
+    policy: Proxy
+- domain_suffix:
+    match: fflick.com
+    policy: Proxy
+- domain_suffix:
+    match: prod.databe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: googlesyndication-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ai
+    policy: Proxy
+- domain_suffix:
+    match: lanternal.com
+    policy: Proxy
+- domain_suffix:
+    match: thegooglestore.com
+    policy: Proxy
+- domain_suffix:
+    match: pki.goog
+    policy: Proxy
+- domain_suffix:
+    match: google.cd
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ni
+    policy: Proxy
+- domain_suffix:
+    match: keytransparency.org
+    policy: Proxy
+- domain_suffix:
+    match: clickserver.googleads.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.bh
+    policy: Proxy
+- domain_suffix:
+    match: google.bt
+    policy: Proxy
+- domain_suffix:
+    match: google.co.za
+    policy: Proxy
+- domain_suffix:
+    match: adsenseformobileapps.com
+    policy: Proxy
+- domain_suffix:
+    match: google.dj
+    policy: Proxy
+- domain_suffix:
+    match: feedburner.com
+    policy: Proxy
+- domain_suffix:
+    match: bumptop.ca
+    policy: Proxy
+- domain_suffix:
+    match: google.pl
+    policy: Proxy
+- domain_suffix:
+    match: gateway.dev
+    policy: Proxy
+- domain_suffix:
+    match: gerritcodereview.com
+    policy: Proxy
+- domain_suffix:
+    match: googleearth.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.cf
+    policy: Proxy
+- domain_suffix:
+    match: google.com.kh
+    policy: Proxy
+- domain_suffix:
+    match: gvt9.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.pe
+    policy: Proxy
+- domain_suffix:
+    match: ampproject.net
+    policy: Proxy
+- domain_suffix:
+    match: cookiechoices.org
+    policy: Proxy
+- domain_suffix:
+    match: google.com.sa
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.is
+    policy: Proxy
+- domain_suffix:
+    match: googlevads-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: adwordsexpress.com
+    policy: Proxy
+- domain_suffix:
+    match: campuslondon.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.bz
+    policy: Proxy
+- domain_suffix:
+    match: adsense.com
+    policy: Proxy
+- domain_suffix:
+    match: google.gr
+    policy: Proxy
+- domain_suffix:
+    match: meet.new
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.lt
+    policy: Proxy
+- domain_suffix:
+    match: kaggle.io
+    policy: Proxy
+- domain_suffix:
+    match: pagespeedmobilizer.com
+    policy: Proxy
+- domain_suffix:
+    match: openweave.io
+    policy: Proxy
+- domain_suffix:
+    match: ampproject.com
+    policy: Proxy
+- domain_suffix:
+    match: googlee.com
+    policy: Proxy
+- domain_suffix:
+    match: chromebook.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ck
+    policy: Proxy
+- domain_suffix:
+    match: studywatchbyverily.com
+    policy: Proxy
+- domain_suffix:
+    match: g.cn
+    policy: Proxy
+- domain_suffix:
+    match: androidtv.com
+    policy: Proxy
+- domain_suffix:
+    match: baselinestudy.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.cz
+    policy: Proxy
+- domain_suffix:
+    match: fuchsia.dev
+    policy: Proxy
+- domain_suffix:
+    match: ampproject.org
+    policy: Proxy
+- domain_suffix:
+    match: google.co.vi
+    policy: Proxy
+- domain_suffix:
+    match: google.nl
+    policy: Proxy
+- domain_suffix:
+    match: googletagmanager-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: studywatchbyverily.org
+    policy: Proxy
+- domain_suffix:
+    match: google.ventures
+    policy: Proxy
+- domain_suffix:
+    match: google.co.jp
+    policy: Proxy
+- domain_suffix:
+    match: googleapis-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.hr
+    policy: Proxy
+- domain_suffix:
+    match: gcp.gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: nest.com
+    policy: Proxy
+- domain_suffix:
+    match: doubleclick-cn.net
+    policy: Proxy
+- domain_suffix:
+    match: google.com.jm
+    policy: Proxy
+- domain_suffix:
+    match: google.ba
+    policy: Proxy
+- domain_suffix:
+    match: google.com.et
+    policy: Proxy
+- domain_suffix:
+    match: txcloud.net
+    policy: Proxy
+- domain_suffix:
+    match: google.com.na
+    policy: Proxy
+- domain_suffix:
+    match: oasisfeng.com
+    policy: Proxy
+- domain_suffix:
+    match: google.az
+    policy: Proxy
+- domain_suffix:
+    match: oneworldmanystories.com
+    policy: Proxy
+- domain_suffix:
+    match: googel.com
+    policy: Proxy
+- domain_suffix:
+    match: hdrplusdata.org
+    policy: Proxy
+- domain_suffix:
+    match: opensourceinsight.dev
+    policy: Proxy
+- domain_suffix:
+    match: episodic.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.uy
+    policy: Proxy
+- domain_suffix:
+    match: crossmediapanel.com
+    policy: Proxy
+- domain_suffix:
+    match: apigee.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.br
+    policy: Proxy
+- domain_suffix:
+    match: google.com.do
+    policy: Proxy
+- domain_suffix:
+    match: google.co.bw
+    policy: Proxy
+- domain_suffix:
+    match: staging.databe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: gipscorp.com
+    policy: Proxy
+- domain_suffix:
+    match: registry.google
+    policy: Proxy
+- domain_suffix:
+    match: debugproject.com
+    policy: Proxy
+- domain_suffix:
+    match: google.vg
+    policy: Proxy
+- domain_suffix:
+    match: mfg-inspector.com
+    policy: Proxy
+- domain_suffix:
+    match: data-vocabulary.org
+    policy: Proxy
+- domain_suffix:
+    match: howtogetmo.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ua
+    policy: Proxy
+- domain_suffix:
+    match: google.bj
+    policy: Proxy
+- domain_suffix:
+    match: google.com
+    policy: Proxy
+- domain_suffix:
+    match: getoutline.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.hk
+    policy: Proxy
+- domain_suffix:
+    match: thinkquarterly.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: g-tun.com
+    policy: Proxy
+- domain_suffix:
+    match: xn--flw351e.com
+    policy: Proxy
+- domain_suffix:
+    match: google.dev
+    policy: Proxy
+- domain_suffix:
+    match: google.lu
+    policy: Proxy
+- domain_suffix:
+    match: bumptunes.com
+    policy: Proxy
+- domain_suffix:
+    match: webrtc.org
+    policy: Proxy
+- domain_suffix:
+    match: googletraveladservices.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.co
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ba
+    policy: Proxy
+- domain_suffix:
+    match: google.sh
+    policy: Proxy
+- domain_suffix:
+    match: chronicle.security
+    policy: Proxy
+- domain_suffix:
+    match: j2objc.org
+    policy: Proxy
+- domain_suffix:
+    match: 1ucrs.com
+    policy: Proxy
+- domain_suffix:
+    match: page.link
+    policy: Proxy
+- domain_suffix:
+    match: google.sk
+    policy: Proxy
+- domain_suffix:
+    match: google.is
+    policy: Proxy
+- domain_suffix:
+    match: digisfera.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.lb
+    policy: Proxy
+- domain_suffix:
+    match: velostrata.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.bo
+    policy: Proxy
+- domain_suffix:
+    match: googlefiber.net
+    policy: Proxy
+- domain_suffix:
+    match: go-lang.com
+    policy: Proxy
+- domain_suffix:
+    match: google.sc
+    policy: Proxy
+- domain_suffix:
+    match: firebaseio.com
+    policy: Proxy
+- domain_suffix:
+    match: globaledu.org
+    policy: Proxy
+- domain_suffix:
+    match: appbridge.ca
+    policy: Proxy
+- domain_suffix:
+    match: gstatic.cn
+    policy: Proxy
+- domain_suffix:
+    match: golang.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.si
+    policy: Proxy
+- domain_suffix:
+    match: google.ne
+    policy: Proxy
+- domain_suffix:
+    match: bandpage.com
+    policy: Proxy
+- domain_suffix:
+    match: google.hu
+    policy: Proxy
+- domain_suffix:
+    match: google.tg
+    policy: Proxy
+- domain_suffix:
+    match: cloud.google.com
+    policy: Proxy
+- domain_suffix:
+    match: staging-databe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: voice.telephony.goog
+    policy: Proxy
+- domain_suffix:
+    match: stxmosquitoproject.net
+    policy: Proxy
+- domain_suffix:
+    match: '*com.google.Drive*'
+    policy: Proxy
+- domain_suffix:
+    match: googleadservices-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: bumptop.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.cl
+    policy: Proxy
+- domain_suffix:
+    match: doubleclick.net
+    policy: Proxy
+- domain_suffix:
+    match: apps5.oingo.com
+    policy: Proxy
+- domain_suffix:
+    match: kaggle.com
+    policy: Proxy
+- domain_suffix:
+    match: chromeos.dev
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.uy
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.mk
+    policy: Proxy
+- domain_suffix:
+    match: youtube-nocookie.com
+    policy: Proxy
+- domain_suffix:
+    match: googleflights-cn.net
+    policy: Proxy
+- domain_suffix:
+    match: stxmosquito.com
+    policy: Proxy
+- domain_suffix:
+    match: paxlicense.org
+    policy: Proxy
+- domain_suffix:
+    match: 2mdn-cn.net
+    policy: Proxy
+- domain_suffix:
+    match: digitalattackmap.com
+    policy: Proxy
+- domain_suffix:
+    match: google.de
+    policy: Proxy
+- domain_suffix:
+    match: opensourceinsights.dev
+    policy: Proxy
+- domain_suffix:
+    match: google.rs
+    policy: Proxy
+- domain_suffix:
+    match: google.com.tj
+    policy: Proxy
+- domain_suffix:
+    match: gvt5.com
+    policy: Proxy
+- domain_suffix:
+    match: google.lv
+    policy: Proxy
+- domain_suffix:
+    match: android.com
+    policy: Proxy
+- domain_suffix:
+    match: google.so
+    policy: Proxy
+- domain_suffix:
+    match: googleusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: teachparentstech.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.lu
+    policy: Proxy
+- domain_suffix:
+    match: projectbaseline.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.au
+    policy: Proxy
+- domain_suffix:
+    match: doubleclick.com
+    policy: Proxy
+- domain_suffix:
+    match: capitalg.com
+    policy: Proxy
+- domain_suffix:
+    match: google.ht
+    policy: Proxy
+- domain_suffix:
+    match: v8project.org
+    policy: Proxy
+- domain_suffix:
+    match: tiltbrush.com
+    policy: Proxy
+- domain_suffix:
+    match: google.gy
+    policy: Proxy
+- domain_suffix:
+    match: google.jo
+    policy: Proxy
+- domain_suffix:
+    match: gsrc.io
+    policy: Proxy
+- domain_suffix:
+    match: com.android.vending
+    policy: Proxy
+- domain_suffix:
+    match: google.iq
+    policy: Proxy
+- domain_suffix:
+    match: googlemaps.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.in
+    policy: Proxy
+- domain_suffix:
+    match: xn--ngstr-lra8j.com
+    policy: Proxy
+- domain_suffix:
+    match: get.app
+    policy: Proxy
+- domain_suffix:
+    match: gvt3.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.tw
+    policy: Proxy
+- domain_suffix:
+    match: avail.googleflights.net
+    policy: Proxy
+- domain_suffix:
+    match: google.no
+    policy: Proxy
+- domain_suffix:
+    match: googlecloud.com
+    policy: Proxy
+- domain_suffix:
+    match: near.by
+    policy: Proxy
+- domain_suffix:
+    match: certificate-transparency.dev
+    policy: Proxy
+- domain_suffix:
+    match: stcroixmosquitoproject.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.in
+    policy: Proxy
+- domain_suffix:
+    match: tfhub.dev
+    policy: Proxy
+- domain_suffix:
+    match: foofle.com
+    policy: Proxy
+- domain_suffix:
+    match: xn--ggle-55da.com
+    policy: Proxy
+- domain_suffix:
+    match: googlephotos.com
+    policy: Proxy
+- domain_suffix:
+    match: xn--9kr7l.com
+    policy: Proxy
+- domain_suffix:
+    match: google.kg
+    policy: Proxy
+- domain_suffix:
+    match: google.com.my
+    policy: Proxy
+- domain_suffix:
+    match: go-lang.net
+    policy: Proxy
+- domain_suffix:
+    match: google.it
+    policy: Proxy
+- domain_suffix:
+    match: google.ci
+    policy: Proxy
+- domain_suffix:
+    match: saynow.com
+    policy: Proxy
+- domain_suffix:
+    match: google.ee
+    policy: Proxy
+- domain_suffix:
+    match: admob-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.st
+    policy: Proxy
+- domain_suffix:
+    match: google.at
+    policy: Proxy
+- domain_suffix:
+    match: xplr.co
+    policy: Proxy
+- domain_suffix:
+    match: gstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: godoc.org
+    policy: Proxy
+- domain_suffix:
+    match: jibemobile.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.li
+    policy: Proxy
+- domain_suffix:
+    match: google.td
+    policy: Proxy
+- domain_suffix:
+    match: c.gle
+    policy: Proxy
+- domain_suffix:
+    match: google.mv
+    policy: Proxy
+- domain_suffix:
+    match: picnik.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.rs
+    policy: Proxy
+- domain_suffix:
+    match: thecleversense.com
+    policy: Proxy
+- domain_suffix:
+    match: adwords.com
+    policy: Proxy
+- domain_suffix:
+    match: googleanalytics.com
+    policy: Proxy
+- domain_suffix:
+    match: crbug.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.eg
+    policy: Proxy
+- domain_suffix:
+    match: google.si
+    policy: Proxy
+- domain_suffix:
+    match: google.com.vc
+    policy: Proxy
+- domain_suffix:
+    match: codespot.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.sk
+    policy: Proxy
+- domain_suffix:
+    match: google.com.gt
+    policy: Proxy
+- domain_suffix:
+    match: gstatic-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.uz
+    policy: Proxy
+- domain_suffix:
+    match: g.co
+    policy: Proxy
+- domain_suffix:
+    match: webmproject.org
+    policy: Proxy
+- domain_suffix:
+    match: ggoogle.com
+    policy: Proxy
+- domain_suffix:
+    match: pageview.mobi
+    policy: Proxy
+- domain_suffix:
+    match: gmail.com
+    policy: Proxy
+- domain_suffix:
+    match: stxmosquitoproject.org
+    policy: Proxy
+- domain_suffix:
+    match: coova.com
+    policy: Proxy
+- domain_suffix:
+    match: androidify.com
+    policy: Proxy
+- domain_suffix:
+    match: google.cat
+    policy: Proxy
+- domain_suffix:
+    match: weltweitwachsen.de
+    policy: Proxy
+- domain_suffix:
+    match: google.ca
+    policy: Proxy
+- domain_suffix:
+    match: google.com.np
+    policy: Proxy
+- domain_suffix:
+    match: chat.gle
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com
+    policy: Proxy
+- domain_suffix:
+    match: adgoogle.net
+    policy: Proxy
+- domain_suffix:
+    match: google.la
+    policy: Proxy
+- domain_suffix:
+    match: googleoptimize.com
+    policy: Proxy
+- domain_suffix:
+    match: keyhole.com
+    policy: Proxy
+- domain_suffix:
+    match: googledanmark.com
+    policy: Proxy
+- domain_suffix:
+    match: gridaware.app
+    policy: Proxy
+- domain_suffix:
+    match: devsitetest.how
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ae
+    policy: Proxy
+- domain_suffix:
+    match: womenwill.in
+    policy: Proxy
+- domain_suffix:
+    match: googlefinland.com
+    policy: Proxy
+- domain_suffix:
+    match: googletagservices.com
+    policy: Proxy
+- domain_suffix:
+    match: gmodules.com
+    policy: Proxy
+- domain_suffix:
+    match: google-analytics.com
+    policy: Proxy
+- domain_suffix:
+    match: chromium.org
+    policy: Proxy
+- domain_suffix:
+    match: google.as
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.it
+    policy: Proxy
+- domain_suffix:
+    match: stxmosquitoproject.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.fr
+    policy: Proxy
+- domain_suffix:
+    match: useplannr.com
+    policy: Proxy
+- domain_suffix:
+    match: gooogle.com
+    policy: Proxy
+- domain_suffix:
+    match: app-measurement-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: googlecompare.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: google.mw
+    policy: Proxy
+- domain_suffix:
+    match: chroniclesec.com
+    policy: Proxy
+- domain_suffix:
+    match: goo.gl
+    policy: Proxy
+- domain_suffix:
+    match: openthread.io
+    policy: Proxy
+- domain_suffix:
+    match: googlecnapps.cn
+    policy: Proxy
+- domain_suffix:
+    match: google.com.br
+    policy: Proxy
+- domain_suffix:
+    match: certificate-transparency.org
+    policy: Proxy
+- domain_suffix:
+    match: panoramio.com
+    policy: Proxy
+- domain_suffix:
+    match: screenwisetrends.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.cv
+    policy: Proxy
+- domain_suffix:
+    match: google.com.om
+    policy: Proxy
+- domain_suffix:
+    match: google.com.pg
+    policy: Proxy
+- domain_suffix:
+    match: google.ru
+    policy: Proxy
+- domain_suffix:
+    match: google.ms
+    policy: Proxy
+- domain_suffix:
+    match: prod-controlbe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: womenwill.com
+    policy: Proxy
+- domain_suffix:
+    match: google.fm
+    policy: Proxy
+- domain_suffix:
+    match: crr.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ve
+    policy: Proxy
+- domain_suffix:
+    match: onefifteen.org
+    policy: Proxy
+- domain_suffix:
+    match: googleoptimize-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.zw
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.cy
+    policy: Proxy
+- domain_suffix:
+    match: google.com.cu
+    policy: Proxy
+- domain_suffix:
+    match: schema.org
+    policy: Proxy
+- domain_suffix:
+    match: google.ie
+    policy: Proxy
+- domain_suffix:
+    match: projectara.com
+    policy: Proxy
+- domain_suffix:
+    match: google.cg
+    policy: Proxy
+- domain_suffix:
+    match: app-measurement.com
+    policy: Proxy
+- domain_suffix:
+    match: schemer.com
+    policy: Proxy
+- domain_suffix:
+    match: googleventures.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.nl
+    policy: Proxy
+- domain_suffix:
+    match: verily.com
+    policy: Proxy
+- domain_suffix:
+    match: cs4hs.com
+    policy: Proxy
+- domain_suffix:
+    match: clickserve.cc-dt.com
+    policy: Proxy
+- domain_suffix:
+    match: googledrive.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ph
+    policy: Proxy
+- domain_suffix:
+    match: 2mdn.net
+    policy: Proxy
+- domain_suffix:
+    match: quiksee.com
+    policy: Proxy
+- domain_suffix:
+    match: redirector.offline-maps.gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.ar
+    policy: Proxy
+- domain_suffix:
+    match: www.destinationurl.com
+    policy: Proxy
+- domain_suffix:
+    match: angulardart.org
+    policy: Proxy
+- domain_suffix:
+    match: web.dev
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.de
+    policy: Proxy
+- domain_suffix:
+    match: googlecommerce.com
+    policy: Proxy
+- domain_suffix:
+    match: googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: madewithcode.com
+    policy: Proxy
+- domain_suffix:
+    match: firebasestorage.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: google.cn
+    policy: Proxy
+- domain_suffix:
+    match: goolge.com
+    policy: Proxy
+- domain_suffix:
+    match: gsuite.com
+    policy: Proxy
+- domain_suffix:
+    match: googleblog.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.gi
+    policy: Proxy
+- domain_suffix:
+    match: qiao-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: deepmind.google
+    policy: Proxy
+- domain_suffix:
+    match: womenwill.com.br
+    policy: Proxy
+- domain_suffix:
+    match: google.ge
+    policy: Proxy
+- domain_suffix:
+    match: google.sm
+    policy: Proxy
+- domain_suffix:
+    match: stcroixmosquito.com
+    policy: Proxy
+- domain_suffix:
+    match: brocaproject.com
+    policy: Proxy
+- domain_suffix:
+    match: neverware.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ag
+    policy: Proxy
+- domain_suffix:
+    match: googlepagecreator.com
     policy: Proxy
 - domain_suffix:
     match: ytimg.com
     policy: Proxy
 - domain_suffix:
-    match: zukunftswerkstatt.de
+    match: google.cv
     policy: Proxy
 - domain_suffix:
-    match: zynamics.com
+    match: googleapis.cn
     policy: Proxy
-- domain:
-    match: ads.google.com
+- domain_suffix:
+    match: privacysandbox.com
     policy: Proxy
-- domain:
-    match: adwords.google.com
+- domain_suffix:
+    match: google.vu
     policy: Proxy
-- domain:
-    match: android.clients.google.com
+- domain_suffix:
+    match: yt.be
     policy: Proxy
-- domain:
-    match: dl-ssl.google.com
+- domain_suffix:
+    match: gvt0.com
     policy: Proxy
-- domain:
-    match: dl.google.com
+- domain_suffix:
+    match: get.page
     policy: Proxy
-- domain:
-    match: docs.google.com
+- domain_suffix:
+    match: google.co.nz
     policy: Proxy
-- domain:
-    match: drive.google.com
+- domain_suffix:
+    match: hey.gle
     policy: Proxy
-- domain:
-    match: forms.google.com
+- domain_suffix:
+    match: dart.dev
     policy: Proxy
-- domain:
-    match: mail.google.com
+- domain_suffix:
+    match: com.google.android.gsf
     policy: Proxy
-- domain:
-    match: maps.google.com
+- domain_suffix:
+    match: x.company
     policy: Proxy
-- domain:
-    match: maps.googleapis.com
+- domain_suffix:
+    match: appbridge.io
+    policy: Proxy
+- domain_suffix:
+    match: googil.com
+    policy: Proxy
+- domain_suffix:
+    match: deepmind.com
+    policy: Proxy
+- domain_suffix:
+    match: bumptop.net
+    policy: Proxy
+- domain_suffix:
+    match: fastlane.tools
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ug
+    policy: Proxy
+- domain_suffix:
+    match: google.dm
+    policy: Proxy
+- domain_suffix:
+    match: crrev.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ar
+    policy: Proxy
+- domain_suffix:
+    match: gvt2-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.hu
+    policy: Proxy
+- domain_suffix:
+    match: google.com.vn
+    policy: Proxy
+- domain_suffix:
+    match: waveprotocol.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.tr
+    policy: Proxy
+- domain_suffix:
+    match: deps.info
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ec
+    policy: Proxy
+- domain_suffix:
+    match: redirector.gcpcdn.gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: youtu.be
+    policy: Proxy
+- domain_suffix:
+    match: mobileview.page
+    policy: Proxy
+- domain_suffix:
+    match: pkg.dev
+    policy: Proxy
+- domain_suffix:
+    match: adsensecustomsearchads.com
+    policy: Proxy
+- domain_suffix:
+    match: google.mu
+    policy: Proxy
+- domain_suffix:
+    match: google.je
+    policy: Proxy
+- domain_suffix:
+    match: get.how
+    policy: Proxy
+- domain_suffix:
+    match: unfiltered.news
+    policy: Proxy
+- domain_suffix:
+    match: google.pn
+    policy: Proxy
+- domain_suffix:
+    match: google.am
+    policy: Proxy
+- domain_suffix:
+    match: googlesverige.com
+    policy: Proxy
+- domain_suffix:
+    match: usvimosquito.com
+    policy: Proxy
+- domain_suffix:
+    match: waze.com
+    policy: Proxy
+- domain_suffix:
+    match: gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: google.al
+    policy: Proxy
+- domain_suffix:
+    match: google.nr
+    policy: Proxy
+- domain_suffix:
+    match: waymo.com
+    policy: Proxy
+- domain_suffix:
+    match: plus.codes
+    policy: Proxy
+- domain_suffix:
+    match: usvimosquitoproject.com
+    policy: Proxy
+- domain_suffix:
+    match: googletagmanager.com
+    policy: Proxy
+- domain_suffix:
+    match: gvt6.com
+    policy: Proxy
+- domain_suffix:
+    match: screenwisetrendspanel.com
+    policy: Proxy
+- domain_suffix:
+    match: staging-controlbe.floonet.goog
+    policy: Proxy
+- domain_suffix:
+    match: gv.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.ng
+    policy: Proxy
+- domain_suffix:
+    match: dartpad.dev
+    policy: Proxy
+- domain_suffix:
+    match: google.cl
+    policy: Proxy
+- domain_suffix:
+    match: area120.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.pk
+    policy: Proxy
+- domain_suffix:
+    match: dataliberation.org
+    policy: Proxy
+- domain_suffix:
+    match: google.ps
+    policy: Proxy
+- domain_suffix:
+    match: google.to
+    policy: Proxy
+- domain_suffix:
+    match: iamremarkable.org
+    policy: Proxy
+- domain_suffix:
+    match: snapseed.com
+    policy: Proxy
+- domain_suffix:
+    match: womenwill.id
+    policy: Proxy
+- domain_suffix:
+    match: googleapps.com
+    policy: Proxy
+- domain_suffix:
+    match: gkecnapps.cn
+    policy: Proxy
+- domain_suffix:
+    match: gwtproject.org
+    policy: Proxy
+- domain_suffix:
+    match: googleplay.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.ke
+    policy: Proxy
+- domain_suffix:
+    match: x.team
+    policy: Proxy
+- domain_suffix:
+    match: polymerproject.org
+    policy: Proxy
+- domain_suffix:
+    match: gogole.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.bg
+    policy: Proxy
+- domain_suffix:
+    match: widevine.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.no
+    policy: Proxy
+- domain_suffix:
+    match: shattered.io
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.mx
+    policy: Proxy
+- domain_suffix:
+    match: g.dev
+    policy: Proxy
+- domain_suffix:
+    match: run.app
+    policy: Proxy
+- domain_suffix:
+    match: picasa.com
+    policy: Proxy
+- domain_suffix:
+    match: getmdl.io
+    policy: Proxy
+- domain_suffix:
+    match: google.com.pa
+    policy: Proxy
+- domain_suffix:
+    match: 1e100.net
+    policy: Proxy
+- domain_suffix:
+    match: coova.org
+    policy: Proxy
+- domain_suffix:
+    match: picasaweb.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.hr
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.td
+    policy: Proxy
+- domain_suffix:
+    match: googleadapis.com
+    policy: Proxy
+- domain_suffix:
+    match: hwgo.com
+    policy: Proxy
+- domain_suffix:
+    match: getbumptop.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.re
+    policy: Proxy
+- domain_suffix:
+    match: deja.com
+    policy: Proxy
+- domain_suffix:
+    match: bumptop.com
+    policy: Proxy
+- domain_suffix:
+    match: google.me
+    policy: Proxy
+- domain_suffix:
+    match: google.fr
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ca
+    policy: Proxy
+- domain_suffix:
+    match: keytransparency.foo
+    policy: Proxy
+- domain_suffix:
+    match: withgoogle.com
+    policy: Proxy
+- domain_suffix:
+    match: dartlang.org
+    policy: Proxy
+- domain_suffix:
+    match: google.bs
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ch
+    policy: Proxy
+- domain_suffix:
+    match: charlestonroadregistry.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.mt
+    policy: Proxy
+- domain_suffix:
+    match: chromecast.com
+    policy: Proxy
+- domain_suffix:
+    match: googlecapital.com
+    policy: Proxy
+- domain_suffix:
+    match: synergyse.com
+    policy: Proxy
+- domain_suffix:
+    match: igoogle.com
+    policy: Proxy
+- domain_suffix:
+    match: crashlytics.com
+    policy: Proxy
+- domain_suffix:
+    match: polymer-project.org
+    policy: Proxy
+- domain_suffix:
+    match: com.google.android.play.games
+    policy: Proxy
+- domain_suffix:
+    match: go.dev
+    policy: Proxy
+- domain_suffix:
+    match: recaptcha-cn.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudfunctions.net
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.dk
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.al
+    policy: Proxy
+- domain_suffix:
+    match: womenwill.mx
+    policy: Proxy
+- domain_suffix:
+    match: beacons2.gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.id
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.vn
+    policy: Proxy
+- domain_suffix:
+    match: gcr.io
+    policy: Proxy
+- domain_suffix:
+    match: quickoffice.com
+    policy: Proxy
+- domain_suffix:
+    match: oauthz.com
+    policy: Proxy
+- domain_suffix:
+    match: googleapps-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: google.li
+    policy: Proxy
+- domain_suffix:
+    match: ggpht.com
+    policy: Proxy
+- domain_suffix:
+    match: googletagservices-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.kr
+    policy: Proxy
+- domain_suffix:
+    match: cloudproxy.app
+    policy: Proxy
+- domain_suffix:
+    match: appbridge.it
+    policy: Proxy
+- domain_suffix:
+    match: web.app
+    policy: Proxy
+- domain_suffix:
+    match: google.com.pr
+    policy: Proxy
+- domain_suffix:
+    match: googlemail.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.pe
+    policy: Proxy
+- domain_suffix:
+    match: google.ch
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.sg
+    policy: Proxy
+- domain_suffix:
+    match: gonglchuangl.net
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.gr
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.md
+    policy: Proxy
+- domain_suffix:
+    match: google.lk
+    policy: Proxy
+- domain_suffix:
+    match: 0emm.com
+    policy: Proxy
+- domain_suffix:
+    match: dartsearch.net
+    policy: Proxy
+- domain_suffix:
+    match: froogle.com
+    policy: Proxy
+- domain_suffix:
+    match: baselinestudy.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ug
+    policy: Proxy
+- domain_suffix:
+    match: googlestore.com
+    policy: Proxy
+- domain_suffix:
+    match: questvisual.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: revolv.com
+    policy: Proxy
+- domain_suffix:
+    match: conscrypt.org
+    policy: Proxy
+- domain_suffix:
+    match: google.com.au
+    policy: Proxy
+- domain_suffix:
+    match: google.im
+    policy: Proxy
+- domain_suffix:
+    match: googlearth.com
+    policy: Proxy
+- domain_suffix:
+    match: blink.org
+    policy: Proxy
+- domain_suffix:
+    match: google.kz
+    policy: Proxy
+- domain_suffix:
+    match: googlefiber.com
+    policy: Proxy
+- domain_suffix:
+    match: app-analytics-services.com
+    policy: Proxy
+- domain_suffix:
+    match: fastlane.ci
+    policy: Proxy
+- domain_suffix:
+    match: xn--gogl-0nd52e.com
+    policy: Proxy
+- domain_suffix:
+    match: orbitera.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.sg
+    policy: Proxy
+- domain_suffix:
+    match: google.ae
+    policy: Proxy
+- domain_suffix:
+    match: verilystudyhub.com
+    policy: Proxy
+- domain_suffix:
+    match: google.by
+    policy: Proxy
+- domain_suffix:
+    match: googlecode.com
+    policy: Proxy
+- domain_suffix:
+    match: googletraveladservices-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: stadia.dev
+    policy: Proxy
+- domain_suffix:
+    match: keytransparency.com
+    policy: Proxy
+- domain_suffix:
+    match: beacons.gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: google.mk
+    policy: Proxy
+- domain_suffix:
+    match: googlescholar.com
+    policy: Proxy
+- domain_suffix:
+    match: google.sr
+    policy: Proxy
+- domain_suffix:
+    match: coova.net
+    policy: Proxy
+- domain_suffix:
+    match: google.org
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.sn
+    policy: Proxy
+- domain_suffix:
+    match: google.co.il
+    policy: Proxy
+- domain_suffix:
+    match: xn--p8j9a0d9c9a.xn--q9jyb4c
+    policy: Proxy
+- domain_suffix:
+    match: bumpshare.com
+    policy: Proxy
+- domain_suffix:
+    match: advertisercommunity.com
+    policy: Proxy
+- domain_suffix:
+    match: solveforx.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.il
+    policy: Proxy
+- domain_suffix:
+    match: google.pt
+    policy: Proxy
+- domain_suffix:
+    match: google.com.bn
+    policy: Proxy
+- domain_suffix:
+    match: verilylifesciences.com
+    policy: Proxy
+- domain_suffix:
+    match: dartsearch-cn.net
+    policy: Proxy
+- domain_suffix:
+    match: redirector.snap.gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: blog.google
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.id
+    policy: Proxy
+- domain_suffix:
+    match: gongyichuangyi.net
+    policy: Proxy
+- domain_suffix:
+    match: google.com.fj
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.nz
+    policy: Proxy
+- domain_suffix:
+    match: google.co.cr
+    policy: Proxy
+- domain_suffix:
+    match: txvia.com
+    policy: Proxy
+- domain_suffix:
+    match: asp-cc.com
+    policy: Proxy
+- domain_suffix:
+    match: digitalassetlinks.org
+    policy: Proxy
+- domain_suffix:
+    match: google.com.sl
+    policy: Proxy
+- domain_suffix:
+    match: google.lt
+    policy: Proxy
+- domain_suffix:
+    match: verilystudywatch.org
+    policy: Proxy
+- domain_suffix:
+    match: google.com.kw
+    policy: Proxy
+- domain_suffix:
+    match: googlr.com
+    policy: Proxy
+- domain_suffix:
+    match: google.ws
+    policy: Proxy
+- domain_suffix:
+    match: wallet.com
+    policy: Proxy
+- domain_suffix:
+    match: googleplus.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.com.ee
+    policy: Proxy
+- domain_suffix:
+    match: google.ad
+    policy: Proxy
+- domain_suffix:
+    match: google.com.qa
+    policy: Proxy
+- domain_suffix:
+    match: material.io
+    policy: Proxy
+- domain_suffix:
+    match: chromercise.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.sb
+    policy: Proxy
+- domain_suffix:
+    match: moodstocks.com
+    policy: Proxy
+- domain_suffix:
+    match: googledomains.com
+    policy: Proxy
+- domain_suffix:
+    match: googlevideo.com
+    policy: Proxy
+- domain_suffix:
+    match: adwords-community.com
+    policy: Proxy
+- domain_suffix:
+    match: bdn.dev
+    policy: Proxy
+- domain_suffix:
+    match: firebase.google.com
+    policy: Proxy
+- domain_suffix:
+    match: google.es
+    policy: Proxy
+- domain_suffix:
+    match: xn--gogl-1nd42e.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ma
+    policy: Proxy
+- domain_suffix:
+    match: thinkwithgoogle.com
+    policy: Proxy
+- domain_suffix:
+    match: googlesource.com
+    policy: Proxy
+- domain_suffix:
+    match: google.net
+    policy: Proxy
+- domain_suffix:
+    match: app-measurement.net
+    policy: Proxy
+- domain_suffix:
+    match: google.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: google-syndication.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.mm
+    policy: Proxy
+- domain_suffix:
+    match: golang.org
+    policy: Proxy
+- domain_suffix:
+    match: urchin.com
+    policy: Proxy
+- domain_suffix:
+    match: googlesyndication.com
+    policy: Proxy
+- domain_suffix:
+    match: blogblog.com
+    policy: Proxy
+- domain_suffix:
+    match: golang.net
+    policy: Proxy
+- domain_suffix:
+    match: v8.dev
+    policy: Proxy
+- domain_suffix:
+    match: chrome.com
+    policy: Proxy
+- domain_suffix:
+    match: blogger.com
+    policy: Proxy
+- domain_suffix:
+    match: googlecert.net
+    policy: Proxy
+- domain_suffix:
+    match: google.com.tr
+    policy: Proxy
+- domain_suffix:
+    match: com.google.android.gms
+    policy: Proxy
+- domain_suffix:
+    match: google.tm
+    policy: Proxy
+- domain_suffix:
+    match: redhotlabs.com
+    policy: Proxy
+- domain_suffix:
+    match: google.tn
+    policy: Proxy
+- domain_suffix:
+    match: webpkgcache.com
+    policy: Proxy
+- domain_suffix:
+    match: gvt1-cn.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudrobotics.com
+    policy: Proxy
+- domain_suffix:
+    match: appspot.com
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.se
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.pt
+    policy: Proxy
+- domain_suffix:
+    match: gstaticcnapps.cn
+    policy: Proxy
+- domain_suffix:
+    match: deps.dev
+    policy: Proxy
+- domain_suffix:
+    match: redirector.gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: googlemashups.com
+    policy: Proxy
+- domain_suffix:
+    match: api.ai
+    policy: Proxy
+- domain_suffix:
+    match: mdialog.com
+    policy: Proxy
+- domain_suffix:
+    match: hindiweb.com
+    policy: Proxy
+- domain_suffix:
+    match: google.dz
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.qa
+    policy: Proxy
+- domain_suffix:
+    match: google.mn
+    policy: Proxy
+- domain_suffix:
+    match: google.ki
+    policy: Proxy
+- domain_suffix:
+    match: 265.com
+    policy: Proxy
+- domain_suffix:
+    match: google.se
+    policy: Proxy
+- domain_suffix:
+    match: impermium.com
+    policy: Proxy
+- domain_suffix:
+    match: google.tt
+    policy: Proxy
+- domain_suffix:
+    match: dialogflow.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.zm
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.ro
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ls
+    policy: Proxy
+- domain_suffix:
+    match: g.page
+    policy: Proxy
+- domain_suffix:
+    match: go-lang.org
+    policy: Proxy
+- domain_suffix:
+    match: like.com
+    policy: Proxy
+- domain_suffix:
+    match: amp.dev
+    policy: Proxy
+- domain_suffix:
+    match: advertiserscommunity.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.mx
+    policy: Proxy
+- domain_suffix:
+    match: nomulus.foo
+    policy: Proxy
+- domain_suffix:
+    match: google.co.ke
+    policy: Proxy
+- domain_suffix:
+    match: ridepenguin.com
+    policy: Proxy
+- domain_suffix:
+    match: google.ro
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: blogspot.tw
+    policy: Proxy
+- domain_suffix:
+    match: admob.com
+    policy: Proxy
+- domain_suffix:
+    match: google.com.ly
+    policy: Proxy
+- domain_suffix:
+    match: google.cf
+    policy: Proxy
+- domain_suffix:
+    match: thinkquarterly.com
+    policy: Proxy
+- domain_suffix:
+    match: google.co.mz
+    policy: Proxy
+- domain_suffix:
+    match: google.com.bd
+    policy: Proxy
+- domain_suffix:
+    match: google.com.sv
     policy: Proxy
 - domain:
     match: maps.gstatic.com
     policy: Proxy
 - domain:
-    match: play.google.com
+    match: mail.google.com
     policy: Proxy
 - domain:
-    match: play.googleapis.com
+    match: dl-ssl.google.com
     policy: Proxy
 - domain:
-    match: sheets.google.com
+    match: ads.google.com
+    policy: Proxy
+- domain:
+    match: maps.google.com
+    policy: Proxy
+- domain:
+    match: slides.google.com
+    policy: Proxy
+- domain:
+    match: forms.google.com
+    policy: Proxy
+- domain:
+    match: dl.google.com
+    policy: Proxy
+- domain:
+    match: maps.googleapis.com
     policy: Proxy
 - domain:
     match: sites.google.com
     policy: Proxy
 - domain:
-    match: slides.google.com
+    match: play.google.com
+    policy: Proxy
+- domain:
+    match: android.clients.google.com
+    policy: Proxy
+- domain:
+    match: docs.google.com
+    policy: Proxy
+- domain:
+    match: sheets.google.com
+    policy: Proxy
+- domain:
+    match: adwords.google.com
+    policy: Proxy
+- domain:
+    match: drive.google.com
+    policy: Proxy
+- domain:
+    match: play.googleapis.com
     policy: Proxy
 - domain_keyword:
     match: gmail
     policy: Proxy
 - domain_keyword:
+    match: blogspot
+    policy: Proxy
+- domain_keyword:
+    match: recaptcha
+    policy: Proxy
+- domain_keyword:
     match: google
+    policy: Proxy
+- domain_keyword:
+    match: appspot
     policy: Proxy
 - ip_cidr:
     match: 172.110.32.0/21
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 74.125.0.0/16
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2620:120:e000::/40
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -2173,13 +2208,5 @@ rules:
     policy: Proxy
 - ip_cidr:
     match: 216.73.80.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2620:120:e000::/40
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 74.125.0.0/16
     no_resolve: 'true'
     policy: Proxy

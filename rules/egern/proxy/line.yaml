@@ -1,13 +1,16 @@
 # Gins-Rules: line
 rules:
 - domain_suffix:
+    match: naver.jp
+    policy: Proxy
+- domain_suffix:
     match: lin.ee
     policy: Proxy
 - domain_suffix:
-    match: line-apps.com
+    match: line-scdn.net
     policy: Proxy
 - domain_suffix:
-    match: line-scdn.net
+    match: line.naver.jp
     policy: Proxy
 - domain_suffix:
     match: line.biz
@@ -16,31 +19,28 @@ rules:
     match: line.me
     policy: Proxy
 - domain_suffix:
-    match: line.naver.jp
+    match: line-apps.com
     policy: Proxy
 - domain_suffix:
     match: linecorp.com
-    policy: Proxy
-- domain_suffix:
-    match: naver.jp
-    policy: Proxy
-- domain:
-    match: access.line.me
-    policy: Proxy
-- domain:
-    match: api.line.me
-    policy: Proxy
-- domain:
-    match: legy.line-apps.com
-    policy: Proxy
-- domain:
-    match: liff.line.me
     policy: Proxy
 - domain:
     match: media.line.me
     policy: Proxy
 - domain:
+    match: api.line.me
+    policy: Proxy
+- domain:
+    match: liff.line.me
+    policy: Proxy
+- domain:
+    match: access.line.me
+    policy: Proxy
+- domain:
     match: obs.line-apps.com
+    policy: Proxy
+- domain:
+    match: legy.line-apps.com
     policy: Proxy
 - domain:
     match: scdn.line-apps.com

@@ -4,8 +4,8 @@ rules:
     match: okex.com
     policy: Proxy
 - domain_suffix:
-    match: oklink.com
+    match: okx.com
     policy: Proxy
 - domain_suffix:
-    match: okx.com
+    match: oklink.com
     policy: Proxy

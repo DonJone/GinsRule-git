@@ -1,10 +1,14 @@
 # Gins-Rules: talkatone
 rules:
 - domain_suffix:
-    match: mfx.mobilefuse.co
+    match: tktn.be
     policy: Proxy
 - domain_suffix:
-    match: tktn.be
+    match: mfx.mobilefuse.co
+    policy: Proxy
+- ip_cidr:
+    match: 63.251.124.0/24
+    no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
     match: 205.164.56.29/24
@@ -12,10 +16,6 @@ rules:
     policy: Proxy
 - ip_cidr:
     match: 50.117.27.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 63.251.124.0/24
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:

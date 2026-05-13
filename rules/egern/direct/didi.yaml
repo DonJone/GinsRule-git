@@ -4,11 +4,11 @@ rules:
     match: didi.com
     policy: Proxy
 - domain_suffix:
+    match: udache.com
+    policy: Proxy
+- domain_suffix:
     match: didialift.com
     policy: Proxy
 - domain_suffix:
     match: didiglobal.com
-    policy: Proxy
-- domain_suffix:
-    match: udache.com
     policy: Proxy

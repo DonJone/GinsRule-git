@@ -9326,6 +9326,7 @@
 .ad.thewheelof.com
 .ad.thisav.com
 .ad.thsi.cn
+.ad.tiktokv.us
 .ad.tjtune.com
 .ad.topwar.ru
 .ad.toutiao.com
@@ -11244,6 +11245,7 @@
 .ads-api.playfun.vn
 .ads-api.production.nebula-drupal.stuff.co.nz
 .ads-api.stuff.co.nz
+.ads-api.tiktok.com
 .ads-api.twitter.com
 .ads-api.videy.co
 .ads-api.x.com
@@ -11279,6 +11281,7 @@
 .ads-i2.xhscdn.com
 .ads-i3.xhscdn.com
 .ads-i4.xhscdn.com
+.ads-ie.tiktokw.eu
 .ads-image.production-public.tubi.io
 .ads-img-al.xhscdn.com
 .ads-img-bak.xhscdn.com
@@ -11287,6 +11290,7 @@
 .ads-integration.rustore.ru
 .ads-interfaces.sc-cdn.net
 .ads-ios-sdk.ogury.co
+.ads-jp.tiktok.com
 .ads-leaseweb.appsgeyser.com
 .ads-lite.net
 .ads-lite2.net
@@ -11314,6 +11318,7 @@
 .ads-segment-profile-noneu.truecaller.com
 .ads-server.mxplay.com
 .ads-service.api.linkme.global
+.ads-sg.tiktok.com
 .ads-static.conde.digital
 .ads-static.phonepe.com
 .ads-static.recon.com
@@ -11324,6 +11329,7 @@
 .ads-tm-glb.click
 .ads-tracking.collectiveaudience.co
 .ads-trk.vidible.tv
+.ads-ttp2.tiktokw.eu
 .ads-twitter.com
 .ads-union.jd.com
 .ads-uo.api.leiniao.com
@@ -12128,6 +12134,8 @@
 .ads.thvli.vn
 .ads.tiki.vn
 .ads.tikpage.com
+.ads.tiktok.com
+.ads.tiktokw.us
 .ads.timesunion.com
 .ads.tiscali.it
 .ads.tmcs.net
@@ -12175,6 +12183,7 @@
 .ads.unister-gmbh.de
 .ads.unitychina.cn
 .ads.urbandictionary.com
+.ads.us.tiktok.com
 .ads.usatoday.com
 .ads.uwayapply.com
 .ads.uxs.at
@@ -17274,12 +17283,14 @@
 .analytics-gw.games.wanmei.com
 .analytics-helper.com
 .analytics-hub.3plearning.com
+.analytics-ie.tiktokw.eu
 .analytics-ingestion-production.tubitv.com
 .analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 .analytics-ingestion.pbpms.de
 .analytics-ingestion.production-public.tubi.io
 .analytics-ingress-global.bitmovin.com
 .analytics-ingress.bitmovin.com
+.analytics-ipv6.tiktokw.us
 .analytics-lgs.corebridgefinancial.com
 .analytics-log.withhive.com
 .analytics-logger.service.junctiontv.net
@@ -17300,6 +17311,7 @@
 .analytics-server.arras.cx
 .analytics-server.gimbal.com
 .analytics-service.api.linkme.global
+.analytics-sg.tiktok.com
 .analytics-sm.com
 .analytics-smhise.smhi.se
 .analytics-sprint.qoqa.com
@@ -17314,6 +17326,7 @@
 .analytics-track.machbird.com
 .analytics-tracker.thescore.com
 .analytics-tracking.meetup.com
+.analytics-ttp2.tiktokw.eu
 .analytics-union.sandai.net
 .analytics-union.xunlei.com
 .analytics-v2.wetransfer.com
@@ -18598,6 +18611,8 @@
 .analytics.ticketmaster.com
 .analytics.tiendaenoferta.com
 .analytics.tiki.vn
+.analytics.tiktok.com
+.analytics.tiktokw.us
 .analytics.timbertrove.com
 .analytics.timhotel.com
 .analytics.tio.ch
@@ -18671,6 +18686,7 @@
 .analytics.urbanapothecarylondon.com
 .analytics.urbanflowers.com.ua
 .analytics.us.archive.org
+.analytics.us.tiktok.com
 .analytics.ust.com
 .analytics.utensileriaonline.it
 .analytics.utopianhours.it
@@ -19897,6 +19913,7 @@
 .api.basisaceleradora.com.br
 .api.beabadabeleza.com.br
 .api.beatrizcassane.com.br
+.api.bela.viradatiktokshop.com
 .api.benibiju.com.br
 .api.beopur.pl
 .api.berrycamp.com.br
@@ -22209,6 +22226,7 @@
 .applog-perf.uc.cn
 .applog.camera360.com
 .applog.lc.quark.cn
+.applog.musical.ly
 .applog.reader.qq.com
 .applog.snssdk.com
 .applog.ssgdfs.com
@@ -32453,6 +32471,8 @@
 .busi.shundorproduct.com
 .busierflutier.qpon
 .busilycarnival.com
+.business-api.tiktok.com
+.business-api.tiktokw.us
 .business-cards.americanexpress.com
 .business-pages.edfenergy.com
 .business-path-55.com
@@ -70456,6 +70476,7 @@
 .frontesorson.cfd
 .fronthlpr.com
 .frontier.capcutw.us
+.frontier.musical.ly
 .frontier100-toutiao-lf.fqnovel.com
 .frontierconsul02.tsunagaru-office.com
 .frontierpattern.com
@@ -76486,6 +76507,7 @@
 .gplansforourc.org
 .gplayer.kmpmedia.net
 .gplinks.in
+.gplog-sg.byteoversea.com
 .gplovaumydkv.com
 .gplpl.dcshoes.com
 .gplsedtvjuxch.website
@@ -76493,7 +76515,9 @@
 .gplxgovn.vn
 .gplywfirosiwd.one
 .gpm-mon-sg.bytegsdk.com
+.gpm-mon-sg.byteoversea.com
 .gpm-mon-va.bytegsdk.com
+.gpm-mon-va.byteoversea.com
 .gpm.ltd
 .gpmodmpdrwbrx.space
 .gpntkngnqg2jpmoz22y.cfd
@@ -100093,6 +100117,7 @@
 .korinrucheselfing.qpon
 .korodrogerie.fr
 .korrelate.net
+.korshoptiktok.com
 .korunasrhumba.help
 .kory.fillyourbooks.com
 .koryakyjpoprw.space
@@ -103092,6 +103117,7 @@
 .lezntf.heydudeshoesusa.com
 .lezpress.fr
 .leztr.giantpartners.com
+.lf-static.tiktokpangle-cdn-us.com
 .lf.lelefeminine.com
 .lf21cgfgpg2cfz.cfd
 .lf2cgxz0b.com
@@ -105955,6 +105981,7 @@
 .load.api.trocvan.com
 .load.api.tryneurosmile.com
 .load.api.vagadeempregosp.com.br
+.load.api.viradatiktokshop.com
 .load.api9.nicepage.com
 .load.apimateriais.maximustecidos.com.br
 .load.app.apelbaum.com
@@ -111405,6 +111432,7 @@
 .log-upload-os.mihoyo.com
 .log-upload.mihoyo.com
 .log-v4-insight.kaizenplatform.net
+.log-va.tiktokv.com
 .log-verify.hiaiabc.com
 .log-verify.mob.com
 .log-video.baotintuc.vn
@@ -111453,6 +111481,7 @@
 .log.bloodsugars.live
 .log.btopenworld.com
 .log.bunjang.co.kr
+.log.byteoversea.com
 .log.china.cn
 .log.classting.com
 .log.cleandesigner.live
@@ -111569,6 +111598,7 @@
 .log.mp3.zing.vn
 .log.mtime.cn
 .log.music.baidu.com
+.log.musical.ly
 .log.news.zing.vn
 .log.newsvine.com
 .log.ngaynay.vn
@@ -111651,6 +111681,7 @@
 .log.tienphong.vn
 .log.tieudungthoinay.vn
 .log.tiexue.net
+.log.tiktokv.com
 .log.tinnhanhchungkhoan.vn
 .log.tinxe.vn
 .log.tossinvest.com
@@ -111725,6 +111756,7 @@
 .log2.ihubgo.info
 .log2.molitv.cn
 .log2.mtime.cn
+.log2.musical.ly
 .log2.perfectworldgames.com
 .log2.pwsdk.com
 .log2.radiko.jp
@@ -115713,6 +115745,7 @@
 .maling.dn.no
 .maling.ue.dn.no
 .malismfil.cyou
+.maliva-mcs.byteoversea.com
 .maljxp.cn
 .mall0.qiyipic.com
 .mallcom.com
@@ -118537,8 +118570,17 @@
 .mcqtoqhynn.xyz
 .mcrai.helvetia.cz
 .mcredit.vaynhanh-bankcredits.com
+.mcs-ie.tiktokw.eu
+.mcs-ie2.tiktokw.eu
+.mcs-sg.tiktok.com
+.mcs-va-useast2a.tiktokv.com
 .mcs-va.capcutapi.com
+.mcs-va.tiktok.com
+.mcs-va.tiktokv.com
 .mcs.snssdk.com
+.mcs.tiktokv.us
+.mcs.tiktokw.us
+.mcs.us.tiktokv.com
 .mcs.zijieapi.com
 .mcs16-normal-us-ttp.capcutapi.us
 .mcsatbcs.com
@@ -124509,16 +124551,20 @@
 .mon-conertisseur.fr
 .mon-pagerank.com
 .mon-sg.capcutapi.com
+.mon-va.byteoversea.com
 .mon-va.capcutapi.com
 .mon.ad.xelements.cn
 .mon.avito.ru
+.mon.byteoversea.com
 .mon.capcutapi.us
 .mon.domdog.io
 .mon.ingservices.nl
 .mon.isnssdk.com
 .mon.nveda.in
 .mon.snssdk.com
+.mon.tiktokv.com
 .mon.uppyhouse.com
+.mon.us.tiktokv.com
 .mon.xactware.com
 .mon.zijieapi.com
 .mon11-misc-lq.fqnovel.com
@@ -125648,8 +125694,12 @@
 .mssdhde.cn
 .mssdk-boot.cpacutapi.com
 .mssdk-bu.bytedance.com
+.mssdk-sg.byteoversea.com
+.mssdk-va.byteoversea.com
 .mssdk.bytedance.com
 .mssdk.capcutapi.us
+.mssdk.tiktokw.eu
+.mssdk.tiktokw.us
 .mssdk.volces.com
 .mssdk.zijieapi.com
 .mssdk16-normal-us-ttp.capcutapi.us
@@ -127721,6 +127771,7 @@
 .napx3.com
 .napxquanhuy.com
 .napxugiare.com
+.napxutiktok.net
 .napzingspeed.com
 .napzingvng.news
 .naqcufmkaydur.online
@@ -137101,8 +137152,12 @@
 .p11q.cn
 .p12acx.com
 .p15vjj3og.com
+.p16-ad-site-sign-sg.tiktokcdn.com
+.p16-ad.byteoversea.com
+.p16-tiktokcdn-com.akamaized.net.iberostar.com
 .p182qlx5wmkp5k3x1cb8.cfd
 .p188.cn
+.p19-ad-site-sign-sg.tiktokcdn.com
 .p192.eastbaytimes.com
 .p1fzqmnk5fh1xnv7rhfg1.cfd
 .p1ib56kf957zj3b6qqnm.rest
@@ -154711,6 +154766,7 @@
 .rtbuniverse.com
 .rtbuzz.net
 .rtbweb.com
+.rtc-logger-va.tiktokv.com
 .rtc-logger.bytevcloud.com
 .rtc.dymatrix.cloud
 .rtc.multiscreensite.com
@@ -154825,7 +154881,9 @@
 .rtl-most.blogspot.hu
 .rtl.oewabox.at
 .rtlfqocrotlhz.website
+.rtlog.byteoversea.com
 .rtlog.isnssdk.com
+.rtlog.tiktokv.com
 .rtlog.vidown.cn
 .rtlog3-applog-hl.fqnovel.com
 .rtlog3-applog.fqnovel.com
@@ -164156,6 +164214,7 @@
 .sf.vserv.mobi
 .sf14g.com
 .sf16-static.i18n-pglstatp.com
+.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .sf3-ttcdn-tos.pstatp.com
 .sf4567w2a56q.branch.salesfloor.net
 .sf5q8gbnve37.branch.salesfloor.net
@@ -164294,6 +164353,7 @@
 .sga.ncminvest.com
 .sgaijlnojrrok.site
 .sgajop.hififnk.kr
+.sgali-mcs.byteoversea.com
 .sgarialfdgbtj.com
 .sgazxwpurrfsy.space
 .sgbbc.cn
@@ -167084,6 +167144,7 @@
 .shopdoitien.com
 .shopdotkich.net
 .shopdta.com
+.shopducmomtiktok.com
 .shopducmomtv.com
 .shope1688.com
 .shopebinful.cyou
@@ -183335,6 +183396,7 @@
 .st.creative-cables.sk
 .st.cucine-sartoriali.it
 .st.db-fernverkehr.com
+.st.db-tiktok-ticket.de
 .st.dealatcity.com
 .st.denvertaichigung.com
 .st.der-kleine-ice.de
@@ -188473,6 +188535,7 @@
 .stats.tiffany.ie
 .stats.tiffany.kr
 .stats.tijdschrift.zenleven.nl
+.stats.tiktoker.win
 .stats.time2unfold.com
 .stats.timkhoury.com
 .stats.timmo.immo
@@ -197276,6 +197339,13 @@
 .tikt88.com
 .tiktakz.xyz
 .tiktikshopvn.com
+.tiktok-ads.hara.vn
+.tiktok-user-events.boloforms.com
+.tiktok.tray.com.br
+.tiktokcdn1.xyz
+.tiktokcy1.com
+.tiktokpangle-b.us
+.tiktokpangle.us
 .tiku.io
 .tikz.cn
 .tilanalytics.timesinternet.in
@@ -207875,6 +207945,7 @@
 .ufyxvgupbdcjv.website
 .ufz.doesxyz.com
 .ufzvgx.stylepit.se
+.ug-sg.byteoversea.com
 .ug.baidu.com
 .ug.snssdk.com
 .ug.urban-goddess.com
@@ -211599,6 +211670,7 @@
 .v10.vortex-win.data.microsoft.com
 .v10c.events.data.microsoft.com
 .v12group.com
+.v16-ad.byteoversea.com
 .v16.56.com
 .v16m-default.akamaized.net.iberostar.com
 .v16oumz76l2jkuzh.cfd
@@ -224837,9 +224909,13 @@
 .xlnkuhkwczqbs.space
 .xlnlvf.top
 .xlnrby2uov1x24.cfd
+.xlog-va.musical.ly
+.xlog-va.tiktokv.com
+.xlog.byteoversea.com
 .xlog.hiido.com
 .xlog.jd.com
 .xlog.snssdk.com
+.xlog.tiktokv.com
 .xlovecam.com
 .xlpblc.binding101.com
 .xlqemkati.com

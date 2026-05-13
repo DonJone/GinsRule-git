@@ -1,17 +1,17 @@
 # Gins-Rules: jd
 rules:
 - domain_suffix:
-    match: 360buyimg.com
+    match: jd.cn
     policy: Proxy
 - domain_suffix:
-    match: jd.cn
+    match: jdcloud.com
     policy: Proxy
 - domain_suffix:
     match: jd.com
     policy: Proxy
 - domain_suffix:
-    match: jd.hk
+    match: 360buyimg.com
     policy: Proxy
 - domain_suffix:
-    match: jdcloud.com
+    match: jd.hk
     policy: Proxy

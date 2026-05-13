@@ -1,58 +1,37 @@
 # Gins-Rules: docker
 rules:
 - domain_suffix:
-    match: compose-spec.io
-    policy: Proxy
-- domain_suffix:
-    match: d1q6f0aelx0por.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: d2wy8f7a9ursnm.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: d36jcksde1wxzq.cloudfront.net
-    policy: Proxy
-- domain_suffix:
-    match: dhi.io
-    policy: Proxy
-- domain_suffix:
-    match: docker.com
-    policy: Proxy
-- domain_suffix:
     match: docker.io
     policy: Proxy
 - domain_suffix:
     match: dockerhub.com
     policy: Proxy
 - domain_suffix:
-    match: dockerstatus.com
-    policy: Proxy
-- domain:
-    match: api.docker.com
-    policy: Proxy
-- domain:
-    match: api.dso.docker.com
-    policy: Proxy
-- domain:
-    match: auth.docker.com
-    policy: Proxy
-- domain:
-    match: auth.docker.io
-    policy: Proxy
-- domain:
     match: d1q6f0aelx0por.cloudfront.net
     policy: Proxy
-- domain:
-    match: d2wy8f7a9ursnm.cloudfront.net
+- domain_suffix:
+    match: docker.com
     policy: Proxy
-- domain:
+- domain_suffix:
+    match: dockerstatus.com
+    policy: Proxy
+- domain_suffix:
     match: d36jcksde1wxzq.cloudfront.net
     policy: Proxy
-- domain:
-    match: desktop.docker.com
+- domain_suffix:
+    match: compose-spec.io
+    policy: Proxy
+- domain_suffix:
+    match: d2wy8f7a9ursnm.cloudfront.net
+    policy: Proxy
+- domain_suffix:
+    match: dhi.io
     policy: Proxy
 - domain:
     match: hub.docker.com
+    policy: Proxy
+- domain:
+    match: registry.scout.docker.com
     policy: Proxy
 - domain:
     match: login.docker.com
@@ -61,8 +40,29 @@ rules:
     match: production.cloudflare.docker.com
     policy: Proxy
 - domain:
+    match: auth.docker.io
+    policy: Proxy
+- domain:
+    match: d1q6f0aelx0por.cloudfront.net
+    policy: Proxy
+- domain:
+    match: api.docker.com
+    policy: Proxy
+- domain:
     match: registry-1.docker.io
     policy: Proxy
 - domain:
-    match: registry.scout.docker.com
+    match: api.dso.docker.com
+    policy: Proxy
+- domain:
+    match: desktop.docker.com
+    policy: Proxy
+- domain:
+    match: d2wy8f7a9ursnm.cloudfront.net
+    policy: Proxy
+- domain:
+    match: auth.docker.com
+    policy: Proxy
+- domain:
+    match: d36jcksde1wxzq.cloudfront.net
     policy: Proxy

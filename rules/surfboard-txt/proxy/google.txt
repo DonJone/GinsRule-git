@@ -1,3 +1,4 @@
+.*com.google.Drive*
 .0emm.com
 .1e100.net
 .1ucrs.com
@@ -5,6 +6,7 @@
 .2mdn-cn.net
 .2mdn.net
 .466453.com
+.Google.Drive*
 .abc.xyz
 .adgoogle.net
 .admeld.com
@@ -162,6 +164,10 @@
 .cloudrobotics.com
 .cobrasearch.com
 .codespot.com
+.com.android.vending
+.com.google.android.gms
+.com.google.android.gsf
+.com.google.android.play.games
 .conscrypt.com
 .conscrypt.org
 .cookiechoices.org

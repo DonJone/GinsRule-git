@@ -1,13 +1,13 @@
 +.anthropic.com
++.clau.de
 +.claude.ai
++.claude.com
 +.claude.site
 +.claudeusercontent.com
-+.clau.de
-+.claude.com
+160.79.104.0/23
+2607:6bc0::/48
 api.anthropic.com
 cdn.usefathom.com
 console.anthropic.com
 docs.anthropic.com
 status.anthropic.com
-160.79.104.0/23
-2607:6bc0::/48

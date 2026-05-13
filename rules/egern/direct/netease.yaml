@@ -1,50 +1,50 @@
 # Gins-Rules: netease
 rules:
 - domain_suffix:
+    match: ydstatic.com
+    policy: Proxy
+- domain_suffix:
     match: 126.com
-    policy: Proxy
-- domain_suffix:
-    match: 126.net
-    policy: Proxy
-- domain_suffix:
-    match: 127.net
-    policy: Proxy
-- domain_suffix:
-    match: 163.com
-    policy: Proxy
-- domain_suffix:
-    match: 163yun.com
-    policy: Proxy
-- domain_suffix:
-    match: api.iplay.163.com
-    policy: Proxy
-- domain_suffix:
-    match: hz.netease.com
-    policy: Proxy
-- domain_suffix:
-    match: lofter.com
-    policy: Proxy
-- domain_suffix:
-    match: mam.netease.com
-    policy: Proxy
-- domain_suffix:
-    match: music.126.net
-    policy: Proxy
-- domain_suffix:
-    match: music.163.com
-    policy: Proxy
-- domain_suffix:
-    match: music.163.com.163jiasu.com
-    policy: Proxy
-- domain_suffix:
-    match: ne.game.163.com
     policy: Proxy
 - domain_suffix:
     match: netease.com
     policy: Proxy
 - domain_suffix:
-    match: ydstatic.com
+    match: 163yun.com
+    policy: Proxy
+- domain_suffix:
+    match: music.163.com
+    policy: Proxy
+- domain_suffix:
+    match: lofter.com
+    policy: Proxy
+- domain_suffix:
+    match: music.163.com.163jiasu.com
+    policy: Proxy
+- domain_suffix:
+    match: 126.net
+    policy: Proxy
+- domain_suffix:
+    match: mam.netease.com
+    policy: Proxy
+- domain_suffix:
+    match: hz.netease.com
+    policy: Proxy
+- domain_suffix:
+    match: 127.net
     policy: Proxy
 - domain_suffix:
     match: youdao.com
+    policy: Proxy
+- domain_suffix:
+    match: ne.game.163.com
+    policy: Proxy
+- domain_suffix:
+    match: 163.com
+    policy: Proxy
+- domain_suffix:
+    match: music.126.net
+    policy: Proxy
+- domain_suffix:
+    match: api.iplay.163.com
     policy: Proxy

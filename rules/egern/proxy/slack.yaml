@@ -1,20 +1,20 @@
 # Gins-Rules: slack
 rules:
 - domain_suffix:
-    match: slack-edge.com
-    policy: Proxy
-- domain_suffix:
-    match: slack-files.com
-    policy: Proxy
-- domain_suffix:
-    match: slack-imgs.com
-    policy: Proxy
-- domain_suffix:
-    match: slack-msgs.com
+    match: slack.engineering
     policy: Proxy
 - domain_suffix:
     match: slack.com
     policy: Proxy
 - domain_suffix:
-    match: slack.engineering
+    match: slack-imgs.com
+    policy: Proxy
+- domain_suffix:
+    match: slack-files.com
+    policy: Proxy
+- domain_suffix:
+    match: slack-edge.com
+    policy: Proxy
+- domain_suffix:
+    match: slack-msgs.com
     policy: Proxy

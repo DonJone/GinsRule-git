@@ -1,44 +1,44 @@
 # Gins-Rules: gemini
 rules:
 - domain_suffix:
-    match: ai.google.dev
-    policy: Proxy
-- domain_suffix:
-    match: aida.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: aistudio.google.com
-    policy: Proxy
-- domain_suffix:
-    match: alkalicore-pa.clients6.google.com
-    policy: Proxy
-- domain_suffix:
-    match: alkalimakersuite-pa.clients6.google.com
-    policy: Proxy
-- domain_suffix:
-    match: bard.google.com
+    match: makersuite.google.com
     policy: Proxy
 - domain_suffix:
     match: deepmind.com
     policy: Proxy
 - domain_suffix:
-    match: deepmind.google
-    policy: Proxy
-- domain_suffix:
-    match: geller-pa.googleapis.com
+    match: proactivebackend-pa.googleapis.com
     policy: Proxy
 - domain_suffix:
     match: gemini.google.com
     policy: Proxy
 - domain_suffix:
+    match: deepmind.google
+    policy: Proxy
+- domain_suffix:
+    match: aida.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: alkalimakersuite-pa.clients6.google.com
+    policy: Proxy
+- domain_suffix:
+    match: alkalicore-pa.clients6.google.com
+    policy: Proxy
+- domain_suffix:
+    match: aistudio.google.com
+    policy: Proxy
+- domain_suffix:
     match: generativeai.google
+    policy: Proxy
+- domain_suffix:
+    match: bard.google.com
     policy: Proxy
 - domain_suffix:
     match: generativelanguage.googleapis.com
     policy: Proxy
 - domain_suffix:
-    match: makersuite.google.com
+    match: geller-pa.googleapis.com
     policy: Proxy
 - domain_suffix:
-    match: proactivebackend-pa.googleapis.com
+    match: ai.google.dev
     policy: Proxy

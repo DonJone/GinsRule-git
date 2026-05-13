@@ -1,85 +1,94 @@
 # Gins-Rules: spotify
 rules:
 - domain_suffix:
-    match: audio-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: audio4-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: byspotify.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-spotify-experiments.conductrics.com
-    policy: Proxy
-- domain_suffix:
-    match: heads-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: heads4-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: pscdn.co
-    policy: Proxy
-- domain_suffix:
-    match: scdn.co
-    policy: Proxy
-- domain_suffix:
-    match: spoti.fi
-    policy: Proxy
-- domain_suffix:
-    match: spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
     match: spotify-everywhere.com
-    policy: Proxy
-- domain_suffix:
-    match: spotify.app.link
-    policy: Proxy
-- domain_suffix:
-    match: spotify.com
-    policy: Proxy
-- domain_suffix:
-    match: spotify.com.edgesuite.net
-    policy: Proxy
-- domain_suffix:
-    match: spotify.design
-    policy: Proxy
-- domain_suffix:
-    match: spotify.map.fastly.net
-    policy: Proxy
-- domain_suffix:
-    match: spotify.map.fastlylb.net
-    policy: Proxy
-- domain_suffix:
-    match: spotifycdn.com
-    policy: Proxy
-- domain_suffix:
-    match: spotifycdn.net
-    policy: Proxy
-- domain_suffix:
-    match: spotifycharts.com
     policy: Proxy
 - domain_suffix:
     match: spotifycodes.com
     policy: Proxy
 - domain_suffix:
-    match: spotifyforbrands.com
+    match: byspotify.com
     policy: Proxy
 - domain_suffix:
-    match: spotifyjobs.com
+    match: audio-ak-spotify-com.akamaized.net
     policy: Proxy
 - domain_suffix:
-    match: spotifynewsroom.jp
+    match: spotifycharts.com
+    policy: Proxy
+- domain_suffix:
+    match: spotify.map.fastlylb.net
     policy: Proxy
 - domain_suffix:
     match: spotilocal.com
     policy: Proxy
 - domain_suffix:
+    match: spotify.app.link
+    policy: Proxy
+- domain_suffix:
+    match: spotify.design
+    policy: Proxy
+- domain_suffix:
+    match: spotifyforbrands.com
+    policy: Proxy
+- domain_suffix:
+    match: cdn-spotify-experiments.conductrics.com
+    policy: Proxy
+- domain_suffix:
+    match: spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: heads-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: audio4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: spotifynewsroom.jp
+    policy: Proxy
+- domain_suffix:
+    match: spotify.com
+    policy: Proxy
+- domain_suffix:
+    match: spotify.com.edgesuite.net
+    policy: Proxy
+- domain_suffix:
+    match: spotify.map.fastly.net
+    policy: Proxy
+- domain_suffix:
+    match: pscdn.co
+    policy: Proxy
+- domain_suffix:
+    match: heads4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: spoti.fi
+    policy: Proxy
+- domain_suffix:
+    match: scdn.co
+    policy: Proxy
+- domain_suffix:
     match: tospotify.com
+    policy: Proxy
+- domain_suffix:
+    match: com.spotify.music
+    policy: Proxy
+- domain_suffix:
+    match: spotifycdn.net
+    policy: Proxy
+- domain_suffix:
+    match: spotifyjobs.com
+    policy: Proxy
+- domain_suffix:
+    match: spotifycdn.com
     policy: Proxy
 - domain:
     match: audio4-ak-spotify-com.akamaized.net
+    policy: Proxy
+- domain:
+    match: spotify.map.fastly.net
+    policy: Proxy
+- domain:
+    match: spotify.map.fastlylb.net
     policy: Proxy
 - domain:
     match: cdn-spotify-experiments.conductrics.com
@@ -90,17 +99,14 @@ rules:
 - domain:
     match: spotify.com.edgesuite.net
     policy: Proxy
-- domain:
-    match: spotify.map.fastly.net
+- domain_keyword:
+    match: spotify.com
     policy: Proxy
-- domain:
-    match: spotify.map.fastlylb.net
+- domain_keyword:
+    match: spotify
     policy: Proxy
 - domain_keyword:
     match: -spotify-
-    policy: Proxy
-- domain_keyword:
-    match: spotify.com
     policy: Proxy
 - ip_cidr:
     match: 104.154.127.126/32

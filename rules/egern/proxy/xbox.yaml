@@ -4,8 +4,8 @@ rules:
     match: xbox.com
     policy: Proxy
 - domain_suffix:
-    match: xboxlive.com
+    match: xboxservices.com
     policy: Proxy
 - domain_suffix:
-    match: xboxservices.com
+    match: xboxlive.com
     policy: Proxy

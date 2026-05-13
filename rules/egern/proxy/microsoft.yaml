@@ -1,2104 +1,2110 @@
 # Gins-Rules: microsoft
 rules:
 - domain_suffix:
-    match: 1drv.com
-    policy: Proxy
-- domain_suffix:
-    match: 1drv.ms
-    policy: Proxy
-- domain_suffix:
-    match: 21vbc.com
-    policy: Proxy
-- domain_suffix:
-    match: 21vbluecloud.com
-    policy: Proxy
-- domain_suffix:
-    match: 21vbluecloud.net
-    policy: Proxy
-- domain_suffix:
-    match: a-msedge.net
-    policy: Proxy
-- domain_suffix:
-    match: a1158.g.akamai.net
-    policy: Proxy
-- domain_suffix:
-    match: a122.dscg3.akamai.net
-    policy: Proxy
-- domain_suffix:
-    match: a767.dscg3.akamai.net
-    policy: Proxy
-- domain_suffix:
-    match: aadrm.cn
-    policy: Proxy
-- domain_suffix:
-    match: aadrm.com
-    policy: Proxy
-- domain_suffix:
-    match: acompli.com
-    policy: Proxy
-- domain_suffix:
-    match: acompli.net
-    policy: Proxy
-- domain_suffix:
-    match: adaptivecards.io
-    policy: Proxy
-- domain_suffix:
-    match: aggresmart.com
-    policy: Proxy
-- domain_suffix:
-    match: aicscience.com
-    policy: Proxy
-- domain_suffix:
-    match: aka.ms
-    policy: Proxy
-- domain_suffix:
-    match: akadns.net
-    policy: Proxy
-- domain_suffix:
-    match: ankarazirvesi2018.com
-    policy: Proxy
-- domain_suffix:
-    match: api-extractor.com
-    policy: Proxy
-- domain_suffix:
-    match: apihub-internal.cn
-    policy: Proxy
-- domain_suffix:
-    match: apisof.net
-    policy: Proxy
-- domain_suffix:
-    match: appcenter.ms
-    policy: Proxy
-- domain_suffix:
-    match: applicationinsights.io
-    policy: Proxy
-- domain_suffix:
-    match: applicationinsights.net
-    policy: Proxy
-- domain_suffix:
-    match: appserviceenvironment.cn
-    policy: Proxy
-- domain_suffix:
-    match: aria.ms
-    policy: Proxy
-- domain_suffix:
-    match: asp.net
-    policy: Proxy
-- domain_suffix:
-    match: aspnetcdn.com
-    policy: Proxy
-- domain_suffix:
     match: assets-yammer.com
-    policy: Proxy
-- domain_suffix:
-    match: auth.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: azcrmc-test.cn
-    policy: Proxy
-- domain_suffix:
-    match: azcrmc.cn
-    policy: Proxy
-- domain_suffix:
-    match: azk8s.cn
-    policy: Proxy
-- domain_suffix:
-    match: aznbcontent.cn
-    policy: Proxy
-- domain_suffix:
-    match: aztask.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure
-    policy: Proxy
-- domain_suffix:
-    match: azure-api.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-api.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-apihub.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-apim.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-automation.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-connectedvehicles-stage.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-connectedvehicles.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-devices-int.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-devices-provisioning.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-devices.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-devices.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-dns.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure-dns.com
-    policy: Proxy
-- domain_suffix:
-    match: azure-dns.info
-    policy: Proxy
-- domain_suffix:
-    match: azure-dns.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-dns.org
-    policy: Proxy
-- domain_suffix:
-    match: azure-mobile.net
-    policy: Proxy
-- domain_suffix:
-    match: azure-sphere.com
-    policy: Proxy
-- domain_suffix:
-    match: azure-test.net
-    policy: Proxy
-- domain_suffix:
-    match: azure.cn
-    policy: Proxy
-- domain_suffix:
-    match: azure.com
-    policy: Proxy
-- domain_suffix:
-    match: azure.net
-    policy: Proxy
-- domain_suffix:
-    match: azurecomcdn.net
-    policy: Proxy
-- domain_suffix:
-    match: azurecomm.net
-    policy: Proxy
-- domain_suffix:
-    match: azurecontainer.io
-    policy: Proxy
-- domain_suffix:
-    match: azurecosmos.net
-    policy: Proxy
-- domain_suffix:
-    match: azurecosmosdb.com
-    policy: Proxy
-- domain_suffix:
-    match: azurecosmosdb.info
-    policy: Proxy
-- domain_suffix:
-    match: azurecosmosdb.net
-    policy: Proxy
-- domain_suffix:
-    match: azurecr-test.cn
-    policy: Proxy
-- domain_suffix:
-    match: azurecr.cn
-    policy: Proxy
-- domain_suffix:
-    match: azuredatabricks.net
-    policy: Proxy
-- domain_suffix:
-    match: azuredevopslaunch.com
-    policy: Proxy
-- domain_suffix:
-    match: azuredigitaltwin.com
-    policy: Proxy
-- domain_suffix:
-    match: azuredigitaltwins.com
-    policy: Proxy
-- domain_suffix:
-    match: azuredigitaltwins.net
-    policy: Proxy
-- domain_suffix:
-    match: azuredns-prd.info
-    policy: Proxy
-- domain_suffix:
-    match: azuredns-prd.org
-    policy: Proxy
-- domain_suffix:
-    match: azureedge-test.net
-    policy: Proxy
-- domain_suffix:
-    match: azureedge.net
-    policy: Proxy
-- domain_suffix:
-    match: azurefd.net
-    policy: Proxy
-- domain_suffix:
-    match: azurefd.us
-    policy: Proxy
-- domain_suffix:
-    match: azurehdinsight.cn
-    policy: Proxy
-- domain_suffix:
-    match: azureiotcentral.com
-    policy: Proxy
-- domain_suffix:
-    match: azureiotsolutions.com
-    policy: Proxy
-- domain_suffix:
-    match: azureiotsuite.cn
-    policy: Proxy
-- domain_suffix:
-    match: azureiotsuite.com
-    policy: Proxy
-- domain_suffix:
-    match: azuremresolver.cn
-    policy: Proxy
-- domain_suffix:
-    match: azureplanetscale.info
-    policy: Proxy
-- domain_suffix:
-    match: azureplanetscale.net
-    policy: Proxy
-- domain_suffix:
-    match: azureprivatedns.cn
-    policy: Proxy
-- domain_suffix:
-    match: azurerms.cn
-    policy: Proxy
-- domain_suffix:
-    match: azurerms.com
-    policy: Proxy
-- domain_suffix:
-    match: azuresandbox.cn
-    policy: Proxy
-- domain_suffix:
-    match: azureserviceprofiler.com
-    policy: Proxy
-- domain_suffix:
-    match: azuresmartspaces.net
-    policy: Proxy
-- domain_suffix:
-    match: azurestackvalidation.com
-    policy: Proxy
-- domain_suffix:
-    match: azurewebsites.net
-    policy: Proxy
-- domain_suffix:
-    match: b.akamaiedge.net
-    policy: Proxy
-- domain_suffix:
-    match: b2clogin.cn
-    policy: Proxy
-- domain_suffix:
-    match: b3itech.cn
-    policy: Proxy
-- domain_suffix:
-    match: bbing.com
-    policy: Proxy
-- domain_suffix:
-    match: beth.games
-    policy: Proxy
-- domain_suffix:
-    match: bethesda.net
-    policy: Proxy
-- domain_suffix:
-    match: bethesdagamestudios.com
-    policy: Proxy
-- domain_suffix:
-    match: bethsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: bibg.com
-    policy: Proxy
-- domain_suffix:
-    match: biing.com
-    policy: Proxy
-- domain_suffix:
-    match: binads.com
-    policy: Proxy
-- domain_suffix:
-    match: binb.com
-    policy: Proxy
-- domain_suffix:
-    match: binf.com
-    policy: Proxy
-- domain_suffix:
-    match: bing
-    policy: Proxy
-- domain_suffix:
-    match: bing.com
-    policy: Proxy
-- domain_suffix:
-    match: bing.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: bing.net
-    policy: Proxy
-- domain_suffix:
-    match: bing123.com
-    policy: Proxy
-- domain_suffix:
-    match: bing135.com
-    policy: Proxy
-- domain_suffix:
-    match: bing4.com
-    policy: Proxy
-- domain_suffix:
-    match: bingads.com
-    policy: Proxy
-- domain_suffix:
-    match: bingagencyawards.com
-    policy: Proxy
-- domain_suffix:
-    match: bingapis.com
-    policy: Proxy
-- domain_suffix:
-    match: bingapistatistics.com
-    policy: Proxy
-- domain_suffix:
-    match: binginternal.com
-    policy: Proxy
-- domain_suffix:
-    match: bingit.net
-    policy: Proxy
-- domain_suffix:
-    match: bingiton.com
-    policy: Proxy
-- domain_suffix:
-    match: bingj.com
-    policy: Proxy
-- domain_suffix:
-    match: bingpix.com
-    policy: Proxy
-- domain_suffix:
-    match: bingpk.com
-    policy: Proxy
-- domain_suffix:
-    match: bings.com
-    policy: Proxy
-- domain_suffix:
-    match: bingsandbox.com
-    policy: Proxy
-- domain_suffix:
-    match: bingtoolbar.com
-    policy: Proxy
-- domain_suffix:
-    match: bingtranslator.com
-    policy: Proxy
-- domain_suffix:
-    match: bingvisualsearch.com
-    policy: Proxy
-- domain_suffix:
-    match: bingworld.com
-    policy: Proxy
-- domain_suffix:
-    match: biying.cn
-    policy: Proxy
-- domain_suffix:
-    match: biying.com
-    policy: Proxy
-- domain_suffix:
-    match: biying.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: blazor.net
-    policy: Proxy
-- domain_suffix:
-    match: blueaggrestore.com
-    policy: Proxy
-- domain_suffix:
-    match: bluecloudprod.com
-    policy: Proxy
-- domain_suffix:
-    match: bluehatil.com
-    policy: Proxy
-- domain_suffix:
-    match: bluehatnights.com
-    policy: Proxy
-- domain_suffix:
-    match: boswp.com
-    policy: Proxy
-- domain_suffix:
-    match: botframework.com
-    policy: Proxy
-- domain_suffix:
-    match: brazilpartneruniversity.com
-    policy: Proxy
-- domain_suffix:
-    match: breakdown.me
-    policy: Proxy
-- domain_suffix:
-    match: c-msedge.net
-    policy: Proxy
-- domain_suffix:
-    match: callersbane.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn.onenote.net
-    policy: Proxy
-- domain_suffix:
-    match: cegid-cloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: centralvalidation.com
-    policy: Proxy
-- domain_suffix:
-    match: ch9.ms
-    policy: Proxy
-- domain_suffix:
-    match: charticulator.com
-    policy: Proxy
-- domain_suffix:
-    match: chinacloud-mobile.cn
-    policy: Proxy
-- domain_suffix:
-    match: chinacloudapi.cn
-    policy: Proxy
-- domain_suffix:
-    match: chinacloudapp.cn
-    policy: Proxy
-- domain_suffix:
-    match: chinacloudsites.cn
-    policy: Proxy
-- domain_suffix:
-    match: cloud.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: cloudapp.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudappsecurity.com
-    policy: Proxy
-- domain_suffix:
-    match: codethemicrobit.com
-    policy: Proxy
-- domain_suffix:
-    match: compliance.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: cortana.ai
-    policy: Proxy
-- domain_suffix:
-    match: cortanaanalytics.com
-    policy: Proxy
-- domain_suffix:
-    match: cortanaskills.com
-    policy: Proxy
-- domain_suffix:
-    match: cosmosdb.info
-    policy: Proxy
-- domain_suffix:
-    match: cosmosdb.net
-    policy: Proxy
-- domain_suffix:
-    match: crmdynint-gcc.com
-    policy: Proxy
-- domain_suffix:
-    match: crmdynint.com
-    policy: Proxy
-- domain_suffix:
-    match: crossborderexpansion.com
-    policy: Proxy
-- domain_suffix:
-    match: cs11.wpc.v0cdn.net
-    policy: Proxy
-- domain_suffix:
-    match: cs9.wac.phicdn.net
-    policy: Proxy
-- domain_suffix:
-    match: defender.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: devopsassessment.net
-    policy: Proxy
-- domain_suffix:
-    match: devopsms.com
-    policy: Proxy
-- domain_suffix:
-    match: dictate.ms
-    policy: Proxy
-- domain_suffix:
-    match: discoverbing.com
-    policy: Proxy
-- domain_suffix:
-    match: docs.com
-    policy: Proxy
-- domain_suffix:
-    match: doom.com
-    policy: Proxy
-- domain_suffix:
-    match: dot.net
-    policy: Proxy
-- domain_suffix:
-    match: dwh5.com
-    policy: Proxy
-- domain_suffix:
-    match: dynamics.cn
-    policy: Proxy
-- domain_suffix:
-    match: dynamics.com
-    policy: Proxy
-- domain_suffix:
-    match: e-msedge.net
-    policy: Proxy
-- domain_suffix:
-    match: edgesuite.net
-    policy: Proxy
-- domain_suffix:
-    match: efproject.net
-    policy: Proxy
-- domain_suffix:
-    match: elderscrolls.com
-    policy: Proxy
-- domain_suffix:
-    match: engkoo.com
-    policy: Proxy
-- domain_suffix:
-    match: enterpriseregistration.windows.net
-    policy: Proxy
-- domain_suffix:
-    match: evoke-windowsservices-tas.msedge
-    policy: Proxy
-- domain_suffix:
-    match: exp-tas.com
-    policy: Proxy
-- domain_suffix:
-    match: explorebing.com
-    policy: Proxy
-- domain_suffix:
-    match: fabric.io
-    policy: Proxy
-- domain_suffix:
-    match: fasttrackreadysupport.com
-    policy: Proxy
-- domain_suffix:
-    match: femalefounderscomp.com
-    policy: Proxy
-- domain_suffix:
-    match: flipwithsurface.com
-    policy: Proxy
-- domain_suffix:
-    match: fluidpreview.com
-    policy: Proxy
-- domain_suffix:
-    match: footprintdns.com
-    policy: Proxy
-- domain_suffix:
-    match: forzamotorsport.net
-    policy: Proxy
-- domain_suffix:
-    match: forzaracingchampionship.com
-    policy: Proxy
-- domain_suffix:
-    match: forzarc.com
-    policy: Proxy
-- domain_suffix:
-    match: g.akamaiedge.net
-    policy: Proxy
-- domain_suffix:
-    match: gamepass.com
-    policy: Proxy
-- domain_suffix:
-    match: gamesstack.com
-    policy: Proxy
-- domain_suffix:
-    match: gameuxmasterguide.com
-    policy: Proxy
-- domain_suffix:
-    match: gears5.com
-    policy: Proxy
-- domain_suffix:
-    match: gearspop.com
-    policy: Proxy
-- domain_suffix:
-    match: gearstactics.com
-    policy: Proxy
-- domain_suffix:
-    match: getmicrosoftkey.com
-    policy: Proxy
-- domain_suffix:
-    match: gfx.ms
-    policy: Proxy
-- domain_suffix:
-    match: gigjam.com
-    policy: Proxy
-- domain_suffix:
-    match: gotcosmos.com
-    policy: Proxy
-- domain_suffix:
-    match: graph.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: graph.windows.net
-    policy: Proxy
-- domain_suffix:
-    match: graphengine.io
-    policy: Proxy
-- domain_suffix:
-    match: groupme.com
-    policy: Proxy
-- domain_suffix:
-    match: hdinsightservices.cn
-    policy: Proxy
-- domain_suffix:
-    match: helpshift.com
-    policy: Proxy
-- domain_suffix:
-    match: here.com
-    policy: Proxy
-- domain_suffix:
-    match: here.net
-    policy: Proxy
-- domain_suffix:
-    match: heremaps.cn
-    policy: Proxy
-- domain_suffix:
-    match: hockeyapp.net
-    policy: Proxy
-- domain_suffix:
-    match: hololens.com
-    policy: Proxy
-- domain_suffix:
-    match: hotmail
-    policy: Proxy
-- domain_suffix:
-    match: hotmail.co
-    policy: Proxy
-- domain_suffix:
-    match: hotmail.com
-    policy: Proxy
-- domain_suffix:
-    match: hotmail.eu
-    policy: Proxy
-- domain_suffix:
-    match: hotmail.net
-    policy: Proxy
-- domain_suffix:
-    match: hotmail.org
-    policy: Proxy
-- domain_suffix:
-    match: hummingbird.ms
-    policy: Proxy
-- domain_suffix:
-    match: ie10.com
-    policy: Proxy
-- domain_suffix:
-    match: ie11.com
-    policy: Proxy
-- domain_suffix:
-    match: ie8.co
-    policy: Proxy
-- domain_suffix:
-    match: ie9.com
-    policy: Proxy
-- domain_suffix:
-    match: imaginecup.pl
-    policy: Proxy
-- domain_suffix:
-    match: img-prod-cms-rt-microsoft-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: img-s-msn-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: ingads.com
-    policy: Proxy
-- domain_suffix:
-    match: insiderdevtour.com
-    policy: Proxy
-- domain_suffix:
-    match: internetexplorer.co
-    policy: Proxy
-- domain_suffix:
-    match: internetexplorer.com
-    policy: Proxy
-- domain_suffix:
-    match: intunewiki.com
-    policy: Proxy
-- domain_suffix:
-    match: iotinactionevents.com
-    policy: Proxy
-- domain_suffix:
-    match: joinms.com
-    policy: Proxy
-- domain_suffix:
-    match: joinms.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: joinmva.com
-    policy: Proxy
-- domain_suffix:
-    match: jwt.ms
-    policy: Proxy
-- domain_suffix:
-    match: kidgrid.tv
-    policy: Proxy
-- domain_suffix:
-    match: kumo.com
-    policy: Proxy
-- domain_suffix:
-    match: latampartneruniversity.com
-    policy: Proxy
-- domain_suffix:
-    match: live.cn
-    policy: Proxy
-- domain_suffix:
-    match: live.com
-    policy: Proxy
-- domain_suffix:
-    match: live.com.au
-    policy: Proxy
-- domain_suffix:
-    match: live.eu
-    policy: Proxy
-- domain_suffix:
-    match: live.net
-    policy: Proxy
-- domain_suffix:
-    match: livefilestore.com
-    policy: Proxy
-- domain_suffix:
-    match: livetileedge.dsx.mp.microsoft.com.edgekey.net
-    policy: Proxy
-- domain_suffix:
-    match: livingyourambition.com
-    policy: Proxy
-- domain_suffix:
-    match: localytics.com
-    policy: Proxy
-- domain_suffix:
-    match: login-us.microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: login.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: login.microsoftonline-p.com
-    policy: Proxy
-- domain_suffix:
-    match: login.microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: login.windows.net
-    policy: Proxy
-- domain_suffix:
-    match: logincert.microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: loginex.microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: lync.cn
-    policy: Proxy
-- domain_suffix:
-    match: lync.com
-    policy: Proxy
-- domain_suffix:
-    match: m12.vc
-    policy: Proxy
-- domain_suffix:
-    match: mail.protection.outlook.com
-    policy: Proxy
-- domain_suffix:
-    match: makecode.org
-    policy: Proxy
-- domain_suffix:
-    match: managedmeetingrooms.com
-    policy: Proxy
-- domain_suffix:
-    match: management-azure-devices-int.net
-    policy: Proxy
-- domain_suffix:
-    match: management-azure-devices-provisioning.cn
-    policy: Proxy
-- domain_suffix:
-    match: management-azure-devices.cn
-    policy: Proxy
-- domain_suffix:
-    match: management-azure-devices.net
-    policy: Proxy
-- domain_suffix:
-    match: mapblast.com
-    policy: Proxy
-- domain_suffix:
-    match: mappoint.com
-    policy: Proxy
-- domain_suffix:
-    match: masalladeloslimites.com
-    policy: Proxy
-- domain_suffix:
-    match: mcchcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: meetfasttrack.com
-    policy: Proxy
-- domain_suffix:
-    match: meetyourdevices.com
-    policy: Proxy
-- domain_suffix:
-    match: mepn.com
-    policy: Proxy
-- domain_suffix:
-    match: mesh.com
-    policy: Proxy
-- domain_suffix:
-    match: mgmt-azure-api.cn
-    policy: Proxy
-- domain_suffix:
-    match: microbit.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoft
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-falcon.io
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-give.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-int.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-online.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-online.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-ppe.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-sap-events.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-sbs-domains.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-smb.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoft-tst.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.az
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.be
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.by
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ca
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.cat
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ch
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.cl
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.com.nsatc.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.cz
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.de
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.dk
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ee
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.es
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.eu
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.fi
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ge
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.hu
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.io
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.is
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.it
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.jp
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.lt
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.lu
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.lv
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.md
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.pl
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.pt
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.red
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ro
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.rs
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ru
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.se
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.si
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.tv
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.ua
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.uz
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.vn
-    policy: Proxy
-- domain_suffix:
-    match: microsoft365.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftaccountguard.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftadc.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftads.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftadvertising.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftadvertisingregionalawards.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftaffiliates.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftapp.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftazuread-sso.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftazuresponsorships.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftazurestatus.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftcloud.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftcloudsummit.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftcloudworkshop.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftcommunitytraining.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftdiplomados.com
-    policy: Proxy
-- domain_suffix:
-    match: microsofteca.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftedge.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftedgeinsider.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftemail.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftestore.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: microsoftgamestack.com
-    policy: Proxy
-- domain_suffix:
-    match: microsofthouse.com
-    policy: Proxy
-- domain_suffix:
-    match: microsofthouse.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftinternetsafety.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftiotcentral.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftiotinsiderlabs.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftlatamaitour.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftlatamholiday.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftlinc.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftmetrics.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftmxfilantropia.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnews.cc
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnews.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnews.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnews.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnews.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewsforkids.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewsforkids.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewsforkids.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewskids.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewskids.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftnewskids.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoftol.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftol.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-i.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-m-i.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-m.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p-i.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p-i.net.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline-p.net.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftpartnercommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftpartnersolutions.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftpersonalcontent.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftreactor.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftreactor.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftreactor.info
-    policy: Proxy
-- domain_suffix:
-    match: microsoftreactor.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftreactor.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoftready.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftsilverlight.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftsilverlight.net
-    policy: Proxy
-- domain_suffix:
-    match: microsoftsilverlight.org
-    policy: Proxy
-- domain_suffix:
-    match: microsoftsiteselection.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftsqlserver.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftstart.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftstore.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftstore.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsoftstore.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: microsoftstream.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftteams.com
-    policy: Proxy
-- domain_suffix:
-    match: microsofttradein.com
-    policy: Proxy
-- domain_suffix:
-    match: microsofttranslator-int.cn
-    policy: Proxy
-- domain_suffix:
-    match: microsofttranslator.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoftuwp.com
-    policy: Proxy
-- domain_suffix:
-    match: minecraft.net
-    policy: Proxy
-- domain_suffix:
-    match: minecraftshop.com
-    policy: Proxy
-- domain_suffix:
-    match: mmais.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: mmdnn.com
-    policy: Proxy
-- domain_suffix:
-    match: mncmsidlab1.cn
-    policy: Proxy
-- domain_suffix:
-    match: mojang.com
-    policy: Proxy
-- domain_suffix:
-    match: momentumms.com
-    policy: Proxy
-- domain_suffix:
-    match: mono-project.com
-    policy: Proxy
-- domain_suffix:
-    match: morphcharts.com
-    policy: Proxy
-- domain_suffix:
-    match: mpnevolution.com
-    policy: Proxy
-- domain_suffix:
-    match: ms-studiosmedia.com
-    policy: Proxy
-- domain_suffix:
-    match: ms365surfaceoffer.com
-    policy: Proxy
-- domain_suffix:
-    match: msa.akadns6.net
-    policy: Proxy
-- domain_suffix:
-    match: msads.net
-    policy: Proxy
-- domain_suffix:
-    match: msappproxy.cn
-    policy: Proxy
-- domain_suffix:
-    match: msappproxy.net
-    policy: Proxy
-- domain_suffix:
-    match: msauth.cn
-    policy: Proxy
-- domain_suffix:
-    match: msauth.net
-    policy: Proxy
-- domain_suffix:
-    match: msauthimages.cn
-    policy: Proxy
-- domain_suffix:
-    match: msauthimages.net
-    policy: Proxy
-- domain_suffix:
-    match: mschallenge2018.com
-    policy: Proxy
-- domain_suffix:
-    match: mschcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: msdn.com
-    policy: Proxy
-- domain_suffix:
-    match: msecnd.net
-    policy: Proxy
-- domain_suffix:
-    match: msedge.net
-    policy: Proxy
-- domain_suffix:
-    match: msft.info
-    policy: Proxy
-- domain_suffix:
-    match: msft.net
-    policy: Proxy
-- domain_suffix:
-    match: msftauth.cn
-    policy: Proxy
-- domain_suffix:
-    match: msftauth.net
-    policy: Proxy
-- domain_suffix:
-    match: msftauthimages.cn
-    policy: Proxy
-- domain_suffix:
-    match: msftauthimages.net
-    policy: Proxy
-- domain_suffix:
-    match: msftcenterone.cn
-    policy: Proxy
-- domain_suffix:
-    match: msftcloudes.cn
-    policy: Proxy
-- domain_suffix:
-    match: msftconnecttest.com
-    policy: Proxy
-- domain_suffix:
-    match: msfteducation.ca
-    policy: Proxy
-- domain_suffix:
-    match: msftidentity.com
-    policy: Proxy
-- domain_suffix:
-    match: msftnet.org
-    policy: Proxy
-- domain_suffix:
-    match: msgamesresearch.com
-    policy: Proxy
-- domain_suffix:
-    match: msgamestudios.com
-    policy: Proxy
-- domain_suffix:
-    match: msidentity.cn
-    policy: Proxy
-- domain_suffix:
-    match: msidentity.com
-    policy: Proxy
-- domain_suffix:
-    match: msidlabpbmc.cn
-    policy: Proxy
-- domain_suffix:
-    match: msignitechina.com
-    policy: Proxy
-- domain_suffix:
-    match: msinnovationchallenge.com
-    policy: Proxy
-- domain_suffix:
-    match: msminico.cn
-    policy: Proxy
-- domain_suffix:
-    match: msminico.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: msn.cn
-    policy: Proxy
-- domain_suffix:
-    match: msn.com
-    policy: Proxy
-- domain_suffix:
-    match: msn.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: msn.com.nsatc.net
-    policy: Proxy
-- domain_suffix:
-    match: msn.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: msn.net
-    policy: Proxy
-- domain_suffix:
-    match: msnewskids.com
-    policy: Proxy
-- domain_suffix:
-    match: msnewskids.net
-    policy: Proxy
-- domain_suffix:
-    match: msnewskids.org
-    policy: Proxy
-- domain_suffix:
-    match: msnkids.com
-    policy: Proxy
-- domain_suffix:
-    match: msnmaps.com
-    policy: Proxy
-- domain_suffix:
-    match: msocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: msocsp.com
-    policy: Proxy
-- domain_suffix:
-    match: msopentech.cn
-    policy: Proxy
-- domain_suffix:
-    match: mspairlift.com
-    policy: Proxy
-- domain_suffix:
-    match: mspil.cn
-    policy: Proxy
-- domain_suffix:
-    match: msra.cn
-    policy: Proxy
-- domain_suffix:
-    match: msropendata.com
-    policy: Proxy
-- domain_suffix:
-    match: mstea.ms
-    policy: Proxy
-- domain_suffix:
-    match: msturing.org
-    policy: Proxy
-- domain_suffix:
-    match: msudalosti.com
-    policy: Proxy
-- domain_suffix:
-    match: msunlimitedcloudsummit.com
-    policy: Proxy
-- domain_suffix:
-    match: msvevent.com
-    policy: Proxy
-- domain_suffix:
-    match: msxiaobing.com
-    policy: Proxy
-- domain_suffix:
-    match: msxiaoice.com
-    policy: Proxy
-- domain_suffix:
-    match: msxiaona.cn
-    policy: Proxy
-- domain_suffix:
-    match: mwf-service.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: mx.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: myhomemsn.com
-    policy: Proxy
-- domain_suffix:
-    match: mymicrosoft.com
-    policy: Proxy
-- domain_suffix:
-    match: nextechafrica.net
-    policy: Proxy
-- domain_suffix:
-    match: nuget.org
-    policy: Proxy
-- domain_suffix:
-    match: nugettest.org
-    policy: Proxy
-- domain_suffix:
-    match: nxta.org
-    policy: Proxy
-- domain_suffix:
-    match: o365cn.com
-    policy: Proxy
-- domain_suffix:
-    match: o365files.cn
-    policy: Proxy
-- domain_suffix:
-    match: o365weve-dev.com
-    policy: Proxy
-- domain_suffix:
-    match: o365weve-ppe.com
-    policy: Proxy
-- domain_suffix:
-    match: o365weve.com
-    policy: Proxy
-- domain_suffix:
-    match: oaspapps.com
-    policy: Proxy
-- domain_suffix:
-    match: office
-    policy: Proxy
-- domain_suffix:
-    match: office.com
-    policy: Proxy
-- domain_suffix:
-    match: office.live.com
-    policy: Proxy
-- domain_suffix:
-    match: office.net
-    policy: Proxy
-- domain_suffix:
-    match: office365-net.cn
-    policy: Proxy
-- domain_suffix:
-    match: office365.cn
-    policy: Proxy
-- domain_suffix:
-    match: office365.com
-    policy: Proxy
-- domain_suffix:
-    match: office365love.com
-    policy: Proxy
-- domain_suffix:
-    match: office365tw.com
-    policy: Proxy
-- domain_suffix:
-    match: officeapps.live.com
-    policy: Proxy
-- domain_suffix:
-    match: officecdn-microsoft-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: officedev.cn
-    policy: Proxy
-- domain_suffix:
-    match: officeplus.cn
-    policy: Proxy
-- domain_suffix:
-    match: officeppe.net
-    policy: Proxy
-- domain_suffix:
-    match: officewebapps.cn
-    policy: Proxy
-- domain_suffix:
-    match: omniroot.com
-    policy: Proxy
-- domain_suffix:
-    match: onecollector.cloudapp.aria
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.co
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.com
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.eu
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.net
-    policy: Proxy
-- domain_suffix:
-    match: onedrive.org
-    policy: Proxy
-- domain_suffix:
-    match: onenote.com
-    policy: Proxy
-- domain_suffix:
-    match: onenote.net
-    policy: Proxy
-- domain_suffix:
-    match: onestore.ms
-    policy: Proxy
-- domain_suffix:
-    match: online.office.com
-    policy: Proxy
-- domain_suffix:
-    match: onmicrosoft.com
-    policy: Proxy
-- domain_suffix:
-    match: onmschina.cn
-    policy: Proxy
-- domain_suffix:
-    match: opentranslatorstothings.org
-    policy: Proxy
-- domain_suffix:
-    match: opticsforthecloud.net
-    policy: Proxy
-- domain_suffix:
-    match: optimizely.com
-    policy: Proxy
-- domain_suffix:
-    match: orithegame.com
-    policy: Proxy
-- domain_suffix:
-    match: osdinfra.net
-    policy: Proxy
-- domain_suffix:
-    match: outingsapp.com
-    policy: Proxy
-- domain_suffix:
-    match: outlook.cloud.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: outlook.cn
-    policy: Proxy
-- domain_suffix:
-    match: outlook.com
-    policy: Proxy
-- domain_suffix:
-    match: outlook.office.com
-    policy: Proxy
-- domain_suffix:
-    match: outlook.office365.com
-    policy: Proxy
-- domain_suffix:
-    match: outlookgroups.ms
-    policy: Proxy
-- domain_suffix:
-    match: outlookmobile.com
-    policy: Proxy
-- domain_suffix:
-    match: ovi.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: passport.net
-    policy: Proxy
-- domain_suffix:
-    match: passwordreset.microsoftonline.com
-    policy: Proxy
-- domain_suffix:
-    match: pbiwebcontent.cn
-    policy: Proxy
-- domain_suffix:
-    match: phonefactor.net
-    policy: Proxy
-- domain_suffix:
-    match: pixapp.net
-    policy: Proxy
-- domain_suffix:
-    match: playfabapi.cn
-    policy: Proxy
-- domain_suffix:
-    match: playfabcn.com
-    policy: Proxy
-- domain_suffix:
-    match: portal.cloudappsecurity.com
-    policy: Proxy
-- domain_suffix:
-    match: poshtestgallery.com
-    policy: Proxy
-- domain_suffix:
-    match: powerapps.cn
-    policy: Proxy
-- domain_suffix:
-    match: powerappscdn.net
-    policy: Proxy
-- domain_suffix:
-    match: powerappsportals.cn
-    policy: Proxy
-- domain_suffix:
-    match: powerautomate.cn
-    policy: Proxy
-- domain_suffix:
-    match: powerautomate.com
-    policy: Proxy
-- domain_suffix:
-    match: powerbi.cn
-    policy: Proxy
-- domain_suffix:
-    match: powerbi.com
-    policy: Proxy
-- domain_suffix:
-    match: powershellgallery.com
-    policy: Proxy
-- domain_suffix:
-    match: prod-video-cms-rt-microsoft-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: projectmurphy.net
-    policy: Proxy
-- domain_suffix:
-    match: projectsangam.com
-    policy: Proxy
-- domain_suffix:
-    match: protection.office.com
-    policy: Proxy
-- domain_suffix:
-    match: protection.outlook.com
-    policy: Proxy
-- domain_suffix:
-    match: public-trust.com
-    policy: Proxy
-- domain_suffix:
-    match: purview.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: pwabuilder.com
-    policy: Proxy
-- domain_suffix:
-    match: pxt.io
-    policy: Proxy
-- domain_suffix:
-    match: reactorms.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: renlifang.com
-    policy: Proxy
-- domain_suffix:
-    match: renovacionoffice.com
-    policy: Proxy
-- domain_suffix:
-    match: renovacionxboxlive.com
-    policy: Proxy
-- domain_suffix:
-    match: s-microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: s-msedge.net
-    policy: Proxy
-- domain_suffix:
-    match: s-msft.com
-    policy: Proxy
-- domain_suffix:
-    match: s-msn.com
-    policy: Proxy
-- domain_suffix:
-    match: sankie.net
-    policy: Proxy
-- domain_suffix:
-    match: sclive.net
-    policy: Proxy
-- domain_suffix:
-    match: security.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: serverlesslibrary.net
-    policy: Proxy
-- domain_suffix:
-    match: sfbassets.com
-    policy: Proxy
-- domain_suffix:
-    match: sfbassets.net
-    policy: Proxy
-- domain_suffix:
-    match: sfx.ms
-    policy: Proxy
-- domain_suffix:
-    match: sharepoint.cn
-    policy: Proxy
-- domain_suffix:
-    match: sharepoint.com
-    policy: Proxy
-- domain_suffix:
-    match: sharepointonline.com
-    policy: Proxy
-- domain_suffix:
-    match: signalr.net
-    policy: Proxy
-- domain_suffix:
-    match: skype
-    policy: Proxy
-- domain_suffix:
-    match: skype.com
-    policy: Proxy
-- domain_suffix:
-    match: skype.net
-    policy: Proxy
-- domain_suffix:
-    match: skypeassets.com
-    policy: Proxy
-- domain_suffix:
-    match: skypeassets.net
-    policy: Proxy
-- domain_suffix:
-    match: skypeforbusiness.com
-    policy: Proxy
-- domain_suffix:
-    match: skypeobjects.com
-    policy: Proxy
-- domain_suffix:
-    match: spoprod-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: sprinklesapp.com
-    policy: Proxy
-- domain_suffix:
-    match: sqlserveronlinux.com
-    policy: Proxy
-- domain_suffix:
-    match: staffhub.ms
-    policy: Proxy
-- domain_suffix:
-    match: start.com
-    policy: Proxy
-- domain_suffix:
-    match: static.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: statics-marketingsites-eas-ms-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: statics-marketingsites-eus-ms-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: statics-marketingsites-neu-ms-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: statics-marketingsites-wcus-ms-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: successwithteams.com
-    policy: Proxy
-- domain_suffix:
-    match: surface.com
-    policy: Proxy
-- domain_suffix:
-    match: svc.ms
-    policy: Proxy
-- domain_suffix:
-    match: sway-cdn.com
-    policy: Proxy
-- domain_suffix:
-    match: sway-extensions.com
-    policy: Proxy
-- domain_suffix:
-    match: sway.com
-    policy: Proxy
-- domain_suffix:
-    match: syncshop.cn
-    policy: Proxy
-- domain_suffix:
-    match: sysinternals.com
-    policy: Proxy
-- domain_suffix:
-    match: tailwindtraders.com
-    policy: Proxy
-- domain_suffix:
-    match: teams.cloud.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: teams.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: techhub.ms
-    policy: Proxy
-- domain_suffix:
-    match: tellmewhygame.com
-    policy: Proxy
-- domain_suffix:
-    match: tenor.com
-    policy: Proxy
-- domain_suffix:
-    match: tfsallin.net
-    policy: Proxy
-- domain_suffix:
-    match: timelinestoryteller.com
-    policy: Proxy
-- domain_suffix:
-    match: trafficmanager.cn
-    policy: Proxy
-- domain_suffix:
-    match: trafficmanager.net
-    policy: Proxy
-- domain_suffix:
-    match: translatetheweb.com
-    policy: Proxy
-- domain_suffix:
-    match: trustcenter.cn
-    policy: Proxy
-- domain_suffix:
-    match: tryfunctions.com
-    policy: Proxy
-- domain_suffix:
-    match: unity3dcloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: unlocklimitlesslearning.com
-    policy: Proxy
-- domain_suffix:
-    match: usercontent.microsoft
-    policy: Proxy
-- domain_suffix:
-    match: userpxt.io
-    policy: Proxy
-- domain_suffix:
-    match: uservoice.com
-    policy: Proxy
-- domain_suffix:
-    match: uwpcommunitytoolkit.com
-    policy: Proxy
-- domain_suffix:
-    match: vfsforgit.com
-    policy: Proxy
-- domain_suffix:
-    match: vfsforgit.org
-    policy: Proxy
-- domain_suffix:
-    match: videobreakdown.com
-    policy: Proxy
-- domain_suffix:
-    match: videoindexer.ai
-    policy: Proxy
-- domain_suffix:
-    match: vip5.afdorigin-prod-am02.afdogw.com
-    policy: Proxy
-- domain_suffix:
-    match: virtualearth.net
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio-staging.com
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio.co
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio.com
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio.eu
-    policy: Proxy
-- domain_suffix:
-    match: visualstudio.net
-    policy: Proxy
-- domain_suffix:
-    match: vsallin.net
-    policy: Proxy
-- domain_suffix:
-    match: vsassets.io
     policy: Proxy
 - domain_suffix:
     match: vscode-cdn.net
     policy: Proxy
 - domain_suffix:
-    match: vscode-unpkg.net
-    policy: Proxy
-- domain_suffix:
-    match: vscode-webview.net
-    policy: Proxy
-- domain_suffix:
-    match: vscode.dev
-    policy: Proxy
-- domain_suffix:
-    match: vsmarketplacebadge.apphb.com
-    policy: Proxy
-- domain_suffix:
-    match: wbd.ms
-    policy: Proxy
-- domain_suffix:
-    match: what-fan.net
-    policy: Proxy
-- domain_suffix:
-    match: windows
-    policy: Proxy
-- domain_suffix:
-    match: windows-int.net
-    policy: Proxy
-- domain_suffix:
-    match: windows-ppe.net
-    policy: Proxy
-- domain_suffix:
-    match: windows.com
-    policy: Proxy
-- domain_suffix:
-    match: windows.net
-    policy: Proxy
-- domain_suffix:
-    match: windows.nl
-    policy: Proxy
-- domain_suffix:
-    match: windows8.hk
-    policy: Proxy
-- domain_suffix:
-    match: windowsazure.cn
-    policy: Proxy
-- domain_suffix:
-    match: windowsazure.com
-    policy: Proxy
-- domain_suffix:
     match: windowsazurestatus.cn
     policy: Proxy
 - domain_suffix:
-    match: windowscommunity.net
+    match: login.microsoft.com
     policy: Proxy
 - domain_suffix:
-    match: windowslive.cn
+    match: gearstactics.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.io
+    policy: Proxy
+- domain_suffix:
+    match: msecnd.net
+    policy: Proxy
+- domain_suffix:
+    match: cdn.onenote.net
+    policy: Proxy
+- domain_suffix:
+    match: dwh5.com
+    policy: Proxy
+- domain_suffix:
+    match: compliance.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: passwordreset.microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftpartnercommunity.com
+    policy: Proxy
+- domain_suffix:
+    match: pbiwebcontent.cn
     policy: Proxy
 - domain_suffix:
     match: windowsmarketplace.com
     policy: Proxy
 - domain_suffix:
-    match: windowsphone-int.com
+    match: msminico.cn
     policy: Proxy
 - domain_suffix:
-    match: windowsphone.com
+    match: azuredevopslaunch.com
     policy: Proxy
 - domain_suffix:
-    match: windowssearch.com
+    match: o365cn.com
     policy: Proxy
 - domain_suffix:
-    match: windowsupdate.com
+    match: playfabapi.cn
     policy: Proxy
 - domain_suffix:
-    match: winhec.com
+    match: microsoft-give.com
     policy: Proxy
 - domain_suffix:
-    match: winhec.net
+    match: timelinestoryteller.com
     policy: Proxy
 - domain_suffix:
-    match: winmp.cn
+    match: msropendata.com
     policy: Proxy
 - domain_suffix:
-    match: wlxrs.com
+    match: microsoft.hu
     policy: Proxy
 - domain_suffix:
-    match: working-bing-int.com
+    match: mschallenge2018.com
     policy: Proxy
 - domain_suffix:
-    match: wunderlist.com
+    match: dictate.ms
     policy: Proxy
 - domain_suffix:
-    match: xamarin.com
+    match: azk8s.cn
     policy: Proxy
 - domain_suffix:
-    match: xbox.co
+    match: optimizely.com
     policy: Proxy
 - domain_suffix:
-    match: xbox.com
+    match: azureplanetscale.info
     policy: Proxy
 - domain_suffix:
-    match: xbox.eu
-    policy: Proxy
-- domain_suffix:
-    match: xbox.org
-    policy: Proxy
-- domain_suffix:
-    match: xbox360.co
-    policy: Proxy
-- domain_suffix:
-    match: xbox360.com
-    policy: Proxy
-- domain_suffix:
-    match: xbox360.eu
-    policy: Proxy
-- domain_suffix:
-    match: xbox360.org
-    policy: Proxy
-- domain_suffix:
-    match: xboxab.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxgamepass.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxgamestudios.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxlive.cn
-    policy: Proxy
-- domain_suffix:
-    match: xboxlive.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxone.co
-    policy: Proxy
-- domain_suffix:
-    match: xboxone.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxone.eu
+    match: nugettest.org
     policy: Proxy
 - domain_suffix:
     match: xboxplayanywhere.com
     policy: Proxy
 - domain_suffix:
-    match: xboxservices.com
+    match: sway-extensions.com
     policy: Proxy
 - domain_suffix:
-    match: xboxstudios.com
+    match: microsoftol.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftstore.com
+    policy: Proxy
+- domain_suffix:
+    match: outlook.com
+    policy: Proxy
+- domain_suffix:
+    match: public-trust.com
+    policy: Proxy
+- domain_suffix:
+    match: devopsassessment.net
+    policy: Proxy
+- domain_suffix:
+    match: svc.ms
+    policy: Proxy
+- domain_suffix:
+    match: tfsallin.net
+    policy: Proxy
+- domain_suffix:
+    match: office365-net.cn
+    policy: Proxy
+- domain_suffix:
+    match: mail.protection.outlook.com
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio.net
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.eu
+    policy: Proxy
+- domain_suffix:
+    match: azuredatabricks.net
+    policy: Proxy
+- domain_suffix:
+    match: xamarin.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftreactor.org
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnews.net
+    policy: Proxy
+- domain_suffix:
+    match: onecollector.cloudapp.aria
+    policy: Proxy
+- domain_suffix:
+    match: azureplanetscale.net
+    policy: Proxy
+- domain_suffix:
+    match: dynamics.cn
+    policy: Proxy
+- domain_suffix:
+    match: renovacionoffice.com
+    policy: Proxy
+- domain_suffix:
+    match: gameuxmasterguide.com
+    policy: Proxy
+- domain_suffix:
+    match: livetileedge.dsx.mp.microsoft.com.edgekey.net
+    policy: Proxy
+- domain_suffix:
+    match: windows
+    policy: Proxy
+- domain_suffix:
+    match: microsoftlinc.com
+    policy: Proxy
+- domain_suffix:
+    match: msa.akadns6.net
+    policy: Proxy
+- domain_suffix:
+    match: ms365surfaceoffer.com
+    policy: Proxy
+- domain_suffix:
+    match: asp.net
+    policy: Proxy
+- domain_suffix:
+    match: azure-devices-int.net
+    policy: Proxy
+- domain_suffix:
+    match: iotinactionevents.com
+    policy: Proxy
+- domain_suffix:
+    match: crmdynint.com
+    policy: Proxy
+- domain_suffix:
+    match: windows-ppe.net
+    policy: Proxy
+- domain_suffix:
+    match: trafficmanager.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnews.com
+    policy: Proxy
+- domain_suffix:
+    match: syncshop.cn
+    policy: Proxy
+- domain_suffix:
+    match: here.com
+    policy: Proxy
+- domain_suffix:
+    match: windows8.hk
+    policy: Proxy
+- domain_suffix:
+    match: sclive.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftadvertising.com
+    policy: Proxy
+- domain_suffix:
+    match: microsofttranslator.com
+    policy: Proxy
+- domain_suffix:
+    match: reactorms.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: onmicrosoft.com
+    policy: Proxy
+- domain_suffix:
+    match: windowsupdate.com
+    policy: Proxy
+- domain_suffix:
+    match: azurecontainer.io
+    policy: Proxy
+- domain_suffix:
+    match: hololens.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ua
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewsforkids.org
+    policy: Proxy
+- domain_suffix:
+    match: discoverbing.com
+    policy: Proxy
+- domain_suffix:
+    match: mspairlift.com
+    policy: Proxy
+- domain_suffix:
+    match: teams.cloud.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: azuresandbox.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-m.cn
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.org
+    policy: Proxy
+- domain_suffix:
+    match: azure-mobile.net
+    policy: Proxy
+- domain_suffix:
+    match: azureiotsuite.com
+    policy: Proxy
+- domain_suffix:
+    match: windowsazure.cn
+    policy: Proxy
+- domain_suffix:
+    match: azuredigitaltwin.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftadvertisingregionalawards.com
+    policy: Proxy
+- domain_suffix:
+    match: 21vbluecloud.com
+    policy: Proxy
+- domain_suffix:
+    match: oaspapps.com
+    policy: Proxy
+- domain_suffix:
+    match: e-msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.be
+    policy: Proxy
+- domain_suffix:
+    match: explorebing.com
+    policy: Proxy
+- domain_suffix:
+    match: aicscience.com
+    policy: Proxy
+- domain_suffix:
+    match: playfabcn.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewskids.org
+    policy: Proxy
+- domain_suffix:
+    match: xboxlive.cn
+    policy: Proxy
+- domain_suffix:
+    match: vsmarketplacebadge.apphb.com
+    policy: Proxy
+- domain_suffix:
+    match: jwt.ms
+    policy: Proxy
+- domain_suffix:
+    match: azure-connectedvehicles.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftsilverlight.com
+    policy: Proxy
+- domain_suffix:
+    match: forzarc.com
+    policy: Proxy
+- domain_suffix:
+    match: botframework.com
+    policy: Proxy
+- domain_suffix:
+    match: msn.cn
+    policy: Proxy
+- domain_suffix:
+    match: techhub.ms
+    policy: Proxy
+- domain_suffix:
+    match: img-s-msn-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: azurecomcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: security.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: beth.games
+    policy: Proxy
+- domain_suffix:
+    match: azurerms.com
+    policy: Proxy
+- domain_suffix:
+    match: sfbassets.com
+    policy: Proxy
+- domain_suffix:
+    match: onmschina.cn
+    policy: Proxy
+- domain_suffix:
+    match: joinmva.com
+    policy: Proxy
+- domain_suffix:
+    match: crossborderexpansion.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.md
+    policy: Proxy
+- domain_suffix:
+    match: exp-tas.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.se
+    policy: Proxy
+- domain_suffix:
+    match: officedev.cn
+    policy: Proxy
+- domain_suffix:
+    match: azurerms.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftreactor.net
+    policy: Proxy
+- domain_suffix:
+    match: outlook.cn
+    policy: Proxy
+- domain_suffix:
+    match: msft.net
+    policy: Proxy
+- domain_suffix:
+    match: management-azure-devices-int.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-online.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio-staging.com
+    policy: Proxy
+- domain_suffix:
+    match: xboxgamepass.com
+    policy: Proxy
+- domain_suffix:
+    match: msocsp.com
+    policy: Proxy
+- domain_suffix:
+    match: msnewskids.org
+    policy: Proxy
+- domain_suffix:
+    match: apisof.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-int.com
+    policy: Proxy
+- domain_suffix:
+    match: mgmt-azure-api.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ru
+    policy: Proxy
+- domain_suffix:
+    match: azure-test.net
+    policy: Proxy
+- domain_suffix:
+    match: msftconnecttest.com
+    policy: Proxy
+- domain_suffix:
+    match: staffhub.ms
+    policy: Proxy
+- domain_suffix:
+    match: azure-apim.net
+    policy: Proxy
+- domain_suffix:
+    match: azuremresolver.cn
+    policy: Proxy
+- domain_suffix:
+    match: a1158.g.akamai.net
+    policy: Proxy
+- domain_suffix:
+    match: azure-api.net
+    policy: Proxy
+- domain_suffix:
+    match: statics-marketingsites-wcus-ms-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftpartnersolutions.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftinternetsafety.net
+    policy: Proxy
+- domain_suffix:
+    match: bingagencyawards.com
+    policy: Proxy
+- domain_suffix:
+    match: mappoint.com
+    policy: Proxy
+- domain_suffix:
+    match: working-bing-int.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-smb.cn
+    policy: Proxy
+- domain_suffix:
+    match: gigjam.com
+    policy: Proxy
+- domain_suffix:
+    match: protection.office.com
+    policy: Proxy
+- domain_suffix:
+    match: officeppe.net
+    policy: Proxy
+- domain_suffix:
+    match: protection.outlook.com
+    policy: Proxy
+- domain_suffix:
+    match: windowssearch.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftol.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: msturing.org
+    policy: Proxy
+- domain_suffix:
+    match: bluehatil.com
+    policy: Proxy
+- domain_suffix:
+    match: vscode.dev
+    policy: Proxy
+- domain_suffix:
+    match: microsoftapp.net
+    policy: Proxy
+- domain_suffix:
+    match: onenote.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftedge.com
+    policy: Proxy
+- domain_suffix:
+    match: msappproxy.cn
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio.com
+    policy: Proxy
+- domain_suffix:
+    match: img-prod-cms-rt-microsoft-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftreactor.info
+    policy: Proxy
+- domain_suffix:
+    match: skypeobjects.com
+    policy: Proxy
+- domain_suffix:
+    match: bingvisualsearch.com
     policy: Proxy
 - domain_suffix:
     match: xbx.lv
     policy: Proxy
 - domain_suffix:
-    match: yammer.com
+    match: microsoft.is
+    policy: Proxy
+- domain_suffix:
+    match: officeplus.cn
+    policy: Proxy
+- domain_suffix:
+    match: m12.vc
+    policy: Proxy
+- domain_suffix:
+    match: bing123.com
+    policy: Proxy
+- domain_suffix:
+    match: latampartneruniversity.com
+    policy: Proxy
+- domain_suffix:
+    match: vfsforgit.com
+    policy: Proxy
+- domain_suffix:
+    match: binf.com
+    policy: Proxy
+- domain_suffix:
+    match: vscode-unpkg.net
+    policy: Proxy
+- domain_suffix:
+    match: bing.net
+    policy: Proxy
+- domain_suffix:
+    match: videoindexer.ai
+    policy: Proxy
+- domain_suffix:
+    match: windows.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline.cn
+    policy: Proxy
+- domain_suffix:
+    match: translatetheweb.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.eu
+    policy: Proxy
+- domain_suffix:
+    match: azure-dns.cn
+    policy: Proxy
+- domain_suffix:
+    match: powerbi.com
+    policy: Proxy
+- domain_suffix:
+    match: azuredigitaltwins.net
+    policy: Proxy
+- domain_suffix:
+    match: bingiton.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.lu
+    policy: Proxy
+- domain_suffix:
+    match: azureiotcentral.com
+    policy: Proxy
+- domain_suffix:
+    match: azure.com
+    policy: Proxy
+- domain_suffix:
+    match: msftauth.cn
+    policy: Proxy
+- domain_suffix:
+    match: brazilpartneruniversity.com
+    policy: Proxy
+- domain_suffix:
+    match: microsofttranslator-int.cn
+    policy: Proxy
+- domain_suffix:
+    match: joinms.com
+    policy: Proxy
+- domain_suffix:
+    match: bbing.com
+    policy: Proxy
+- domain_suffix:
+    match: aggresmart.com
+    policy: Proxy
+- domain_suffix:
+    match: xboxone.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-sap-events.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftazurestatus.cn
+    policy: Proxy
+- domain_suffix:
+    match: sharepoint.cn
+    policy: Proxy
+- domain_suffix:
+    match: charticulator.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.cl
+    policy: Proxy
+- domain_suffix:
+    match: cortanaanalytics.com
+    policy: Proxy
+- domain_suffix:
+    match: microbit.org
+    policy: Proxy
+- domain_suffix:
+    match: breakdown.me
+    policy: Proxy
+- domain_suffix:
+    match: momentumms.com
+    policy: Proxy
+- domain_suffix:
+    match: onenote.com
+    policy: Proxy
+- domain_suffix:
+    match: chinacloudsites.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftiotinsiderlabs.com
+    policy: Proxy
+- domain_suffix:
+    match: azurefd.us
+    policy: Proxy
+- domain_suffix:
+    match: microsoftcloudworkshop.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftaccountguard.com
+    policy: Proxy
+- domain_suffix:
+    match: office.net
+    policy: Proxy
+- domain_suffix:
+    match: mcchcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: elderscrolls.com
+    policy: Proxy
+- domain_suffix:
+    match: a122.dscg3.akamai.net
+    policy: Proxy
+- domain_suffix:
+    match: azuredns-prd.info
+    policy: Proxy
+- domain_suffix:
+    match: nuget.org
+    policy: Proxy
+- domain_suffix:
+    match: kidgrid.tv
+    policy: Proxy
+- domain_suffix:
+    match: apihub-internal.cn
+    policy: Proxy
+- domain_suffix:
+    match: azurecosmosdb.net
+    policy: Proxy
+- domain_suffix:
+    match: bingit.net
+    policy: Proxy
+- domain_suffix:
+    match: bing
+    policy: Proxy
+- domain_suffix:
+    match: msnmaps.com
+    policy: Proxy
+- domain_suffix:
+    match: graphengine.io
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewsforkids.net
+    policy: Proxy
+- domain_suffix:
+    match: unity3dcloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftdiplomados.com
+    policy: Proxy
+- domain_suffix:
+    match: cortanaskills.com
+    policy: Proxy
+- domain_suffix:
+    match: msappproxy.net
+    policy: Proxy
+- domain_suffix:
+    match: o365weve-dev.com
+    policy: Proxy
+- domain_suffix:
+    match: azurecosmosdb.com
+    policy: Proxy
+- domain_suffix:
+    match: mncmsidlab1.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsofteca.com
+    policy: Proxy
+- domain_suffix:
+    match: biing.com
+    policy: Proxy
+- domain_suffix:
+    match: a767.dscg3.akamai.net
+    policy: Proxy
+- domain_suffix:
+    match: login-us.microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: phonefactor.net
+    policy: Proxy
+- domain_suffix:
+    match: msn.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: msidlabpbmc.cn
+    policy: Proxy
+- domain_suffix:
+    match: pixapp.net
+    policy: Proxy
+- domain_suffix:
+    match: codethemicrobit.com
+    policy: Proxy
+- domain_suffix:
+    match: opticsforthecloud.net
+    policy: Proxy
+- domain_suffix:
+    match: flipwithsurface.com
+    policy: Proxy
+- domain_suffix:
+    match: renovacionxboxlive.com
+    policy: Proxy
+- domain_suffix:
+    match: msidentity.cn
+    policy: Proxy
+- domain_suffix:
+    match: mstea.ms
+    policy: Proxy
+- domain_suffix:
+    match: microsoftadc.com
+    policy: Proxy
+- domain_suffix:
+    match: cloudapp.net
+    policy: Proxy
+- domain_suffix:
+    match: azure-api.cn
+    policy: Proxy
+- domain_suffix:
+    match: heremaps.cn
+    policy: Proxy
+- domain_suffix:
+    match: live.eu
+    policy: Proxy
+- domain_suffix:
+    match: bingpix.com
+    policy: Proxy
+- domain_suffix:
+    match: bethesda.net
+    policy: Proxy
+- domain_suffix:
+    match: msopentech.cn
+    policy: Proxy
+- domain_suffix:
+    match: managedmeetingrooms.com
+    policy: Proxy
+- domain_suffix:
+    match: prod-video-cms-rt-microsoft-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: msftcenterone.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.dk
+    policy: Proxy
+- domain_suffix:
+    match: microsoftcommunitytraining.com
+    policy: Proxy
+- domain_suffix:
+    match: msnewskids.net
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.net
+    policy: Proxy
+- domain_suffix:
+    match: msnkids.com
+    policy: Proxy
+- domain_suffix:
+    match: engkoo.com
+    policy: Proxy
+- domain_suffix:
+    match: outlookgroups.ms
+    policy: Proxy
+- domain_suffix:
+    match: sprinklesapp.com
+    policy: Proxy
+- domain_suffix:
+    match: ie8.co
+    policy: Proxy
+- domain_suffix:
+    match: imaginecup.pl
+    policy: Proxy
+- domain_suffix:
+    match: msfteducation.ca
+    policy: Proxy
+- domain_suffix:
+    match: microsoftads.com
+    policy: Proxy
+- domain_suffix:
+    match: femalefounderscomp.com
+    policy: Proxy
+- domain_suffix:
+    match: management-azure-devices-provisioning.cn
+    policy: Proxy
+- domain_suffix:
+    match: applicationinsights.io
+    policy: Proxy
+- domain_suffix:
+    match: azureedge-test.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftaffiliates.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftlatamaitour.com
+    policy: Proxy
+- domain_suffix:
+    match: xbox.eu
+    policy: Proxy
+- domain_suffix:
+    match: azure-devices.cn
+    policy: Proxy
+- domain_suffix:
+    match: orithegame.com
+    policy: Proxy
+- domain_suffix:
+    match: gamepass.com
+    policy: Proxy
+- domain_suffix:
+    match: bings.com
+    policy: Proxy
+- domain_suffix:
+    match: hotmail.com
+    policy: Proxy
+- domain_suffix:
+    match: azcrmc-test.cn
+    policy: Proxy
+- domain_suffix:
+    match: xbox.com
+    policy: Proxy
+- domain_suffix:
+    match: graph.windows.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.pl
+    policy: Proxy
+- domain_suffix:
+    match: projectsangam.com
+    policy: Proxy
+- domain_suffix:
+    match: azuredigitaltwins.com
+    policy: Proxy
+- domain_suffix:
+    match: sysinternals.com
+    policy: Proxy
+- domain_suffix:
+    match: azureserviceprofiler.com
+    policy: Proxy
+- domain_suffix:
+    match: xbox.org
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewskids.net
+    policy: Proxy
+- domain_suffix:
+    match: hotmail.co
+    policy: Proxy
+- domain_suffix:
+    match: spoprod-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftteams.com
+    policy: Proxy
+- domain_suffix:
+    match: msidentity.com
+    policy: Proxy
+- domain_suffix:
+    match: windowscommunity.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftazuread-sso.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.es
+    policy: Proxy
+- domain_suffix:
+    match: azurewebsites.net
+    policy: Proxy
+- domain_suffix:
+    match: azureedge.net
+    policy: Proxy
+- domain_suffix:
+    match: ie11.com
+    policy: Proxy
+- domain_suffix:
+    match: bingads.com
+    policy: Proxy
+- domain_suffix:
+    match: docs.com
+    policy: Proxy
+- domain_suffix:
+    match: msxiaobing.com
+    policy: Proxy
+- domain_suffix:
+    match: fabric.io
+    policy: Proxy
+- domain_suffix:
+    match: mspil.cn
+    policy: Proxy
+- domain_suffix:
+    match: 1drv.ms
+    policy: Proxy
+- domain_suffix:
+    match: evoke-windowsservices-tas.msedge
+    policy: Proxy
+- domain_suffix:
+    match: bingj.com
+    policy: Proxy
+- domain_suffix:
+    match: azcrmc.cn
+    policy: Proxy
+- domain_suffix:
+    match: ingads.com
+    policy: Proxy
+- domain_suffix:
+    match: azurecr-test.cn
     policy: Proxy
 - domain_suffix:
     match: yammerusercontent.com
     policy: Proxy
+- domain_suffix:
+    match: s-msn.com
+    policy: Proxy
+- domain_suffix:
+    match: skypeforbusiness.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-connectedvehicles-stage.cn
+    policy: Proxy
+- domain_suffix:
+    match: powerbi.cn
+    policy: Proxy
+- domain_suffix:
+    match: 1drv.com
+    policy: Proxy
+- domain_suffix:
+    match: pwabuilder.com
+    policy: Proxy
+- domain_suffix:
+    match: windows.com
+    policy: Proxy
+- domain_suffix:
+    match: xboxgamestudios.com
+    policy: Proxy
+- domain_suffix:
+    match: msauthimages.cn
+    policy: Proxy
+- domain_suffix:
+    match: here.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftlatamholiday.com
+    policy: Proxy
+- domain_suffix:
+    match: officewebapps.cn
+    policy: Proxy
+- domain_suffix:
+    match: makecode.org
+    policy: Proxy
+- domain_suffix:
+    match: xboxone.eu
+    policy: Proxy
+- domain_suffix:
+    match: joinms.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: s-microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: applicationinsights.net
+    policy: Proxy
+- domain_suffix:
+    match: opentranslatorstothings.org
+    policy: Proxy
+- domain_suffix:
+    match: lync.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.net
+    policy: Proxy
+- domain_suffix:
+    match: xbox360.co
+    policy: Proxy
+- domain_suffix:
+    match: powerappscdn.net
+    policy: Proxy
+- domain_suffix:
+    match: static.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: microsoftstore.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: 21vbc.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftstream.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ca
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: mwf-service.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: mesh.com
+    policy: Proxy
+- domain_suffix:
+    match: bluecloudprod.com
+    policy: Proxy
+- domain_suffix:
+    match: graph.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: sfx.ms
+    policy: Proxy
+- domain_suffix:
+    match: fluidpreview.com
+    policy: Proxy
+- domain_suffix:
+    match: getmicrosoftkey.com
+    policy: Proxy
+- domain_suffix:
+    match: ch9.ms
+    policy: Proxy
+- domain_suffix:
+    match: bethsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.it
+    policy: Proxy
+- domain_suffix:
+    match: azurefd.net
+    policy: Proxy
+- domain_suffix:
+    match: blueaggrestore.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftemail.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.lt
+    policy: Proxy
+- domain_suffix:
+    match: akadns.net
+    policy: Proxy
+- domain_suffix:
+    match: msinnovationchallenge.com
+    policy: Proxy
+- domain_suffix:
+    match: cs9.wac.phicdn.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.uz
+    policy: Proxy
+- domain_suffix:
+    match: outlook.cloud.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: edgesuite.net
+    policy: Proxy
+- domain_suffix:
+    match: azure-dns.org
+    policy: Proxy
+- domain_suffix:
+    match: tailwindtraders.com
+    policy: Proxy
+- domain_suffix:
+    match: outingsapp.com
+    policy: Proxy
+- domain_suffix:
+    match: tryfunctions.com
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.com
+    policy: Proxy
+- domain_suffix:
+    match: livingyourambition.com
+    policy: Proxy
+- domain_suffix:
+    match: wlxrs.com
+    policy: Proxy
+- domain_suffix:
+    match: aznbcontent.cn
+    policy: Proxy
+- domain_suffix:
+    match: mapblast.com
+    policy: Proxy
+- domain_suffix:
+    match: sankie.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.jp
+    policy: Proxy
+- domain_suffix:
+    match: cloud.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: office365.com
+    policy: Proxy
+- domain_suffix:
+    match: cs11.wpc.v0cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: kumo.com
+    policy: Proxy
+- domain_suffix:
+    match: logincert.microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: msn.com.nsatc.net
+    policy: Proxy
+- domain_suffix:
+    match: hockeyapp.net
+    policy: Proxy
+- domain_suffix:
+    match: ie9.com
+    policy: Proxy
+- domain_suffix:
+    match: virtualearth.net
+    policy: Proxy
+- domain_suffix:
+    match: yammer.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-dns.com
+    policy: Proxy
+- domain_suffix:
+    match: biying.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: msvevent.com
+    policy: Proxy
+- domain_suffix:
+    match: winhec.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftedgeinsider.com
+    policy: Proxy
+- domain_suffix:
+    match: msftauthimages.net
+    policy: Proxy
+- domain_suffix:
+    match: msxiaona.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.cz
+    policy: Proxy
+- domain_suffix:
+    match: gamesstack.com
+    policy: Proxy
+- domain_suffix:
+    match: powerautomate.com
+    policy: Proxy
+- domain_suffix:
+    match: hotmail
+    policy: Proxy
+- domain_suffix:
+    match: gears5.com
+    policy: Proxy
+- domain_suffix:
+    match: fasttrackreadysupport.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftsqlserver.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.lv
+    policy: Proxy
+- domain_suffix:
+    match: loginex.microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: s-msft.com
+    policy: Proxy
+- domain_suffix:
+    match: azuredns-prd.org
+    policy: Proxy
+- domain_suffix:
+    match: chinacloudapi.cn
+    policy: Proxy
+- domain_suffix:
+    match: gotcosmos.com
+    policy: Proxy
+- domain_suffix:
+    match: hummingbird.ms
+    policy: Proxy
+- domain_suffix:
+    match: internetexplorer.co
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewsforkids.com
+    policy: Proxy
+- domain_suffix:
+    match: aspnetcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: serverlesslibrary.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.com.nsatc.net
+    policy: Proxy
+- domain_suffix:
+    match: msftauth.net
+    policy: Proxy
+- domain_suffix:
+    match: b.akamaiedge.net
+    policy: Proxy
+- domain_suffix:
+    match: msignitechina.com
+    policy: Proxy
+- domain_suffix:
+    match: aztask.cn
+    policy: Proxy
+- domain_suffix:
+    match: aka.ms
+    policy: Proxy
+- domain_suffix:
+    match: outlook.office365.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.vn
+    policy: Proxy
+- domain_suffix:
+    match: winmp.cn
+    policy: Proxy
+- domain_suffix:
+    match: online.office.com
+    policy: Proxy
+- domain_suffix:
+    match: msn.net
+    policy: Proxy
+- domain_suffix:
+    match: cortana.ai
+    policy: Proxy
+- domain_suffix:
+    match: azurecosmosdb.info
+    policy: Proxy
+- domain_suffix:
+    match: binb.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p-i.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: forzamotorsport.net
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio.co
+    policy: Proxy
+- domain_suffix:
+    match: msocdn.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftpersonalcontent.com
+    policy: Proxy
+- domain_suffix:
+    match: msdn.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-i.cn
+    policy: Proxy
+- domain_suffix:
+    match: msgamesresearch.com
+    policy: Proxy
+- domain_suffix:
+    match: acompli.com
+    policy: Proxy
+- domain_suffix:
+    match: msunlimitedcloudsummit.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftazuresponsorships.com
+    policy: Proxy
+- domain_suffix:
+    match: microsofthouse.net
+    policy: Proxy
+- domain_suffix:
+    match: windowsphone.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ee
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-m-i.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsofthouse.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftstore.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: azure-dns.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-online.cn
+    policy: Proxy
+- domain_suffix:
+    match: office.com
+    policy: Proxy
+- domain_suffix:
+    match: helpshift.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-falcon.io
+    policy: Proxy
+- domain_suffix:
+    match: mmais.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: sfbassets.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.red
+    policy: Proxy
+- domain_suffix:
+    match: devopsms.com
+    policy: Proxy
+- domain_suffix:
+    match: nextechafrica.net
+    policy: Proxy
+- domain_suffix:
+    match: auth.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: intunewiki.com
+    policy: Proxy
+- domain_suffix:
+    match: windows.nl
+    policy: Proxy
+- domain_suffix:
+    match: surface.com
+    policy: Proxy
+- domain_suffix:
+    match: bethesdagamestudios.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: appcenter.ms
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ro
+    policy: Proxy
+- domain_suffix:
+    match: msudalosti.com
+    policy: Proxy
+- domain_suffix:
+    match: a-msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: groupme.com
+    policy: Proxy
+- domain_suffix:
+    match: cosmosdb.net
+    policy: Proxy
+- domain_suffix:
+    match: statics-marketingsites-eus-ms-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: doom.com
+    policy: Proxy
+- domain_suffix:
+    match: chinacloud-mobile.cn
+    policy: Proxy
+- domain_suffix:
+    match: bing4.com
+    policy: Proxy
+- domain_suffix:
+    match: projectmurphy.net
+    policy: Proxy
+- domain_suffix:
+    match: nxta.org
+    policy: Proxy
+- domain_suffix:
+    match: videobreakdown.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.tv
+    policy: Proxy
+- domain_suffix:
+    match: ovi.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: bingsandbox.com
+    policy: Proxy
+- domain_suffix:
+    match: management-azure-devices.cn
+    policy: Proxy
+- domain_suffix:
+    match: login.microsoftonline-p.com
+    policy: Proxy
+- domain_suffix:
+    match: xboxone.co
+    policy: Proxy
+- domain_suffix:
+    match: mmdnn.com
+    policy: Proxy
+- domain_suffix:
+    match: azurestackvalidation.com
+    policy: Proxy
+- domain_suffix:
+    match: aria.ms
+    policy: Proxy
+- domain_suffix:
+    match: azurehdinsight.cn
+    policy: Proxy
+- domain_suffix:
+    match: callersbane.com
+    policy: Proxy
+- domain_suffix:
+    match: office
+    policy: Proxy
+- domain_suffix:
+    match: mojang.com
+    policy: Proxy
+- domain_suffix:
+    match: meetfasttrack.com
+    policy: Proxy
+- domain_suffix:
+    match: trustcenter.cn
+    policy: Proxy
+- domain_suffix:
+    match: usercontent.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ch
+    policy: Proxy
+- domain_suffix:
+    match: xboxstudios.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.si
+    policy: Proxy
+- domain_suffix:
+    match: azure-apihub.cn
+    policy: Proxy
+- domain_suffix:
+    match: azureprivatedns.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoft365.com
+    policy: Proxy
+- domain_suffix:
+    match: hotmail.net
+    policy: Proxy
+- domain_suffix:
+    match: blazor.net
+    policy: Proxy
+- domain_suffix:
+    match: live.net
+    policy: Proxy
+- domain_suffix:
+    match: binads.com
+    policy: Proxy
+- domain_suffix:
+    match: statics-marketingsites-eas-ms-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.cat
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnews.org
+    policy: Proxy
+- domain_suffix:
+    match: microsoft
+    policy: Proxy
+- domain_suffix:
+    match: microsoftestore.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: vscode-webview.net
+    policy: Proxy
+- domain_suffix:
+    match: bingtranslator.com
+    policy: Proxy
+- domain_suffix:
+    match: s-msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: footprintdns.com
+    policy: Proxy
+- domain_suffix:
+    match: msft.info
+    policy: Proxy
+- domain_suffix:
+    match: msftcloudes.cn
+    policy: Proxy
+- domain_suffix:
+    match: powerapps.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftuwp.com
+    policy: Proxy
+- domain_suffix:
+    match: bing.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: successwithteams.com
+    policy: Proxy
+- domain_suffix:
+    match: gfx.ms
+    policy: Proxy
+- domain_suffix:
+    match: microsoftready.com
+    policy: Proxy
+- domain_suffix:
+    match: boswp.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftcloudsummit.com
+    policy: Proxy
+- domain_suffix:
+    match: xbox360.eu
+    policy: Proxy
+- domain_suffix:
+    match: teams.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: acompli.net
+    policy: Proxy
+- domain_suffix:
+    match: management-azure-devices.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftiotcentral.com
+    policy: Proxy
+- domain_suffix:
+    match: azure.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: gearspop.com
+    policy: Proxy
+- domain_suffix:
+    match: msauth.net
+    policy: Proxy
+- domain_suffix:
+    match: msn.com
+    policy: Proxy
+- domain_suffix:
+    match: bibg.com
+    policy: Proxy
+- domain_suffix:
+    match: what-fan.net
+    policy: Proxy
+- domain_suffix:
+    match: morphcharts.com
+    policy: Proxy
+- domain_suffix:
+    match: sway.com
+    policy: Proxy
+- domain_suffix:
+    match: bing135.com
+    policy: Proxy
+- domain_suffix:
+    match: powerappsportals.cn
+    policy: Proxy
+- domain_suffix:
+    match: xboxab.com
+    policy: Proxy
+- domain_suffix:
+    match: windowsazure.com
+    policy: Proxy
+- domain_suffix:
+    match: onestore.ms
+    policy: Proxy
+- domain_suffix:
+    match: chinacloudapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: unlocklimitlesslearning.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-dns.info
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p-i.cn
+    policy: Proxy
+- domain_suffix:
+    match: passport.net
+    policy: Proxy
+- domain_suffix:
+    match: azure-devices.net
+    policy: Proxy
+- domain_suffix:
+    match: mschcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: g.akamaiedge.net
+    policy: Proxy
+- domain_suffix:
+    match: msra.cn
+    policy: Proxy
+- domain_suffix:
+    match: binginternal.com
+    policy: Proxy
+- domain_suffix:
+    match: masalladeloslimites.com
+    policy: Proxy
+- domain_suffix:
+    match: mono-project.com
+    policy: Proxy
+- domain_suffix:
+    match: azure
+    policy: Proxy
+- domain_suffix:
+    match: live.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p.com
+    policy: Proxy
+- domain_suffix:
+    match: ms-studiosmedia.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnews.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnewskids.com
+    policy: Proxy
+- domain_suffix:
+    match: wbd.ms
+    policy: Proxy
+- domain_suffix:
+    match: mx.microsoft
+    policy: Proxy
+- domain_suffix:
+    match: mepn.com
+    policy: Proxy
+- domain_suffix:
+    match: livefilestore.com
+    policy: Proxy
+- domain_suffix:
+    match: office365love.com
+    policy: Proxy
+- domain_suffix:
+    match: windowslive.cn
+    policy: Proxy
+- domain_suffix:
+    match: msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: cegid-cloud.cn
+    policy: Proxy
+- domain_suffix:
+    match: officeapps.live.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-devices-provisioning.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.by
+    policy: Proxy
+- domain_suffix:
+    match: windowsphone-int.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftmetrics.cn
+    policy: Proxy
+- domain_suffix:
+    match: biying.cn
+    policy: Proxy
+- domain_suffix:
+    match: uwpcommunitytoolkit.com
+    policy: Proxy
+- domain_suffix:
+    match: live.com.au
+    policy: Proxy
+- domain_suffix:
+    match: msads.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftsiteselection.com
+    policy: Proxy
+- domain_suffix:
+    match: renlifang.com
+    policy: Proxy
+- domain_suffix:
+    match: biying.com
+    policy: Proxy
+- domain_suffix:
+    match: skypeassets.com
+    policy: Proxy
+- domain_suffix:
+    match: sharepoint.com
+    policy: Proxy
+- domain_suffix:
+    match: lync.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline-p.cn
+    policy: Proxy
+- domain_suffix:
+    match: vip5.afdorigin-prod-am02.afdogw.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.fi
+    policy: Proxy
+- domain_suffix:
+    match: mpnevolution.com
+    policy: Proxy
+- domain_suffix:
+    match: statics-marketingsites-neu-ms-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: forzaracingchampionship.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.de
+    policy: Proxy
+- domain_suffix:
+    match: defender.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: vfsforgit.org
+    policy: Proxy
+- domain_suffix:
+    match: azuresmartspaces.net
+    policy: Proxy
+- domain_suffix:
+    match: uservoice.com
+    policy: Proxy
+- domain_suffix:
+    match: omniroot.com
+    policy: Proxy
+- domain_suffix:
+    match: sway-cdn.com
+    policy: Proxy
+- domain_suffix:
+    match: enterpriseregistration.windows.net
+    policy: Proxy
+- domain_suffix:
+    match: adaptivecards.io
+    policy: Proxy
+- domain_suffix:
+    match: winhec.net
+    policy: Proxy
+- domain_suffix:
+    match: aadrm.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftnews.cc
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.co
+    policy: Proxy
+- domain_suffix:
+    match: aadrm.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftreactor.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.ge
+    policy: Proxy
+- domain_suffix:
+    match: appserviceenvironment.cn
+    policy: Proxy
+- domain_suffix:
+    match: purview.microsoft.com
+    policy: Proxy
+- domain_suffix:
+    match: b2clogin.cn
+    policy: Proxy
+- domain_suffix:
+    match: bingtoolbar.com
+    policy: Proxy
+- domain_suffix:
+    match: internetexplorer.com
+    policy: Proxy
+- domain_suffix:
+    match: minecraft.net
+    policy: Proxy
+- domain_suffix:
+    match: localytics.com
+    policy: Proxy
+- domain_suffix:
+    match: start.com
+    policy: Proxy
+- domain_suffix:
+    match: office365tw.com
+    policy: Proxy
+- domain_suffix:
+    match: msftauthimages.cn
+    policy: Proxy
+- domain_suffix:
+    match: myhomemsn.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.rs
+    policy: Proxy
+- domain_suffix:
+    match: poshtestgallery.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-sphere.com
+    policy: Proxy
+- domain_suffix:
+    match: bingapis.com
+    policy: Proxy
+- domain_suffix:
+    match: login.windows.net
+    policy: Proxy
+- domain_suffix:
+    match: windows-int.net
+    policy: Proxy
+- domain_suffix:
+    match: login.microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: o365files.cn
+    policy: Proxy
+- domain_suffix:
+    match: efproject.net
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio.eu
+    policy: Proxy
+- domain_suffix:
+    match: vsassets.io
+    policy: Proxy
+- domain_suffix:
+    match: msminico.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: bingapistatistics.com
+    policy: Proxy
+- domain_suffix:
+    match: office365.cn
+    policy: Proxy
+- domain_suffix:
+    match: msftidentity.com
+    policy: Proxy
+- domain_suffix:
+    match: o365weve.com
+    policy: Proxy
+- domain_suffix:
+    match: live.com
+    policy: Proxy
+- domain_suffix:
+    match: sharepointonline.com
+    policy: Proxy
+- domain_suffix:
+    match: tellmewhygame.com
+    policy: Proxy
+- domain_suffix:
+    match: xbox.co
+    policy: Proxy
+- domain_suffix:
+    match: microsoftstart.com
+    policy: Proxy
+- domain_suffix:
+    match: powerautomate.cn
+    policy: Proxy
+- domain_suffix:
+    match: hotmail.eu
+    policy: Proxy
+- domain_suffix:
+    match: xboxservices.com
+    policy: Proxy
+- domain_suffix:
+    match: ie10.com
+    policy: Proxy
+- domain_suffix:
+    match: azurecr.cn
+    policy: Proxy
+- domain_suffix:
+    match: xbox360.org
+    policy: Proxy
+- domain_suffix:
+    match: meetyourdevices.com
+    policy: Proxy
+- domain_suffix:
+    match: crmdynint-gcc.com
+    policy: Proxy
+- domain_suffix:
+    match: osdinfra.net
+    policy: Proxy
+- domain_suffix:
+    match: cloudappsecurity.com
+    policy: Proxy
+- domain_suffix:
+    match: xbox360.com
+    policy: Proxy
+- domain_suffix:
+    match: sqlserveronlinux.com
+    policy: Proxy
+- domain_suffix:
+    match: skype.net
+    policy: Proxy
+- domain_suffix:
+    match: hdinsightservices.cn
+    policy: Proxy
+- domain_suffix:
+    match: msnewskids.com
+    policy: Proxy
+- domain_suffix:
+    match: userpxt.io
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.az
+    policy: Proxy
+- domain_suffix:
+    match: azureiotsuite.cn
+    policy: Proxy
+- domain_suffix:
+    match: c-msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: azure.net
+    policy: Proxy
+- domain_suffix:
+    match: outlook.office.com
+    policy: Proxy
+- domain_suffix:
+    match: signalr.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoft.pt
+    policy: Proxy
+- domain_suffix:
+    match: msauth.cn
+    policy: Proxy
+- domain_suffix:
+    match: msftnet.org
+    policy: Proxy
+- domain_suffix:
+    match: msgamestudios.com
+    policy: Proxy
+- domain_suffix:
+    match: 21vbluecloud.net
+    policy: Proxy
+- domain_suffix:
+    match: microsoftonline.com
+    policy: Proxy
+- domain_suffix:
+    match: onedrive.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: msauthimages.net
+    policy: Proxy
+- domain_suffix:
+    match: centralvalidation.com
+    policy: Proxy
+- domain_suffix:
+    match: skype.com
+    policy: Proxy
+- domain_suffix:
+    match: mymicrosoft.com
+    policy: Proxy
+- domain_suffix:
+    match: trafficmanager.cn
+    policy: Proxy
+- domain_suffix:
+    match: officecdn-microsoft-com.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: azureiotsolutions.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftreactor.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: o365weve-ppe.com
+    policy: Proxy
+- domain_suffix:
+    match: skype
+    policy: Proxy
+- domain_suffix:
+    match: xboxlive.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-ppe.com
+    policy: Proxy
+- domain_suffix:
+    match: portal.cloudappsecurity.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-tst.com
+    policy: Proxy
+- domain_suffix:
+    match: b3itech.cn
+    policy: Proxy
+- domain_suffix:
+    match: powershellgallery.com
+    policy: Proxy
+- domain_suffix:
+    match: tenor.com
+    policy: Proxy
+- domain_suffix:
+    match: bingworld.com
+    policy: Proxy
+- domain_suffix:
+    match: vsallin.net
+    policy: Proxy
+- domain_suffix:
+    match: wunderlist.com
+    policy: Proxy
+- domain_suffix:
+    match: outlookmobile.com
+    policy: Proxy
+- domain_suffix:
+    match: minecraftshop.com
+    policy: Proxy
+- domain_suffix:
+    match: dot.net
+    policy: Proxy
+- domain_suffix:
+    match: azurecomm.net
+    policy: Proxy
+- domain_suffix:
+    match: hotmail.org
+    policy: Proxy
+- domain_suffix:
+    match: visualstudio.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: microsoftmxfilantropia.com
+    policy: Proxy
+- domain_suffix:
+    match: dynamics.com
+    policy: Proxy
+- domain_suffix:
+    match: bing.com
+    policy: Proxy
+- domain_suffix:
+    match: office.live.com
+    policy: Proxy
+- domain_suffix:
+    match: skypeassets.net
+    policy: Proxy
+- domain_suffix:
+    match: bingpk.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoftgamestack.com
+    policy: Proxy
+- domain_suffix:
+    match: insiderdevtour.com
+    policy: Proxy
+- domain_suffix:
+    match: pxt.io
+    policy: Proxy
+- domain_suffix:
+    match: bluehatnights.com
+    policy: Proxy
+- domain_suffix:
+    match: msxiaoice.com
+    policy: Proxy
+- domain_suffix:
+    match: msn.com.tw
+    policy: Proxy
+- domain_suffix:
+    match: microsoftsilverlight.org
+    policy: Proxy
+- domain_suffix:
+    match: cosmosdb.info
+    policy: Proxy
+- domain_suffix:
+    match: api-extractor.com
+    policy: Proxy
+- domain_suffix:
+    match: azure-automation.cn
+    policy: Proxy
+- domain_suffix:
+    match: microsoftsilverlight.net
+    policy: Proxy
+- domain_suffix:
+    match: microsofttradein.com
+    policy: Proxy
+- domain_suffix:
+    match: microsoft-sbs-domains.com
+    policy: Proxy
+- domain_suffix:
+    match: azurecosmos.net
+    policy: Proxy
+- domain_suffix:
+    match: ankarazirvesi2018.com
+    policy: Proxy
 - domain_keyword:
     match: 1drv
+    policy: Proxy
+- domain_keyword:
+    match: onedrive
+    policy: Proxy
+- domain_keyword:
+    match: skydrive
     policy: Proxy
 - domain_keyword:
     match: microsoft

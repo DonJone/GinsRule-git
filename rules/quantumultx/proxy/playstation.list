@@ -1,6 +1,6 @@
-HOST-SUFFIX,playstation.com,Proxy
-HOST-SUFFIX,playstation.net,Proxy
-HOST-SUFFIX,playstationnetwork.com,Proxy
-HOST-SUFFIX,sie.com,Proxy
-HOST-SUFFIX,sony.com,Proxy
-HOST-SUFFIX,sonyentertainmentnetwork.com,Proxy
+HOST-SUFFIX,playstation.com,PROXY
+HOST-SUFFIX,playstation.net,PROXY
+HOST-SUFFIX,playstationnetwork.com,PROXY
+HOST-SUFFIX,sie.com,PROXY
+HOST-SUFFIX,sony.com,PROXY
+HOST-SUFFIX,sonyentertainmentnetwork.com,PROXY

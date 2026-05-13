@@ -1,7 +1,13 @@
 # Gins-Rules: mihoyo-intl
 rules:
 - domain_suffix:
-    match: genshin.hoyoverse.com
+    match: starrails.com
+    policy: Proxy
+- domain_suffix:
+    match: hoyoverse.com
+    policy: Proxy
+- domain_suffix:
+    match: zenlesszonezerohoyoverse.com
     policy: Proxy
 - domain_suffix:
     match: honkaiimpact3.com
@@ -10,11 +16,5 @@ rules:
     match: hoyolab.com
     policy: Proxy
 - domain_suffix:
-    match: hoyoverse.com
-    policy: Proxy
-- domain_suffix:
-    match: starrails.com
-    policy: Proxy
-- domain_suffix:
-    match: zenlesszonezerohoyoverse.com
+    match: genshin.hoyoverse.com
     policy: Proxy

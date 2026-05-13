@@ -1,16 +1,13 @@
 # Gins-Rules: privacy
 rules:
 - domain_suffix:
-    match: atpanel.com
-    policy: Proxy
-- domain_suffix:
-    match: bluekai.com
-    policy: Proxy
-- domain_suffix:
     match: casalemedia.com
     policy: Proxy
 - domain_suffix:
     match: exelator.com
+    policy: Proxy
+- domain_suffix:
+    match: tapad.com
     policy: Proxy
 - domain_suffix:
     match: krxd.net
@@ -19,23 +16,26 @@ rules:
     match: mmstat.com
     policy: Proxy
 - domain_suffix:
-    match: openx.net
-    policy: Proxy
-- domain_suffix:
-    match: pubmatic.com
-    policy: Proxy
-- domain_suffix:
-    match: quantserve.com
-    policy: Proxy
-- domain_suffix:
     match: rubiconproject.com
+    policy: Proxy
+- domain_suffix:
+    match: atpanel.com
     policy: Proxy
 - domain_suffix:
     match: scorecardresearch.com
     policy: Proxy
 - domain_suffix:
+    match: pubmatic.com
+    policy: Proxy
+- domain_suffix:
+    match: bluekai.com
+    policy: Proxy
+- domain_suffix:
+    match: quantserve.com
+    policy: Proxy
+- domain_suffix:
     match: tanx.com
     policy: Proxy
 - domain_suffix:
-    match: tapad.com
+    match: openx.net
     policy: Proxy

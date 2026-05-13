@@ -1,19 +1,7 @@
 # Gins-Rules: soul
 rules:
 - ip_cidr:
-    match: 114.215.255.94/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 116.62.108.43/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 116.62.247.96/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 116.62.47.28/32
+    match: 120.55.55.115/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -21,7 +9,59 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
+    match: 47.99.42.29/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2400:3200:1500::169/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.96.7.91/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 121.40.189.58/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.98.54.106/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.56.131.76/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.97.215.55/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2400:3200:1500::1fb/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
     match: 118.31.112.221/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 116.62.47.28/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 8.210.3.170/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 116.62.108.43/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.98.137.249/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 121.43.161.107/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -29,15 +69,19 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 120.26.40.187/32
+    match: 47.75.72.47/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 120.27.235.201/32
+    match: 43.231.145.10/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 120.55.55.115/32
+    match: 116.62.247.96/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 121.196.203.183/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -49,23 +93,11 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 121.196.203.183/32
+    match: 47.110.187.87/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 121.40.189.58/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 121.43.161.107/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2400:3200:1500::169/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2400:3200:1500::1fb/32
+    match: 120.27.235.201/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr6:
@@ -73,19 +105,7 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 43.231.145.10/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.110.187.87/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.56.131.76/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.75.72.47/32
+    match: 114.215.255.94/32
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -97,26 +117,6 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 47.96.7.91/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.97.215.55/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.98.137.249/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.98.54.106/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 47.99.42.29/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 8.210.3.170/32
+    match: 120.26.40.187/32
     no_resolve: 'true'
     policy: Proxy

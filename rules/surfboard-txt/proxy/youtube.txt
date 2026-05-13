@@ -1,7 +1,7 @@
+.*com.google.ios.youtubemusic*
 .404: Not Found
-.HOST-WILDCARD,youtube.*,YouTube
-.HOST-WILDCARD,youtube.*.*,YouTube
-.HOST-WILDCARD,youtube.com.*,YouTube
+.com.google.ios.youtube*
+.com.google.ios.youtubemusic*
 .ggpht.cn
 .ggpht.com
 .googlevideo.com

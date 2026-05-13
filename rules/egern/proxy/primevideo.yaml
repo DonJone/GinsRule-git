@@ -1,14 +1,14 @@
 # Gins-Rules: primevideo
 rules:
 - domain_suffix:
-    match: aiv-cdn.net
-    policy: Proxy
-- domain_suffix:
-    match: amazonvideo.com
+    match: primevideo.com
     policy: Proxy
 - domain_suffix:
     match: atv-ps.amazon.com
     policy: Proxy
 - domain_suffix:
-    match: primevideo.com
+    match: aiv-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: amazonvideo.com
     policy: Proxy

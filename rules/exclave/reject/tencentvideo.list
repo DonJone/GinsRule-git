@@ -1,12 +1,15 @@
++.api.poll.video.qq.com
++.gdt.qq.com
++.gdtimg.com
 +.l.qq.com
++.omgmta.qq.com
 +.omgmta1.qq.com
 +.static-res.qq.com
-+.api.poll.video.qq.com
-+.omgmta.qq.com
-+.video.mpush.qq.com
 +.tpns.tencent.com
-+.gdtimg.com
-+.gdt.qq.com
++.video.mpush.qq.com
+111.6.166.107/32
+120.222.144.64/32
+183.201.213.194/32
 activity.video.qq.com
 aegis.qq.com
 iacc.qq.com
@@ -16,6 +19,3 @@ rdelivery.qq.com
 rmonitor.qq.com
 tux.qq.com
 ugchsy.gtimg.com
-111.6.166.107/32
-120.222.144.64/32
-183.201.213.194/32

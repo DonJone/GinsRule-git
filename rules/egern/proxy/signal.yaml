@@ -1,14 +1,14 @@
 # Gins-Rules: signal
 rules:
 - domain_suffix:
-    match: signal.art
-    policy: Proxy
-- domain_suffix:
     match: signal.group
     policy: Proxy
 - domain_suffix:
-    match: signal.org
+    match: whispersystems.org
     policy: Proxy
 - domain_suffix:
-    match: whispersystems.org
+    match: signal.art
+    policy: Proxy
+- domain_suffix:
+    match: signal.org
     policy: Proxy

@@ -4,35 +4,35 @@ rules:
     match: cocoapods.org
     policy: Proxy
 - domain_suffix:
-    match: crates.io
-    policy: Proxy
-- domain_suffix:
-    match: gradle.org
-    policy: Proxy
-- domain_suffix:
-    match: jsdelivr.net
-    policy: Proxy
-- domain_suffix:
-    match: mvnrepository.com
-    policy: Proxy
-- domain_suffix:
-    match: npmjs.com
-    policy: Proxy
-- domain_suffix:
     match: npmjs.org
     policy: Proxy
 - domain_suffix:
     match: packagist.org
     policy: Proxy
 - domain_suffix:
-    match: pypi.org
+    match: rubygems.org
+    policy: Proxy
+- domain_suffix:
+    match: unpkg.com
+    policy: Proxy
+- domain_suffix:
+    match: crates.io
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.com
+    policy: Proxy
+- domain_suffix:
+    match: gradle.org
     policy: Proxy
 - domain_suffix:
     match: pythonhosted.org
     policy: Proxy
 - domain_suffix:
-    match: rubygems.org
+    match: mvnrepository.com
     policy: Proxy
 - domain_suffix:
-    match: unpkg.com
+    match: pypi.org
+    policy: Proxy
+- domain_suffix:
+    match: jsdelivr.net
     policy: Proxy

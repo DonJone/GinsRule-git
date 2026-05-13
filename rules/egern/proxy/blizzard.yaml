@@ -1,14 +1,14 @@
 # Gins-Rules: blizzard
 rules:
 - domain_suffix:
-    match: battle.net
-    policy: Proxy
-- domain_suffix:
     match: battlenet.com
     policy: Proxy
 - domain_suffix:
-    match: blizzard.com
+    match: blz-contentstack.com
     policy: Proxy
 - domain_suffix:
-    match: blz-contentstack.com
+    match: battle.net
+    policy: Proxy
+- domain_suffix:
+    match: blizzard.com
     policy: Proxy

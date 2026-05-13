@@ -4,133 +4,133 @@ rules:
     match: 1688.com
     policy: Proxy
 - domain_suffix:
-    match: aliapp.org
-    policy: Proxy
-- domain_suffix:
-    match: alibaba.com
-    policy: Proxy
-- domain_suffix:
-    match: alibabachengdun.com
-    policy: Proxy
-- domain_suffix:
-    match: alibabacloud.com
-    policy: Proxy
-- domain_suffix:
-    match: alibabausercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: alicdn.com
-    policy: Proxy
-- domain_suffix:
-    match: alicloudccp.com
-    policy: Proxy
-- domain_suffix:
-    match: aliexpress.com
-    policy: Proxy
-- domain_suffix:
-    match: aliimg.com
-    policy: Proxy
-- domain_suffix:
-    match: alikunlun.com
-    policy: Proxy
-- domain_suffix:
-    match: alimama.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: alipayobjects.com
+    match: ucweb.com
     policy: Proxy
 - domain_suffix:
     match: alisoft.com
     policy: Proxy
 - domain_suffix:
-    match: aliyun.com
+    match: xiami.net
+    policy: Proxy
+- domain_suffix:
+    match: alicloudccp.com
     policy: Proxy
 - domain_suffix:
     match: aliyuncdn.com
     policy: Proxy
 - domain_suffix:
-    match: aliyuncs.com
+    match: tbcdn.cn
     policy: Proxy
 - domain_suffix:
-    match: aliyundrive.com
+    match: alibabausercontent.com
     policy: Proxy
 - domain_suffix:
-    match: aliyundrive.net
+    match: aliapp.org
     policy: Proxy
 - domain_suffix:
-    match: amap.com
-    policy: Proxy
-- domain_suffix:
-    match: autonavi.com
+    match: alipayobjects.com
     policy: Proxy
 - domain_suffix:
     match: cainiao.com
     policy: Proxy
 - domain_suffix:
-    match: dingtalk.com
-    policy: Proxy
-- domain_suffix:
     match: ele.me
     policy: Proxy
 - domain_suffix:
-    match: elemecdn.com
+    match: alibabachengdun.com
     policy: Proxy
 - domain_suffix:
-    match: hichina.com
+    match: amap.com
     policy: Proxy
 - domain_suffix:
-    match: mmstat.com
+    match: aliyundrive.com
     policy: Proxy
 - domain_suffix:
-    match: mxhichina.com
-    policy: Proxy
-- domain_suffix:
-    match: qwen.ai
-    policy: Proxy
-- domain_suffix:
-    match: soku.com
-    policy: Proxy
-- domain_suffix:
-    match: taobao.com
-    policy: Proxy
-- domain_suffix:
-    match: taobaocdn.com
+    match: youku.com
     policy: Proxy
 - domain_suffix:
     match: tbcache.com
     policy: Proxy
 - domain_suffix:
-    match: tbcdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: tbcdn.com
-    policy: Proxy
-- domain_suffix:
     match: tmall.com
     policy: Proxy
 - domain_suffix:
-    match: tmall.hk
+    match: aliyuncs.com
     policy: Proxy
 - domain_suffix:
-    match: ucweb.com
+    match: soku.com
+    policy: Proxy
+- domain_suffix:
+    match: autonavi.com
     policy: Proxy
 - domain_suffix:
     match: xiami.com
     policy: Proxy
 - domain_suffix:
-    match: xiami.net
+    match: alibabacloud.com
+    policy: Proxy
+- domain_suffix:
+    match: mmstat.com
+    policy: Proxy
+- domain_suffix:
+    match: dingtalk.com
+    policy: Proxy
+- domain_suffix:
+    match: taobaocdn.com
+    policy: Proxy
+- domain_suffix:
+    match: hichina.com
+    policy: Proxy
+- domain_suffix:
+    match: tbcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: aliimg.com
+    policy: Proxy
+- domain_suffix:
+    match: alicdn.com
     policy: Proxy
 - domain_suffix:
     match: ykimg.com
     policy: Proxy
 - domain_suffix:
-    match: youku.com
+    match: taobao.com
+    policy: Proxy
+- domain_suffix:
+    match: alipay.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: aliyundrive.net
+    policy: Proxy
+- domain_suffix:
+    match: qwen.ai
+    policy: Proxy
+- domain_suffix:
+    match: alibaba.com
+    policy: Proxy
+- domain_suffix:
+    match: aliyun.com
+    policy: Proxy
+- domain_suffix:
+    match: alipay.com
+    policy: Proxy
+- domain_suffix:
+    match: elemecdn.com
+    policy: Proxy
+- domain_suffix:
+    match: alimama.com
+    policy: Proxy
+- domain_suffix:
+    match: tmall.hk
+    policy: Proxy
+- domain_suffix:
+    match: aliexpress.com
+    policy: Proxy
+- domain_suffix:
+    match: alikunlun.com
+    policy: Proxy
+- domain_suffix:
+    match: mxhichina.com
     policy: Proxy
 - domain_keyword:
     match: alipay

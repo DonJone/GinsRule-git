@@ -1,23 +1,23 @@
 # Gins-Rules: hbo
 rules:
 - domain_suffix:
-    match: discomax.com
-    policy: Proxy
-- domain_suffix:
-    match: hbo.com
-    policy: Proxy
-- domain_suffix:
-    match: hbogo.com
-    policy: Proxy
-- domain_suffix:
-    match: hbomax.com
-    policy: Proxy
-- domain_suffix:
-    match: hbomaxcdn.com
+    match: max.com
     policy: Proxy
 - domain_suffix:
     match: hbonow.com
     policy: Proxy
 - domain_suffix:
-    match: max.com
+    match: discomax.com
+    policy: Proxy
+- domain_suffix:
+    match: hbogo.com
+    policy: Proxy
+- domain_suffix:
+    match: hbomaxcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: hbo.com
+    policy: Proxy
+- domain_suffix:
+    match: hbomax.com
     policy: Proxy

@@ -2,6 +2,7 @@
 .audio4-ak-spotify-com.akamaized.net
 .byspotify.com
 .cdn-spotify-experiments.conductrics.com
+.com.spotify.music
 .heads-ak-spotify-com.akamaized.net
 .heads4-ak-spotify-com.akamaized.net
 .pscdn.co

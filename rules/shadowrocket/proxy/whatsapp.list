@@ -1,7 +1,7 @@
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,waba.inner.fbpigeon.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,whatsapp
 IP-CIDR,108.168.174.0/16,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve

@@ -1,3 +1,10 @@
+DOMAIN,access.line.me
+DOMAIN,api.line.me
+DOMAIN,legy.line-apps.com
+DOMAIN,liff.line.me
+DOMAIN,media.line.me
+DOMAIN,obs.line-apps.com
+DOMAIN,scdn.line-apps.com
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
@@ -6,10 +13,3 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,naver.jp
-DOMAIN,access.line.me
-DOMAIN,api.line.me
-DOMAIN,legy.line-apps.com
-DOMAIN,liff.line.me
-DOMAIN,media.line.me
-DOMAIN,obs.line-apps.com
-DOMAIN,scdn.line-apps.com
