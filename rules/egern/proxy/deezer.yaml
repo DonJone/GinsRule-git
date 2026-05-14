@@ -1,0 +1,8 @@
+# Gins-Rules: deezer
+rules:
+- domain_suffix:
+    match: deezer.com
+    policy: Proxy
+- domain_suffix:
+    match: dzcdn.net
+    policy: Proxy

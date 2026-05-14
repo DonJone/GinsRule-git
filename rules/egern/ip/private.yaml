@@ -1,27 +1,15 @@
 # Gins-Rules: private
 rules:
 - ip_cidr:
-    match: 172.16.0.0/12
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 192.88.99.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
     match: 198.51.100.0/24
     no_resolve: 'true'
     policy: Proxy
-- ip_cidr:
-    match: 127.0.0.0/8
+- ip_cidr6:
+    match: fc00::/7
     no_resolve: 'true'
     policy: Proxy
-- ip_cidr:
-    match: 169.254.0.0/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 203.0.113.0/24
+- ip_cidr6:
+    match: fe80::/10
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -29,15 +17,11 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 192.168.0.0/16
+    match: 192.0.2.0/24
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 224.0.0.0/3
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: fc00::/7
+    match: 203.0.113.0/24
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr6:
@@ -53,18 +37,34 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 198.18.0.0/15
+    match: 192.88.99.0/24
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 192.0.2.0/24
+    match: 224.0.0.0/3
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 172.16.0.0/12
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 192.168.0.0/16
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
     match: 100.64.0.0/10
     no_resolve: 'true'
     policy: Proxy
-- ip_cidr6:
-    match: fe80::/10
+- ip_cidr:
+    match: 198.18.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 127.0.0.0/8
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 169.254.0.0/16
     no_resolve: 'true'
     policy: Proxy

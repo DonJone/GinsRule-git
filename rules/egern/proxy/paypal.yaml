@@ -1,52 +1,562 @@
 # Gins-Rules: paypal
 rules:
 - domain_suffix:
-    match: paypalcommunity.cn
+    match: paypal-hrsystem.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-center.info
+    match: paypal-notice.com
     policy: Proxy
 - domain_suffix:
-    match: pdncommunity.com
+    match: paypal-communication.com
     policy: Proxy
 - domain_suffix:
-    match: briantreepayments.tv
+    match: paypall.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-prepagata.com
+    match: paypal-gifts.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-learning.com
+    match: paypalshopping.com
     policy: Proxy
 - domain_suffix:
-    match: paydiant.com
+    match: paypal-labs.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-mobilemoney.com
+    match: paypal-gift.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-communications.com
+    match: paypal-exchanges.com
     policy: Proxy
 - domain_suffix:
-    match: i-o-u.info
+    match: paypalhere.cn
     policy: Proxy
 - domain_suffix:
-    match: paypal-gpplus.com
+    match: paypal-database.us
+    policy: Proxy
+- domain_suffix:
+    match: webmoneyinfo.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-communications.net
+    policy: Proxy
+- domain_suffix:
+    match: paypalx.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalnetwork.net
+    policy: Proxy
+- domain_suffix:
+    match: mywaytopay.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-here.com
+    policy: Proxy
+- domain_suffix:
+    match: paypa1.org
+    policy: Proxy
+- domain_suffix:
+    match: briantreepayments.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-europe.com
     policy: Proxy
 - domain_suffix:
     match: paypal-recargacelular.com
     policy: Proxy
 - domain_suffix:
-    match: getbraintree.com
+    match: paypal-business.net
     policy: Proxy
 - domain_suffix:
-    match: wwwxoom.com
+    match: i-o-u.info
+    policy: Proxy
+- domain_suffix:
+    match: paypalinc.com
+    policy: Proxy
+- domain_suffix:
+    match: loanbuilder.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-media.com
+    policy: Proxy
+- domain_suffix:
+    match: braintreegateway.tv
+    policy: Proxy
+- domain_suffix:
+    match: mywaytopay.info
+    policy: Proxy
+- domain_suffix:
+    match: billmelater.com
+    policy: Proxy
+- domain_suffix:
+    match: securepaypal.info
+    policy: Proxy
+- domain_suffix:
+    match: anfutong.cn
+    policy: Proxy
+- domain_suffix:
+    match: braintree-api.com
+    policy: Proxy
+- domain_suffix:
+    match: paylike.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-service.org
+    policy: Proxy
+- domain_suffix:
+    match: paypalcorp.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-business.org
+    policy: Proxy
+- domain_suffix:
+    match: paipal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-galactic.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalgivingfund.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-online.net
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.org
+    policy: Proxy
+- domain_suffix:
+    match: paypalindia.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-special.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.info
+    policy: Proxy
+- domain_suffix:
+    match: pypl.net
+    policy: Proxy
+- domain_suffix:
+    match: swiftfinancial.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-survey.com
+    policy: Proxy
+- domain_suffix:
+    match: swiftfinancial.info
+    policy: Proxy
+- domain_suffix:
+    match: braintreepayments.info
+    policy: Proxy
+- domain_suffix:
+    match: bill-safe.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalnet.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-dynamic.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-activate.com
+    policy: Proxy
+- domain_suffix:
+    match: www-paypal.us
+    policy: Proxy
+- domain_suffix:
+    match: paypal-status.com
+    policy: Proxy
+- domain_suffix:
+    match: fundpaypal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-referral.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalnetwork.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-photocard.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.hk
+    policy: Proxy
+- domain_suffix:
+    match: paypali.net
+    policy: Proxy
+- domain_suffix:
+    match: paypalsurvey.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalcommunity.org
+    policy: Proxy
+- domain_suffix:
+    match: paydiant.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalcommunity.cn
+    policy: Proxy
+- domain_suffix:
+    match: paypalme.com
+    policy: Proxy
+- domain_suffix:
+    match: swiftbank.info
+    policy: Proxy
+- domain_suffix:
+    match: paypalbrasil.com
+    policy: Proxy
+- domain_suffix:
+    match: account-paypal.net
+    policy: Proxy
+- domain_suffix:
+    match: simility.com
+    policy: Proxy
+- domain_suffix:
+    match: venmo.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-plaza.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-brandcentral.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-secure.org
+    policy: Proxy
+- domain_suffix:
+    match: cashify.net
+    policy: Proxy
+- domain_suffix:
+    match: xoom-experience.com
+    policy: Proxy
+- domain_suffix:
+    match: buyfast-paysmart.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal.ca
+    policy: Proxy
+- domain_suffix:
+    match: anfutong.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalbenefits.com
+    policy: Proxy
+- domain_suffix:
+    match: paily.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-biz.com
+    policy: Proxy
+- domain_suffix:
+    match: xoom.io
+    policy: Proxy
+- domain_suffix:
+    match: paypal-engineering.com
+    policy: Proxy
+- domain_suffix:
+    match: swiftcapital.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalonline.org
+    policy: Proxy
+- domain_suffix:
+    match: gmoney.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal.jp
+    policy: Proxy
+- domain_suffix:
+    match: beibao.cn
+    policy: Proxy
+- domain_suffix:
+    match: venmo-touch.com
+    policy: Proxy
+- domain_suffix:
+    match: beibao.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: beibao.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-apac.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-mainstreet.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-business.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-proserv.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-innovationlab.com
+    policy: Proxy
+- domain_suffix:
+    match: pdncommunity.com
+    policy: Proxy
+- domain_suffix:
+    match: braintreegateway.com
+    policy: Proxy
+- domain_suffix:
+    match: xoom.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: paypal-center.org
+    policy: Proxy
+- domain_suffix:
+    match: card.io
+    policy: Proxy
+- domain_suffix:
+    match: braintreeps.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-center.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-integration.com
+    policy: Proxy
+- domain_suffix:
+    match: accountpaypal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.com
+    policy: Proxy
+- domain_suffix:
+    match: account-paypal.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-pages.com
+    policy: Proxy
+- domain_suffix:
+    match: anfutong.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: xoom.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalobjects.com
+    policy: Proxy
+- domain_suffix:
+    match: pypl.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-qrshopping.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-security.net
+    policy: Proxy
+- domain_suffix:
+    match: xoomcom.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-marketing.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalservice.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-comunidad.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-specialoffers.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-community.com
+    policy: Proxy
+- domain_suffix:
+    match: venmo.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-prepaid.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-gpplus.com
+    policy: Proxy
+- domain_suffix:
+    match: payypal.com
+    policy: Proxy
+- domain_suffix:
+    match: wiremoneytoirelandwithxoomeasierandcheaper.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-sptam.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: paypal-viewpoints.net
+    policy: Proxy
+- domain_suffix:
+    match: accountpaypal.net
+    policy: Proxy
+- domain_suffix:
+    match: theshoppingexpresslane.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal.so
+    policy: Proxy
+- domain_suffix:
+    match: paypal-login.us
+    policy: Proxy
+- domain_suffix:
+    match: cash2.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-corp.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-profile.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.tv
+    policy: Proxy
+- domain_suffix:
+    match: paypal-center.info
+    policy: Proxy
+- domain_suffix:
+    match: pa9pal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-security.org
+    policy: Proxy
+- domain_suffix:
+    match: www-paypal.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-team.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-activate.info
+    policy: Proxy
+- domain_suffix:
+    match: secure-paypal.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-learning.com
+    policy: Proxy
+- domain_suffix:
+    match: swiftbank.us
+    policy: Proxy
+- domain_suffix:
+    match: paypal-redeem.com
+    policy: Proxy
+- domain_suffix:
+    match: pavpal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalinsuranceservices.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-apps.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-online.info
+    policy: Proxy
+- domain_suffix:
+    match: xn--bnq297cix3a.cn
+    policy: Proxy
+- domain_suffix:
+    match: xoom.us
+    policy: Proxy
+- domain_suffix:
+    match: account-paypal.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-scoop.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-network.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-merchantloyalty.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-japan.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-donations.com
     policy: Proxy
 - domain_suffix:
     match: paypalonline.net
     policy: Proxy
 - domain_suffix:
-    match: paypal-hrsystem.com
+    match: krakenjs.com
+    policy: Proxy
+- domain_suffix:
+    match: paily.org
+    policy: Proxy
+- domain_suffix:
+    match: getbraintree.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalcredit.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-retail.com
+    policy: Proxy
+- domain_suffix:
+    match: braintreepayments.org
+    policy: Proxy
+- domain_suffix:
+    match: pppds.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-secure.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-signin.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-signin.us
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.net
+    policy: Proxy
+- domain_suffix:
+    match: paypalhere.com
+    policy: Proxy
+- domain_suffix:
+    match: thepaypalshop.com
+    policy: Proxy
+- domain_suffix:
+    match: experiencebillmelater.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-prepagata.com
+    policy: Proxy
+- domain_suffix:
+    match: login-paypal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalprepagata.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-portal.com
+    policy: Proxy
+- domain_suffix:
+    match: filipino-music.net
+    policy: Proxy
+- domain_suffix:
+    match: paypalbeacon.com
+    policy: Proxy
+- domain_suffix:
+    match: s-xoom.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-database.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.us
+    policy: Proxy
+- domain_suffix:
+    match: paypaly.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.com.cn
     policy: Proxy
 - domain_suffix:
     match: pp-soc.com
@@ -55,688 +565,175 @@ rules:
     match: paypal-login.info
     policy: Proxy
 - domain_suffix:
-    match: paypal-pages.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-activate.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-merchantloyalty.com
-    policy: Proxy
-- domain_suffix:
-    match: briantreepayments.net
-    policy: Proxy
-- domain_suffix:
-    match: bill-safe.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-center.org
-    policy: Proxy
-- domain_suffix:
-    match: pypl.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalobjects.com
-    policy: Proxy
-- domain_suffix:
-    match: mywaytopay.net
-    policy: Proxy
-- domain_suffix:
-    match: card.io
-    policy: Proxy
-- domain_suffix:
-    match: paypal-security.org
-    policy: Proxy
-- domain_suffix:
-    match: bml.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-community.com
-    policy: Proxy
-- domain_suffix:
-    match: experiencebillmelater.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-forward.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-secure.org
-    policy: Proxy
-- domain_suffix:
-    match: venmo-touch.com
-    policy: Proxy
-- domain_suffix:
-    match: login-paypal.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreepayments.tv
-    policy: Proxy
-- domain_suffix:
-    match: xoom.net.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypalshopping.net
-    policy: Proxy
-- domain_suffix:
-    match: xn--bnq297cix3a.cn
-    policy: Proxy
-- domain_suffix:
-    match: account-paypal.info
-    policy: Proxy
-- domain_suffix:
-    match: buyfast-paysmart.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalcorp.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreeps.com
-    policy: Proxy
-- domain_suffix:
-    match: theshoppingexpresslane.net
-    policy: Proxy
-- domain_suffix:
-    match: www-paypal.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal.ca
-    policy: Proxy
-- domain_suffix:
-    match: paypalcredit.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreepayments.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-business.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreepayments.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-photocard.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalnet.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalbeacon.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-login.us
-    policy: Proxy
-- domain_suffix:
-    match: paypal-gift.com
-    policy: Proxy
-- domain_suffix:
-    match: accountpaypal.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-apac.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreegateway.com
-    policy: Proxy
-- domain_suffix:
-    match: swiftfinancial.com
-    policy: Proxy
-- domain_suffix:
-    match: accountpaypal.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalcommunity.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-online.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-innovationlab.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-donations.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalcommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-comunidad.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: paypal.so
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.net
-    policy: Proxy
-- domain_suffix:
-    match: paypa1.org
-    policy: Proxy
-- domain_suffix:
-    match: paypalshopping.com
-    policy: Proxy
-- domain_suffix:
-    match: filipino-music.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-business.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypall.com
-    policy: Proxy
-- domain_suffix:
-    match: venmo.s3.amazonaws.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-europe.com
-    policy: Proxy
-- domain_suffix:
-    match: pypl.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-knowledge.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-support.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalcreditcard.com
-    policy: Proxy
-- domain_suffix:
-    match: swiftbank.us
-    policy: Proxy
-- domain_suffix:
-    match: paypalcommunity.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalbenefits.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-mainstreet.net
-    policy: Proxy
-- domain_suffix:
-    match: simility.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-prepaid.com
-    policy: Proxy
-- domain_suffix:
-    match: payppal.com
-    policy: Proxy
-- domain_suffix:
-    match: gmoney.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-excelinvoicing.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-notice.com
-    policy: Proxy
-- domain_suffix:
-    match: accountpaypal.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalnet.org
-    policy: Proxy
-- domain_suffix:
-    match: webmoneyinfo.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-search.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalme.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-dynamic.com
-    policy: Proxy
-- domain_suffix:
-    match: login-paypal.info
-    policy: Proxy
-- domain_suffix:
-    match: venmo.com
-    policy: Proxy
-- domain_suffix:
-    match: billmelater.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-activate.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-marketing.com
-    policy: Proxy
-- domain_suffix:
-    match: xoom.us
-    policy: Proxy
-- domain_suffix:
-    match: braintree-api.com
-    policy: Proxy
-- domain_suffix:
-    match: cash2.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalnetwork.net
-    policy: Proxy
-- domain_suffix:
-    match: account-paypal.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-media.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-status.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalinsuranceservices.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-redeem.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-scoop.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-team.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalprepagata.com
-    policy: Proxy
-- domain_suffix:
-    match: paaypal.com
-    policy: Proxy
-- domain_suffix:
-    match: anfutong.com
-    policy: Proxy
-- domain_suffix:
-    match: payypal.com
-    policy: Proxy
-- domain_suffix:
-    match: devtools-paypal.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreepayments.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-exchanges.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-login.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-japan.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-center.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-viewpoints.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-signin.us
-    policy: Proxy
-- domain_suffix:
-    match: paypal-here.com
-    policy: Proxy
-- domain_suffix:
-    match: pypl.tv
-    policy: Proxy
-- domain_suffix:
-    match: paypal-retail.com
-    policy: Proxy
-- domain_suffix:
-    match: swiftcapital.com
-    policy: Proxy
-- domain_suffix:
-    match: loanbuilder.com
-    policy: Proxy
-- domain_suffix:
-    match: beibao.com
-    policy: Proxy
-- domain_suffix:
-    match: paypallabs.com
-    policy: Proxy
-- domain_suffix:
-    match: billmelater.info
-    policy: Proxy
-- domain_suffix:
-    match: s-xoom.com
-    policy: Proxy
-- domain_suffix:
-    match: venmo.net
-    policy: Proxy
-- domain_suffix:
-    match: swiftfinancial.info
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypal-special.com
-    policy: Proxy
-- domain_suffix:
-    match: mywaytopay.info
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypa1.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-security.net
-    policy: Proxy
-- domain_suffix:
-    match: fundpaypal.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-cash.com
-    policy: Proxy
-- domain_suffix:
-    match: sslpaypal.org
-    policy: Proxy
-- domain_suffix:
-    match: paypalprepagata.net
-    policy: Proxy
-- domain_suffix:
-    match: paypal-labs.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-secure.net
-    policy: Proxy
-- domain_suffix:
-    match: paypali.net
-    policy: Proxy
-- domain_suffix:
-    match: account-paypal.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-notify.com
-    policy: Proxy
-- domain_suffix:
-    match: braintreegateway.tv
-    policy: Proxy
-- domain_suffix:
-    match: paypal-online.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-referral.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalbrasil.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-online.net
-    policy: Proxy
-- domain_suffix:
     match: paypal.net.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypal-portal.com
-    policy: Proxy
-- domain_suffix:
-    match: cashify.net
-    policy: Proxy
-- domain_suffix:
-    match: pppds.com
     policy: Proxy
 - domain_suffix:
     match: paypal-community.net
     policy: Proxy
 - domain_suffix:
-    match: paypal-galactic.com
+    match: billmelater.info
     policy: Proxy
 - domain_suffix:
-    match: beibao.cn
+    match: paaypal.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-business.net
-    policy: Proxy
-- domain_suffix:
-    match: secure-paypal.info
-    policy: Proxy
-- domain_suffix:
-    match: xoom.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-database.us
-    policy: Proxy
-- domain_suffix:
-    match: paypalgivingfund.org
-    policy: Proxy
-- domain_suffix:
-    match: anfutong.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: pavpal.com
-    policy: Proxy
-- domain_suffix:
-    match: cashify.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalx.com
-    policy: Proxy
-- domain_suffix:
-    match: paily.org
-    policy: Proxy
-- domain_suffix:
-    match: thepaypalshop.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal.jp
-    policy: Proxy
-- domain_suffix:
-    match: paypal-gifts.com
-    policy: Proxy
-- domain_suffix:
-    match: pypl.info
-    policy: Proxy
-- domain_suffix:
-    match: paypalinc.com
-    policy: Proxy
-- domain_suffix:
-    match: venmo.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-biz.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-corp.com
-    policy: Proxy
-- domain_suffix:
-    match: xoom-experience.com
-    policy: Proxy
-- domain_suffix:
-    match: anfutong.cn
-    policy: Proxy
-- domain_suffix:
-    match: swiftbank.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-activate.info
-    policy: Proxy
-- domain_suffix:
-    match: swiftfinancial.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalnetwork.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-luxury.com
-    policy: Proxy
-- domain_suffix:
-    match: paypaly.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.tv
-    policy: Proxy
-- domain_suffix:
-    match: paypal-integration.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal.org.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypal-profile.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-prepagata.net
+    match: paypal-forward.com
     policy: Proxy
 - domain_suffix:
     match: paypal-login.com
     policy: Proxy
 - domain_suffix:
-    match: paypal.info
-    policy: Proxy
-- domain_suffix:
-    match: paypal-specialoffers.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-network.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-latam.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-proserv.com
-    policy: Proxy
-- domain_suffix:
-    match: paypalhere.info
-    policy: Proxy
-- domain_suffix:
-    match: paipal.com
-    policy: Proxy
-- domain_suffix:
-    match: billmelater.com
-    policy: Proxy
-- domain_suffix:
-    match: xoom.io
-    policy: Proxy
-- domain_suffix:
-    match: paypalsurvey.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-apps.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal.me
-    policy: Proxy
-- domain_suffix:
-    match: paypal-plaza.com
-    policy: Proxy
-- domain_suffix:
-    match: paylike.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-engineering.com
-    policy: Proxy
-- domain_suffix:
-    match: venmo.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-communication.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-brandcentral.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-database.com
+    match: paypal.org.cn
     policy: Proxy
 - domain_suffix:
     match: paypaal.com
     policy: Proxy
 - domain_suffix:
+    match: paypalnetwork.org
+    policy: Proxy
+- domain_suffix:
+    match: paypalnet.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-activate.org
+    policy: Proxy
+- domain_suffix:
     match: paypal.com.sg
     policy: Proxy
 - domain_suffix:
-    match: pa9pal.com
+    match: swiftfinancial.net
     policy: Proxy
 - domain_suffix:
-    match: paypal-qrshopping.org
+    match: paypal.com.hk
     policy: Proxy
 - domain_suffix:
-    match: paypal.us
+    match: pypl.info
     policy: Proxy
 - domain_suffix:
-    match: securepaypal.info
+    match: paypa1.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-signin.com
+    match: sslpaypal.org
     policy: Proxy
 - domain_suffix:
-    match: paypalservice.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-sptam.com
-    policy: Proxy
-- domain_suffix:
-    match: wiremoneytoirelandwithxoomeasierandcheaper.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal.hk
-    policy: Proxy
-- domain_suffix:
-    match: ppaypal.com
-    policy: Proxy
-- domain_suffix:
-    match: paypal-service.org
-    policy: Proxy
-- domain_suffix:
-    match: paypal-optimizer.com
-    policy: Proxy
-- domain_suffix:
-    match: www-paypal.us
-    policy: Proxy
-- domain_suffix:
-    match: xoomcom.com
-    policy: Proxy
-- domain_suffix:
-    match: paily.net
-    policy: Proxy
-- domain_suffix:
-    match: paypalonline.org
-    policy: Proxy
-- domain_suffix:
-    match: paypalnetwork.info
-    policy: Proxy
-- domain_suffix:
-    match: krakenjs.com
+    match: pypl.tv
     policy: Proxy
 - domain_suffix:
     match: paypal-cardcash.com
     policy: Proxy
 - domain_suffix:
-    match: paypalhere.org
+    match: paypallabs.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-center.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-search.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-online.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-prepagata.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-knowledge.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalcreditcard.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-login.org
+    policy: Proxy
+- domain_suffix:
+    match: paypalshopping.net
+    policy: Proxy
+- domain_suffix:
+    match: paypal-notify.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-optimizer.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalcommunity.net
+    policy: Proxy
+- domain_suffix:
+    match: accountpaypal.org
+    policy: Proxy
+- domain_suffix:
+    match: paypal-latam.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-mobilemoney.com
+    policy: Proxy
+- domain_suffix:
+    match: cashify.com
+    policy: Proxy
+- domain_suffix:
+    match: venmo.org
+    policy: Proxy
+- domain_suffix:
+    match: ppaypal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-cash.com
+    policy: Proxy
+- domain_suffix:
+    match: login-paypal.info
+    policy: Proxy
+- domain_suffix:
+    match: devtools-paypal.com
+    policy: Proxy
+- domain_suffix:
+    match: paypalprepagata.com
     policy: Proxy
 - domain_suffix:
     match: braintreepaymentsolutions.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-communications.net
+    match: briantreepayments.tv
     policy: Proxy
 - domain_suffix:
-    match: paypal-survey.com
+    match: paypalcommunity.com
     policy: Proxy
 - domain_suffix:
-    match: paypal-center.com
+    match: braintreepayments.tv
+    policy: Proxy
+- domain_suffix:
+    match: paypal-support.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-communications.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal-excelinvoicing.com
+    policy: Proxy
+- domain_suffix:
+    match: venmo.com
+    policy: Proxy
+- domain_suffix:
+    match: paypal.me
+    policy: Proxy
+- domain_suffix:
+    match: payppal.com
+    policy: Proxy
+- domain_suffix:
+    match: billmelater.net
+    policy: Proxy
+- domain_suffix:
+    match: bml.info
+    policy: Proxy
+- domain_suffix:
+    match: paypal-luxury.com
+    policy: Proxy
+- domain_suffix:
+    match: wwwxoom.com
+    policy: Proxy
+- domain_suffix:
+    match: braintreepayments.com
     policy: Proxy
 - domain_suffix:
     match: paypal-survey.org
-    policy: Proxy
-- domain_suffix:
-    match: beibao.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: paypalindia.com
     policy: Proxy
 - domain:
     match: venmo.s3.amazonaws.com

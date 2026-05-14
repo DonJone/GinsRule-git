@@ -2,8 +2,6 @@ DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,api.imem.app
-DOMAIN-SUFFIX,api.swiftgram.app
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
@@ -26,11 +24,6 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
-IP-ASN,211157
-IP-ASN,44907
-IP-ASN,59930
-IP-ASN,62014
-IP-ASN,62041
 IP-CIDR,109.239.140.0/24
 IP-CIDR,139.59.210.98/32
 IP-CIDR,149.154.160.0/20
@@ -44,3 +37,4 @@ IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48
 IP-CIDR6,2a0a:f280::/29
 IP-CIDR6,2a0a:f280::/32
+PROCESS-NAME,org.telegram.messenger

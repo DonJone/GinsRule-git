@@ -1,17 +1,17 @@
 # Gins-Rules: mihoyo
 rules:
 - domain_suffix:
-    match: mihoyo.com
+    match: mob.com
     policy: Proxy
 - domain_suffix:
-    match: bh3.com
+    match: yuanshen.com
     policy: Proxy
 - domain_suffix:
     match: miyoushe.com
     policy: Proxy
 - domain_suffix:
-    match: mob.com
+    match: bh3.com
     policy: Proxy
 - domain_suffix:
-    match: yuanshen.com
+    match: mihoyo.com
     policy: Proxy

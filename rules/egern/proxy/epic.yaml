@@ -1,14 +1,14 @@
 # Gins-Rules: epic
 rules:
 - domain_suffix:
-    match: epicgames.dev
+    match: unrealengine.com
     policy: Proxy
 - domain_suffix:
     match: epicgames.com
     policy: Proxy
 - domain_suffix:
-    match: unrealengine.com
+    match: ol.epicgames.com
     policy: Proxy
 - domain_suffix:
-    match: ol.epicgames.com
+    match: epicgames.dev
     policy: Proxy

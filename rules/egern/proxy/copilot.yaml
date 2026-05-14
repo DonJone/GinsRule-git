@@ -1,16 +1,16 @@
 # Gins-Rules: copilot
 rules:
 - domain_suffix:
-    match: default.exp-tas.com
-    policy: Proxy
-- domain_suffix:
     match: copilot.microsoft.com
     policy: Proxy
 - domain_suffix:
-    match: copilot.github.com
+    match: copilot-proxy.githubusercontent.com
     policy: Proxy
 - domain_suffix:
-    match: copilot-telemetry.githubusercontent.com
+    match: bing.com
+    policy: Proxy
+- domain_suffix:
+    match: copilot.github.com
     policy: Proxy
 - domain_suffix:
     match: api.githubcopilot.com
@@ -19,10 +19,10 @@ rules:
     match: githubcopilot.com
     policy: Proxy
 - domain_suffix:
-    match: bing.com
+    match: copilot-telemetry.githubusercontent.com
     policy: Proxy
 - domain_suffix:
-    match: copilot-proxy.githubusercontent.com
+    match: default.exp-tas.com
     policy: Proxy
 - domain:
     match: sydney.bing.com

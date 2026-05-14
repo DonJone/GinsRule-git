@@ -1,0 +1,22 @@
+# Gins-Rules: joox
+rules:
+- domain_suffix:
+    match: i-joox.com
+    policy: Proxy
+- domain_suffix:
+    match: sanook.com
+    policy: Proxy
+- domain_suffix:
+    match: joox.com
+    policy: Proxy
+- domain_keyword:
+    match: jooxweb-api
+    policy: Proxy
+- ip_cidr:
+    match: 119.28.182.0/23
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.205.234.0/23
+    no_resolve: 'true'
+    policy: Proxy

@@ -1,46 +1,13 @@
 # Gins-Rules: discord
 rules:
 - domain_suffix:
-    match: discordactivities.com
-    policy: Proxy
-- domain_suffix:
-    match: airhornbot.com
+    match: discord.gifts
     policy: Proxy
 - domain_suffix:
     match: discord-activities.com
     policy: Proxy
 - domain_suffix:
-    match: discord.media
-    policy: Proxy
-- domain_suffix:
-    match: hammerandchisel.ssl.zendesk.com
-    policy: Proxy
-- domain_suffix:
-    match: discord.gift
-    policy: Proxy
-- domain_suffix:
-    match: watchanimeattheoffice.com
-    policy: Proxy
-- domain_suffix:
-    match: discord-attachments-uploads-prd.storage.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: airhorn.solutions
-    policy: Proxy
-- domain_suffix:
-    match: discord.tools
-    policy: Proxy
-- domain_suffix:
-    match: discord.gifts
-    policy: Proxy
-- domain_suffix:
-    match: discord.gg
-    policy: Proxy
-- domain_suffix:
-    match: discord.design
-    policy: Proxy
-- domain_suffix:
-    match: discord.new
+    match: bigbeans.solutions
     policy: Proxy
 - domain_suffix:
     match: dis.gd
@@ -49,41 +16,74 @@ rules:
     match: discordpartygames.com
     policy: Proxy
 - domain_suffix:
+    match: discord.com
+    policy: Proxy
+- domain_suffix:
     match: discordstatus.com
     policy: Proxy
 - domain_suffix:
-    match: discord.dev
+    match: discord.tools
     policy: Proxy
 - domain_suffix:
-    match: discordmerch.com
+    match: discord.design
     policy: Proxy
 - domain_suffix:
-    match: discordcdn.com
+    match: discord-attachments-uploads-prd.storage.googleapis.com
     policy: Proxy
 - domain_suffix:
-    match: discordapp.net
+    match: discordactivities.com
     policy: Proxy
 - domain_suffix:
     match: discordapp.com
     policy: Proxy
 - domain_suffix:
-    match: discord.com
+    match: discordsays.com
     policy: Proxy
 - domain_suffix:
-    match: discordsays.com
+    match: discordapp.page.link
+    policy: Proxy
+- domain_suffix:
+    match: discord.gift
+    policy: Proxy
+- domain_suffix:
+    match: watchanimeattheoffice.com
+    policy: Proxy
+- domain_suffix:
+    match: discord.dev
     policy: Proxy
 - domain_suffix:
     match: discord.co
     policy: Proxy
 - domain_suffix:
-    match: bigbeans.solutions
+    match: airhorn.solutions
+    policy: Proxy
+- domain_suffix:
+    match: discord.new
     policy: Proxy
 - domain_suffix:
     match: discordapp.io
     policy: Proxy
 - domain_suffix:
+    match: discordapp.net
+    policy: Proxy
+- domain_suffix:
+    match: discord.gg
+    policy: Proxy
+- domain_suffix:
     match: discord.store
     policy: Proxy
 - domain_suffix:
-    match: discordapp.page.link
+    match: hammerandchisel.ssl.zendesk.com
+    policy: Proxy
+- domain_suffix:
+    match: airhornbot.com
+    policy: Proxy
+- domain_suffix:
+    match: discordcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: discord.media
+    policy: Proxy
+- domain_suffix:
+    match: discordmerch.com
     policy: Proxy

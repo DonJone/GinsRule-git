@@ -1,14 +1,14 @@
 # Gins-Rules: nintendo
 rules:
 - domain_suffix:
-    match: nintendo.com
-    policy: Proxy
-- domain_suffix:
-    match: nintendo.co.jp
+    match: nintendo.net
     policy: Proxy
 - domain_suffix:
     match: nso.nintendo.net
     policy: Proxy
 - domain_suffix:
-    match: nintendo.net
+    match: nintendo.com
+    policy: Proxy
+- domain_suffix:
+    match: nintendo.co.jp
     policy: Proxy

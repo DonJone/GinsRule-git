@@ -1,0 +1,41 @@
+# Gins-Rules: hulu
+rules:
+- domain_suffix:
+    match: huluim.com
+    policy: Proxy
+- domain_suffix:
+    match: prod.hjholdings.tv
+    policy: Proxy
+- domain_suffix:
+    match: happyon.jp
+    policy: Proxy
+- domain_suffix:
+    match: cws-hulu.conviva.com
+    policy: Proxy
+- domain_suffix:
+    match: hulu.jp
+    policy: Proxy
+- domain_suffix:
+    match: hulustream.com
+    policy: Proxy
+- domain_suffix:
+    match: streaks.jp
+    policy: Proxy
+- domain_suffix:
+    match: yb.uncn.jp
+    policy: Proxy
+- domain_suffix:
+    match: huluad.com
+    policy: Proxy
+- domain_suffix:
+    match: hjholdings.jp
+    policy: Proxy
+- domain_suffix:
+    match: hulu.com
+    policy: Proxy
+- domain_suffix:
+    match: hulu.hb.omtrdc.net
+    policy: Proxy
+- domain_suffix:
+    match: hulu.sc.omtrdc.net
+    policy: Proxy

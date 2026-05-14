@@ -1,6 +1,9 @@
 # Gins-Rules: meituan
 rules:
 - domain_suffix:
+    match: meituan.net
+    policy: Proxy
+- domain_suffix:
     match: dianping.com
     policy: Proxy
 - domain_suffix:
@@ -8,7 +11,4 @@ rules:
     policy: Proxy
 - domain_suffix:
     match: meituan.com
-    policy: Proxy
-- domain_suffix:
-    match: meituan.net
     policy: Proxy

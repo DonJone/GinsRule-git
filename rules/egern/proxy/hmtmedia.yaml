@@ -1,0 +1,52 @@
+# Gins-Rules: hmtmedia
+rules:
+- domain_suffix:
+    match: api.mgtv.com
+    policy: Proxy
+- domain:
+    match: cache.video.iqiyi.com
+    policy: Proxy
+- domain:
+    match: api.biliapi.net
+    policy: Proxy
+- domain:
+    match: api.bilibili.com
+    policy: Proxy
+- domain:
+    match: grpc.biliapi.net
+    policy: Proxy
+- domain:
+    match: m.bilibili.com
+    policy: Proxy
+- domain:
+    match: upos-hz-mirrorakam.akamaized.net
+    policy: Proxy
+- domain:
+    match: app.biliapi.com
+    policy: Proxy
+- domain:
+    match: app.bilibili.com
+    policy: Proxy
+- domain:
+    match: api.biliapi.com
+    policy: Proxy
+- domain:
+    match: app.biliapi.net
+    policy: Proxy
+- domain:
+    match: mobileso.bz.mgtv.com
+    policy: Proxy
+- domain:
+    match: www.bilibili.com
+    policy: Proxy
+- domain_keyword:
+    match: cn-hk-eq-bcache-
+    policy: Proxy
+- ip_cidr:
+    match: 116.211.202.216/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 116.211.202.206/32
+    no_resolve: 'true'
+    policy: Proxy

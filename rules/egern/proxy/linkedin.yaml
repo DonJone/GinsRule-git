@@ -1,14 +1,38 @@
 # Gins-Rules: linkedin
 rules:
 - domain_suffix:
-    match: licdn.com
+    match: lnkd.in
+    policy: Proxy
+- domain_suffix:
+    match: linkedin.at
+    policy: Proxy
+- domain_suffix:
+    match: linkedin.cn
+    policy: Proxy
+- domain_suffix:
+    match: l-0005.dc-msedge.net
+    policy: Proxy
+- domain_suffix:
+    match: l-0005.l-msedge.net
     policy: Proxy
 - domain_suffix:
     match: linkedin.com
     policy: Proxy
 - domain_suffix:
-    match: lnkd.in
+    match: licdn.cn
     policy: Proxy
 - domain_suffix:
-    match: linkedin.cn
+    match: licdn.com
+    policy: Proxy
+- domain_suffix:
+    match: bizographics.com
+    policy: Proxy
+- domain:
+    match: e122475.dscg.akamaiedge.net
+    policy: Proxy
+- domain:
+    match: licdn.cn.cdn20.com
+    policy: Proxy
+- domain:
+    match: linkedin.sc.omtrdc.net
     policy: Proxy

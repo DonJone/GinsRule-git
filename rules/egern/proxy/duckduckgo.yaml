@@ -1,10 +1,10 @@
 # Gins-Rules: duckduckgo
 rules:
 - domain_suffix:
-    match: duck.com
+    match: ddg.gg
     policy: Proxy
 - domain_suffix:
-    match: ddg.gg
+    match: duck.com
     policy: Proxy
 - domain_suffix:
     match: duckduckgo.com

@@ -1,16 +1,193 @@
 # Gins-Rules: speedtest
 rules:
 - domain_suffix:
-    match: fast.com
+    match: speed.hinet.net
     policy: Proxy
 - domain_suffix:
-    match: pingtest.net
+    match: speedtest.gslnetworks.com.au
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.surfshark.com
+    policy: Proxy
+- domain_suffix:
+    match: ookla.rcp.net
+    policy: Proxy
+- domain_suffix:
+    match: nperf.net
+    policy: Proxy
+- domain_suffix:
+    match: backend.librespeed.org
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.dchost.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.comnet.com.tr
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.labixe.net
     policy: Proxy
 - domain_suffix:
     match: speedtest.net
     policy: Proxy
 - domain_suffix:
-    match: webtest.net
+    match: speedtest.royalehosting.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.vipnetconexao.com.br
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.faelix.net
+    policy: Proxy
+- domain_suffix:
+    match: cellmaps.com
+    policy: Proxy
+- domain_suffix:
+    match: srvr.bell.ca
+    policy: Proxy
+- domain_suffix:
+    match: speed.misaka.one
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.hk.chinamobile.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.tjokas.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtestbb.hk.chinamobile.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.serverside.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.centurylink.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.i3d.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.telstra.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.timeweb.ru
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.ozarksgo.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtestunonet.com.br
+    policy: Proxy
+- domain_suffix:
+    match: wifiman-stability-test.ubncloud.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.love
+    policy: Proxy
+- domain_suffix:
+    match: test.gslnetworks.com.au
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.kansuiun.com
+    policy: Proxy
+- domain_suffix:
+    match: open.cachefly.net
+    policy: Proxy
+- domain_suffix:
+    match: speednet.net.tr
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.angolacables.co.ao
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.singnet.com.sg
+    policy: Proxy
+- domain_suffix:
+    match: speed.pfm.gg
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.aptg.com.tw
+    policy: Proxy
+- domain_suffix:
+    match: speedtestcustom.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.seattle.wa.limewave.net
+    policy: Proxy
+- domain_suffix:
+    match: wifiman.ubncloud.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.6667890.xyz
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.alagas.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.clouvider.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.linode.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.ropa.de
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.contabo.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.airlinkdc.com
+    policy: Proxy
+- domain_suffix:
+    match: cdnst.net
+    policy: Proxy
+- domain_suffix:
+    match: wifiman.com
+    policy: Proxy
+- domain_suffix:
+    match: pingtest.net
+    policy: Proxy
+- domain_suffix:
+    match: measurementlab.net
+    policy: Proxy
+- domain_suffix:
+    match: ookla-speedtest.fsr.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.highnet.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.warian.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.optitel.com.au
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.custom
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.moack.co.kr
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.pni.tw
+    policy: Proxy
+- domain_suffix:
+    match: hizinitestet.com
+    policy: Proxy
+- domain_suffix:
+    match: mlab-oti.measurement-lab.org
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.telus.com
+    policy: Proxy
+- domain_suffix:
+    match: mensura.cdn-apple.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.vianet.ca
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.gibir.net.tr
     policy: Proxy
 - domain_suffix:
     match: ekahau.cloud
@@ -19,28 +196,118 @@ rules:
     match: speed.cloudflare.com
     policy: Proxy
 - domain_suffix:
-    match: ekahau.com
+    match: ookla.ddnsgeek.com
     policy: Proxy
 - domain_suffix:
-    match: speedtest.co
+    match: linknetspeedtest.net.br
     policy: Proxy
 - domain_suffix:
-    match: speedtestcustom.com
+    match: fast.com
     policy: Proxy
 - domain_suffix:
-    match: cellmaps.com
-    policy: Proxy
-- domain_suffix:
-    match: ookla.com
+    match: speedtest.rascom.ru
     policy: Proxy
 - domain_suffix:
     match: ooklaserver.net
     policy: Proxy
 - domain_suffix:
+    match: speedtest.sbcglobal.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.waicore.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.idv.tw
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.mtnetworks.mn
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.orange.fr
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.aarnet.net.au
+    policy: Proxy
+- domain_suffix:
+    match: wifiman.me
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.pavlovmedia.net
+    policy: Proxy
+- domain_suffix:
+    match: ookla.com
+    policy: Proxy
+- domain_suffix:
     match: speed.dler.io
     policy: Proxy
 - domain_suffix:
-    match: cdnst.net
+    match: speed.googlefiber.net
+    policy: Proxy
+- domain_suffix:
+    match: measurement-lab.org
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.leaptel.com.au
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.sits.su
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.soraxus.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.co
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.tigo.cr
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.rit.edu
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.windstream.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.rt.ru
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.com.sg
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.vodafone.com.au
+    policy: Proxy
+- domain_suffix:
+    match: webtest.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.exetel.com.au
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.starhub.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.jsinfo.net
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.macpaw.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.cmcnetworks.net
+    policy: Proxy
+- domain_suffix:
+    match: ookla-speedtests.e2ro.com
+    policy: Proxy
+- domain_suffix:
+    match: ekahau.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.gslnetworks.com
+    policy: Proxy
+- domain_suffix:
+    match: netspeedtestmaster.com
+    policy: Proxy
+- domain_suffix:
+    match: speedtest.frontier.com
     policy: Proxy
 - domain_keyword:
     match: speedtest

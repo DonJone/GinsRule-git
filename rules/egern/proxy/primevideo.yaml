@@ -1,14 +1,86 @@
 # Gins-Rules: primevideo
 rules:
 - domain_suffix:
-    match: primevideo.com
+    match: amazonvideo.com
     policy: Proxy
 - domain_suffix:
-    match: atv-ps.amazon.com
+    match: media-amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: llnwd.net
+    policy: Proxy
+- domain_suffix:
+    match: amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: amazonprimevideos.com
     policy: Proxy
 - domain_suffix:
     match: aiv-cdn.net
     policy: Proxy
 - domain_suffix:
-    match: amazonvideo.com
+    match: amazonprimevideo.cn
+    policy: Proxy
+- domain_suffix:
+    match: aiv-delivery.net
+    policy: Proxy
+- domain_suffix:
+    match: amazonprimevideo.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: amazonvideo.cc
+    policy: Proxy
+- domain_suffix:
+    match: fls-na.amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: avodmp4s3ww-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: prime-video.com
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.info
+    policy: Proxy
+- domain_suffix:
+    match: pv-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.org
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.tv
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.cc
+    policy: Proxy
+- domain_suffix:
+    match: atv-ps.amazon.com
+    policy: Proxy
+- domain_suffix:
+    match: primevideo.com
+    policy: Proxy
+- domain:
+    match: dmqdd6hw24ucf.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d25xi40x97liuc.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d27xxe7juh1us6.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d1v5ir2lpwr8os.cloudfront.net
+    policy: Proxy
+- domain:
+    match: d22qjgkvxw22r6.cloudfront.net
+    policy: Proxy
+- domain_keyword:
+    match: avoddashs
+    policy: Proxy
+- user_agent:
+    match: InstantVideo.US*
+    policy: Proxy
+- user_agent:
+    match: Prime%20Video*
     policy: Proxy

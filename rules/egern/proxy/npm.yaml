@@ -1,13 +1,34 @@
 # Gins-Rules: npm
 rules:
 - domain_suffix:
+    match: pypi.org
+    policy: Proxy
+- domain_suffix:
     match: cocoapods.org
     policy: Proxy
 - domain_suffix:
-    match: npmjs.org
+    match: crates.io
     policy: Proxy
 - domain_suffix:
-    match: packagist.org
+    match: gradle.org
+    policy: Proxy
+- domain_suffix:
+    match: mvnrepository.com
+    policy: Proxy
+- domain_suffix:
+    match: npm.community
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.com
+    policy: Proxy
+- domain_suffix:
+    match: jsdelivr.net
+    policy: Proxy
+- domain_suffix:
+    match: pythonhosted.org
+    policy: Proxy
+- domain_suffix:
+    match: npmjs.org
     policy: Proxy
 - domain_suffix:
     match: rubygems.org
@@ -16,23 +37,5 @@ rules:
     match: unpkg.com
     policy: Proxy
 - domain_suffix:
-    match: crates.io
-    policy: Proxy
-- domain_suffix:
-    match: npmjs.com
-    policy: Proxy
-- domain_suffix:
-    match: gradle.org
-    policy: Proxy
-- domain_suffix:
-    match: pythonhosted.org
-    policy: Proxy
-- domain_suffix:
-    match: mvnrepository.com
-    policy: Proxy
-- domain_suffix:
-    match: pypi.org
-    policy: Proxy
-- domain_suffix:
-    match: jsdelivr.net
+    match: packagist.org
     policy: Proxy

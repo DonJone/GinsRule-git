@@ -4,34 +4,34 @@ rules:
     match: economist.com
     policy: Proxy
 - domain_suffix:
-    match: wsj.com
+    match: ft.com
     policy: Proxy
 - domain_suffix:
-    match: cnn.com
-    policy: Proxy
-- domain_suffix:
-    match: apnews.com
+    match: washingtonpost.com
     policy: Proxy
 - domain_suffix:
     match: nytimes.com
     policy: Proxy
 - domain_suffix:
-    match: bbc.co.uk
+    match: wsj.com
     policy: Proxy
 - domain_suffix:
-    match: reuters.com
+    match: apnews.com
     policy: Proxy
 - domain_suffix:
     match: bbc.com
     policy: Proxy
 - domain_suffix:
-    match: ft.com
+    match: bbc.co.uk
     policy: Proxy
 - domain_suffix:
     match: bloomberg.com
     policy: Proxy
 - domain_suffix:
-    match: washingtonpost.com
+    match: cnn.com
+    policy: Proxy
+- domain_suffix:
+    match: reuters.com
     policy: Proxy
 - domain_suffix:
     match: theguardian.com

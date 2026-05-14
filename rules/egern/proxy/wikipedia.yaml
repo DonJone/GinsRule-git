@@ -1,34 +1,28 @@
 # Gins-Rules: wikipedia
 rules:
 - domain_suffix:
-    match: mediawiki.org
+    match: wikiquote.org
     policy: Proxy
 - domain_suffix:
-    match: wikiversity.org
+    match: mediawiki.org
     policy: Proxy
 - domain_suffix:
     match: wikidata.org
     policy: Proxy
 - domain_suffix:
-    match: wikibooks.org
-    policy: Proxy
-- domain_suffix:
-    match: wikiquote.org
+    match: wikimedia.org
     policy: Proxy
 - domain_suffix:
     match: wikipedia.org
     policy: Proxy
 - domain_suffix:
+    match: wikiversity.org
+    policy: Proxy
+- domain_suffix:
     match: wikivoyage.org
     policy: Proxy
 - domain_suffix:
-    match: wikimedia.org
-    policy: Proxy
-- domain_suffix:
-    match: wikisource.org
-    policy: Proxy
-- domain_suffix:
-    match: wikileaks.org
+    match: wikiwand.com
     policy: Proxy
 - domain_suffix:
     match: wikinews.org
@@ -37,5 +31,11 @@ rules:
     match: wiktionary.org
     policy: Proxy
 - domain_suffix:
-    match: wikiwand.com
+    match: wikibooks.org
+    policy: Proxy
+- domain_suffix:
+    match: wikileaks.org
+    policy: Proxy
+- domain_suffix:
+    match: wikisource.org
     policy: Proxy

@@ -2,8 +2,6 @@ DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,api.imem.app
-DOMAIN-SUFFIX,api.swiftgram.app
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com

@@ -1,11 +1,17 @@
 # Gins-Rules: instagram
 rules:
 - domain_suffix:
-    match: instagr.am
-    policy: Proxy
-- domain_suffix:
     match: instagram.com
     policy: Proxy
 - domain_suffix:
     match: cdninstagram.com
+    policy: Proxy
+- domain_suffix:
+    match: ig.me
+    policy: Proxy
+- domain_suffix:
+    match: instagr.am
+    policy: Proxy
+- domain_keyword:
+    match: instagram
     policy: Proxy

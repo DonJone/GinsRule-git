@@ -3,6 +3,7 @@
 .gradle.org
 .jsdelivr.net
 .mvnrepository.com
+.npm.community
 .npmjs.com
 .npmjs.org
 .packagist.org

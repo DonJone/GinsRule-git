@@ -1,0 +1,3 @@
+.soku.com
+.ykimg.com
+.youku.com

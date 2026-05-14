@@ -1,0 +1,14 @@
+# Gins-Rules: soundcloud
+rules:
+- domain_suffix:
+    match: sndcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: soundcloud.com
+    policy: Proxy
+- domain_suffix:
+    match: p-cdn.us
+    policy: Proxy
+- user_agent:
+    match: SoundCloud*
+    policy: Proxy

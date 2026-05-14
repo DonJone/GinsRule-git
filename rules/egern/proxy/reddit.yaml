@@ -1,14 +1,14 @@
 # Gins-Rules: reddit
 rules:
 - domain_suffix:
-    match: reddit.com
-    policy: Proxy
-- domain_suffix:
-    match: redditstatic.com
-    policy: Proxy
-- domain_suffix:
     match: redditmedia.com
     policy: Proxy
 - domain_suffix:
     match: redd.it
+    policy: Proxy
+- domain_suffix:
+    match: reddit.com
+    policy: Proxy
+- domain_suffix:
+    match: redditstatic.com
     policy: Proxy

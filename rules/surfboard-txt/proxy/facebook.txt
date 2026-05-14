@@ -224,6 +224,7 @@
 .facebooktv.org
 .facebookvacation.com
 .facebookw.com
+.facebookwlmail.com
 .facebookwork.com
 .facebookworld.com
 .facebool.com

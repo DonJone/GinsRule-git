@@ -1,13 +1,8 @@
-.*com.google.ios.youtubemusic*
-.404: Not Found
-.com.google.ios.youtube*
-.com.google.ios.youtubemusic*
 .ggpht.cn
 .ggpht.com
 .googlevideo.com
 .gvt1.com
 .gvt2.com
-.music.youtube.com
 .video.google.com
 .wide-youtube.l.google.com
 .withyoutube.com
@@ -181,7 +176,6 @@
 .youtubekids.com
 .youtubemobilesupport.com
 .yt.be
-.yt3.ggpht.com
 .ytimg.com
 music.youtube.com
 youtubei.googleapis.com

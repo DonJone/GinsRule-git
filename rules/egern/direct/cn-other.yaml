@@ -1,25 +1,22 @@
 # Gins-Rules: cn-other
 rules:
 - domain_suffix:
-    match: iqiyipic.com
+    match: kuwo.cn
     policy: Proxy
 - domain_suffix:
-    match: gaode.com
+    match: iqiyi.com
+    policy: Proxy
+- domain_suffix:
+    match: sogo.com
     policy: Proxy
 - domain_suffix:
     match: cnzz.com
     policy: Proxy
 - domain_suffix:
-    match: 12306.cn
-    policy: Proxy
-- domain_suffix:
-    match: youku.com
+    match: sogou.com
     policy: Proxy
 - domain_suffix:
     match: mgtv.com
-    policy: Proxy
-- domain_suffix:
-    match: hunantv.com
     policy: Proxy
 - domain_suffix:
     match: soku.com
@@ -28,44 +25,47 @@ rules:
     match: 95516.com
     policy: Proxy
 - domain_suffix:
-    match: kugou.com
+    match: cibntv.net
     policy: Proxy
 - domain_suffix:
-    match: tudou.com
-    policy: Proxy
-- domain_suffix:
-    match: sohu.com
-    policy: Proxy
-- domain_suffix:
-    match: unionpay.com
-    policy: Proxy
-- domain_suffix:
-    match: sogou.com
-    policy: Proxy
-- domain_suffix:
-    match: cnnic.cn
-    policy: Proxy
-- domain_suffix:
-    match: ifeng.com
+    match: hunantv.com
     policy: Proxy
 - domain_suffix:
     match: umeng.com
     policy: Proxy
 - domain_suffix:
-    match: sogo.com
-    policy: Proxy
-- domain_suffix:
-    match: iqiyi.com
-    policy: Proxy
-- domain_suffix:
-    match: kuwo.cn
+    match: tudou.com
     policy: Proxy
 - domain_suffix:
     match: meitu.com
     policy: Proxy
 - domain_suffix:
-    match: growingio.com
+    match: gaode.com
     policy: Proxy
 - domain_suffix:
-    match: cibntv.net
+    match: unionpay.com
+    policy: Proxy
+- domain_suffix:
+    match: cnnic.cn
+    policy: Proxy
+- domain_suffix:
+    match: 12306.cn
+    policy: Proxy
+- domain_suffix:
+    match: kugou.com
+    policy: Proxy
+- domain_suffix:
+    match: ifeng.com
+    policy: Proxy
+- domain_suffix:
+    match: iqiyipic.com
+    policy: Proxy
+- domain_suffix:
+    match: youku.com
+    policy: Proxy
+- domain_suffix:
+    match: sohu.com
+    policy: Proxy
+- domain_suffix:
+    match: growingio.com
     policy: Proxy

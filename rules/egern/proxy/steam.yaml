@@ -1,10 +1,31 @@
 # Gins-Rules: steam
 rules:
 - domain_suffix:
+    match: steam.tv
+    policy: Proxy
+- domain_suffix:
+    match: steamunlocked.net
+    policy: Proxy
+- domain_suffix:
+    match: wmsjsteam.com
+    policy: Proxy
+- domain_suffix:
     match: valvesoftware.com
     policy: Proxy
 - domain_suffix:
-    match: steamstat.us
+    match: steamstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: steamvideo-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: fanatical.com
+    policy: Proxy
+- domain_suffix:
+    match: steamcommunity-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: steam-api.com
     policy: Proxy
 - domain_suffix:
     match: steam-chat.com
@@ -13,91 +34,61 @@ rules:
     match: steambroadcast.akamaized.net
     policy: Proxy
 - domain_suffix:
-    match: steamusercontent-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steampipe-partner.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: s.team
-    policy: Proxy
-- domain_suffix:
     match: humblebundle.com
-    policy: Proxy
-- domain_suffix:
-    match: steam-api.com
-    policy: Proxy
-- domain_suffix:
-    match: underlords.com
-    policy: Proxy
-- domain_suffix:
-    match: steamcommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: steamstore-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steamuserimages-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steampipe-kr.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: steam.tv
-    policy: Proxy
-- domain_suffix:
-    match: fanatical.com
-    policy: Proxy
-- domain_suffix:
-    match: wmsjsteam.com
-    policy: Proxy
-- domain_suffix:
-    match: steamunlocked.net
-    policy: Proxy
-- domain_suffix:
-    match: steamgames.com
-    policy: Proxy
-- domain_suffix:
-    match: steamvideo-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steamcommunity-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steampowered.com
-    policy: Proxy
-- domain_suffix:
-    match: steampipe.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: steammobile.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: steamusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: steamstatic.com
     policy: Proxy
 - domain_suffix:
     match: steamserver.net
     policy: Proxy
 - domain_suffix:
-    match: steamdeck.com
+    match: steampipe.akamaized.net
     policy: Proxy
 - domain_suffix:
     match: playartifact.com
     policy: Proxy
-- domain:
-    match: steampipe.akamaized.net
+- domain_suffix:
+    match: steamstat.us
     policy: Proxy
-- domain:
-    match: steamusercontent-a.akamaihd.net
+- domain_suffix:
+    match: steamcommunity.com
+    policy: Proxy
+- domain_suffix:
+    match: steamusercontent.com
+    policy: Proxy
+- domain_suffix:
+    match: steamgames.com
+    policy: Proxy
+- domain_suffix:
+    match: underlords.com
+    policy: Proxy
+- domain_suffix:
+    match: s.team
+    policy: Proxy
+- domain_suffix:
+    match: steammobile.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: steampipe-kr.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: steamdeck.com
+    policy: Proxy
+- domain_suffix:
+    match: steampipe-partner.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: steampowered.com
     policy: Proxy
 - domain:
     match: steamcommunity-a.akamaihd.net
     policy: Proxy
 - domain:
     match: steambroadcast.akamaized.net
+    policy: Proxy
+- domain:
+    match: steamusercontent-a.akamaihd.net
+    policy: Proxy
+- domain:
+    match: steampipe.akamaized.net
     policy: Proxy
 - domain:
     match: steamstore-a.akamaihd.net

@@ -1,31 +1,25 @@
 # Gins-Rules: twitter
 rules:
 - domain_suffix:
-    match: vine.co
-    policy: Proxy
-- domain_suffix:
-    match: twimg.com
-    policy: Proxy
-- domain_suffix:
-    match: ads-twitter.com
-    policy: Proxy
-- domain_suffix:
-    match: x.com
-    policy: Proxy
-- domain_suffix:
-    match: twitter.biz
-    policy: Proxy
-- domain_suffix:
-    match: cms-twdigitalassets.com
+    match: tellapart.com
     policy: Proxy
 - domain_suffix:
     match: twittercommunity.com
     policy: Proxy
 - domain_suffix:
-    match: twimg.org
+    match: pscp.tv
+    policy: Proxy
+- domain_suffix:
+    match: twttr.net
     policy: Proxy
 - domain_suffix:
     match: twttr.com
+    policy: Proxy
+- domain_suffix:
+    match: x.com
+    policy: Proxy
+- domain_suffix:
+    match: twimg.co
     policy: Proxy
 - domain_suffix:
     match: twitterinc.com
@@ -34,7 +28,31 @@ rules:
     match: twitteroauth.com
     policy: Proxy
 - domain_suffix:
+    match: twimg.org
+    policy: Proxy
+- domain_suffix:
+    match: twtrdns.net
+    policy: Proxy
+- domain_suffix:
+    match: vine.co
+    policy: Proxy
+- domain_suffix:
+    match: ads-twitter.com
+    policy: Proxy
+- domain_suffix:
+    match: grok.com
+    policy: Proxy
+- domain_suffix:
+    match: periscope.tv
+    policy: Proxy
+- domain_suffix:
+    match: twimg.com
+    policy: Proxy
+- domain_suffix:
     match: twitterstat.us
+    policy: Proxy
+- domain_suffix:
+    match: twitpic.com
     policy: Proxy
 - domain_suffix:
     match: t.co
@@ -43,40 +61,22 @@ rules:
     match: tweetdeck.com
     policy: Proxy
 - domain_suffix:
-    match: twtrdns.net
+    match: cms-twdigitalassets.com
     policy: Proxy
 - domain_suffix:
-    match: twitpic.com
-    policy: Proxy
-- domain_suffix:
-    match: pscp.tv
-    policy: Proxy
-- domain_suffix:
-    match: twvid.com
-    policy: Proxy
-- domain_suffix:
-    match: twttr.net
-    policy: Proxy
-- domain_suffix:
-    match: periscope.tv
-    policy: Proxy
-- domain_suffix:
-    match: twitterflightschool.com
-    policy: Proxy
-- domain_suffix:
-    match: tellapart.com
+    match: twitter.biz
     policy: Proxy
 - domain_suffix:
     match: twitter.jp
     policy: Proxy
 - domain_suffix:
+    match: twitterflightschool.com
+    policy: Proxy
+- domain_suffix:
     match: twitter.com
     policy: Proxy
 - domain_suffix:
-    match: grok.com
-    policy: Proxy
-- domain_suffix:
-    match: twimg.co
+    match: twvid.com
     policy: Proxy
 - domain_keyword:
     match: twitter

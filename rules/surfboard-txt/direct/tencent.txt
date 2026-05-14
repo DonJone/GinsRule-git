@@ -25,7 +25,6 @@
 .1browser.net
 .2sos.cn
 .31i9ti.com
-.404: Not Found
 .4short.cn
 .4surl.cn
 .51poweron.com
@@ -73,7 +72,6 @@
 .apaas-zone-test.com
 .apcdns.com
 .apcdns.net
-.apd-pcdnwxlogin.teg.tencent-cloud.net
 .apdcdn.com
 .apdcdn.net
 .api-vod-qcloud.com
@@ -121,7 +119,6 @@
 .box-anchor.com
 .bqqpx.com
 .brawlstars.cn
-.btrace.qq.com
 .build9s.io
 .building9s.io
 .businessinchina.com.cn
@@ -281,8 +278,6 @@
 .discuz.com
 .discuz.net
 .discuz.org
-.dl.wechat.com
-.dldir1.qq.com
 .dllzff.cn
 .dns.pub
 .dnsapi.cn
@@ -1203,13 +1198,7 @@
 .sg-tencentclb.com
 .sg-tencentclb.net
 .sg-tencentclb.work
-.sgfindershort.wechat.com
-.sgilinkshort.wechat.com
-.sglong.wechat.com
-.sgminorshort.wechat.com
-.sgquic.wechat.com
 .sgrastudio.com
-.sgshort.wechat.com
 .sgurl.cn
 .sh-tencentclb.cloud
 .sh-tencentclb.com
@@ -1252,7 +1241,6 @@
 .sjwec-tencentclb.com
 .sjwec-tencentclb.net
 .sjwec-tencentclb.work
-.slife.xy-asia.com
 .smoba.net
 .smtcdns.com
 .smtcdns.net
@@ -1266,7 +1254,6 @@
 .sogou-pdf.com
 .sogou-wallpaper.com
 .soso.com
-.soup.v.qq.com
 .spark-page.com
 .spark-page0.com
 .spark-page1.com
@@ -1838,7 +1825,6 @@
 .tencentlink.com
 .tencentlkfz.com
 .tencentlog.com
-.tencentmap.wechat.com
 .tencentmdb.cn
 .tencentmdb.com
 .tencentmdb.com.cn
@@ -2321,7 +2307,6 @@
 .vurl.tech
 .vurl1.cn
 .vurl3.vip
-.vweixinf.tc.qq.com
 .vweixinthumb.tc.qq.com
 .vxo7tu.com
 .wangzherongyao.com
@@ -2368,7 +2353,6 @@
 .weisurvey.net
 .weixin.com
 .weixin.qq.com
-.weixin110.qq.com
 .weixinbridge.com
 .weixindevelop.com
 .weixinsxy.com
@@ -2418,10 +2402,8 @@
 .wujicode.com
 .wujisite.com
 .wujistatic.com
-.wup.imtt.qq.com
 .wx.gtimg.com
 .wx.qq.com
-.wx.tenpay.com
 .wxamedia.com
 .wxapp.tc.qq.com
 .wxaurl.cn
@@ -2535,3 +2517,21 @@
 .zw-tencentclb.work
 .zxgcloud.com
 .zxgstock.com
+apd-pcdnwxlogin.teg.tencent-cloud.net
+btrace.qq.com
+dl.wechat.com
+dldir1.qq.com
+sgfindershort.wechat.com
+sgilinkshort.wechat.com
+sglong.wechat.com
+sgminorshort.wechat.com
+sgquic.wechat.com
+sgshort.wechat.com
+slife.xy-asia.com
+soup.v.qq.com
+tencentmap.wechat.com
+vweixinf.tc.qq.com
+weixin110.qq.com
+wup.imtt.qq.com
+wx.tenpay.com
+wxapp.tc.qq.com

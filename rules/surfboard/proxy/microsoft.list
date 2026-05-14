@@ -1,4 +1,7 @@
+DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
@@ -156,6 +159,7 @@ DOMAIN-SUFFIX,chinacloud-mobile.cn
 DOMAIN-SUFFIX,chinacloudapi.cn
 DOMAIN-SUFFIX,chinacloudapp.cn
 DOMAIN-SUFFIX,chinacloudsites.cn
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
@@ -652,7 +656,6 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
-DOMAIN-SUFFIX,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
 DOMAIN-SUFFIX,windows
@@ -701,3 +704,5 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater

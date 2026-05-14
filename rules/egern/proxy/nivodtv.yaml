@@ -1,0 +1,35 @@
+# Gins-Rules: nivodtv
+rules:
+- domain_suffix:
+    match: nbys.tv
+    policy: Proxy
+- domain_suffix:
+    match: mudvod.tv
+    policy: Proxy
+- domain_suffix:
+    match: nbyy.tv
+    policy: Proxy
+- domain_suffix:
+    match: newpppp.com
+    policy: Proxy
+- domain_suffix:
+    match: nivod.tv
+    policy: Proxy
+- domain_suffix:
+    match: nivodz.com
+    policy: Proxy
+- domain_suffix:
+    match: vod360.net
+    policy: Proxy
+- domain_suffix:
+    match: nbys1.tv
+    policy: Proxy
+- domain_suffix:
+    match: nivodi.tv
+    policy: Proxy
+- domain_suffix:
+    match: biggggg.com
+    policy: Proxy
+- domain_keyword:
+    match: nivod
+    policy: Proxy

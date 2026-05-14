@@ -1,109 +1,100 @@
 # Gins-Rules: tiktok
 rules:
 - domain_suffix:
-    match: ttwebview.com
-    policy: Proxy
-- domain_suffix:
-    match: muscdn.com
-    policy: Proxy
-- domain_suffix:
-    match: tiktokv.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedapm.com
-    policy: Proxy
-- domain_suffix:
-    match: ttwstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: musical.ly
-    policy: Proxy
-- domain_suffix:
-    match: trae-api-sg.mchost.guru
-    policy: Proxy
-- domain_suffix:
-    match: p16-tiktokcdn-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: ipstatp.com
-    policy: Proxy
-- domain_suffix:
-    match: tiktokcdn-us.com
-    policy: Proxy
-- domain_suffix:
     match: tiktokmusic.app
-    policy: Proxy
-- domain_suffix:
-    match: lf16-effectcdn.byteeffecttos-g.com
-    policy: Proxy
-- domain_suffix:
-    match: trae.ai
-    policy: Proxy
-- domain_suffix:
-    match: capcut.com
-    policy: Proxy
-- domain_suffix:
-    match: snssdk.com
-    policy: Proxy
-- domain_suffix:
-    match: bytegecko-i18n.com
-    policy: Proxy
-- domain_suffix:
-    match: sgpstatp.com
-    policy: Proxy
-- domain_suffix:
-    match: tiktokcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: tiktokd.org
-    policy: Proxy
-- domain_suffix:
-    match: byteoversea.com
-    policy: Proxy
-- domain_suffix:
-    match: tik-tokapi.com
-    policy: Proxy
-- domain_suffix:
-    match: lf16-pkgcdn.pitaya-clientai.com
-    policy: Proxy
-- domain_suffix:
-    match: com.zhiliaoapp.musically
-    policy: Proxy
-- domain_suffix:
-    match: tiktokv.us
-    policy: Proxy
-- domain_suffix:
-    match: ibyteimg.com
-    policy: Proxy
-- domain_suffix:
-    match: marscode.com
-    policy: Proxy
-- domain_suffix:
-    match: tiktokd.net
     policy: Proxy
 - domain_suffix:
     match: ibytedtos.com
     policy: Proxy
 - domain_suffix:
+    match: bytegecko-i18n.com
+    policy: Proxy
+- domain_suffix:
+    match: ttwebview.com
+    policy: Proxy
+- domain_suffix:
+    match: bytedance.com
+    policy: Proxy
+- domain_suffix:
+    match: sgpstatp.com
+    policy: Proxy
+- domain_suffix:
+    match: byteoversea.com
+    policy: Proxy
+- domain_suffix:
+    match: ipstatp.com
+    policy: Proxy
+- domain_suffix:
+    match: isnssdk.com
+    policy: Proxy
+- domain_suffix:
+    match: marscode.com
+    policy: Proxy
+- domain_suffix:
+    match: ibyteimg.com
+    policy: Proxy
+- domain_suffix:
     match: byteintlapi.com
+    policy: Proxy
+- domain_suffix:
+    match: tik-tokapi.com
     policy: Proxy
 - domain_suffix:
     match: tiktok.com
     policy: Proxy
 - domain_suffix:
-    match: isnssdk.com
+    match: tiktokcdn-us.com
     policy: Proxy
-- domain:
-    match: trae-api-sg.mchost.guru
+- domain_suffix:
+    match: tiktokcdn.com
     policy: Proxy
-- domain:
-    match: lf16-effectcdn.byteeffecttos-g.com
+- domain_suffix:
+    match: tiktokd.net
+    policy: Proxy
+- domain_suffix:
+    match: tiktokd.org
+    policy: Proxy
+- domain_suffix:
+    match: snssdk.com
+    policy: Proxy
+- domain_suffix:
+    match: muscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: musical.ly
+    policy: Proxy
+- domain_suffix:
+    match: bytedapm.com
+    policy: Proxy
+- domain_suffix:
+    match: tiktokv.us
+    policy: Proxy
+- domain_suffix:
+    match: capcut.com
+    policy: Proxy
+- domain_suffix:
+    match: tiktokv.com
+    policy: Proxy
+- domain_suffix:
+    match: trae.ai
+    policy: Proxy
+- domain_suffix:
+    match: ttwstatic.com
     policy: Proxy
 - domain:
     match: p16-tiktokcdn-com.akamaized.net
     policy: Proxy
 - domain:
+    match: lf16-effectcdn.byteeffecttos-g.com
+    policy: Proxy
+- domain:
+    match: trae-api-sg.mchost.guru
+    policy: Proxy
+- domain:
     match: lf16-pkgcdn.pitaya-clientai.com
+    policy: Proxy
+- domain_keyword:
+    match: tiktok
     policy: Proxy
 - domain_keyword:
     match: tiktokcdn
@@ -111,6 +102,6 @@ rules:
 - domain_keyword:
     match: musical.ly
     policy: Proxy
-- domain_keyword:
-    match: tiktok
+- user_agent:
+    match: TikTok*
     policy: Proxy

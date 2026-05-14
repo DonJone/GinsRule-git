@@ -1,16 +1,16 @@
 # Gins-Rules: steam-cdn
 rules:
 - domain_suffix:
+    match: steamusercontent-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
     match: f3b7q2p3.ssl.hwcdn.net
     policy: Proxy
 - domain_suffix:
-    match: st.dl.bscstorage.net
+    match: st.dl.pinyuncloud.com
     policy: Proxy
 - domain_suffix:
-    match: steamuserimages-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: cdn-qc.content.steamchina.com
+    match: steam.apac.qtlglb.com
     policy: Proxy
 - domain_suffix:
     match: steam.cdn.on.net
@@ -19,46 +19,28 @@ rules:
     match: st.dl.eccdnx.com
     policy: Proxy
 - domain_suffix:
-    match: steamstore-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
     match: cdn-ali.content.steamchina.com
     policy: Proxy
 - domain_suffix:
-    match: steam.apac.qtlglb.com
+    match: steam.eca.qtlglb.com
     policy: Proxy
 - domain_suffix:
-    match: steam.cdn.orcon.net.nz
+    match: cdn-ws.content.steamchina.com
     policy: Proxy
 - domain_suffix:
-    match: steam.ru.qtlglb.com
+    match: st.dl.bscstorage.net
     policy: Proxy
 - domain_suffix:
-    match: dota2.wmsj.cn
-    policy: Proxy
-- domain_suffix:
-    match: edge.steam-dns.top.comcast.net
-    policy: Proxy
-- domain_suffix:
-    match: dl.steam.ksyna.com
-    policy: Proxy
-- domain_suffix:
-    match: csgo.wmsj.cn
-    policy: Proxy
-- domain_suffix:
-    match: steamusercontent-a.akamaihd.net
+    match: steam.cdn.slingshot.co.nz
     policy: Proxy
 - domain_suffix:
     match: steam.naeu.qtlglb.com
     policy: Proxy
 - domain_suffix:
-    match: st.dl.pinyuncloud.com
+    match: cdn-qc.content.steamchina.com
     policy: Proxy
 - domain_suffix:
-    match: steamcontent.com
-    policy: Proxy
-- domain_suffix:
-    match: steam.eca.qtlglb.com
+    match: dota2.wmsj.cn
     policy: Proxy
 - domain_suffix:
     match: steamcdn-a.akamaihd.net
@@ -67,11 +49,29 @@ rules:
     match: steamcontent.tnkjmec.com
     policy: Proxy
 - domain_suffix:
-    match: steam.cdn.slingshot.co.nz
+    match: csgo.wmsj.cn
+    policy: Proxy
+- domain_suffix:
+    match: steamstore-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: dl.steam.ksyna.com
+    policy: Proxy
+- domain_suffix:
+    match: steam.cdn.orcon.net.nz
     policy: Proxy
 - domain_suffix:
     match: dl.steam.clngaa.com
     policy: Proxy
 - domain_suffix:
-    match: cdn-ws.content.steamchina.com
+    match: steamuserimages-a.akamaihd.net
+    policy: Proxy
+- domain_suffix:
+    match: steam.ru.qtlglb.com
+    policy: Proxy
+- domain_suffix:
+    match: edge.steam-dns.top.comcast.net
+    policy: Proxy
+- domain_suffix:
+    match: steamcontent.com
     policy: Proxy

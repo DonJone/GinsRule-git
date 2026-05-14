@@ -1,0 +1,1406 @@
+# Gins-Rules: chinamedia
+rules:
+- domain_suffix:
+    match: upos-bstar1-mirrorakam.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: cctvpro.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: hitv.com
+    policy: Proxy
+- domain_suffix:
+    match: acg.tv
+    policy: Proxy
+- domain_suffix:
+    match: ads1.lfengmobile.com
+    policy: Proxy
+- domain_suffix:
+    match: zmzapi.com
+    policy: Proxy
+- domain_suffix:
+    match: acfun.tv
+    policy: Proxy
+- domain_suffix:
+    match: dreamcast.hk
+    policy: Proxy
+- domain_suffix:
+    match: wenyupages.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.cc
+    policy: Proxy
+- domain_suffix:
+    match: p-bstarstatic.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: gitv.tv
+    policy: Proxy
+- domain_suffix:
+    match: qiyi.cn
+    policy: Proxy
+- domain_suffix:
+    match: gamenow.club
+    policy: Proxy
+- domain_suffix:
+    match: cctvpic.com
+    policy: Proxy
+- domain_suffix:
+    match: qianqian.com
+    policy: Proxy
+- domain_suffix:
+    match: video.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: aiqiyicloud-mgmt.com
+    policy: Proxy
+- domain_suffix:
+    match: zggbdszt.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cctvlibrary.cn
+    policy: Proxy
+- domain_suffix:
+    match: cmvideo.cn
+    policy: Proxy
+- domain_suffix:
+    match: youku.org
+    policy: Proxy
+- domain_suffix:
+    match: ykimg.com
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.cc
+    policy: Proxy
+- domain_suffix:
+    match: zimuzu.tv
+    policy: Proxy
+- domain_suffix:
+    match: yoqoo.net
+    policy: Proxy
+- domain_suffix:
+    match: bili33.cn
+    policy: Proxy
+- domain_suffix:
+    match: bili22.cn
+    policy: Proxy
+- domain_suffix:
+    match: xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+    policy: Proxy
+- domain_suffix:
+    match: kuxiaomiao.cn
+    policy: Proxy
+- domain_suffix:
+    match: p.bstarstatic.com
+    policy: Proxy
+- domain_suffix:
+    match: qy.net
+    policy: Proxy
+- domain_suffix:
+    match: xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+    policy: Proxy
+- domain_suffix:
+    match: cibntv.net
+    policy: Proxy
+- domain_suffix:
+    match: 71edge.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmediapay.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilicdn5.com
+    policy: Proxy
+- domain_suffix:
+    match: yoqoo.tv
+    policy: Proxy
+- domain_suffix:
+    match: kumiao.com
+    policy: Proxy
+- domain_suffix:
+    match: zygbdszt.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+    policy: Proxy
+- domain_suffix:
+    match: bili23.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilicomics.com
+    policy: Proxy
+- domain_suffix:
+    match: biligame.cn
+    policy: Proxy
+- domain_suffix:
+    match: qqvideo.gtimg.com
+    policy: Proxy
+- domain_suffix:
+    match: zmzfile.com
+    policy: Proxy
+- domain_suffix:
+    match: biligo.com
+    policy: Proxy
+- domain_suffix:
+    match: 71.am
+    policy: Proxy
+- domain_suffix:
+    match: i.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: pptv.com
+    policy: Proxy
+- domain_suffix:
+    match: cm.fancyapi.com
+    policy: Proxy
+- domain_suffix:
+    match: bilibilipay.cn
+    policy: Proxy
+- domain_suffix:
+    match: 2isbbess.cn
+    policy: Proxy
+- domain_suffix:
+    match: androidgo.duapp.com
+    policy: Proxy
+- domain_suffix:
+    match: ppstream.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: biligame.com
+    policy: Proxy
+- domain_suffix:
+    match: v.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: gitv.cn
+    policy: Proxy
+- domain_suffix:
+    match: v1d.szbdyd.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.com
+    policy: Proxy
+- domain_suffix:
+    match: mincdn.com
+    policy: Proxy
+- domain_suffix:
+    match: noxagile.duapp.com
+    policy: Proxy
+- domain_suffix:
+    match: ixigua.com
+    policy: Proxy
+- domain_suffix:
+    match: xn--fiq53l90et9fpncc7joo6apn8a.cn
+    policy: Proxy
+- domain_suffix:
+    match: baiying.com
+    policy: Proxy
+- domain_suffix:
+    match: ppstream.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilibiligame.net
+    policy: Proxy
+- domain_suffix:
+    match: kuxiaomiao.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: sharejoytech.com
+    policy: Proxy
+- domain_suffix:
+    match: 71.am.com
+    policy: Proxy
+- domain_suffix:
+    match: iqiyi.com
+    policy: Proxy
+- domain_suffix:
+    match: kugou.com
+    policy: Proxy
+- domain_suffix:
+    match: smtcdns.net
+    policy: Proxy
+- domain_suffix:
+    match: yoku.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: biliapi.net
+    policy: Proxy
+- domain_suffix:
+    match: 1.letvlive.com
+    policy: Proxy
+- domain_suffix:
+    match: music.tc.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: acfun.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.tv
+    policy: Proxy
+- domain_suffix:
+    match: e8h2ty.tdum.alibaba.com
+    policy: Proxy
+- domain_suffix:
+    match: hdslb.com.w.kunlunhuf.com
+    policy: Proxy
+- domain_suffix:
+    match: uposdash-302-bilivideo.yfcdn.net
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.tv
+    policy: Proxy
+- domain_suffix:
+    match: migu.cn
+    policy: Proxy
+- domain_suffix:
+    match: 56.com
+    policy: Proxy
+- domain_suffix:
+    match: yoqoo.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: hifuntv.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmediagame.net
+    policy: Proxy
+- domain_suffix:
+    match: soku.com
+    policy: Proxy
+- domain_suffix:
+    match: music.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: aiqiyicloud.net
+    policy: Proxy
+- domain_suffix:
+    match: upos-hz-mirrorakam.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: ppstream.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: biliapi.com
+    policy: Proxy
+- domain_suffix:
+    match: xiami.net
+    policy: Proxy
+- domain_suffix:
+    match: taihe.com
+    policy: Proxy
+- domain_suffix:
+    match: aiqiyicloud.com
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.co
+    policy: Proxy
+- domain_suffix:
+    match: zmzapi.net
+    policy: Proxy
+- domain_suffix:
+    match: cnms.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: sogoodtech1.cn
+    policy: Proxy
+- domain_suffix:
+    match: v-56.com
+    policy: Proxy
+- domain_suffix:
+    match: xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+    policy: Proxy
+- domain_suffix:
+    match: chinalive.com
+    policy: Proxy
+- domain_suffix:
+    match: miguvideo.com
+    policy: Proxy
+- domain_suffix:
+    match: 52mtkvideo.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilibiligame.cn
+    policy: Proxy
+- domain_suffix:
+    match: cntv.cn
+    policy: Proxy
+- domain_suffix:
+    match: domesticmediagame.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilicdn2.com
+    policy: Proxy
+- domain_suffix:
+    match: dyhgames.com
+    policy: Proxy
+- domain_suffix:
+    match: gjgbdszt.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: pgdt.gtimg.cn
+    policy: Proxy
+- domain_suffix:
+    match: iqiyipic.com
+    policy: Proxy
+- domain_suffix:
+    match: ipanda.net
+    policy: Proxy
+- domain_suffix:
+    match: koowo.com
+    policy: Proxy
+- domain_suffix:
+    match: suike.cn
+    policy: Proxy
+- domain_suffix:
+    match: wwc.alicdn.com
+    policy: Proxy
+- domain_suffix:
+    match: biliintl.co
+    policy: Proxy
+- domain_suffix:
+    match: qy.com
+    policy: Proxy
+- domain_suffix:
+    match: youku.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: 9xsecndns.cn
+    policy: Proxy
+- domain_suffix:
+    match: tvcc.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.cn
+    policy: Proxy
+- domain_suffix:
+    match: ipanda.cn
+    policy: Proxy
+- domain_suffix:
+    match: letv.com
+    policy: Proxy
+- domain_suffix:
+    match: biligame.co
+    policy: Proxy
+- domain_suffix:
+    match: ipanda.com
+    policy: Proxy
+- domain_suffix:
+    match: animetamashi.com
+    policy: Proxy
+- domain_suffix:
+    match: anitama.cn
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.cn
+    policy: Proxy
+- domain_suffix:
+    match: hunantv.com
+    policy: Proxy
+- domain_suffix:
+    match: biliplus.com
+    policy: Proxy
+- domain_suffix:
+    match: chinaepg.cn
+    policy: Proxy
+- domain_suffix:
+    match: biliimg.com
+    policy: Proxy
+- domain_suffix:
+    match: videojj.com
+    policy: Proxy
+- domain_suffix:
+    match: youqoo.net
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.co
+    policy: Proxy
+- domain_suffix:
+    match: livechina.cn
+    policy: Proxy
+- domain_suffix:
+    match: sohu.com
+    policy: Proxy
+- domain_suffix:
+    match: qiyi.com
+    policy: Proxy
+- domain_suffix:
+    match: cntv.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: mcbbs.net
+    policy: Proxy
+- domain_suffix:
+    match: bilivideo.net
+    policy: Proxy
+- domain_suffix:
+    match: b82yxres.cn
+    policy: Proxy
+- domain_suffix:
+    match: ibkstore.com
+    policy: Proxy
+- domain_suffix:
+    match: zggbdszt.cn
+    policy: Proxy
+- domain_suffix:
+    match: domesticmediagame.co
+    policy: Proxy
+- domain_suffix:
+    match: hunaniptv.com
+    policy: Proxy
+- domain_suffix:
+    match: animetamashi.cn
+    policy: Proxy
+- domain_suffix:
+    match: citv.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.com
+    policy: Proxy
+- domain_suffix:
+    match: mmstat.com
+    policy: Proxy
+- domain_suffix:
+    match: cctvlib.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilibili.net
+    policy: Proxy
+- domain_suffix:
+    match: cntvwb.cn
+    policy: Proxy
+- domain_suffix:
+    match: iq.com
+    policy: Proxy
+- domain_suffix:
+    match: music.163.com
+    policy: Proxy
+- domain_suffix:
+    match: baka.im
+    policy: Proxy
+- domain_suffix:
+    match: qiyipic.com
+    policy: Proxy
+- domain_suffix:
+    match: tudou.com
+    policy: Proxy
+- domain_suffix:
+    match: zamplus.com
+    policy: Proxy
+- domain_suffix:
+    match: olympicchannelchina.cn
+    policy: Proxy
+- domain_suffix:
+    match: hdslb.net
+    policy: Proxy
+- domain_suffix:
+    match: acfun.cn
+    policy: Proxy
+- domain_suffix:
+    match: iqiyi.demo.uwp
+    policy: Proxy
+- domain_suffix:
+    match: qqmusic.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: zmz2019.com
+    policy: Proxy
+- domain_suffix:
+    match: cctvlib.cn
+    policy: Proxy
+- domain_suffix:
+    match: sohu.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: zggbdszt.net.cn
+    policy: Proxy
+- domain_suffix:
+    match: ns6mitkxo.cn
+    policy: Proxy
+- domain_suffix:
+    match: 2.letvlive.com
+    policy: Proxy
+- domain_suffix:
+    match: anitama.net
+    policy: Proxy
+- domain_suffix:
+    match: kumiao.tv
+    policy: Proxy
+- domain_suffix:
+    match: imgo.tv
+    policy: Proxy
+- domain_suffix:
+    match: kuxiaomiao.net
+    policy: Proxy
+- domain_suffix:
+    match: pplive.cn
+    policy: Proxy
+- domain_suffix:
+    match: 33lwhaoinc.cn
+    policy: Proxy
+- domain_suffix:
+    match: snssdk.com
+    policy: Proxy
+- domain_suffix:
+    match: api.game.letvstore.com
+    policy: Proxy
+- domain_suffix:
+    match: biliintl.com
+    policy: Proxy
+- domain_suffix:
+    match: gjgbdszt.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: music.126.net
+    policy: Proxy
+- domain_suffix:
+    match: ppstream.com
+    policy: Proxy
+- domain_suffix:
+    match: cctvpro.cn
+    policy: Proxy
+- domain_suffix:
+    match: livechina.com
+    policy: Proxy
+- domain_suffix:
+    match: ipanda.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: kuwo.cn
+    policy: Proxy
+- domain_suffix:
+    match: cctv.cn
+    policy: Proxy
+- domain_suffix:
+    match: le.com
+    policy: Proxy
+- domain_suffix:
+    match: upos-bstar-mirrorakam.akamaized.net
+    policy: Proxy
+- domain_suffix:
+    match: im9.com
+    policy: Proxy
+- domain_suffix:
+    match: bilicdn3.com
+    policy: Proxy
+- domain_suffix:
+    match: bilibiligame.co
+    policy: Proxy
+- domain_suffix:
+    match: domesticmedia.net
+    policy: Proxy
+- domain_suffix:
+    match: aianno.com
+    policy: Proxy
+- domain_suffix:
+    match: ppsurl.com
+    policy: Proxy
+- domain_suffix:
+    match: afp.pplive.com
+    policy: Proxy
+- domain_suffix:
+    match: biligame.net
+    policy: Proxy
+- domain_suffix:
+    match: gjgbdszt.cn
+    policy: Proxy
+- domain_suffix:
+    match: ai.xiaomi.com
+    policy: Proxy
+- domain_suffix:
+    match: tencentmusic.com
+    policy: Proxy
+- domain_suffix:
+    match: iqiyiedge.com
+    policy: Proxy
+- domain_suffix:
+    match: bigfunapp.cn
+    policy: Proxy
+- domain_suffix:
+    match: 71edge.net
+    policy: Proxy
+- domain_suffix:
+    match: hdslb.com.w.kunlunpi.com
+    policy: Proxy
+- domain_suffix:
+    match: jiangbing.cn
+    policy: Proxy
+- domain_suffix:
+    match: xiami.com
+    policy: Proxy
+- domain_suffix:
+    match: b23.tv
+    policy: Proxy
+- domain_suffix:
+    match: yo9.com
+    policy: Proxy
+- domain_suffix:
+    match: s.zampdsp.com
+    policy: Proxy
+- domain_suffix:
+    match: bilivideo.com
+    policy: Proxy
+- domain_suffix:
+    match: yodou.com
+    policy: Proxy
+- domain_suffix:
+    match: sk2cdsnw.cn
+    policy: Proxy
+- domain_suffix:
+    match: maoercdn.com
+    policy: Proxy
+- domain_suffix:
+    match: hdslb.org
+    policy: Proxy
+- domain_suffix:
+    match: yoqoo.com
+    policy: Proxy
+- domain_suffix:
+    match: hdslb.com
+    policy: Proxy
+- domain_suffix:
+    match: ukoo.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilivideo.cn
+    policy: Proxy
+- domain_suffix:
+    match: dmhmusic.com
+    policy: Proxy
+- domain_suffix:
+    match: y.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: acgvideo.com
+    policy: Proxy
+- domain_suffix:
+    match: bilicdn1.com
+    policy: Proxy
+- domain_suffix:
+    match: 0co3geye.cn
+    policy: Proxy
+- domain_suffix:
+    match: bigfun.cn
+    policy: Proxy
+- domain_suffix:
+    match: tvcc.cn
+    policy: Proxy
+- domain_suffix:
+    match: aianno.cn
+    policy: Proxy
+- domain_suffix:
+    match: music.xiaomi.com
+    policy: Proxy
+- domain_suffix:
+    match: ppsimg.com
+    policy: Proxy
+- domain_suffix:
+    match: zimuzu.io
+    policy: Proxy
+- domain_suffix:
+    match: bilibilipay.com
+    policy: Proxy
+- domain_suffix:
+    match: cctvlibrary.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: pps.tv
+    policy: Proxy
+- domain_suffix:
+    match: youku.com
+    policy: Proxy
+- domain_suffix:
+    match: bili2233.cn
+    policy: Proxy
+- domain_suffix:
+    match: bilicdn4.com
+    policy: Proxy
+- domain_suffix:
+    match: cctv.com
+    policy: Proxy
+- domain_suffix:
+    match: jstucdn.com
+    policy: Proxy
+- domain_suffix:
+    match: mgtv.com
+    policy: Proxy
+- domain_suffix:
+    match: kuxiaomiao.com
+    policy: Proxy
+- domain_suffix:
+    match: ppstream.net
+    policy: Proxy
+- domain_suffix:
+    match: v.smtcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: tazai.com
+    policy: Proxy
+- domain_suffix:
+    match: itc.cn
+    policy: Proxy
+- domain_suffix:
+    match: cdn.zampdsp.com
+    policy: Proxy
+- domain_suffix:
+    match: wingsmobiletek.cn
+    policy: Proxy
+- domain_suffix:
+    match: domesticmediapay.com
+    policy: Proxy
+- domain_suffix:
+    match: aixifan.com
+    policy: Proxy
+- domain_suffix:
+    match: corari.com
+    policy: Proxy
+- domain_suffix:
+    match: iqiyiedge.net
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdcco.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
+    policy: Proxy
+- domain:
+    match: video-vip-1258344701.shiply-cdn.qq.com
+    policy: Proxy
+- domain:
+    match: ios.video.mpush.qq.com
+    policy: Proxy
+- domain:
+    match: 1geadrmttge3nhcjwgwzdqqe.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 36-25-252-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 3geauymtsgrzdnqbofa5dy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: iacc.qq.com
+    policy: Proxy
+- domain:
+    match: 219-155-150-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: rdelivery.qq.com
+    policy: Proxy
+- domain:
+    match: 1graukmttga4nhcjtgozdgce.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr3uomttgr31hcjo8yzdnco.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 112-81-125-43.dhost.00cdn.com
+    policy: Proxy
+- domain:
+    match: video-search-1258344701.shiply-cdn.qq.com
+    policy: Proxy
+- domain:
+    match: 17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
+    policy: Proxy
+- domain:
+    match: 114-236-92-129.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: ts.qq.com
+    policy: Proxy
+- domain:
+    match: 4go41hcjtgazdoctqge4o.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: aqqmusic.tc.qq.com
+    policy: Proxy
+- domain:
+    match: 1gr3uomttgr31hcjtgezdkcy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 3geauymtsgrzdrcbzfahuk.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdkca.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdcca.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdkco.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: video-public-1258344701.shiply-cdn.qq.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: moo.qq.com
+    policy: Proxy
+- domain:
+    match: 0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 3geauymtsgrzdnqbofa5do.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: apd-pcdnvodstat.teg.tencent-cloud.net
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 113-219-145-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 218-91-225-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: v.streaming.qq.com
+    policy: Proxy
+- domain:
+    match: ins-eeww7kom.ias.tencent-cloud.net
+    policy: Proxy
+- domain:
+    match: 1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 180-101-74-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 3geauymtsgrzdrcbzfahue.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 222-188-6-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: mam.netease.com
+    policy: Proxy
+- domain:
+    match: yoo.gtimg.com
+    policy: Proxy
+- domain:
+    match: 1geadrmttge3nhcjwgazdope.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 3ge3drmttga5nhcbqge3ur.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr4uqmtt8y41hcjigazdqce.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: api.iplay.163.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr4uqmtt8y41hcjigazdqco.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: 36-104-134-1.ksyungslb.com
+    policy: Proxy
+- domain:
+    match: 1gr4uqmtt8y41hcjigazdqca.ourdvsss.com
+    policy: Proxy
+- domain:
+    match: dldir1.qq.com
+    policy: Proxy
+- domain:
+    match: 0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com
+    policy: Proxy
+- domain_keyword:
+    match: bilibili
+    policy: Proxy
+- domain_keyword:
+    match: qiyi
+    policy: Proxy
+- ip_cidr:
+    match: 119.29.29.29/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:198.18.6.81/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 23.40.241.251/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 110.238.107.47/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 193.112.159.225/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:60.171.183.161/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 111.206.25.147/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 23.53.32.88/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 39.105.63.80/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 59.111.160.195/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:183.161.149.105/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:198.18.6.83/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 120.92.153.217/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 104.109.129.153/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 58.49.111.117/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:60.171.183.186/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:117.64.75.196/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 134.175.207.130/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 223.252.199.66/31
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:115.236.128.80/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:27.157.209.46/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 118.24.63.156/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 210.201.32.8/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:223.240.191.238/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:58.217.232.79/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:58.58.0.90/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 23.211.15.99/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 58.49.111.79/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 103.126.92.132/31
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:183.161.144.133/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:183.161.144.230/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 103.44.56.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:124.73.200.142/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 45.254.48.1/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 106.75.74.76/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 115.236.121.1/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 119.3.238.64/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.74.95.139/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:58.217.232.117/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 47.100.127.239/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:175.6.84.96/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 210.201.32.11/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 112.13.122.1/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 120.92.108.182/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:58.217.232.68/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:121.56.126.255/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 103.5.34.153/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 164.52.76.18/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 59.111.181.60/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.74.95.131/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 45.43.32.234/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:113.248.172.245/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 112.13.119.17/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:114.235.96.186/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 128.1.62.200/31
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 59.111.181.38/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:60.171.183.98/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.107.1.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:115.236.128.112/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.224.0.0/13
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:198.18.5.138/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 58.49.111.95/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 118.26.120.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 120.92.113.99/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.211.4.169/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 23.40.242.10/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:124.73.198.81/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.74.95.153/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 210.71.227.202/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 106.11.0.0/16
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 119.176.0.0/12
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 101.71.154.241/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 150.116.92.250/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 59.111.160.197/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 59.111.181.35/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:117.68.200.210/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:175.6.84.30/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:117.87.144.24/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:115.236.128.120/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 210.71.227.200/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: ::ffff:115.236.128.24/128
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 203.211.4.193/32
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 118.26.32.0/23
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 115.236.118.33/32
+    no_resolve: 'true'
+    policy: Proxy
+- user_agent:
+    match: '%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*'
+    policy: Proxy
+- user_agent:
+    match: iQiYi*
+    policy: Proxy
+- user_agent:
+    match: MOO*
+    policy: Proxy
+- user_agent:
+    match: live4iphone*
+    policy: Proxy
+- user_agent:
+    match: PPStream*
+    policy: Proxy
+- user_agent:
+    match: '%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*'
+    policy: Proxy
+- user_agent:
+    match: QIYI*
+    policy: Proxy
+- user_agent:
+    match: bili*
+    policy: Proxy
+- user_agent:
+    match: Bilibili*
+    policy: Proxy
+- user_agent:
+    match: iQiyi*
+    policy: Proxy
+- user_agent:
+    match: QQMusic*
+    policy: Proxy
+- user_agent:
+    match: bilibili*
+    policy: Proxy
+- user_agent:
+    match: YYeTs*
+    policy: Proxy
+- user_agent:
+    match: MGTV*
+    policy: Proxy
+- user_agent:
+    match: walkman*
+    policy: Proxy
+- user_agent:
+    match: '%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91'
+    policy: Proxy
+- user_agent:
+    match: MiguVideo*
+    policy: Proxy
+- user_agent:
+    match: QQ%e9%9f%b3%e4%b9%90*
+    policy: Proxy
+- user_agent:
+    match: TencentMidasConnect*
+    policy: Proxy
+- user_agent:
+    match: DomesticMedia*
+    policy: Proxy
+- user_agent:
+    match: qqlive4iphone*
+    policy: Proxy
+- user_agent:
+    match: bili-inter*
+    policy: Proxy
+- user_agent:
+    match: '*bili*'
+    policy: Proxy
+- user_agent:
+    match: MOO%E9%9F%B3%E4%B9%90*
+    policy: Proxy
+- user_agent:
+    match: '%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90'
+    policy: Proxy
+- user_agent:
+    match: '%E4%BC%98%E9%85%B7*'
+    policy: Proxy
+- user_agent:
+    match: QQ%E9%9F%B3%E4%B9%90
+    policy: Proxy
+- user_agent:
+    match: QYPlayer*
+    policy: Proxy
+- user_agent:
+    match: Youku*
+    policy: Proxy
+- user_agent:
+    match: AcFun*
+    policy: Proxy
+- user_agent:
+    match: baiduyinyue
+    policy: Proxy
+- user_agent:
+    match: NeteaseMusic*
+    policy: Proxy
+- user_agent:
+    match: '*QIYI*'
+    policy: Proxy
+- user_agent:
+    match: xiami*
+    policy: Proxy
+- user_agent:
+    match: youku*
+    policy: Proxy

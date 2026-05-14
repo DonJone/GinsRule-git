@@ -1,55 +1,22 @@
 # Gins-Rules: whatsapp
 rules:
 - domain_suffix:
-    match: whatsapp.com
-    policy: Proxy
-- domain_suffix:
     match: waba.inner.fbpigeon.com
     policy: Proxy
 - domain_suffix:
     match: whatsapp.net
     policy: Proxy
+- domain_suffix:
+    match: whatsapp.com
+    policy: Proxy
+- domain_suffix:
+    match: whatsapp-cdn.com
+    policy: Proxy
 - domain_keyword:
     match: whatsapp
     policy: Proxy
 - ip_cidr:
-    match: 69.171.235.0/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 75.126.150.0/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 50.22.198.204/30
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 173.192.231.32/27
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 18.194.0.0/15
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
     match: 184.173.128.0/17
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 158.85.224.160/27
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 158.85.5.192/27
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 158.85.46.128/27
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 208.43.122.128/27
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -61,7 +28,35 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
+    match: 50.22.198.204/30
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 158.85.5.192/27
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 208.43.122.128/27
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 158.85.224.160/27
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
     match: 54.242.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 174.37.243.0/16
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 18.194.0.0/15
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 69.171.235.0/16
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
@@ -69,6 +64,14 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 174.37.243.0/16
+    match: 75.126.150.0/16
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 173.192.231.32/27
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 158.85.46.128/27
     no_resolve: 'true'
     policy: Proxy

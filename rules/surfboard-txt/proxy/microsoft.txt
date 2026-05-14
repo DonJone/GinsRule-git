@@ -152,6 +152,7 @@
 .chinacloudapi.cn
 .chinacloudapp.cn
 .chinacloudsites.cn
+.clarity.ms
 .cloud.microsoft
 .cloudapp.net
 .cloudappsecurity.com
@@ -648,7 +649,6 @@
 .vscode-unpkg.net
 .vscode-webview.net
 .vscode.dev
-.vsmarketplacebadge.apphb.com
 .wbd.ms
 .what-fan.net
 .windows
@@ -697,3 +697,5 @@
 .xbx.lv
 .yammer.com
 .yammerusercontent.com
+officecdn-microsoft-com.akamaized.net
+vsmarketplacebadge.apphb.com

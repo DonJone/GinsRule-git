@@ -1,0 +1,77 @@
+# Gins-Rules: apple
+rules:
+- domain_suffix:
+    match: sylvan.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: osrecovery.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: oscdn.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: pkg.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: audiocontentdownload.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: download.developer.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: appldnld.apple.com.edgesuite.net
+    policy: Proxy
+- domain_suffix:
+    match: icloud.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: cn.ls.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: gspe19-cn-ssl.ls.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: updates.cdn-apple.com
+    policy: Proxy
+- domain_suffix:
+    match: devimages-cdn.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: cn-ssl.ls.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: playgrounds-assets-cdn.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: cn.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: apple.com.cn
+    policy: Proxy
+- domain_suffix:
+    match: swdist.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: swdownload.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: playgrounds-cdn.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: updates-http.cdn-apple.com
+    policy: Proxy
+- domain_suffix:
+    match: appldnld.apple.com
+    policy: Proxy
+- domain_suffix:
+    match: swcdn.apple.com
+    policy: Proxy
+- domain:
+    match: appleintelligencefeedback.care.apple.com
+    policy: Proxy
+- domain:
+    match: gs-loc-cn.apple.com
+    policy: Proxy
+- domain:
+    match: api.smoot.apple.cn
+    policy: Proxy

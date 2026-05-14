@@ -1,7 +1,6 @@
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
-.404: Not Found
 .abc-studios.com
 .abc.com
 .abcnews.com
@@ -15,9 +14,6 @@
 .beautyandthebeastmusical.co.uk
 .braze.com
 .cdn.optimizely.com
-.cdn.registerdisney.go.com
-.com.disney.datg.videoplatforms.android.abc
-.com.disney.disneyplus
 .conviva.com
 .d9.flashtalking.com
 .dilcdn.com

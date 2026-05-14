@@ -1,8 +1,8 @@
 # Gins-Rules: threads
 rules:
 - domain_suffix:
-    match: threads.com
+    match: threads.net
     policy: Proxy
 - domain_suffix:
-    match: threads.net
+    match: threads.com
     policy: Proxy

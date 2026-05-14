@@ -1,25 +1,25 @@
 # Gins-Rules: weibo
 rules:
 - domain_suffix:
-    match: weibo.com
+    match: sinaimg.cn
     policy: Proxy
 - domain_suffix:
     match: sinajs.cn
     policy: Proxy
 - domain_suffix:
-    match: weibocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: sina.com.cn
-    policy: Proxy
-- domain_suffix:
     match: weibo.cn
+    policy: Proxy
+- domain_suffix:
+    match: weibo.com
+    policy: Proxy
+- domain_suffix:
+    match: weibocdn.com
     policy: Proxy
 - domain_suffix:
     match: sina.com
     policy: Proxy
 - domain_suffix:
-    match: sinaimg.cn
+    match: sina.com.cn
     policy: Proxy
 - domain_keyword:
     match: weibo

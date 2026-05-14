@@ -1,16 +1,16 @@
 # Gins-Rules: protonmail
 rules:
 - domain_suffix:
-    match: proton.me
+    match: pm.me
     policy: Proxy
 - domain_suffix:
     match: proton.ch
     policy: Proxy
 - domain_suffix:
-    match: pm.me
+    match: protonvpn.com
     policy: Proxy
 - domain_suffix:
-    match: protonvpn.com
+    match: proton.me
     policy: Proxy
 - domain_suffix:
     match: protonmail.com

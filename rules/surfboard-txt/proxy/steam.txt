@@ -18,11 +18,8 @@
 .steamserver.net
 .steamstat.us
 .steamstatic.com
-.steamstore-a.akamaihd.net
 .steamunlocked.net
-.steamusercontent-a.akamaihd.net
 .steamusercontent.com
-.steamuserimages-a.akamaihd.net
 .steamvideo-a.akamaihd.net
 .underlords.com
 .valvesoftware.com

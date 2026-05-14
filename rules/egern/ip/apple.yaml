@@ -1,0 +1,42 @@
+# Gins-Rules: apple
+rules:
+- ip_cidr:
+    match: 17.0.0.0/8
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 198.183.17.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 65.199.22.0/23
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 205.180.175.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 139.178.128.0/18
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 144.178.0.0/19
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 63.92.224.0/19
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 192.35.50.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 144.178.36.0/22
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 144.178.48.0/20
+    no_resolve: 'true'
+    policy: Proxy

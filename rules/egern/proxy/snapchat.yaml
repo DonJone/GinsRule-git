@@ -1,19 +1,19 @@
 # Gins-Rules: snapchat
 rules:
 - domain_suffix:
-    match: sc-prod.net
-    policy: Proxy
-- domain_suffix:
     match: sc-cdn.net
-    policy: Proxy
-- domain_suffix:
-    match: snapchat.com
     policy: Proxy
 - domain_suffix:
     match: sc-jpl.com
     policy: Proxy
 - domain_suffix:
     match: snap.com
+    policy: Proxy
+- domain_suffix:
+    match: snapchat.com
+    policy: Proxy
+- domain_suffix:
+    match: sc-prod.net
     policy: Proxy
 - domain_suffix:
     match: snapkit.co

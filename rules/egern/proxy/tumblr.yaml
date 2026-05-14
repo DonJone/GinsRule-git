@@ -1,0 +1,11 @@
+# Gins-Rules: tumblr
+rules:
+- domain_suffix:
+    match: tmblr.co
+    policy: Proxy
+- domain_suffix:
+    match: tumblr.com
+    policy: Proxy
+- domain_suffix:
+    match: tumblr.co
+    policy: Proxy

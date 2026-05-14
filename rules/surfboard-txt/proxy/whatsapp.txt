@@ -1,3 +1,4 @@
 .waba.inner.fbpigeon.com
+.whatsapp-cdn.com
 .whatsapp.com
 .whatsapp.net

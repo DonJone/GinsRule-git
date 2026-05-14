@@ -15,12 +15,12 @@ DOMAIN,play.googleapis.com
 DOMAIN,sheets.google.com
 DOMAIN,sites.google.com
 DOMAIN,slides.google.com
+DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,recaptcha
-DOMAIN-SUFFIX,*com.google.Drive*
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,466453.com
-DOMAIN-SUFFIX,Google.Drive*
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
@@ -186,10 +185,6 @@ DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudrobotics.com
 DOMAIN-SUFFIX,cobrasearch.com
 DOMAIN-SUFFIX,codespot.com
-DOMAIN-SUFFIX,com.android.vending
-DOMAIN-SUFFIX,com.google.android.gms
-DOMAIN-SUFFIX,com.google.android.gsf
-DOMAIN-SUFFIX,com.google.android.play.games
 DOMAIN-SUFFIX,conscrypt.com
 DOMAIN-SUFFIX,conscrypt.org
 DOMAIN-SUFFIX,cookiechoices.org
@@ -687,7 +682,6 @@ DOMAIN-SUFFIX,verilylifesciences.com
 DOMAIN-SUFFIX,verilystudyhub.com
 DOMAIN-SUFFIX,verilystudywatch.com
 DOMAIN-SUFFIX,verilystudywatch.org
-DOMAIN-SUFFIX,voice.telephony.goog
 DOMAIN-SUFFIX,wallet.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
@@ -728,8 +722,8 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
-IP-CIDR,172.110.32.0/21,no-resolve
-IP-CIDR,173.194.0.0/16,no-resolve
-IP-CIDR,216.73.80.0/20,no-resolve
-IP-CIDR,74.125.0.0/16,no-resolve
-IP-CIDR6,2620:120:e000::/40,no-resolve
+IP-CIDR,172.110.32.0/21
+IP-CIDR,173.194.0.0/16
+IP-CIDR,216.73.80.0/20
+IP-CIDR,74.125.0.0/16
+IP-CIDR6,2620:120:e000::/40

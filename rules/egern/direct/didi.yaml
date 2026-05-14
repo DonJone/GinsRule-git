@@ -1,7 +1,7 @@
 # Gins-Rules: didi
 rules:
 - domain_suffix:
-    match: didi.com
+    match: didiglobal.com
     policy: Proxy
 - domain_suffix:
     match: udache.com
@@ -10,5 +10,5 @@ rules:
     match: didialift.com
     policy: Proxy
 - domain_suffix:
-    match: didiglobal.com
+    match: didi.com
     policy: Proxy

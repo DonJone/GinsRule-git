@@ -1,4 +1,3 @@
-.*com.google.Drive*
 .0emm.com
 .1e100.net
 .1ucrs.com
@@ -6,7 +5,6 @@
 .2mdn-cn.net
 .2mdn.net
 .466453.com
-.Google.Drive*
 .abc.xyz
 .adgoogle.net
 .admeld.com
@@ -164,10 +162,6 @@
 .cloudrobotics.com
 .cobrasearch.com
 .codespot.com
-.com.android.vending
-.com.google.android.gms
-.com.google.android.gsf
-.com.google.android.play.games
 .conscrypt.com
 .conscrypt.org
 .cookiechoices.org
@@ -665,7 +659,6 @@
 .verilystudyhub.com
 .verilystudywatch.com
 .verilystudywatch.org
-.voice.telephony.goog
 .wallet.com
 .waveprotocol.org
 .waymo.com
@@ -723,3 +716,4 @@ play.googleapis.com
 sheets.google.com
 sites.google.com
 slides.google.com
+voice.telephony.goog

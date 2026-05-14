@@ -4,8 +4,8 @@ rules:
     match: leagueoflegends.com
     policy: Proxy
 - domain_suffix:
-    match: riotgames.com
+    match: riotcdn.net
     policy: Proxy
 - domain_suffix:
-    match: riotcdn.net
+    match: riotgames.com
     policy: Proxy

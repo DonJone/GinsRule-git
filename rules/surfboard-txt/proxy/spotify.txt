@@ -1,9 +1,5 @@
 .audio-ak-spotify-com.akamaized.net
-.audio4-ak-spotify-com.akamaized.net
 .byspotify.com
-.cdn-spotify-experiments.conductrics.com
-.com.spotify.music
-.heads-ak-spotify-com.akamaized.net
 .heads4-ak-spotify-com.akamaized.net
 .pscdn.co
 .scdn.co
@@ -12,10 +8,7 @@
 .spotify-everywhere.com
 .spotify.app.link
 .spotify.com
-.spotify.com.edgesuite.net
 .spotify.design
-.spotify.map.fastly.net
-.spotify.map.fastlylb.net
 .spotifycdn.com
 .spotifycdn.net
 .spotifycharts.com

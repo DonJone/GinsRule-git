@@ -1,5 +1,14 @@
 # Gins-Rules: redbook
 rules:
 - domain_suffix:
-    match: edith.xiaohongshu.com
+    match: xhscdn.net
+    policy: Proxy
+- domain_suffix:
+    match: xiaohongshu.com
+    policy: Proxy
+- domain_suffix:
+    match: xhscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: fengkongcloud.com
     policy: Proxy

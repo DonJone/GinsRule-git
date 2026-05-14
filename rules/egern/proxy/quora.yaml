@@ -1,0 +1,17 @@
+# Gins-Rules: quora
+rules:
+- domain_suffix:
+    match: qr.ae
+    policy: Proxy
+- domain_suffix:
+    match: quoracdn.net
+    policy: Proxy
+- domain_suffix:
+    match: quora.com
+    policy: Proxy
+- domain_suffix:
+    match: poe.com
+    policy: Proxy
+- domain_suffix:
+    match: poecdn.net
+    policy: Proxy

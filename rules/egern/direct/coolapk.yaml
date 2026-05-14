@@ -1,0 +1,11 @@
+# Gins-Rules: coolapk
+rules:
+- domain_suffix:
+    match: coolapkmarket.com
+    policy: Proxy
+- domain_suffix:
+    match: coolapkmarket.net
+    policy: Proxy
+- domain_suffix:
+    match: coolapk.com
+    policy: Proxy

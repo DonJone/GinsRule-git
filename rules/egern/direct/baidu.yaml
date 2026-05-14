@@ -1,13 +1,25 @@
 # Gins-Rules: baidu
 rules:
 - domain_suffix:
-    match: baidubcr.com
+    match: jomodns.com
     policy: Proxy
 - domain_suffix:
     match: bdstatic.com
     policy: Proxy
 - domain_suffix:
     match: yunjiasu-cdn.net
+    policy: Proxy
+- domain_suffix:
+    match: hao123.com
+    policy: Proxy
+- domain_suffix:
+    match: hao123img.com
+    policy: Proxy
+- domain_suffix:
+    match: bdurl.net
+    policy: Proxy
+- domain_suffix:
+    match: baidubcr.com
     policy: Proxy
 - domain_suffix:
     match: baidu.com
@@ -22,23 +34,11 @@ rules:
     match: bcebos.com
     policy: Proxy
 - domain_suffix:
-    match: hao123img.com
-    policy: Proxy
-- domain_suffix:
-    match: baidupcs.com
+    match: baiducontent.com
     policy: Proxy
 - domain_suffix:
     match: bdimg.com
     policy: Proxy
 - domain_suffix:
-    match: baiducontent.com
-    policy: Proxy
-- domain_suffix:
-    match: jomodns.com
-    policy: Proxy
-- domain_suffix:
-    match: hao123.com
-    policy: Proxy
-- domain_suffix:
-    match: bdurl.net
+    match: baidupcs.com
     policy: Proxy

@@ -1,20 +1,20 @@
 # Gins-Rules: kuaishou
 rules:
 - domain_suffix:
+    match: kuaishouzt.com
+    policy: Proxy
+- domain_suffix:
+    match: kuaishou.com
+    policy: Proxy
+- domain_suffix:
     match: gifshow.com
     policy: Proxy
 - domain_suffix:
     match: ksapisrv.com
     policy: Proxy
 - domain_suffix:
-    match: yxixy.com
-    policy: Proxy
-- domain_suffix:
-    match: kuaishouzt.com
-    policy: Proxy
-- domain_suffix:
     match: apissl.ksapisrv.com
     policy: Proxy
 - domain_suffix:
-    match: kuaishou.com
+    match: yxixy.com
     policy: Proxy

@@ -11,14 +11,14 @@ rules:
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
-    match: 205.164.56.29/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
     match: 50.117.27.0/24
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
     match: 69.46.75.0/24
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr:
+    match: 205.164.56.29/24
     no_resolve: 'true'
     policy: Proxy

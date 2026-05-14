@@ -1,0 +1,14 @@
+# Gins-Rules: tidal
+rules:
+- domain_suffix:
+    match: wimpmusic.com
+    policy: Proxy
+- domain_suffix:
+    match: tidalhifi.com
+    policy: Proxy
+- domain_suffix:
+    match: tidal-cms.s3.amazonaws.com
+    policy: Proxy
+- domain_suffix:
+    match: tidal.com
+    policy: Proxy

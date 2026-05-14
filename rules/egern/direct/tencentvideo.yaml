@@ -1,0 +1,11 @@
+# Gins-Rules: tencentvideo
+rules:
+- domain_suffix:
+    match: v.qq.com
+    policy: Proxy
+- domain_suffix:
+    match: v.smtcdns.com
+    policy: Proxy
+- domain_suffix:
+    match: video.qq.com
+    policy: Proxy

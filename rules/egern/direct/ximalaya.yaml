@@ -1,0 +1,8 @@
+# Gins-Rules: ximalaya
+rules:
+- domain_suffix:
+    match: xmcdn.com
+    policy: Proxy
+- domain_suffix:
+    match: ximalaya.com
+    policy: Proxy

@@ -1,493 +1,235 @@
 # Gins-Rules: youtube
 rules:
 - domain_suffix:
-    match: youtubego.id
-    policy: Proxy
-- domain_suffix:
-    match: youtube.se
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ca
-    policy: Proxy
-- domain_suffix:
-    match: youtube.kr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.fr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ru
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ly
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.az
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.do
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ug
-    policy: Proxy
-- domain_suffix:
-    match: youtube.by
-    policy: Proxy
-- domain_suffix:
-    match: youtube.es
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.lb
-    policy: Proxy
-- domain_suffix:
-    match: wide-youtube.l.google.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.gt
-    policy: Proxy
-- domain_suffix:
-    match: youtube.is
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.eg
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.kw
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ro
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ae
-    policy: Proxy
-- domain_suffix:
-    match: youtube.lu
-    policy: Proxy
-- domain_suffix:
-    match: youtube.md
-    policy: Proxy
-- domain_suffix:
-    match: youtube.cl
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ph
-    policy: Proxy
-- domain_suffix:
-    match: youtubego.co.in
-    policy: Proxy
-- domain_suffix:
-    match: youtube.lt
-    policy: Proxy
-- domain_suffix:
-    match: youtube.si
-    policy: Proxy
-- domain_suffix:
-    match: youtube.al
-    policy: Proxy
-- domain_suffix:
-    match: youtube.sg
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.hr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.ke
-    policy: Proxy
-- domain_suffix:
-    match: youtube.kz
-    policy: Proxy
-- domain_suffix:
-    match: youtubego.co.id
-    policy: Proxy
-- domain_suffix:
-    match: youtube.mk
-    policy: Proxy
-- domain_suffix:
-    match: '*com.google.ios.youtubemusic*'
-    policy: Proxy
-- domain_suffix:
-    match: youtube.it
-    policy: Proxy
-- domain_suffix:
-    match: youtube.pa
-    policy: Proxy
-- domain_suffix:
-    match: youtube.in
+    match: youtube.mn
     policy: Proxy
 - domain_suffix:
     match: youtube.bg
     policy: Proxy
 - domain_suffix:
-    match: youtube.com.jm
-    policy: Proxy
-- domain_suffix:
-    match: youtube.bh
-    policy: Proxy
-- domain_suffix:
-    match: youtube.nl
-    policy: Proxy
-- domain_suffix:
-    match: youtube.sk
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ie
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.th
-    policy: Proxy
-- domain_suffix:
-    match: youtube.soy
-    policy: Proxy
-- domain_suffix:
-    match: gvt1.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.my
-    policy: Proxy
-- domain_suffix:
-    match: youtube.la
-    policy: Proxy
-- domain_suffix:
-    match: youtubemobilesupport.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.at
-    policy: Proxy
-- domain_suffix:
-    match: youtubego.in
-    policy: Proxy
-- domain_suffix:
-    match: youtubegaming.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ng
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.om
-    policy: Proxy
-- domain_suffix:
-    match: youtube.me
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.za
-    policy: Proxy
-- domain_suffix:
-    match: ggpht.cn
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.mt
-    policy: Proxy
-- domain_suffix:
-    match: googlevideo.com
-    policy: Proxy
-- domain_suffix:
-    match: yt3.ggpht.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.cz
-    policy: Proxy
-- domain_suffix:
-    match: youtube.qa
-    policy: Proxy
-- domain_suffix:
     match: youtube.com.au
-    policy: Proxy
-- domain_suffix:
-    match: youtube.at
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.hn
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.br
-    policy: Proxy
-- domain_suffix:
-    match: youtube.dk
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.gr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.jp
-    policy: Proxy
-- domain_suffix:
-    match: '404: Not Found'
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.lv
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ni
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ba
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.uy
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.sv
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ge
-    policy: Proxy
-- domain_suffix:
-    match: com.google.ios.youtubemusic*
-    policy: Proxy
-- domain_suffix:
-    match: youtube.bo
-    policy: Proxy
-- domain_suffix:
-    match: withyoutube.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: youtubei.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube-ui.l.google.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.az
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.tn
-    policy: Proxy
-- domain_suffix:
-    match: youtubego.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.my
-    policy: Proxy
-- domain_suffix:
-    match: youtube.lv
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.jo
-    policy: Proxy
-- domain_suffix:
-    match: youtubeeducation.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ar
-    policy: Proxy
-- domain_suffix:
-    match: youtube.fi
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.zw
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ua
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.ug
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.pe
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.by
-    policy: Proxy
-- domain_suffix:
-    match: youtube-nocookie.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ly
-    policy: Proxy
-- domain_suffix:
-    match: youtube.pt
-    policy: Proxy
-- domain_suffix:
-    match: youtube.sv
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.tr
-    policy: Proxy
-- domain_suffix:
-    match: video.google.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.bd
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.ve
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.mk
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ee
-    policy: Proxy
-- domain_suffix:
-    match: youtube.no
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.sa
-    policy: Proxy
-- domain_suffix:
-    match: ggpht.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.ch
-    policy: Proxy
-- domain_suffix:
-    match: youtube.iq
-    policy: Proxy
-- domain_suffix:
-    match: youtube.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.vn
-    policy: Proxy
-- domain_suffix:
-    match: youtubefanfest.com
-    policy: Proxy
-- domain_suffix:
-    match: com.google.ios.youtube*
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.co
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.sg
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.gt
-    policy: Proxy
-- domain_suffix:
-    match: youtube.gr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.gh
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.py
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.il
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.in
-    policy: Proxy
-- domain_suffix:
-    match: youtube.sn
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.ma
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.pt
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.cr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ec
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ve
-    policy: Proxy
-- domain_suffix:
-    match: youtube.hu
-    policy: Proxy
-- domain_suffix:
-    match: youtube
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ee
-    policy: Proxy
-- domain_suffix:
-    match: youtubekids.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.hu
-    policy: Proxy
-- domain_suffix:
-    match: youtube.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: music.youtube.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.ni
-    policy: Proxy
-- domain_suffix:
-    match: youtube.tv
     policy: Proxy
 - domain_suffix:
     match: youtube.com.bh
     policy: Proxy
 - domain_suffix:
-    match: youtube.jo
+    match: youtube.co.ve
     policy: Proxy
 - domain_suffix:
-    match: youtube.sa
+    match: youtube.com.bo
     policy: Proxy
 - domain_suffix:
-    match: youtube.mn
+    match: youtube.com.gr
     policy: Proxy
 - domain_suffix:
-    match: youtube.cr
+    match: youtube.com.py
+    policy: Proxy
+- domain_suffix:
+    match: youtube.al
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.br
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.uy
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ge
     policy: Proxy
 - domain_suffix:
     match: youtube.hk
     policy: Proxy
 - domain_suffix:
-    match: ytimg.com
+    match: youtube.hu
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ba
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.hn
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ng
+    policy: Proxy
+- domain_suffix:
+    match: youtube.kz
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pa
     policy: Proxy
 - domain_suffix:
     match: youtube.uy
     policy: Proxy
 - domain_suffix:
+    match: youtube.by
+    policy: Proxy
+- domain_suffix:
+    match: youtu.be
+    policy: Proxy
+- domain_suffix:
+    match: youtube.sg
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.ae
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ug
+    policy: Proxy
+- domain_suffix:
     match: yt.be
     policy: Proxy
 - domain_suffix:
-    match: youtube.de
+    match: ytimg.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.es
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.ke
+    policy: Proxy
+- domain_suffix:
+    match: youtube-nocookie.com
+    policy: Proxy
+- domain_suffix:
+    match: youtubegaming.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.pt
+    policy: Proxy
+- domain_suffix:
+    match: youtube.my
+    policy: Proxy
+- domain_suffix:
+    match: ggpht.cn
+    policy: Proxy
+- domain_suffix:
+    match: youtube.vn
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.mt
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.pa
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pk
+    policy: Proxy
+- domain_suffix:
+    match: video.google.com
     policy: Proxy
 - domain_suffix:
     match: youtube.ph
     policy: Proxy
 - domain_suffix:
-    match: youtube.ma
-    policy: Proxy
-- domain_suffix:
-    match: youtube.hr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.pr
-    policy: Proxy
-- domain_suffix:
-    match: youtube.cat
-    policy: Proxy
-- domain_suffix:
-    match: youtube.rs
+    match: youtube.co.at
     policy: Proxy
 - domain_suffix:
     match: youtube.com.ng
     policy: Proxy
 - domain_suffix:
-    match: youtube.mx
+    match: youtube.com.mk
     policy: Proxy
 - domain_suffix:
-    match: youtube.pe
+    match: youtube.bh
+    policy: Proxy
+- domain_suffix:
+    match: youtube.az
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.kr
     policy: Proxy
 - domain_suffix:
     match: youtube.co.tz
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.do
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.co
+    policy: Proxy
+- domain_suffix:
+    match: youtube.fr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.me
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ni
+    policy: Proxy
+- domain_suffix:
+    match: youtubefanfest.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ma
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ro
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.lb
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pl
+    policy: Proxy
+- domain_suffix:
+    match: youtube.lt
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.in
+    policy: Proxy
+- domain_suffix:
+    match: youtube.iq
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.sv
+    policy: Proxy
+- domain_suffix:
+    match: youtube.no
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.cr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.bo
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.uk
+    policy: Proxy
+- domain_suffix:
+    match: youtube.tv
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.tw
+    policy: Proxy
+- domain_suffix:
+    match: youtube.am
+    policy: Proxy
+- domain_suffix:
+    match: youtube.cl
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.az
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.pk
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.hr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.om
+    policy: Proxy
+- domain_suffix:
+    match: youtube-ui.l.google.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.hk
+    policy: Proxy
+- domain_suffix:
+    match: wide-youtube.l.google.com
     policy: Proxy
 - domain_suffix:
     match: youtube.be
@@ -496,95 +238,356 @@ rules:
     match: youtube.co.jp
     policy: Proxy
 - domain_suffix:
-    match: youtubeembeddedplayer.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com
-    policy: Proxy
-- domain_suffix:
-    match: gvt2.com
-    policy: Proxy
-- domain_suffix:
-    match: youtube.tn
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.bo
-    policy: Proxy
-- domain_suffix:
-    match: youtube.lk
-    policy: Proxy
-- domain_suffix:
-    match: youtube.com.pk
-    policy: Proxy
-- domain_suffix:
     match: youtube.com.ua
     policy: Proxy
 - domain_suffix:
-    match: youtube.com.ro
+    match: youtube.com.sg
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.zw
+    policy: Proxy
+- domain_suffix:
+    match: youtube.fi
+    policy: Proxy
+- domain_suffix:
+    match: youtube.at
+    policy: Proxy
+- domain_suffix:
+    match: youtube.la
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.eg
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.il
     policy: Proxy
 - domain_suffix:
     match: youtube.com.es
     policy: Proxy
 - domain_suffix:
-    match: youtube.com.mx
+    match: youtube.com.ni
     policy: Proxy
 - domain_suffix:
-    match: youtu.be
+    match: youtube.lu
     policy: Proxy
 - domain_suffix:
-    match: youtube.com.qa
+    match: youtube.ru
     policy: Proxy
 - domain_suffix:
-    match: youtube.pk
+    match: youtube.sn
     policy: Proxy
 - domain_suffix:
-    match: youtube.pl
+    match: youtube.sv
     policy: Proxy
 - domain_suffix:
-    match: youtubego.com.br
+    match: youtubekids.com
     policy: Proxy
 - domain_suffix:
-    match: youtube.com.pa
+    match: youtube.com.ar
+    policy: Proxy
+- domain_suffix:
+    match: youtube.cr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co
+    policy: Proxy
+- domain_suffix:
+    match: youtube.sk
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ly
     policy: Proxy
 - domain_suffix:
     match: youtube.co.id
     policy: Proxy
 - domain_suffix:
-    match: youtube.am
+    match: youtube.co.za
     policy: Proxy
 - domain_suffix:
-    match: youtube.co.ae
+    match: youtube.ie
+    policy: Proxy
+- domain_suffix:
+    match: youtube.it
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ph
+    policy: Proxy
+- domain_suffix:
+    match: youtube.kr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ly
+    policy: Proxy
+- domain_suffix:
+    match: youtube.tn
+    policy: Proxy
+- domain_suffix:
+    match: youtubemobilesupport.com
+    policy: Proxy
+- domain_suffix:
+    match: youtubeeducation.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.hu
+    policy: Proxy
+- domain_suffix:
+    match: youtubeembeddedplayer.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.lk
+    policy: Proxy
+- domain_suffix:
+    match: withyoutube.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.lv
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ua
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.gh
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.tr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ae
+    policy: Proxy
+- domain_suffix:
+    match: youtube.is
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.nz
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.mx
+    policy: Proxy
+- domain_suffix:
+    match: youtube.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.dk
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.co.id
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ee
+    policy: Proxy
+- domain_suffix:
+    match: youtube.gr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.in
+    policy: Proxy
+- domain_suffix:
+    match: youtube.si
+    policy: Proxy
+- domain_suffix:
+    match: youtube.de
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ec
+    policy: Proxy
+- domain_suffix:
+    match: youtube
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.qa
+    policy: Proxy
+- domain_suffix:
+    match: youtube.md
+    policy: Proxy
+- domain_suffix:
+    match: youtube.se
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.ug
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.kw
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.co.in
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ca
+    policy: Proxy
+- domain_suffix:
+    match: youtube.rs
+    policy: Proxy
+- domain_suffix:
+    match: youtube.cz
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ch
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ee
+    policy: Proxy
+- domain_suffix:
+    match: youtube.nl
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.jp
+    policy: Proxy
+- domain_suffix:
+    match: gvt2.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.mx
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pe
+    policy: Proxy
+- domain_suffix:
+    match: youtube.gt
+    policy: Proxy
+- domain_suffix:
+    match: youtube.qa
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.bd
+    policy: Proxy
+- domain_suffix:
+    match: gvt1.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.lv
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.jo
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.my
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.jm
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.ve
+    policy: Proxy
+- domain_suffix:
+    match: youtube.hr
+    policy: Proxy
+- domain_suffix:
+    match: youtube.mk
+    policy: Proxy
+- domain_suffix:
+    match: youtube.pt
+    policy: Proxy
+- domain_suffix:
+    match: youtube.ro
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.by
+    policy: Proxy
+- domain_suffix:
+    match: youtube.sa
+    policy: Proxy
+- domain_suffix:
+    match: youtube.soy
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.com.br
+    policy: Proxy
+- domain_suffix:
+    match: youtubei.googleapis.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.ma
+    policy: Proxy
+- domain_suffix:
+    match: youtube.cat
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.sa
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.in
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.tn
+    policy: Proxy
+- domain_suffix:
+    match: youtubego.id
+    policy: Proxy
+- domain_suffix:
+    match: ggpht.com
+    policy: Proxy
+- domain_suffix:
+    match: googlevideo.com
+    policy: Proxy
+- domain_suffix:
+    match: youtube.co.th
+    policy: Proxy
+- domain_suffix:
+    match: youtube.jo
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.gt
+    policy: Proxy
+- domain_suffix:
+    match: youtube.com.pe
     policy: Proxy
 - domain:
-    match: yt3.ggpht.com
+    match: music.youtube.com
     policy: Proxy
 - domain:
     match: youtubei.googleapis.com
     policy: Proxy
 - domain:
-    match: music.youtube.com
+    match: yt3.ggpht.com
     policy: Proxy
 - domain_keyword:
     match: youtube
     policy: Proxy
-- domain_regex:
-    match: ^youtube\.com\..*$
+- domain_wildcard:
+    match: youtube.com.*
     policy: Proxy
-- domain_regex:
-    match: ^youtube\..*$
+- domain_wildcard:
+    match: youtube.*
     policy: Proxy
-- domain_regex:
-    match: ^youtube\..*\..*$
+- domain_wildcard:
+    match: youtube.*.*
     policy: Proxy
 - ip_cidr:
     match: 172.110.32.0/21
+    no_resolve: 'true'
+    policy: Proxy
+- ip_cidr6:
+    match: 2620:120:e000::/40
     no_resolve: 'true'
     policy: Proxy
 - ip_cidr:
     match: 216.73.80.0/20
     no_resolve: 'true'
     policy: Proxy
-- ip_cidr6:
-    match: 2620:120:e000::/40
-    no_resolve: 'true'
+- user_agent:
+    match: com.google.ios.youtubemusic*
+    policy: Proxy
+- user_agent:
+    match: '*com.google.ios.youtubemusic*'
+    policy: Proxy
+- user_agent:
+    match: '*youtube*'
+    policy: Proxy
+- user_agent:
+    match: '*YouTubeMusic*'
+    policy: Proxy
+- user_agent:
+    match: YouTube*
+    policy: Proxy
+- user_agent:
+    match: YouTubeMusic*
+    policy: Proxy
+- user_agent:
+    match: com.google.ios.youtube*
     policy: Proxy

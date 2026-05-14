@@ -1,0 +1,26 @@
+# Gins-Rules: douyu
+rules:
+- domain_suffix:
+    match: douyucdn2.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyu.com
+    policy: Proxy
+- domain_suffix:
+    match: douyucdn.cn
+    policy: Proxy
+- domain_suffix:
+    match: douyuscdn.com
+    policy: Proxy
+- domain_suffix:
+    match: douyu.tv
+    policy: Proxy
+- domain_suffix:
+    match: douyutv.com
+    policy: Proxy
+- domain_suffix:
+    match: edgesrv.com
+    policy: Proxy
+- domain_suffix:
+    match: bytefcdnrd.com
+    policy: Proxy
