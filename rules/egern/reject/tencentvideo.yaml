@@ -1,83 +1,32 @@
 # Gins-Rules: tencentvideo
-rules:
-- domain_suffix:
-    match: api.poll.video.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: l.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: omgmta1.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: gdt.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: gdtimg.com
-    policy: Proxy
-- domain_suffix:
-    match: static-res.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: tpns.tencent.com
-    policy: Proxy
-- domain_suffix:
-    match: video.mpush.qq.com
-    policy: Proxy
-- domain_suffix:
-    match: omgmta.qq.com
-    policy: Proxy
-- domain:
-    match: tux.qq.com
-    policy: Proxy
-- domain:
-    match: iacc.qq.com
-    policy: Proxy
-- domain:
-    match: activity.video.qq.com
-    policy: Proxy
-- domain:
-    match: rmonitor.qq.com
-    policy: Proxy
-- domain:
-    match: aegis.qq.com
-    policy: Proxy
-- domain:
-    match: info4.video.qq.com
-    policy: Proxy
-- domain:
-    match: ugchsy.gtimg.com
-    policy: Proxy
-- domain:
-    match: info6.video.qq.com
-    policy: Proxy
-- domain:
-    match: rdelivery.qq.com
-    policy: Proxy
-- domain_keyword:
-    match: trace.qq.com
-    policy: Proxy
-- domain_keyword:
-    match: trace.video.qq.com
-    policy: Proxy
-- domain_keyword:
-    match: track.qq.com
-    policy: Proxy
-- domain_keyword:
-    match: 1258344696.file.myqcloud.com
-    policy: Proxy
-- domain_keyword:
-    match: pgdt.gtimg.c
-    policy: Proxy
-- ip_cidr:
-    match: 111.6.166.107/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 120.222.144.64/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 183.201.213.194/32
-    no_resolve: 'true'
-    policy: Proxy
+domain_keyword_set:
+- track.qq.com
+- trace.video.qq.com
+- pgdt.gtimg.c
+- trace.qq.com
+- 1258344696.file.myqcloud.com
+domain_set:
+- ugchsy.gtimg.com
+- activity.video.qq.com
+- aegis.qq.com
+- rmonitor.qq.com
+- tux.qq.com
+- info4.video.qq.com
+- iacc.qq.com
+- info6.video.qq.com
+- rdelivery.qq.com
+domain_suffix_set:
+- static-res.qq.com
+- video.mpush.qq.com
+- api.poll.video.qq.com
+- omgmta1.qq.com
+- l.qq.com
+- gdt.qq.com
+- omgmta.qq.com
+- tpns.tencent.com
+- gdtimg.com
+ip_cidr_set:
+- 111.6.166.107/32
+- 120.222.144.64/32
+- 183.201.213.194/32
+no_resolve: true

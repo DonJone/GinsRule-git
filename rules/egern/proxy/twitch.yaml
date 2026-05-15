@@ -1,77 +1,27 @@
 # Gins-Rules: twitch
-rules:
-- domain_suffix:
-    match: live-video.net
-    policy: Proxy
-- domain_suffix:
-    match: twitch-ext.rootonline.de
-    policy: Proxy
-- domain_suffix:
-    match: ext-twitch.tv
-    policy: Proxy
-- domain_suffix:
-    match: twitchcdn.net
-    policy: Proxy
-- domain_suffix:
-    match: ttvnw.net
-    policy: Proxy
-- domain_suffix:
-    match: twitchsvc.net
-    policy: Proxy
-- domain_suffix:
-    match: jtvnw.net
-    policy: Proxy
-- domain_suffix:
-    match: twitch.tv
-    policy: Proxy
-- domain_keyword:
-    match: ttvnw
-    policy: Proxy
-- ip_cidr:
-    match: 52.223.208.0/21
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 45.113.128.0/22
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 192.16.64.0/21
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 52.223.224.0/19
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 23.160.0.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 192.108.239.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 52.223.192.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2402:2a80::/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 99.181.64.0/18
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 199.9.248.0/21
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 103.53.48.0/23
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 185.42.204.0/22
-    no_resolve: 'true'
-    policy: Proxy
+domain_keyword_set:
+- ttvnw
+domain_suffix_set:
+- jtvnw.net
+- ext-twitch.tv
+- live-video.net
+- ttvnw.net
+- twitchcdn.net
+- twitch-ext.rootonline.de
+- twitch.tv
+- twitchsvc.net
+ip_cidr6_set:
+- 2402:2a80::/32
+ip_cidr_set:
+- 185.42.204.0/22
+- 192.16.64.0/21
+- 52.223.224.0/19
+- 99.181.64.0/18
+- 199.9.248.0/21
+- 103.53.48.0/23
+- 23.160.0.0/24
+- 45.113.128.0/22
+- 192.108.239.0/24
+- 52.223.208.0/21
+- 52.223.192.0/20
+no_resolve: true

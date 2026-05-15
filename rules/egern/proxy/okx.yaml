@@ -1,11 +1,5 @@
 # Gins-Rules: okx
-rules:
-- domain_suffix:
-    match: oklink.com
-    policy: Proxy
-- domain_suffix:
-    match: okx.com
-    policy: Proxy
-- domain_suffix:
-    match: okex.com
-    policy: Proxy
+domain_suffix_set:
+- oklink.com
+- okex.com
+- okx.com

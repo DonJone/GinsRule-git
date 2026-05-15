@@ -1,1125 +1,380 @@
 # Gins-Rules: bytedance
-rules:
-- domain_suffix:
-    match: byteac.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanzhibo.net
-    policy: Proxy
-- domain_suffix:
-    match: panplayable-toutiao-b.com
-    policy: Proxy
-- domain_suffix:
-    match: pipix.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaojisu.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaowap.cn
-    policy: Proxy
-- domain_suffix:
-    match: varchserverqa.com
-    policy: Proxy
-- domain_suffix:
-    match: samasty.com
-    policy: Proxy
-- domain_suffix:
-    match: ugsdk.cn
-    policy: Proxy
-- domain_suffix:
-    match: zijiewap.cn
-    policy: Proxy
-- domain_suffix:
-    match: 2333333333333.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanimg.com
-    policy: Proxy
-- domain_suffix:
-    match: iesdouyin.net
-    policy: Proxy
-- domain_suffix:
-    match: toutiaohao.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaolite2.com
-    policy: Proxy
-- domain_suffix:
-    match: pangolin-sdk-toutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: jiyunhudong.com
-    policy: Proxy
-- domain_suffix:
-    match: dymusictape.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedns.net
-    policy: Proxy
-- domain_suffix:
-    match: neihandiantai.cn
-    policy: Proxy
-- domain_suffix:
-    match: toscdn.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaowap.com
-    policy: Proxy
-- domain_suffix:
-    match: trae.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: zlinkurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: doubao.cn
-    policy: Proxy
-- domain_suffix:
-    match: ixiguavideo.com
-    policy: Proxy
-- domain_suffix:
-    match: luckycalendar.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaohao.net
-    policy: Proxy
-- domain_suffix:
-    match: muyewx.com
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonapp.cn
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: fullluckcalendar.com
-    policy: Proxy
-- domain_suffix:
-    match: zijiewap.com
-    policy: Proxy
-- domain_suffix:
-    match: shoppingads.cn
-    policy: Proxy
-- domain_suffix:
-    match: lingovalley-cdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: healthybaike.com
-    policy: Proxy
-- domain_suffix:
-    match: fqnovelstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: bytesyscdn.com
-    policy: Proxy
-- domain_suffix:
-    match: bytetcc.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaopage.com
-    policy: Proxy
-- domain_suffix:
-    match: ugurl.cc
-    policy: Proxy
-- domain_suffix:
-    match: pacmantwo.com
-    policy: Proxy
-- domain_suffix:
-    match: yhgfb-cn-static.com
-    policy: Proxy
-- domain_suffix:
-    match: ulikecam.com
-    policy: Proxy
-- domain_suffix:
-    match: idouyinstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: juejin.cn
-    policy: Proxy
-- domain_suffix:
-    match: jstti.com
-    policy: Proxy
-- domain_suffix:
-    match: smartisan.cn
-    policy: Proxy
-- domain_suffix:
-    match: csjplatform.com
-    policy: Proxy
-- domain_suffix:
-    match: visactor.com
-    policy: Proxy
-- domain_suffix:
-    match: temaiapi.com
-    policy: Proxy
-- domain_suffix:
-    match: byte-ticket.com
-    policy: Proxy
-- domain_suffix:
-    match: byteimg.com
-    policy: Proxy
-- domain_suffix:
-    match: byteurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: tekkenthree.com
-    policy: Proxy
-- domain_suffix:
-    match: ieshuoshan.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyinpic.com
-    policy: Proxy
-- domain_suffix:
-    match: bytelove.cn
-    policy: Proxy
-- domain_suffix:
-    match: activity-zhendingtech.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanvideo.cn
-    policy: Proxy
-- domain_suffix:
-    match: dcarstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: ulikecam.cn
-    policy: Proxy
-- domain_suffix:
-    match: xiguashipin.net
-    policy: Proxy
-- domain_suffix:
-    match: jiyi.top
-    policy: Proxy
-- domain_suffix:
-    match: knightedge.com
-    policy: Proxy
-- domain_suffix:
-    match: yueantech.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyinact.net
-    policy: Proxy
-- domain_suffix:
-    match: mobilelegends.com
-    policy: Proxy
-- domain_suffix:
-    match: zjbyte.cn
-    policy: Proxy
-- domain_suffix:
-    match: zjbyte.com
-    policy: Proxy
-- domain_suffix:
-    match: qwconnect.top
-    policy: Proxy
-- domain_suffix:
-    match: aihst8.com
-    policy: Proxy
-- domain_suffix:
-    match: byteactivity.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoimg.net
-    policy: Proxy
-- domain_suffix:
-    match: fqnovel.com
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonzb.com
-    policy: Proxy
-- domain_suffix:
-    match: icphoto.cn
-    policy: Proxy
-- domain_suffix:
-    match: zijieapi.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiao11.com
-    policy: Proxy
-- domain_suffix:
-    match: smartisan.com
-    policy: Proxy
-- domain_suffix:
-    match: artistrylab.net
-    policy: Proxy
-- domain_suffix:
-    match: jiyunhudong.net
-    policy: Proxy
-- domain_suffix:
-    match: pangle.cn
-    policy: Proxy
-- domain_suffix:
-    match: ribaoapi.com
-    policy: Proxy
-- domain_suffix:
-    match: activitybyte.com
-    policy: Proxy
-- domain_suffix:
-    match: juliangyinqing.com
-    policy: Proxy
-- domain_suffix:
-    match: novelfmstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedance.net
-    policy: Proxy
-- domain_suffix:
-    match: cookicut.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanvideo.net
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonapp.com
-    policy: Proxy
-- domain_suffix:
-    match: qmoji.mobi
-    policy: Proxy
-- domain_suffix:
-    match: pstatp.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaolite.com
-    policy: Proxy
-- domain_suffix:
-    match: idouyinvod.com
-    policy: Proxy
-- domain_suffix:
-    match: ixigua.com
-    policy: Proxy
-- domain_suffix:
-    match: volces.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinact.com
-    policy: Proxy
-- domain_suffix:
-    match: tiquality.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: ieshuodong.net
-    policy: Proxy
-- domain_suffix:
-    match: amemv.cn
-    policy: Proxy
-- domain_suffix:
-    match: jokecommunity.net
-    policy: Proxy
-- domain_suffix:
-    match: qznovelpic.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiao14.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshangroup.com
-    policy: Proxy
-- domain_suffix:
-    match: ieshuodong.cn
-    policy: Proxy
-- domain_suffix:
-    match: ieshuoshan.net
-    policy: Proxy
-- domain_suffix:
-    match: bytescm.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoribao.net
-    policy: Proxy
-- domain_suffix:
-    match: huoshan.com
-    policy: Proxy
-- domain_suffix:
-    match: ieshuoshan.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedancevod.com
-    policy: Proxy
-- domain_suffix:
-    match: faceu.com
-    policy: Proxy
-- domain_suffix:
-    match: ecombdvod.com
-    policy: Proxy
-- domain_suffix:
-    match: ecombdimg.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqiesdkvod.com
-    policy: Proxy
-- domain_suffix:
-    match: fqnovelop.com
-    policy: Proxy
-- domain_suffix:
-    match: ihaohaoxuexi.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshante8.com
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonvideo.cn
-    policy: Proxy
-- domain_suffix:
-    match: neihandiantai.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: pangolin-dsp-toutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaohao.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaostatic.com
-    policy: Proxy
-- domain_suffix:
-    match: bqtalk.com
-    policy: Proxy
-- domain_suffix:
-    match: bytegecko.com
-    policy: Proxy
-- domain_suffix:
-    match: fqnovelim.com
-    policy: Proxy
-- domain_suffix:
-    match: gogokid.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: huoshanzhibo.com
-    policy: Proxy
-- domain_suffix:
-    match: jiyunhudong.cn
-    policy: Proxy
-- domain_suffix:
-    match: novelfmvod.com
-    policy: Proxy
-- domain_suffix:
-    match: oortgslb.com
-    policy: Proxy
-- domain_suffix:
-    match: ugurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: cdn-build.net
-    policy: Proxy
-- domain_suffix:
-    match: kspkg.com
-    policy: Proxy
-- domain_suffix:
-    match: volcdem.com
-    policy: Proxy
-- domain_suffix:
-    match: jinritoutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: zijieimg.com
-    policy: Proxy
-- domain_suffix:
-    match: zijieimg.net
-    policy: Proxy
-- domain_suffix:
-    match: ribaocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: amemv.com
-    policy: Proxy
-- domain_suffix:
-    match: zjurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: zlinkurl.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqiesdkpic.com
-    policy: Proxy
-- domain_suffix:
-    match: xiguavideo.net
-    policy: Proxy
-- domain_suffix:
-    match: bytecdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoimg.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaolite1.com
-    policy: Proxy
-- domain_suffix:
-    match: zjcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: larksuite.com
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonapp.net
-    policy: Proxy
-- domain_suffix:
-    match: buydouke.com
-    policy: Proxy
-- domain_suffix:
-    match: juejin.im
-    policy: Proxy
-- domain_suffix:
-    match: nhurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: pglstatp-toutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: gifshow.com
-    policy: Proxy
-- domain_suffix:
-    match: dongchediapp.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqiesdk.com
-    policy: Proxy
-- domain_suffix:
-    match: heycan.com
-    policy: Proxy
-- domain_suffix:
-    match: jinritemai-inc.com
-    policy: Proxy
-- domain_suffix:
-    match: ulikecam.net
-    policy: Proxy
-- domain_suffix:
-    match: 365yg.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqieopen.com
-    policy: Proxy
-- domain_suffix:
-    match: goofy-edge.cn
-    policy: Proxy
-- domain_suffix:
-    match: faceu.net
-    policy: Proxy
-- domain_suffix:
-    match: fqnovelpic.com
-    policy: Proxy
-- domain_suffix:
-    match: gogokid.com
-    policy: Proxy
-- domain_suffix:
-    match: jinritemai.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqiecopyright.com
-    policy: Proxy
-- domain_suffix:
-    match: bytemaimg.com
-    policy: Proxy
-- domain_suffix:
-    match: faceu.mobi
-    policy: Proxy
-- domain_suffix:
-    match: larksuitecdn.com
-    policy: Proxy
-- domain_suffix:
-    match: cdndns2.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinvideo.net
-    policy: Proxy
-- domain_suffix:
-    match: douyinliving.com
-    policy: Proxy
-- domain_suffix:
-    match: fqnovel-op.com
-    policy: Proxy
-- domain_suffix:
-    match: jiyi.biz
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonzb.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytetos.com
-    policy: Proxy
-- domain_suffix:
-    match: pangolin-dsp-toutiao-b.com
-    policy: Proxy
-- domain_suffix:
-    match: tiquality.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyincdn.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedance.org
-    policy: Proxy
-- domain_suffix:
-    match: bytefcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: bdactivity.com
-    policy: Proxy
-- domain_suffix:
-    match: bytefcdnrd.com
-    policy: Proxy
-- domain_suffix:
-    match: bytegoofy.com
-    policy: Proxy
-- domain_suffix:
-    match: trae.cn
-    policy: Proxy
-- domain_suffix:
-    match: ecom-lightapp.com
-    policy: Proxy
-- domain_suffix:
-    match: dcarimg.com
-    policy: Proxy
-- domain_suffix:
-    match: ieshs.net
-    policy: Proxy
-- domain_suffix:
-    match: smartisanos.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiao12.com
-    policy: Proxy
-- domain_suffix:
-    match: ugapk.cn
-    policy: Proxy
-- domain_suffix:
-    match: volcsirius.com
-    policy: Proxy
-- domain_suffix:
-    match: zijieurl.com
-    policy: Proxy
-- domain_suffix:
-    match: neihancommunity.cn
-    policy: Proxy
-- domain_suffix:
-    match: ugapk.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqieopenvod.com
-    policy: Proxy
-- domain_suffix:
-    match: ttjisu.com
-    policy: Proxy
-- domain_suffix:
-    match: faceu.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyin.com
-    policy: Proxy
-- domain_suffix:
-    match: iesdouyin.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanxiaoshipin.cn
-    policy: Proxy
-- domain_suffix:
-    match: kolbuyer.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocloud.net
-    policy: Proxy
-- domain_suffix:
-    match: toutiaohao.cn
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonzb.net
-    policy: Proxy
-- domain_suffix:
-    match: jokecommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: bcy.net
-    policy: Proxy
-- domain_suffix:
-    match: ibytedapm.com
-    policy: Proxy
-- domain_suffix:
-    match: bdgslb.com
-    policy: Proxy
-- domain_suffix:
-    match: zijiewap.net
-    policy: Proxy
-- domain_suffix:
-    match: bytedance.com
-    policy: Proxy
-- domain_suffix:
-    match: doubao.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinvod.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqieopenpic.com
-    policy: Proxy
-- domain_suffix:
-    match: moonton.com
-    policy: Proxy
-- domain_suffix:
-    match: amemv.net
-    policy: Proxy
-- domain_suffix:
-    match: bdxiguaimg.com
-    policy: Proxy
-- domain_suffix:
-    match: bytecdntp.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedns1.com
-    policy: Proxy
-- domain_suffix:
-    match: bytecdn.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: neihanshequ.com
-    policy: Proxy
-- domain_suffix:
-    match: dyvideotape.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinec.com
-    policy: Proxy
-- domain_suffix:
-    match: changdunovel.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: ttbyte.cn
-    policy: Proxy
-- domain_suffix:
-    match: ieshs.com
-    policy: Proxy
-- domain_suffix:
-    match: novelfmpic.com
-    policy: Proxy
-- domain_suffix:
-    match: aigcarena.com
-    policy: Proxy
-- domain_suffix:
-    match: bdxiguastatic.com
-    policy: Proxy
-- domain_suffix:
-    match: tetrisone.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinhanyu.com
-    policy: Proxy
-- domain_suffix:
-    match: bdurl.net
-    policy: Proxy
-- domain_suffix:
-    match: goodluckcalendar.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanvod.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiao13.com
-    policy: Proxy
-- domain_suffix:
-    match: byteapk.com
-    policy: Proxy
-- domain_suffix:
-    match: wtturl.cn
-    policy: Proxy
-- domain_suffix:
-    match: zijieimg.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytesmanager.com
-    policy: Proxy
-- domain_suffix:
-    match: bytegslb.com
-    policy: Proxy
-- domain_suffix:
-    match: qznovelstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: feelgood.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: snssdk.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocloud.com
-    policy: Proxy
-- domain_suffix:
-    match: zijiecdn.com
-    policy: Proxy
-- domain_suffix:
-    match: wukongwenda.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyinmusicclips.com
-    policy: Proxy
-- domain_suffix:
-    match: panplayable-toutiao.com
-    policy: Proxy
-- domain_suffix:
-    match: feishu.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytelb.net
-    policy: Proxy
-- domain_suffix:
-    match: bcyimg.com
-    policy: Proxy
-- domain_suffix:
-    match: ieshs.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytedanceoss.net
-    policy: Proxy
-- domain_suffix:
-    match: cdndns1.com
-    policy: Proxy
-- domain_suffix:
-    match: dcarlive.com
-    policy: Proxy
-- domain_suffix:
-    match: xiguaapp.com
-    policy: Proxy
-- domain_suffix:
-    match: baike.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaowap.net
-    policy: Proxy
-- domain_suffix:
-    match: ndcpp.com
-    policy: Proxy
-- domain_suffix:
-    match: fqnovelvod.com
-    policy: Proxy
-- domain_suffix:
-    match: bytedanceapi.com
-    policy: Proxy
-- domain_suffix:
-    match: wohst8.com
-    policy: Proxy
-- domain_suffix:
-    match: xiguashipin.cn
-    policy: Proxy
-- domain_suffix:
-    match: inluckcalendar.com
-    policy: Proxy
-- domain_suffix:
-    match: juliangyinqing.net
-    policy: Proxy
-- domain_suffix:
-    match: bytexservice.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanzhibo.cn
-    policy: Proxy
-- domain_suffix:
-    match: oceanengine.cn
-    policy: Proxy
-- domain_suffix:
-    match: pangolin-sdk-toutiao-b.com
-    policy: Proxy
-- domain_suffix:
-    match: smartisanos.cn
-    policy: Proxy
-- domain_suffix:
-    match: feishucdn.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocdn.net
-    policy: Proxy
-- domain_suffix:
-    match: bytedns2.com
-    policy: Proxy
-- domain_suffix:
-    match: bytednsdoc.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinmusicvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: volcengine.com
-    policy: Proxy
-- domain_suffix:
-    match: woaihuoshan.com
-    policy: Proxy
-- domain_suffix:
-    match: zijieurl.cn
-    policy: Proxy
-- domain_suffix:
-    match: zilrms.com
-    policy: Proxy
-- domain_suffix:
-    match: neihancommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: zjbyte.net
-    policy: Proxy
-- domain_suffix:
-    match: volceapplog.com
-    policy: Proxy
-- domain_suffix:
-    match: dymusicvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: feiliao.com
-    policy: Proxy
-- domain_suffix:
-    match: idouyinpic.com
-    policy: Proxy
-- domain_suffix:
-    match: byteeffecttos.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqiesdkstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: ihst8.com
-    policy: Proxy
-- domain_suffix:
-    match: neihancommunity.net
-    policy: Proxy
-- domain_suffix:
-    match: ihuoshanimg.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: bytesfield.com
-    policy: Proxy
-- domain_suffix:
-    match: hijackorg.net
-    policy: Proxy
-- domain_suffix:
-    match: dcdapp.com
-    policy: Proxy
-- domain_suffix:
-    match: nvsgames.cn
-    policy: Proxy
-- domain_suffix:
-    match: byteapk.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytedance.cn
-    policy: Proxy
-- domain_suffix:
-    match: ihuoshanvod.com
-    policy: Proxy
-- domain_suffix:
-    match: luckincalendar.com
-    policy: Proxy
-- domain_suffix:
-    match: qznovelvod.com
-    policy: Proxy
-- domain_suffix:
-    match: wukong.com
-    policy: Proxy
-- domain_suffix:
-    match: xiguavideo.cn
-    policy: Proxy
-- domain_suffix:
-    match: youdianyisi.com
-    policy: Proxy
-- domain_suffix:
-    match: neihanshequ.cn
-    policy: Proxy
-- domain_suffix:
-    match: zijiecdn.net
-    policy: Proxy
-- domain_suffix:
-    match: ecombdstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: neihandiantai.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshancdn.com
-    policy: Proxy
-- domain_suffix:
-    match: dou.top
-    policy: Proxy
-- domain_suffix:
-    match: maidouke.com
-    policy: Proxy
-- domain_suffix:
-    match: novelfm.com
-    policy: Proxy
-- domain_suffix:
-    match: byted.org
-    policy: Proxy
-- domain_suffix:
-    match: dcarvod.com
-    policy: Proxy
-- domain_suffix:
-    match: marscode.cn
-    policy: Proxy
-- domain_suffix:
-    match: pangolin-sdk-toutiao1.com
-    policy: Proxy
-- domain_suffix:
-    match: pglstatp-toutiao-b.com
-    policy: Proxy
-- domain_suffix:
-    match: capturetheflag.fun
-    policy: Proxy
-- domain_suffix:
-    match: huoshanxiaoshipin.net
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoimg.com
-    policy: Proxy
-- domain_suffix:
-    match: ulikecam.mobi
-    policy: Proxy
-- domain_suffix:
-    match: vireala.net
-    policy: Proxy
-- domain_suffix:
-    match: wukongwenda.com
-    policy: Proxy
-- domain_suffix:
-    match: hotsoonvideo.net
-    policy: Proxy
-- domain_suffix:
-    match: douyinclips.com
-    policy: Proxy
-- domain_suffix:
-    match: volccdn.com
-    policy: Proxy
-- domain_suffix:
-    match: zijiecdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: zjgslb.com
-    policy: Proxy
-- domain_suffix:
-    match: xiguaapp.cn
-    policy: Proxy
-- domain_suffix:
-    match: ttbyte.net
-    policy: Proxy
-- domain_suffix:
-    match: dongchedi.com
-    policy: Proxy
-- domain_suffix:
-    match: ixgvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: bdxiguavod.com
-    policy: Proxy
-- domain_suffix:
-    match: ugh5.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaocloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: toutiaovod.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinshortvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanlive.com
-    policy: Proxy
-- domain_suffix:
-    match: semi.design
-    policy: Proxy
-- domain_suffix:
-    match: nhlink.cn
-    policy: Proxy
-- domain_suffix:
-    match: qmoji.net
-    policy: Proxy
-- domain_suffix:
-    match: ziyrta.com
-    policy: Proxy
-- domain_suffix:
-    match: byted-static.com
-    policy: Proxy
-- domain_suffix:
-    match: huoshanparty.com
-    policy: Proxy
-- domain_suffix:
-    match: dyshortvideo.com
-    policy: Proxy
-- domain_suffix:
-    match: jtamac.com
-    policy: Proxy
-- domain_suffix:
-    match: betastar.cn
-    policy: Proxy
-- domain_suffix:
-    match: vireala.com
-    policy: Proxy
-- domain_suffix:
-    match: luckforcalendar.com
-    policy: Proxy
-- domain_suffix:
-    match: jokecommunity.cn
-    policy: Proxy
-- domain_suffix:
-    match: dcarapi.com
-    policy: Proxy
-- domain_suffix:
-    match: juliangyinqing.cn
-    policy: Proxy
-- domain_suffix:
-    match: xitu.io
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoapi.com
-    policy: Proxy
-- domain_suffix:
-    match: oceanengine.com
-    policy: Proxy
-- domain_suffix:
-    match: ttbyte.com
-    policy: Proxy
-- domain_suffix:
-    match: zijieurl.net
-    policy: Proxy
-- domain_suffix:
-    match: ecombdapi.com
-    policy: Proxy
-- domain_suffix:
-    match: fanqieopenstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: huaxiong.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiao15.com
-    policy: Proxy
-- domain_suffix:
-    match: toutiaoribao.cn
-    policy: Proxy
-- domain_suffix:
-    match: cdn-build.com
-    policy: Proxy
-- domain_suffix:
-    match: dailygn.com
-    policy: Proxy
-- domain:
-    match: v5-dy-o-abtest.zjcdn.com
-    policy: Proxy
-- domain:
-    match: lf3-static.bytednsdoc.com
-    policy: Proxy
-- ip_cidr:
-    match: 114.246.10.65/32
-    no_resolve: 'true'
-    policy: Proxy
-- user_agent:
-    match: TikTok*
-    policy: Proxy
+domain_set:
+- lf3-static.bytednsdoc.com
+- v5-dy-o-abtest.zjcdn.com
+domain_suffix_set:
+- zlinkurl.com
+- dyshortvideo.com
+- qznovelvod.com
+- ugurl.cc
+- bytedanceapi.com
+- csjplatform.com
+- bytelb.net
+- volcdem.com
+- luckforcalendar.com
+- xiguashipin.net
+- ieshuoshan.net
+- yueantech.com.cn
+- idouyinvod.com
+- ribaoapi.com
+- toscdn.com
+- varchserverqa.com
+- cdn-build.com
+- zijieimg.cn
+- aihst8.com
+- ieshs.com
+- semi.design
+- bytetos.com
+- huoshangroup.com
+- bdactivity.com
+- smartisanos.cn
+- qmoji.mobi
+- jiyunhudong.cn
+- visactor.com
+- fqnovelvod.com
+- pangolin-dsp-toutiao-b.com
+- kspkg.com
+- feishucdn.com
+- doubao.com
+- huoshanparty.com
+- huoshanxiaoshipin.cn
+- ribaocdn.com
+- fanqiesdkpic.com
+- jiyunhudong.net
+- panplayable-toutiao-b.com
+- amemv.com
+- cdndns1.com
+- cdndns2.com
+- dcarstatic.com
+- douyinstatic.com
+- faceu.net
+- jokecommunity.com
+- hotsoonapp.cn
+- lingovalley-cdn.cn
+- pangolin-sdk-toutiao1.com
+- panplayable-toutiao.com
+- toutiao13.com
+- fqnovelpic.com
+- bytefcdn.com
+- idouyinpic.com
+- fanqiesdk.com
+- juejin.cn
+- toutiaowap.net
+- trae.cn
+- hotsoonapp.com
+- toutiaowap.cn
+- toutiaojisu.com
+- bytelove.cn
+- toutiaocloud.net
+- baike.com
+- toutiaolite.com
+- zilrms.com
+- ieshuoshan.cn
+- toutiaohao.com.cn
+- vireala.net
+- zjbyte.com
+- zjbyte.net
+- ieshs.net
+- bytecdntp.com
+- bdgslb.com
+- douyinhanyu.com
+- fanqieopen.com
+- wukongwenda.com
+- youdianyisi.com
+- fqnovelstatic.com
+- toutiao.com
+- ndcpp.com
+- toutiao12.com
+- zijiecdn.cn
+- bytedance.org
+- zijiecdn.com
+- cookicut.com
+- dcarapi.com
+- bytescm.com
+- douyinvod.com
+- volcengine.com
+- fanqiesdkstatic.com
+- byted-static.com
+- gogokid.com.cn
+- neihanshequ.com
+- byteeffecttos.com
+- amemv.cn
+- pstatp.com
+- toutiao11.com
+- capturetheflag.fun
+- bdxiguaimg.com
+- ugurl.cn
+- fullluckcalendar.com
+- toutiaocloud.cn
+- zijieurl.cn
+- bytedns2.com
+- bytetcc.com
+- ecombdstatic.com
+- juliangyinqing.cn
+- douyin.com
+- larksuitecdn.com
+- fanqieopenvod.com
+- huoshanvideo.net
+- smartisanos.com
+- pangle.cn
+- huaxiong.com
+- oortgslb.com
+- toutiaohao.cn
+- tiquality.cn
+- douyinshortvideo.com
+- doubao.cn
+- zijiewap.net
+- toutiaoimg.net
+- bytedance.cn
+- fanqieopenstatic.com
+- toutiaocdn.com
+- douyinact.com
+- fqnovelim.com
+- qznovelstatic.com
+- ulikecam.com
+- zijieurl.net
+- dymusictape.com
+- toutiaoimg.cn
+- goodluckcalendar.com
+- huoshanimg.com
+- activitybyte.com
+- bytexservice.com
+- huoshanxiaoshipin.net
+- bytefcdnrd.com
+- shoppingads.cn
+- huoshanstatic.com
+- ecombdapi.com
+- bytedanceoss.net
+- ieshs.cn
+- huoshanvideo.cn
+- jiyi.biz
+- toutiao15.com
+- ugh5.cn
+- volceapplog.com
+- byteapk.com
+- dymusicvideo.com
+- bytedancevod.com
+- bytednsdoc.com
+- idouyinstatic.com
+- ixgvideo.com
+- ulikecam.net
+- dongchediapp.com
+- icphoto.cn
+- xiguaapp.com
+- douyinvideo.net
+- zjgslb.com
+- jinritoutiao.com
+- oceanengine.com
+- novelfmstatic.com
+- tiquality.com.cn
+- novelfmpic.com
+- hotsoonzb.net
+- xiguavideo.net
+- toutiaolite2.com
+- ieshuodong.net
+- nhurl.cn
+- douyinmusicclips.com
+- ecombdimg.com
+- qwconnect.top
+- faceu.mobi
+- ihuoshanvod.com
+- feelgood.cn
+- ixigua.com
+- jiyunhudong.com
+- vireala.com
+- hotsoonzb.cn
+- bytegoofy.com
+- bytedns.net
+- huoshancdn.com
+- huoshanlive.com
+- bdxiguastatic.com
+- mobilelegends.com
+- ulikecam.mobi
+- betastar.cn
+- nhlink.cn
+- bdurl.net
+- ttbyte.cn
+- zjbyte.cn
+- pangolin-sdk-toutiao-b.com
+- smartisan.com
+- toutiaovod.com
+- neihandiantai.com
+- juliangyinqing.com
+- zijiewap.com
+- cdn-build.net
+- huoshanzhibo.cn
+- toutiaocloud.com
+- byteurl.cn
+- maidouke.com
+- feishu.cn
+- moonton.com
+- ttbyte.net
+- wohst8.com
+- zijieapi.com
+- douyincdn.com
+- fqnovel.com
+- dcarvod.com
+- aigcarena.com
+- inluckcalendar.com
+- byteac.com
+- heycan.com
+- oceanengine.cn
+- bytedance.com
+- iesdouyin.com
+- pipix.com
+- snssdk.com
+- novelfmvod.com
+- wukongwenda.cn
+- zijiewap.cn
+- hotsoonvideo.cn
+- bytecdn.com
+- bytemaimg.com
+- jokecommunity.cn
+- ugapk.com
+- jokecommunity.net
+- fanqiesdkvod.com
+- toutiaolite1.com
+- neihancommunity.net
+- volces.com
+- hotsoonvideo.com
+- ihaohaoxuexi.com
+- dou.top
+- woaihuoshan.com
+- wukong.com
+- fqnovel-op.com
+- zijieimg.net
+- toutiaopage.com
+- ugapk.cn
+- pglstatp-toutiao-b.com
+- hotsoonapp.net
+- luckycalendar.cn
+- qmoji.net
+- pangolin-dsp-toutiao.com
+- tekkenthree.com
+- huoshanzhibo.com
+- juejin.im
+- byteapk.cn
+- temaiapi.com
+- huoshanvod.com
+- ihuoshanimg.com
+- gogokid.com
+- bqtalk.com
+- xiguashipin.cn
+- volcsirius.com
+- zijieurl.com
+- hijackorg.net
+- toutiaoribao.net
+- faceu.com
+- bcyimg.com
+- amemv.net
+- dyvideotape.com
+- ibytedapm.com
+- toutiaostatic.com
+- bytecdn.cn
+- ecombdvod.com
+- neihancommunity.com
+- volccdn.com
+- bytesfield.com
+- jinritemai.com
+- bytedns1.com
+- byteimg.com
+- ulikecam.cn
+- bcy.net
+- neihandiantai.cn
+- toutiaoribao.cn
+- zijiecdn.net
+- goofy-edge.cn
+- qznovelpic.com
+- fqnovelop.com
+- smartisan.cn
+- artistrylab.net
+- bytedance.net
+- juliangyinqing.net
+- toutiaohao.net
+- jstti.com
+- fanqieopenpic.com
+- toutiaocdn.net
+- ecom-lightapp.com
+- muyewx.com
+- huoshan.com
+- huoshante8.com
+- ttbyte.com
+- pglstatp-toutiao.com
+- zjurl.cn
+- douyinec.com
+- gifshow.com
+- neihancommunity.cn
+- hotsoonvideo.net
+- douyinclips.com
+- healthybaike.com
+- nvsgames.cn
+- toutiaohao.com
+- feiliao.com
+- bytesyscdn.com
+- zjcdn.com
+- dongchedi.com
+- 365yg.com
+- toutiao14.com
+- faceu.com.cn
+- bytesmanager.com
+- hotsoonzb.com
+- byteactivity.com
+- 2333333333333.com
+- dcarlive.com
+- pacmantwo.com
+- douyinliving.com
+- tetrisone.com
+- trae.com.cn
+- bytegecko.com
+- ttjisu.com
+- byted.org
+- knightedge.com
+- luckincalendar.com
+- fanqiecopyright.com
+- buydouke.com
+- huoshanzhibo.net
+- samasty.com
+- toutiaocdn.cn
+- dcarimg.com
+- iesdouyin.net
+- ixiguavideo.com
+- jinritemai-inc.com
+- neihandiantai.com.cn
+- pangolin-sdk-toutiao.com
+- ihst8.com
+- novelfm.com
+- activity-zhendingtech.com
+- bytegslb.com
+- douyinpic.com
+- ieshuodong.cn
+- toutiaoimg.com
+- xiguaapp.cn
+- xitu.io
+- neihanshequ.cn
+- wtturl.cn
+- toutiaowap.com
+- douyinact.net
+- jtamac.com
+- marscode.cn
+- byte-ticket.com
+- xiguavideo.cn
+- ziyrta.com
+- zlinkurl.cn
+- bdxiguavod.com
+- yhgfb-cn-static.com
+- dcdapp.com
+- douyinmusicvideo.com
+- ieshuoshan.com
+- jiyi.top
+- toutiaoapi.com
+- dailygn.com
+- changdunovel.com
+- larksuite.com
+- ugsdk.cn
+- kolbuyer.cn
+- zijieimg.com
+ip_cidr_set:
+- 114.246.10.65/32
+no_resolve: true
+user_agent_set:
+- TikTok*

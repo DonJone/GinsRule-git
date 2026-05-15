@@ -1,8 +1,4 @@
 # Gins-Rules: pinduoduo
-rules:
-- domain_suffix:
-    match: pinduoduo.com
-    policy: Proxy
-- domain_suffix:
-    match: yangkeduo.com
-    policy: Proxy
+domain_suffix_set:
+- yangkeduo.com
+- pinduoduo.com

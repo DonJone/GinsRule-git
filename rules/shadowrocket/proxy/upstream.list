@@ -35680,4 +35680,4 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
-IP-CIDR,35.192.0.0/12
+IP-CIDR,35.192.0.0/12,no-resolve

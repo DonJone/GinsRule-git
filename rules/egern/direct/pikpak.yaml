@@ -1,23 +1,10 @@
 # Gins-Rules: pikpak
-rules:
-- domain_suffix:
-    match: hubciddata.sandai.net
-    policy: Proxy
-- domain_suffix:
-    match: dlandroid.rcv.sandai.net
-    policy: Proxy
-- domain_suffix:
-    match: hub5pn.wap.sandai.net
-    policy: Proxy
-- domain_suffix:
-    match: hub5pnc.sandai.net
-    policy: Proxy
-- domain_suffix:
-    match: hub5idx.v6.shub.sandai.net
-    policy: Proxy
-- domain_suffix:
-    match: hub5pr.v6.phub.sandai.net
-    policy: Proxy
-- domain_keyword:
-    match: mypikpak
-    policy: Proxy
+domain_keyword_set:
+- mypikpak
+domain_suffix_set:
+- hub5pnc.sandai.net
+- hub5pr.v6.phub.sandai.net
+- hub5idx.v6.shub.sandai.net
+- hubciddata.sandai.net
+- hub5pn.wap.sandai.net
+- dlandroid.rcv.sandai.net

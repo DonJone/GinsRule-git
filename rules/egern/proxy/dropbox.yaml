@@ -1,53 +1,20 @@
 # Gins-Rules: dropbox
-rules:
-- domain_suffix:
-    match: dropboxinsiders.com
-    policy: Proxy
-- domain_suffix:
-    match: dropbox.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxpartners.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxcaptcha.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: getdropbox.com
-    policy: Proxy
-- domain_suffix:
-    match: dropbox.tech
-    policy: Proxy
-- domain_suffix:
-    match: dropbox.zendesk.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxapi.com
-    policy: Proxy
-- domain_suffix:
-    match: db.tt
-    policy: Proxy
-- domain_suffix:
-    match: dropboxstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxbusiness.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxforum.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxforums.com
-    policy: Proxy
-- domain_suffix:
-    match: dropboxmail.com
-    policy: Proxy
-- domain_suffix:
-    match: dropbox-dns.com
-    policy: Proxy
-- domain_keyword:
-    match: dropbox
-    policy: Proxy
+domain_keyword_set:
+- dropbox
+domain_suffix_set:
+- dropbox.com
+- dropbox.tech
+- dropboxcaptcha.com
+- dropbox.zendesk.com
+- getdropbox.com
+- dropboxforums.com
+- dropbox-dns.com
+- dropboxbusiness.com
+- dropboxforum.com
+- dropboxstatic.com
+- dropboxapi.com
+- dropboxpartners.com
+- dropboxusercontent.com
+- dropboxinsiders.com
+- dropboxmail.com
+- db.tt

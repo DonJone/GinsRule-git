@@ -1,746 +1,253 @@
 # Gins-Rules: ai
-rules:
-- domain_suffix:
-    match: platform.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: x.ai
-    policy: Proxy
-- domain_suffix:
-    match: grazie.aws.intellij.net
-    policy: Proxy
-- domain_suffix:
-    match: cursor-cdn.com
-    policy: Proxy
-- domain_suffix:
-    match: chatgpt.com
-    policy: Proxy
-- domain_suffix:
-    match: githubcopilot.com
-    policy: Proxy
-- domain_suffix:
-    match: openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    policy: Proxy
-- domain_suffix:
-    match: notebooklm.google.com
-    policy: Proxy
-- domain_suffix:
-    match: proactivebackend-pa.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: clipdrop.co
-    policy: Proxy
-- domain_suffix:
-    match: copilot-telemetry.githubusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: replicate.com
-    policy: Proxy
-- domain_suffix:
-    match: anyscale.com
-    policy: Proxy
-- domain_suffix:
-    match: api.githubcopilot.com
-    policy: Proxy
-- domain_suffix:
-    match: ct.sendgrid.net
-    policy: Proxy
-- domain_suffix:
-    match: events.launchdarkly.com
-    policy: Proxy
-- domain_suffix:
-    match: host.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: pplx.ai
-    policy: Proxy
-- domain_suffix:
-    match: apps.mzstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: clau.de
-    policy: Proxy
-- domain_suffix:
-    match: forwarder.workos.com
-    policy: Proxy
-- domain_suffix:
-    match: perplexity.ai
-    policy: Proxy
-- domain_suffix:
-    match: deepmind.com
-    policy: Proxy
-- domain_suffix:
-    match: intercomcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: jasper.ai
-    policy: Proxy
-- domain_suffix:
-    match: stability.ai
-    policy: Proxy
-- domain_suffix:
-    match: apis.google.com
-    policy: Proxy
-- domain_suffix:
-    match: statsigapi.net
-    policy: Proxy
-- domain_suffix:
-    match: zed.dev
-    policy: Proxy
-- domain_suffix:
-    match: workos.com
-    policy: Proxy
-- domain_suffix:
-    match: gateway.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: tcr9i.chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: alkalimakersuite-pa.clients6.google.com
-    policy: Proxy
-- domain_suffix:
-    match: auth0.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: bing-shopping.microsoft-falcon.io
-    policy: Proxy
-- domain_suffix:
-    match: ciciai.com
-    policy: Proxy
-- domain_suffix:
-    match: segment.io
-    policy: Proxy
-- domain_suffix:
-    match: claude.site
-    policy: Proxy
-- domain_suffix:
-    match: llama.meta.com
-    policy: Proxy
-- domain_suffix:
-    match: hf.co
-    policy: Proxy
-- domain_suffix:
-    match: gspe1-ssl.ls.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: openrouter.ai
-    policy: Proxy
-- domain_suffix:
-    match: ai.meta.com
-    policy: Proxy
-- domain_suffix:
-    match: images.workoscdn.com
-    policy: Proxy
-- domain_suffix:
-    match: g.ai
-    policy: Proxy
-- domain_suffix:
-    match: geller-pa.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: trae-api-sg.mchost.guru
-    policy: Proxy
-- domain_suffix:
-    match: cohere.ai
-    policy: Proxy
-- domain_suffix:
-    match: rum.browser-intake-datadoghq.com
-    policy: Proxy
-- domain_suffix:
-    match: algolia.net
-    policy: Proxy
-- domain_suffix:
-    match: cohere.com
-    policy: Proxy
-- domain_suffix:
-    match: dola.com
-    policy: Proxy
-- domain_suffix:
-    match: cici.com
-    policy: Proxy
-- domain_suffix:
-    match: client-api.arkoselabs.com
-    policy: Proxy
-- domain_suffix:
-    match: akamaized.com
-    policy: Proxy
-- domain_suffix:
-    match: bard.google.com
-    policy: Proxy
-- domain_suffix:
-    match: meta.ai
-    policy: Proxy
-- domain_suffix:
-    match: setup.auth.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: copilot.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: launchdarkly.com
-    policy: Proxy
-- domain_suffix:
-    match: livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: together.ai
-    policy: Proxy
-- domain_suffix:
-    match: ai.com
-    policy: Proxy
-- domain_suffix:
-    match: workos.imgix.net
-    policy: Proxy
-- domain_suffix:
-    match: ai.google.dev
-    policy: Proxy
-- domain_suffix:
-    match: bing.com
-    policy: Proxy
-- domain_suffix:
-    match: gemini.google.com
-    policy: Proxy
-- domain_suffix:
-    match: smoot.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: edgeservices.bing.com
-    policy: Proxy
-- domain_suffix:
-    match: featureassets.org
-    policy: Proxy
-- domain_suffix:
-    match: turn.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: chatgpt.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: app.launchdarkly.com
-    policy: Proxy
-- domain_suffix:
-    match: prodregistryv2.org
-    policy: Proxy
-- domain_suffix:
-    match: openaicom.imgix.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudcode-pa.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: gemini.google
-    policy: Proxy
-- domain_suffix:
-    match: desktop.chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: groq.com
-    policy: Proxy
-- domain_suffix:
-    match: events.statsigapi.net
-    policy: Proxy
-- domain_suffix:
-    match: o207216.ingest.sentry.io
-    policy: Proxy
-- domain_suffix:
-    match: stripe.com
-    policy: Proxy
-- domain_suffix:
-    match: alkalicore-pa.clients6.google.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.fastly-edge.com
-    policy: Proxy
-- domain_suffix:
-    match: api.microsoftapp.net
-    policy: Proxy
-- domain_suffix:
-    match: api.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: aida.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: openai.com
-    policy: Proxy
-- domain_suffix:
-    match: perplexity.com
-    policy: Proxy
-- domain_suffix:
-    match: setup.workos.com
-    policy: Proxy
-- domain_suffix:
-    match: sentry.io
-    policy: Proxy
-- domain_suffix:
-    match: vimeocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: grazie.ai
-    policy: Proxy
-- domain_suffix:
-    match: huggingface.co
-    policy: Proxy
-- domain_suffix:
-    match: deepmind.google
-    policy: Proxy
-- domain_suffix:
-    match: openart.ai
-    policy: Proxy
-- domain_suffix:
-    match: cursorapi.com
-    policy: Proxy
-- domain_suffix:
-    match: oaiusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: notebooklm.google
-    policy: Proxy
-- domain_suffix:
-    match: grok.com
-    policy: Proxy
-- domain_suffix:
-    match: default.exp-tas.com
-    policy: Proxy
-- domain_suffix:
-    match: intercom.io
-    policy: Proxy
-- domain_suffix:
-    match: cursor.sh
-    policy: Proxy
-- domain_suffix:
-    match: gatewayai.com
-    policy: Proxy
-- domain_suffix:
-    match: cursor.com
-    policy: Proxy
-- domain_suffix:
-    match: generativelanguage.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: mistral.ai
-    policy: Proxy
-- domain_suffix:
-    match: openaicomproductionae4b.blob.core.windows.net
-    policy: Proxy
-- domain_suffix:
-    match: clientstream.launchdarkly.com
-    policy: Proxy
-- domain_suffix:
-    match: jetbrains.ai
-    policy: Proxy
-- domain_suffix:
-    match: dify.ai
-    policy: Proxy
-- domain_suffix:
-    match: chat.openai.com.cdn.cloudflare.net
-    policy: Proxy
-- domain_suffix:
-    match: featuregates.org
-    policy: Proxy
-- domain_suffix:
-    match: trae.ai
-    policy: Proxy
-- domain_suffix:
-    match: js.stripe.com
-    policy: Proxy
-- domain_suffix:
-    match: hcaptcha.com
-    policy: Proxy
-- domain_suffix:
-    match: makersuite.google.com
-    policy: Proxy
-- domain_suffix:
-    match: vimeo.com
-    policy: Proxy
-- domain_suffix:
-    match: chat.com
-    policy: Proxy
-- domain_suffix:
-    match: copilot-proxy.githubusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: identrust.com
-    policy: Proxy
-- domain_suffix:
-    match: ios.chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: statsig.com
-    policy: Proxy
-- domain_suffix:
-    match: poe.com
-    policy: Proxy
-- domain_suffix:
-    match: android.chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: copilot.github.com
-    policy: Proxy
-- domain_suffix:
-    match: guzzoni.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: claude.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: anthropic.com
-    policy: Proxy
-- domain_suffix:
-    match: byteoversea.com
-    policy: Proxy
-- domain_suffix:
-    match: openaiapi-site.azureedge.net
-    policy: Proxy
-- domain_suffix:
-    match: chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: sora.com
-    policy: Proxy
-- domain_suffix:
-    match: observeit.net
-    policy: Proxy
-- domain_suffix:
-    match: claude.ai
-    policy: Proxy
-- domain_suffix:
-    match: tktn.be
-    policy: Proxy
-- domain_suffix:
-    match: js.intercomcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: oaistatic.com
-    policy: Proxy
-- domain_suffix:
-    match: o33249.ingest.sentry.io
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: character.ai
-    policy: Proxy
-- domain_suffix:
-    match: cdn.workos.com
-    policy: Proxy
-- domain_suffix:
-    match: midjourney.com
-    policy: Proxy
-- domain_suffix:
-    match: stablediffusionweb.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: auth0.com
-    policy: Proxy
-- domain_suffix:
-    match: api.statsig.com
-    policy: Proxy
-- domain_suffix:
-    match: aistudio.google.com
-    policy: Proxy
-- domain_suffix:
-    match: auth.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: generativeai.google
-    policy: Proxy
-- domain_suffix:
-    match: challenges.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: claudeusercontent.com
-    policy: Proxy
-- domain:
-    match: cdn.auth0.com
-    policy: Proxy
-- domain:
-    match: gemini.google.com
-    policy: Proxy
-- domain:
-    match: odc.officeapps.live.com
-    policy: Proxy
-- domain:
-    match: guzzoni.apple.com
-    policy: Proxy
-- domain:
-    match: production-openaicom-storage.azureedge.net
-    policy: Proxy
-- domain:
-    match: aisandbox-pa.googleapis.com
-    policy: Proxy
-- domain:
-    match: aistudio.google.com
-    policy: Proxy
-- domain:
-    match: console.mistral.ai
-    policy: Proxy
-- domain:
-    match: gateway.bingviz.microsoftapp.net
-    policy: Proxy
-- domain:
-    match: gspe1-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: antigravity.google
-    policy: Proxy
-- domain:
-    match: openrouter.ai
-    policy: Proxy
-- domain:
-    match: self.events.data.microsoft.com
-    policy: Proxy
-- domain:
-    match: api.github.com
-    policy: Proxy
-- domain:
-    match: services.bingapis.com
-    policy: Proxy
-- domain:
-    match: alkalimakersuite-pa.clients6.google.com
-    policy: Proxy
-- domain:
-    match: bard.google.com
-    policy: Proxy
-- domain:
-    match: host.livekit.cloud
-    policy: Proxy
-- domain:
-    match: in.appcenter.ms
-    policy: Proxy
-- domain:
-    match: pplx-res.cloudinary.com
-    policy: Proxy
-- domain:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain:
-    match: imagine.meta.com
-    policy: Proxy
-- domain:
-    match: generativelanguage.googleapis.com
-    policy: Proxy
-- domain:
-    match: console.anthropic.com
-    policy: Proxy
-- domain:
-    match: aida.googleapis.com
-    policy: Proxy
-- domain:
-    match: cdn.oaistatic.com
-    policy: Proxy
-- domain:
-    match: makersuite.google.com
-    policy: Proxy
-- domain:
-    match: openai.com.cdn.cloudflare.net
-    policy: Proxy
-- domain:
-    match: openaiapi-site.azureedge.net
-    policy: Proxy
-- domain:
-    match: r.bing.com
-    policy: Proxy
-- domain:
-    match: location.microsoft.com
-    policy: Proxy
-- domain:
-    match: o33249.ingest.sentry.io
-    policy: Proxy
-- domain:
-    match: api.githubcopilot.com
-    policy: Proxy
-- domain:
-    match: chat.openai.com.cdn.cloudflare.net
-    policy: Proxy
-- domain:
-    match: gateway.ai.cloudflare.com
-    policy: Proxy
-- domain:
-    match: browser-intake-datadoghq.com
-    policy: Proxy
-- domain:
-    match: 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-    policy: Proxy
-- domain:
-    match: status.anthropic.com
-    policy: Proxy
-- domain:
-    match: generativeai.google
-    policy: Proxy
-- domain:
-    match: antigravity-unleash.goog
-    policy: Proxy
-- domain:
-    match: openaicomproductionae4b.blob.core.windows.net
-    policy: Proxy
-- domain:
-    match: sydney.bing.com
-    policy: Proxy
-- domain:
-    match: chat.mistral.ai
-    policy: Proxy
-- domain:
-    match: api.jetbrains.ai
-    policy: Proxy
-- domain:
-    match: api.anthropic.com
-    policy: Proxy
-- domain:
-    match: docs.anthropic.com
-    policy: Proxy
-- domain:
-    match: assets.msn.com
-    policy: Proxy
-- domain:
-    match: cdn.usefathom.com
-    policy: Proxy
-- domain:
-    match: ai.google.dev
-    policy: Proxy
-- domain:
-    match: www.bing.com
-    policy: Proxy
-- domain:
-    match: api.msn.com
-    policy: Proxy
-- domain:
-    match: geller-pa.googleapis.com
-    policy: Proxy
-- domain:
-    match: openai-api.arkoselabs.com
-    policy: Proxy
-- domain:
-    match: static.cloudflareinsights.com
-    policy: Proxy
-- domain:
-    match: alkalicore-pa.clients6.google.com
-    policy: Proxy
-- domain:
-    match: api.x.ai
-    policy: Proxy
-- domain:
-    match: api.statsig.com
-    policy: Proxy
-- domain:
-    match: api-iam.intercom.io
-    policy: Proxy
-- domain:
-    match: apple-relay.fastly-edge.com
-    policy: Proxy
-- domain:
-    match: copilot-proxy.githubusercontent.com
-    policy: Proxy
-- domain:
-    match: apple-relay.apple.com
-    policy: Proxy
-- domain:
-    match: apple-relay.cloudflare.com
-    policy: Proxy
-- domain:
-    match: chatgpt.livekit.cloud
-    policy: Proxy
-- domain:
-    match: proactivebackend-pa.googleapis.com
-    policy: Proxy
-- domain:
-    match: trae-api-sg.mchost.guru
-    policy: Proxy
-- domain:
-    match: jules.google.com
-    policy: Proxy
-- domain:
-    match: challenges.cloudflare.com
-    policy: Proxy
-- domain:
-    match: copilot.microsoft.com
-    policy: Proxy
-- domain:
-    match: deepmind.google
-    policy: Proxy
-- domain:
-    match: daily-cloudcode-pa.googleapis.com
-    policy: Proxy
-- domain:
-    match: deepmind.com
-    policy: Proxy
-- domain:
-    match: gateway.bingviz.microsoft.net
-    policy: Proxy
-- domain:
-    match: openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    policy: Proxy
-- domain:
-    match: robinfrontend-pa.googleapis.com
-    policy: Proxy
-- domain_keyword:
-    match: openai
-    policy: Proxy
-- domain_keyword:
-    match: openaicom-api
-    policy: Proxy
-- domain_keyword:
-    match: alkalimakersuite-pa.clients6.google.com
-    policy: Proxy
-- domain_keyword:
-    match: colab
-    policy: Proxy
-- domain_keyword:
-    match: developerprofiles
-    policy: Proxy
-- domain_keyword:
-    match: generativelanguage
-    policy: Proxy
-- ip_cidr:
-    match: 129.146.3.78/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 64.23.132.171/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 24.199.123.28/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 160.79.104.0/23
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 50.117.27.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 69.46.75.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2607:6bc0::/48
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 205.164.56.29/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 63.251.124.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- asn:
-    match: AS14061
-    policy: Proxy
-- asn:
-    match: AS20473
-    policy: Proxy
+asn_set:
+- AS14061
+- AS20473
+domain_keyword_set:
+- openaicom-api
+- colab
+- generativelanguage
+- alkalimakersuite-pa.clients6.google.com
+- openai
+- developerprofiles
+domain_set:
+- openai-api.arkoselabs.com
+- status.anthropic.com
+- aisandbox-pa.googleapis.com
+- trae-api-sg.mchost.guru
+- gspe1-ssl.ls.apple.com
+- proactivebackend-pa.googleapis.com
+- daily-cloudcode-pa.googleapis.com
+- chatgpt.livekit.cloud
+- self.events.data.microsoft.com
+- api.githubcopilot.com
+- gateway.bingviz.microsoft.net
+- console.mistral.ai
+- deepmind.com
+- openai.com.cdn.cloudflare.net
+- api.jetbrains.ai
+- production-openaicom-storage.azureedge.net
+- copilot.microsoft.com
+- browser-intake-datadoghq.com
+- jules.google.com
+- sydney.bing.com
+- generativelanguage.googleapis.com
+- generativeai.google
+- r.bing.com
+- cdn.usefathom.com
+- cp4.cloudflare.com
+- api.msn.com
+- gateway.ai.cloudflare.com
+- cdn.auth0.com
+- 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+- api.statsig.com
+- gemini.google.com
+- api.x.ai
+- ai.google.dev
+- aida.googleapis.com
+- gateway.bingviz.microsoftapp.net
+- copilot-proxy.githubusercontent.com
+- openaiapi-site.azureedge.net
+- antigravity.google
+- deepmind.google
+- o33249.ingest.sentry.io
+- www.bing.com
+- challenges.cloudflare.com
+- assets.msn.com
+- geller-pa.googleapis.com
+- cdn.oaistatic.com
+- antigravity-unleash.goog
+- guzzoni.apple.com
+- docs.anthropic.com
+- api.github.com
+- makersuite.google.com
+- openaicomproductionae4b.blob.core.windows.net
+- alkalimakersuite-pa.clients6.google.com
+- bard.google.com
+- openrouter.ai
+- pplx-res.cloudinary.com
+- aistudio.google.com
+- alkalicore-pa.clients6.google.com
+- host.livekit.cloud
+- in.appcenter.ms
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- services.bingapis.com
+- api.anthropic.com
+- chat.mistral.ai
+- console.anthropic.com
+- robinfrontend-pa.googleapis.com
+- imagine.meta.com
+- apple-relay.apple.com
+- chat.openai.com.cdn.cloudflare.net
+- api-iam.intercom.io
+- apple-relay.cloudflare.com
+- static.cloudflareinsights.com
+- apple-relay.fastly-edge.com
+- odc.officeapps.live.com
+- location.microsoft.com
+domain_suffix_set:
+- identrust.com
+- client-api.arkoselabs.com
+- oaiusercontent.com
+- prodregistryv2.org
+- deepmind.google
+- poe.com
+- cohere.ai
+- chatgpt.com
+- aistudio.google.com
+- featureassets.org
+- clau.de
+- apps.mzstatic.com
+- algolia.net
+- gatewayai.com
+- stablediffusionweb.com
+- observeit.net
+- githubcopilot.com
+- zed.dev
+- clientstream.launchdarkly.com
+- jetbrains.ai
+- ai.google.dev
+- pplx.ai
+- tcr9i.chat.openai.com
+- x.ai
+- challenges.cloudflare.com
+- segment.io
+- apple-relay.apple.com
+- clipdrop.co
+- copilot.github.com
+- tktn.be
+- cohere.com
+- generativeai.google
+- forwarder.workos.com
+- ct.sendgrid.net
+- api.statsig.com
+- byteoversea.com
+- apple-relay.cloudflare.com
+- geller-pa.googleapis.com
+- claude.com
+- copilot-proxy.githubusercontent.com
+- claudeusercontent.com
+- midjourney.com
+- stability.ai
+- workos.imgix.net
+- api.openai.com
+- default.exp-tas.com
+- rum.browser-intake-datadoghq.com
+- cursor.sh
+- alkalicore-pa.clients6.google.com
+- trae-api-sg.mchost.guru
+- openart.ai
+- app.launchdarkly.com
+- together.ai
+- notebooklm.google.com
+- mistral.ai
+- openai.com
+- hf.co
+- claude.ai
+- stripe.com
+- trae.ai
+- claude.site
+- o207216.ingest.sentry.io
+- vimeocdn.com
+- anthropic.com
+- openaicomproductionae4b.blob.core.windows.net
+- dola.com
+- featuregates.org
+- cursorapi.com
+- cloudcode-pa.googleapis.com
+- guzzoni.apple.com
+- cursor-cdn.com
+- replicate.com
+- openrouter.ai
+- bing-shopping.microsoft-falcon.io
+- llama.meta.com
+- aida.googleapis.com
+- chat.openai.com.cdn.cloudflare.net
+- edgeservices.bing.com
+- proactivebackend-pa.googleapis.com
+- livekit.cloud
+- makersuite.google.com
+- images.workoscdn.com
+- o33249.ingest.sentry.io
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- statsigapi.net
+- bing.com
+- cdn.workos.com
+- gemini.google.com
+- anyscale.com
+- setup.workos.com
+- platform.openai.com
+- events.launchdarkly.com
+- cp4.cloudflare.com
+- sora.com
+- sentry.io
+- jasper.ai
+- chat.com
+- cici.com
+- ios.chat.openai.com
+- gspe1-ssl.ls.apple.com
+- statsig.com
+- gemini.google
+- vimeo.com
+- desktop.chat.openai.com
+- apple-relay.akamaized.net
+- groq.com
+- perplexity.ai
+- huggingface.co
+- apis.google.com
+- api.githubcopilot.com
+- apple-relay.fastly-edge.com
+- grok.com
+- meta.ai
+- cursor.com
+- android.chat.openai.com
+- auth.openai.com
+- js.intercomcdn.com
+- setup.auth.openai.com
+- copilot-telemetry.githubusercontent.com
+- generativelanguage.googleapis.com
+- perplexity.com
+- intercom.io
+- smoot.apple.com
+- launchdarkly.com
+- chat.openai.com
+- ai.meta.com
+- deepmind.com
+- host.livekit.cloud
+- alkalimakersuite-pa.clients6.google.com
+- turn.livekit.cloud
+- character.ai
+- ciciai.com
+- openaiapi-site.azureedge.net
+- dify.ai
+- events.statsigapi.net
+- intercomcdn.com
+- hcaptcha.com
+- js.stripe.com
+- oaistatic.com
+- akamaized.com
+- grazie.aws.intellij.net
+- grazie.ai
+- bard.google.com
+- auth0.openai.com
+- workos.com
+- ai.com
+- copilot.microsoft.com
+- chatgpt.livekit.cloud
+- g.ai
+- openaicom.imgix.net
+- notebooklm.google
+- gateway.icloud.com
+- auth0.com
+- api.microsoftapp.net
+ip_cidr6_set:
+- 2607:6bc0::/48
+ip_cidr_set:
+- 205.164.56.29/24
+- 129.146.3.78/32
+- 50.117.27.0/24
+- 24.199.123.28/32
+- 63.251.124.0/24
+- 160.79.104.0/23
+- 64.23.132.171/32
+- 69.46.75.0/24
+no_resolve: true

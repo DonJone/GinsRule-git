@@ -1,35 +1,13 @@
 # Gins-Rules: oracle
-rules:
-- domain_suffix:
-    match: oracleinfinity.io
-    policy: Proxy
-- domain_suffix:
-    match: sun.com
-    policy: Proxy
-- domain_suffix:
-    match: bronto.com
-    policy: Proxy
-- domain_suffix:
-    match: covid19-rx.org
-    policy: Proxy
-- domain_suffix:
-    match: oracle.com
-    policy: Proxy
-- domain_suffix:
-    match: ateam-oracle.com
-    policy: Proxy
-- domain_suffix:
-    match: oraclecloud.com
-    policy: Proxy
-- domain_suffix:
-    match: covid19rx.org
-    policy: Proxy
-- domain_suffix:
-    match: oracle
-    policy: Proxy
-- domain_suffix:
-    match: oraclefoundation.org
-    policy: Proxy
-- domain_suffix:
-    match: oracleimg.com
-    policy: Proxy
+domain_suffix_set:
+- ateam-oracle.com
+- oracle.com
+- covid19rx.org
+- oraclefoundation.org
+- oracleinfinity.io
+- bronto.com
+- oracle
+- oraclecloud.com
+- oracleimg.com
+- sun.com
+- covid19-rx.org

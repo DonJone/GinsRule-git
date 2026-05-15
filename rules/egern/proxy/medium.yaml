@@ -1,5 +1,3 @@
 # Gins-Rules: medium
-rules:
-- domain_suffix:
-    match: medium.com
-    policy: Proxy
+domain_suffix_set:
+- medium.com

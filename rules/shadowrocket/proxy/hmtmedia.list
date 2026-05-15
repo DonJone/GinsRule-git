@@ -12,5 +12,5 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,www.bilibili.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
 DOMAIN-SUFFIX,api.mgtv.com
-IP-CIDR,116.211.202.206/32
-IP-CIDR,116.211.202.216/32
+IP-CIDR,116.211.202.206/32,no-resolve
+IP-CIDR,116.211.202.216/32,no-resolve

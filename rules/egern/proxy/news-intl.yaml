@@ -1,38 +1,14 @@
 # Gins-Rules: news-intl
-rules:
-- domain_suffix:
-    match: economist.com
-    policy: Proxy
-- domain_suffix:
-    match: ft.com
-    policy: Proxy
-- domain_suffix:
-    match: washingtonpost.com
-    policy: Proxy
-- domain_suffix:
-    match: nytimes.com
-    policy: Proxy
-- domain_suffix:
-    match: wsj.com
-    policy: Proxy
-- domain_suffix:
-    match: apnews.com
-    policy: Proxy
-- domain_suffix:
-    match: bbc.com
-    policy: Proxy
-- domain_suffix:
-    match: bbc.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: bloomberg.com
-    policy: Proxy
-- domain_suffix:
-    match: cnn.com
-    policy: Proxy
-- domain_suffix:
-    match: reuters.com
-    policy: Proxy
-- domain_suffix:
-    match: theguardian.com
-    policy: Proxy
+domain_suffix_set:
+- washingtonpost.com
+- bbc.co.uk
+- nytimes.com
+- reuters.com
+- cnn.com
+- theguardian.com
+- bbc.com
+- economist.com
+- apnews.com
+- bloomberg.com
+- ft.com
+- wsj.com

@@ -1,20 +1,9 @@
 # Gins-Rules: zoom
-rules:
-- domain_suffix:
-    match: zoominfo.com
-    policy: Proxy
-- domain_suffix:
-    match: zoom.com
-    policy: Proxy
-- domain_suffix:
-    match: zoom.us
-    policy: Proxy
-- domain_suffix:
-    match: zoomgov.com
-    policy: Proxy
-- domain_suffix:
-    match: zoomcdn.com
-    policy: Proxy
-- domain:
-    match: zoom.cdn.arkoselabs.com
-    policy: Proxy
+domain_set:
+- zoom.cdn.arkoselabs.com
+domain_suffix_set:
+- zoom.us
+- zoominfo.com
+- zoomgov.com
+- zoomcdn.com
+- zoom.com

@@ -1,89 +1,31 @@
 # Gins-Rules: discord
-rules:
-- domain_suffix:
-    match: discord.gifts
-    policy: Proxy
-- domain_suffix:
-    match: discord-activities.com
-    policy: Proxy
-- domain_suffix:
-    match: bigbeans.solutions
-    policy: Proxy
-- domain_suffix:
-    match: dis.gd
-    policy: Proxy
-- domain_suffix:
-    match: discordpartygames.com
-    policy: Proxy
-- domain_suffix:
-    match: discord.com
-    policy: Proxy
-- domain_suffix:
-    match: discordstatus.com
-    policy: Proxy
-- domain_suffix:
-    match: discord.tools
-    policy: Proxy
-- domain_suffix:
-    match: discord.design
-    policy: Proxy
-- domain_suffix:
-    match: discord-attachments-uploads-prd.storage.googleapis.com
-    policy: Proxy
-- domain_suffix:
-    match: discordactivities.com
-    policy: Proxy
-- domain_suffix:
-    match: discordapp.com
-    policy: Proxy
-- domain_suffix:
-    match: discordsays.com
-    policy: Proxy
-- domain_suffix:
-    match: discordapp.page.link
-    policy: Proxy
-- domain_suffix:
-    match: discord.gift
-    policy: Proxy
-- domain_suffix:
-    match: watchanimeattheoffice.com
-    policy: Proxy
-- domain_suffix:
-    match: discord.dev
-    policy: Proxy
-- domain_suffix:
-    match: discord.co
-    policy: Proxy
-- domain_suffix:
-    match: airhorn.solutions
-    policy: Proxy
-- domain_suffix:
-    match: discord.new
-    policy: Proxy
-- domain_suffix:
-    match: discordapp.io
-    policy: Proxy
-- domain_suffix:
-    match: discordapp.net
-    policy: Proxy
-- domain_suffix:
-    match: discord.gg
-    policy: Proxy
-- domain_suffix:
-    match: discord.store
-    policy: Proxy
-- domain_suffix:
-    match: hammerandchisel.ssl.zendesk.com
-    policy: Proxy
-- domain_suffix:
-    match: airhornbot.com
-    policy: Proxy
-- domain_suffix:
-    match: discordcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: discord.media
-    policy: Proxy
-- domain_suffix:
-    match: discordmerch.com
-    policy: Proxy
+domain_suffix_set:
+- discord.gg
+- discordapp.com
+- discord-attachments-uploads-prd.storage.googleapis.com
+- discordapp.net
+- discordmerch.com
+- discord.co
+- discordcdn.com
+- discord.tools
+- discordapp.page.link
+- discordpartygames.com
+- discord.store
+- discord.new
+- discord-activities.com
+- discordapp.io
+- discord.dev
+- discord.gift
+- dis.gd
+- airhornbot.com
+- discord.media
+- discordactivities.com
+- watchanimeattheoffice.com
+- discord.gifts
+- discord.design
+- hammerandchisel.ssl.zendesk.com
+- discordstatus.com
+- airhorn.solutions
+- bigbeans.solutions
+- discordsays.com
+- discord.com

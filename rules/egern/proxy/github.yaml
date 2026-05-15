@@ -1,92 +1,33 @@
 # Gins-Rules: github
-rules:
-- domain_suffix:
-    match: githubstatus.com
-    policy: Proxy
-- domain_suffix:
-    match: repo.new
-    policy: Proxy
-- domain_suffix:
-    match: dependabot.com
-    policy: Proxy
-- domain_suffix:
-    match: ghcr.io
-    policy: Proxy
-- domain_suffix:
-    match: git.io
-    policy: Proxy
-- domain_suffix:
-    match: thegithubshop.com
-    policy: Proxy
-- domain_suffix:
-    match: github-cloud.s3.amazonaws.com
-    policy: Proxy
-- domain_suffix:
-    match: github.com
-    policy: Proxy
-- domain_suffix:
-    match: npmjs.org
-    policy: Proxy
-- domain_suffix:
-    match: githubpreview.dev
-    policy: Proxy
-- domain_suffix:
-    match: opensource.guide
-    policy: Proxy
-- domain_suffix:
-    match: npm.community
-    policy: Proxy
-- domain_suffix:
-    match: rawgit.com
-    policy: Proxy
-- domain_suffix:
-    match: githubusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: myoctocat.com
-    policy: Proxy
-- domain_suffix:
-    match: copilot-proxy.githubusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: githubuniverse.com
-    policy: Proxy
-- domain_suffix:
-    match: github.dev
-    policy: Proxy
-- domain_suffix:
-    match: githubassets.com
-    policy: Proxy
-- domain_suffix:
-    match: rawgithub.com
-    policy: Proxy
-- domain_suffix:
-    match: github.community
-    policy: Proxy
-- domain_suffix:
-    match: githubapp.com
-    policy: Proxy
-- domain_suffix:
-    match: githubcopilot.com
-    policy: Proxy
-- domain_suffix:
-    match: githubnext.com
-    policy: Proxy
-- domain_suffix:
-    match: githubhackathon.com
-    policy: Proxy
-- domain_suffix:
-    match: github.io
-    policy: Proxy
-- domain_suffix:
-    match: npmjs.com
-    policy: Proxy
-- domain_suffix:
-    match: atom.io
-    policy: Proxy
-- domain_suffix:
-    match: github.blog
-    policy: Proxy
-- domain_keyword:
-    match: github
-    policy: Proxy
+domain_keyword_set:
+- github
+domain_suffix_set:
+- dependabot.com
+- github.com
+- githubusercontent.com
+- opensource.guide
+- rawgithub.com
+- github.community
+- githubnext.com
+- npmjs.org
+- githubcopilot.com
+- git.io
+- githubhackathon.com
+- myoctocat.com
+- npm.community
+- github.dev
+- repo.new
+- githubpreview.dev
+- githubuniverse.com
+- npmjs.com
+- atom.io
+- githubstatus.com
+- githubapp.com
+- copilot-proxy.githubusercontent.com
+- ghcr.io
+- github-cloud.s3.amazonaws.com
+- githubassets.com
+- github.io
+- rawgit.com
+- github.blog
+- thegithubshop.com

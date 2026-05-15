@@ -1,152 +1,53 @@
 # Gins-Rules: cloudflare
-rules:
-- domain_suffix:
-    match: one.one.one
-    policy: Proxy
-- domain_suffix:
-    match: cf-ipfs.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareprod.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareresolve.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarestream.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareok.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareworkers.com
-    policy: Proxy
-- domain_suffix:
-    match: videodelivery.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarestatus.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare.tv
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarestoragegw.com
-    policy: Proxy
-- domain_suffix:
-    match: pages.dev
-    policy: Proxy
-- domain_suffix:
-    match: r2.dev
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareaccess.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarestaging.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare-quic.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareinsights.com
-    policy: Proxy
-- domain_suffix:
-    match: cf-ns.net
-    policy: Proxy
-- domain_suffix:
-    match: cloudflaressl.com
-    policy: Proxy
-- domain_suffix:
-    match: every1dns.net
-    policy: Proxy
-- domain_suffix:
-    match: cf-ns.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarebolt.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarestorage.com
-    policy: Proxy
-- domain_suffix:
-    match: cdnjs.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare-dns.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareapps.com
-    policy: Proxy
-- domain_suffix:
-    match: cdnjs.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: warp.plus
-    policy: Proxy
-- domain_suffix:
-    match: pacloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: workers.dev
-    policy: Proxy
-- domain_suffix:
-    match: cloudflareclient.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarepreview.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflaretest.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflaregateway.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: cloudflarewarp.com
-    policy: Proxy
-- domain_suffix:
-    match: cf-ns.site
-    policy: Proxy
-- domain_suffix:
-    match: cf-ns.tech
-    policy: Proxy
-- domain_suffix:
-    match: cloudflare-ipfs.com
-    policy: Proxy
-- domain_suffix:
-    match: trycloudflare.com
-    policy: Proxy
-- domain:
-    match: speed.cloudflare.com
-    policy: Proxy
-- domain:
-    match: 1dot1dot1dot1.cloudflare-dns.com
-    policy: Proxy
-- domain:
-    match: ajax.cloudflare.com
-    policy: Proxy
-- domain:
-    match: teams.cloudflare.com
-    policy: Proxy
-- domain:
-    match: r2.cloudflarestorage.com
-    policy: Proxy
-- domain:
-    match: one.one.one.one
-    policy: Proxy
-- domain:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain:
-    match: dash.cloudflare.com
-    policy: Proxy
-- domain:
-    match: email.cloudflare.com
-    policy: Proxy
+domain_set:
+- 1dot1dot1dot1.cloudflare-dns.com
+- dash.cloudflare.com
+- speed.cloudflare.com
+- ajax.cloudflare.com
+- cp4.cloudflare.com
+- email.cloudflare.com
+- teams.cloudflare.com
+- r2.cloudflarestorage.com
+- one.one.one.one
+domain_suffix_set:
+- every1dns.net
+- cf-ipfs.com
+- cloudflaretest.com
+- cf-ns.com
+- cloudflarestatus.com
+- cloudflareapps.com
+- cloudflareworkers.com
+- pages.dev
+- cloudflare.com
+- cloudflarebolt.com
+- cloudflarestoragegw.com
+- cf-ns.site
+- cloudflareaccess.com
+- cloudflareclient.com
+- cf-ns.net
+- cloudflaregateway.com
+- cloudflarestream.com
+- cloudflarewarp.com
+- r2.dev
+- videodelivery.net
+- cf-ns.tech
+- cloudflaressl.com
+- cloudflarepreview.com
+- pacloudflare.com
+- cloudflareok.com
+- cloudflareprod.com
+- cloudflareresolve.com
+- trycloudflare.com
+- cdnjs.cloudflare.com
+- cloudflarestaging.com
+- cloudflare-dns.com
+- cloudflare-ipfs.com
+- cdnjs.com
+- workers.dev
+- one.one.one
+- cloudflareinsights.com
+- cloudflare.net
+- cloudflare.tv
+- warp.plus
+- cloudflare-quic.com
+- cloudflarestorage.com

@@ -1,77 +1,27 @@
 # Gins-Rules: steam-cdn
-rules:
-- domain_suffix:
-    match: steamusercontent-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: f3b7q2p3.ssl.hwcdn.net
-    policy: Proxy
-- domain_suffix:
-    match: st.dl.pinyuncloud.com
-    policy: Proxy
-- domain_suffix:
-    match: steam.apac.qtlglb.com
-    policy: Proxy
-- domain_suffix:
-    match: steam.cdn.on.net
-    policy: Proxy
-- domain_suffix:
-    match: st.dl.eccdnx.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-ali.content.steamchina.com
-    policy: Proxy
-- domain_suffix:
-    match: steam.eca.qtlglb.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-ws.content.steamchina.com
-    policy: Proxy
-- domain_suffix:
-    match: st.dl.bscstorage.net
-    policy: Proxy
-- domain_suffix:
-    match: steam.cdn.slingshot.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: steam.naeu.qtlglb.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-qc.content.steamchina.com
-    policy: Proxy
-- domain_suffix:
-    match: dota2.wmsj.cn
-    policy: Proxy
-- domain_suffix:
-    match: steamcdn-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steamcontent.tnkjmec.com
-    policy: Proxy
-- domain_suffix:
-    match: csgo.wmsj.cn
-    policy: Proxy
-- domain_suffix:
-    match: steamstore-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: dl.steam.ksyna.com
-    policy: Proxy
-- domain_suffix:
-    match: steam.cdn.orcon.net.nz
-    policy: Proxy
-- domain_suffix:
-    match: dl.steam.clngaa.com
-    policy: Proxy
-- domain_suffix:
-    match: steamuserimages-a.akamaihd.net
-    policy: Proxy
-- domain_suffix:
-    match: steam.ru.qtlglb.com
-    policy: Proxy
-- domain_suffix:
-    match: edge.steam-dns.top.comcast.net
-    policy: Proxy
-- domain_suffix:
-    match: steamcontent.com
-    policy: Proxy
+domain_suffix_set:
+- st.dl.eccdnx.com
+- dota2.wmsj.cn
+- st.dl.pinyuncloud.com
+- steam.cdn.on.net
+- dl.steam.ksyna.com
+- steam.eca.qtlglb.com
+- cdn-qc.content.steamchina.com
+- steam.naeu.qtlglb.com
+- steamuserimages-a.akamaihd.net
+- steamusercontent-a.akamaihd.net
+- cdn-ws.content.steamchina.com
+- st.dl.bscstorage.net
+- f3b7q2p3.ssl.hwcdn.net
+- steamcontent.com
+- steamcdn-a.akamaihd.net
+- edge.steam-dns.top.comcast.net
+- csgo.wmsj.cn
+- dl.steam.clngaa.com
+- steam.ru.qtlglb.com
+- steam.apac.qtlglb.com
+- steamstore-a.akamaihd.net
+- steam.cdn.slingshot.co.nz
+- steam.cdn.orcon.net.nz
+- steamcontent.tnkjmec.com
+- cdn-ali.content.steamchina.com

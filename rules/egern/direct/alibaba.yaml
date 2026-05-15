@@ -1,191 +1,66 @@
 # Gins-Rules: alibaba
-rules:
-- domain_suffix:
-    match: alipay.net
-    policy: Proxy
-- domain_suffix:
-    match: alipay-inc.com
-    policy: Proxy
-- domain_suffix:
-    match: aliyundrive.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay.cn
-    policy: Proxy
-- domain_suffix:
-    match: ifaa.org.cn
-    policy: Proxy
-- domain_suffix:
-    match: elemecdn.com
-    policy: Proxy
-- domain_suffix:
-    match: alipayobjects.com
-    policy: Proxy
-- domain_suffix:
-    match: hichina.com
-    policy: Proxy
-- domain_suffix:
-    match: luohanacademy.com
-    policy: Proxy
-- domain_suffix:
-    match: youku.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay-eco.com
-    policy: Proxy
-- domain_suffix:
-    match: soku.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: tbcache.com
-    policy: Proxy
-- domain_suffix:
-    match: dingtalk.com
-    policy: Proxy
-- domain_suffix:
-    match: alipaydns.com
-    policy: Proxy
-- domain_suffix:
-    match: taobaocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: alimama.com
-    policy: Proxy
-- domain_suffix:
-    match: ykimg.com
-    policy: Proxy
-- domain_suffix:
-    match: alipaymo.com
-    policy: Proxy
-- domain_suffix:
-    match: sinopayment.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: tmall.com
-    policy: Proxy
-- domain_suffix:
-    match: ele.me
-    policy: Proxy
-- domain_suffix:
-    match: alipay.hk
-    policy: Proxy
-- domain_suffix:
-    match: alipayplus.com
-    policy: Proxy
-- domain_suffix:
-    match: 1688.com
-    policy: Proxy
-- domain_suffix:
-    match: alipaydesign.com
-    policy: Proxy
-- domain_suffix:
-    match: tbcdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: mmstat.com
-    policy: Proxy
-- domain_suffix:
-    match: xiami.com
-    policy: Proxy
-- domain_suffix:
-    match: xiami.net
-    policy: Proxy
-- domain_suffix:
-    match: alibabausercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: alicloudccp.com
-    policy: Proxy
-- domain_suffix:
-    match: alikunlun.com
-    policy: Proxy
-- domain_suffix:
-    match: alipaydev.com
-    policy: Proxy
-- domain_suffix:
-    match: aliexpress.com
-    policy: Proxy
-- domain_suffix:
-    match: qwen.ai
-    policy: Proxy
-- domain_suffix:
-    match: alipay-corp.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay-traffic.com
-    policy: Proxy
-- domain_suffix:
-    match: alibaba.com
-    policy: Proxy
-- domain_suffix:
-    match: amap.com
-    policy: Proxy
-- domain_suffix:
-    match: mxhichina.com
-    policy: Proxy
-- domain_suffix:
-    match: tbcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: alibabachengdun.com
-    policy: Proxy
-- domain_suffix:
-    match: aliimg.com
-    policy: Proxy
-- domain_suffix:
-    match: alipay.com
-    policy: Proxy
-- domain_suffix:
-    match: cainiao.com
-    policy: Proxy
-- domain_suffix:
-    match: ucweb.com
-    policy: Proxy
-- domain_suffix:
-    match: tmall.hk
-    policy: Proxy
-- domain_suffix:
-    match: alipay
-    policy: Proxy
-- domain_suffix:
-    match: alipayeshop.com
-    policy: Proxy
-- domain_suffix:
-    match: alibabacloud.com
-    policy: Proxy
-- domain_suffix:
-    match: autonavi.com
-    policy: Proxy
-- domain_suffix:
-    match: alisoft.com
-    policy: Proxy
-- domain_suffix:
-    match: aliyundrive.net
-    policy: Proxy
-- domain_suffix:
-    match: aliyun.com
-    policy: Proxy
-- domain_suffix:
-    match: aliyuncdn.com
-    policy: Proxy
-- domain_suffix:
-    match: alicdn.com
-    policy: Proxy
-- domain_suffix:
-    match: taobao.com
-    policy: Proxy
-- domain_suffix:
-    match: aliyuncs.com
-    policy: Proxy
-- domain_suffix:
-    match: aliapp.org
-    policy: Proxy
-- domain_suffix:
-    match: alipaylog.com
-    policy: Proxy
-- domain_keyword:
-    match: alipay
-    policy: Proxy
+domain_keyword_set:
+- alipay
+domain_suffix_set:
+- cainiao.com
+- elemecdn.com
+- aliyundrive.com
+- alipay.net
+- alibabacloud.com
+- tmall.com
+- alisoft.com
+- alipay-corp.com
+- alipay.com
+- alibabachengdun.com
+- alipayeshop.com
+- autonavi.com
+- qwen.ai
+- alipay
+- taobao.com
+- luohanacademy.com
+- aliapp.org
+- alipay-eco.com
+- alipay.com.cn
+- aliexpress.com
+- ucweb.com
+- alimama.com
+- alipaydev.com
+- amap.com
+- youku.com
+- alipaylog.com
+- xiami.net
+- tbcache.com
+- hichina.com
+- alipay-inc.com
+- alicloudccp.com
+- alibaba.com
+- tbcdn.cn
+- sinopayment.com.cn
+- alipay.hk
+- mxhichina.com
+- alicdn.com
+- alipaymo.com
+- dingtalk.com
+- alibabausercontent.com
+- aliyuncs.com
+- mmstat.com
+- taobaocdn.com
+- tmall.hk
+- alipayplus.com
+- aliyuncdn.com
+- alipay-traffic.com
+- aliimg.com
+- alipaydesign.com
+- ifaa.org.cn
+- ykimg.com
+- aliyundrive.net
+- aliyun.com
+- tbcdn.com
+- xiami.com
+- alipayobjects.com
+- alikunlun.com
+- alipaydns.com
+- soku.com
+- alipay.cn
+- ele.me
+- 1688.com

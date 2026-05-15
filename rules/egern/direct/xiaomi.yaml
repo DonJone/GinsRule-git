@@ -1,35 +1,13 @@
 # Gins-Rules: xiaomi
-rules:
-- domain_suffix:
-    match: oneplus.com
-    policy: Proxy
-- domain_suffix:
-    match: huawei.com
-    policy: Proxy
-- domain_suffix:
-    match: miui.com
-    policy: Proxy
-- domain_suffix:
-    match: oppo.com
-    policy: Proxy
-- domain_suffix:
-    match: coloros.com
-    policy: Proxy
-- domain_suffix:
-    match: honor.com
-    policy: Proxy
-- domain_suffix:
-    match: xiaomi.com
-    policy: Proxy
-- domain_suffix:
-    match: mi.com
-    policy: Proxy
-- domain_suffix:
-    match: xiaomiev.com
-    policy: Proxy
-- domain_suffix:
-    match: vivo.com
-    policy: Proxy
-- domain_suffix:
-    match: realme.com
-    policy: Proxy
+domain_suffix_set:
+- miui.com
+- realme.com
+- vivo.com
+- xiaomiev.com
+- honor.com
+- oneplus.com
+- xiaomi.com
+- coloros.com
+- huawei.com
+- oppo.com
+- mi.com

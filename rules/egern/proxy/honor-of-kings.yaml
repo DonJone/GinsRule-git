@@ -1,22 +1,11 @@
 # Gins-Rules: honor-of-kings
-rules:
-- domain_suffix:
-    match: intlgame.com
-    policy: Proxy
-- domain_suffix:
-    match: sgameglobal.com
-    policy: Proxy
-- domain_suffix:
-    match: appsflyersdk.com
-    policy: Proxy
-- domain_keyword:
-    match: sgameglobal.com
-    policy: Proxy
-- ip_cidr:
-    match: 43.132.55.55/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 183.192.65.101/16
-    no_resolve: 'true'
-    policy: Proxy
+domain_keyword_set:
+- sgameglobal.com
+domain_suffix_set:
+- appsflyersdk.com
+- intlgame.com
+- sgameglobal.com
+ip_cidr_set:
+- 183.192.65.101/16
+- 43.132.55.55/16
+no_resolve: true

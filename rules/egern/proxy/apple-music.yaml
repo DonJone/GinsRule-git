@@ -1,38 +1,16 @@
 # Gins-Rules: apple-music
-rules:
-- domain_suffix:
-    match: blobstore.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.apple
-    policy: Proxy
-- domain_suffix:
-    match: music.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.com
-    policy: Proxy
-- domain:
-    match: mvod.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: aod-ssl.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: play.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: audio-ssl.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: streamingaudio.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: audio.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: aod.itunes.apple.com
-    policy: Proxy
-- user_agent:
-    match: Music*
-    policy: Proxy
+domain_set:
+- audio-ssl.itunes.apple.com
+- aod-ssl.itunes.apple.com
+- play.itunes.apple.com
+- streamingaudio.itunes.apple.com
+- aod.itunes.apple.com
+- mvod.itunes.apple.com
+- audio.itunes.apple.com
+domain_suffix_set:
+- applemusic.com
+- blobstore.apple.com
+- music.apple.com
+- applemusic.apple
+user_agent_set:
+- Music*

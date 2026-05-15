@@ -1,5937 +1,1983 @@
 # Gins-Rules: apple
-rules:
-- domain_suffix:
-    match: macosforge.org
-    policy: Proxy
-- domain_suffix:
-    match: spiritclubs.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresalesonline-australia.com
-    policy: Proxy
-- domain_suffix:
-    match: superearsenjoy.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.tv
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrefrcasquepascher.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com
-    policy: Proxy
-- domain_suffix:
-    match: axm-adm-enroll.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.xn--czr694b
-    policy: Proxy
-- domain_suffix:
-    match: beatfactoryoutlets.com
-    policy: Proxy
-- domain_suffix:
-    match: esbeatsbydrebuy.com
-    policy: Proxy
-- domain_suffix:
-    match: ls.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.me
-    policy: Proxy
-- domain_suffix:
-    match: apple.si
-    policy: Proxy
-- domain_suffix:
-    match: beatsonblackfriday2013.com
-    policy: Proxy
-- domain_suffix:
-    match: repsneakermall.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.bo
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.co.in
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.net
-    policy: Proxy
-- domain_suffix:
-    match: macintoshsoftware.com
-    policy: Proxy
-- domain_suffix:
-    match: appsto.re
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsheadphone.com
-    policy: Proxy
-- domain_suffix:
-    match: onsaletrend.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-cd.com
-    policy: Proxy
-- domain_suffix:
-    match: powerbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: itunnel.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsfacstore.com
-    policy: Proxy
-- domain_suffix:
-    match: dtsell.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.cm
-    policy: Proxy
-- domain_suffix:
-    match: apple.eu
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: beatshopuk.com
-    policy: Proxy
-- domain_suffix:
-    match: 1to1conference.com.au
-    policy: Proxy
-- domain_suffix:
-    match: appleid-applemx.com
-    policy: Proxy
-- domain_suffix:
-    match: beatmonstersaustralia.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-hk.com
-    policy: Proxy
-- domain_suffix:
-    match: beatscheapforsale.com
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.biz
-    policy: Proxy
-- domain_suffix:
-    match: beatsinsingapore.com
-    policy: Proxy
-- domain_suffix:
-    match: frishoes.com
-    policy: Proxy
-- domain_suffix:
-    match: idmsa.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreonlie2013-nl.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-vip4.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookpro.com.au
-    policy: Proxy
-- domain_suffix:
-    match: monbeats2013.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatssite.com
-    policy: Proxy
-- domain_suffix:
-    match: appleoriginalproductions.com
-    policy: Proxy
-- domain_suffix:
-    match: dremonsterbeatsoutlets.com
-    policy: Proxy
-- domain_suffix:
-    match: gobeatsye.com
-    policy: Proxy
-- domain_suffix:
-    match: camelphat.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.hk
-    policy: Proxy
-- domain_suffix:
-    match: mac.eu
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsitaly.com
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.eu
-    policy: Proxy
-- domain_suffix:
-    match: shoppinguheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdreoutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterdrebeats-usa.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresales.us
-    policy: Proxy
-- domain_suffix:
-    match: beatsdreinau.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.co
-    policy: Proxy
-- domain_suffix:
-    match: ocsp.digicert.cn
-    policy: Proxy
-- domain_suffix:
-    match: appleid.cdn-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.rs
-    policy: Proxy
-- domain_suffix:
-    match: applemusicconnect.com
-    policy: Proxy
-- domain_suffix:
-    match: lcdn-locator.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: lovemarca.com
-    policy: Proxy
-- domain_suffix:
-    match: sneakerpage.net
-    policy: Proxy
-- domain_suffix:
-    match: macruby.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-pay.rs
-    policy: Proxy
-- domain_suffix:
-    match: applepremiumresellers.com.au
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydremall.com
-    policy: Proxy
-- domain_suffix:
-    match: guzzoni.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: webobjects.de
-    policy: Proxy
-- domain_suffix:
-    match: wwwlapple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.tt
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.ro
-    policy: Proxy
-- domain_suffix:
-    match: beatsneon.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreonlines-ireland.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-usa.net
-    policy: Proxy
-- domain_suffix:
-    match: buybeatsheadphonesbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: insidear.cn
-    policy: Proxy
-- domain_suffix:
-    match: iphone4.com
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.net
-    policy: Proxy
-- domain_suffix:
-    match: sneakerskick.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsoutletanytime.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.ro
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.sn
-    policy: Proxy
-- domain_suffix:
-    match: xn--ohq11k7pl25iyo8a.cn
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.pl
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsdiscount.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.wang
-    policy: Proxy
-- domain_suffix:
-    match: macos.com.au
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrdre-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreaustralia-sale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonesonline.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.info
-    policy: Proxy
-- domain_suffix:
-    match: macbookpro.us
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrehd.com
-    policy: Proxy
-- domain_suffix:
-    match: kobbeatssbydredk.com
-    policy: Proxy
-- domain_suffix:
-    match: szcheapmonsterheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: dot-mac.de
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.do
-    policy: Proxy
-- domain_suffix:
-    match: appleone.host
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreshop-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapestbeatsdrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: imacapple.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.co.th
-    policy: Proxy
-- domain_suffix:
-    match: darwinsource.com
-    policy: Proxy
-- domain_suffix:
-    match: faceidglobal.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.de
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.com.es
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.uy
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.tv
-    policy: Proxy
-- domain_suffix:
-    match: imessage.tv
-    policy: Proxy
-- domain_suffix:
-    match: apple-pay.com
-    policy: Proxy
-- domain_suffix:
-    match: onlineapplestore.com
-    policy: Proxy
-- domain_suffix:
-    match: onlinemonsterbeatsonsale.com
-    policy: Proxy
-- domain_suffix:
-    match: abeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydre-au.com
-    policy: Proxy
-- domain_suffix:
-    match: imacsources.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsale.com
-    policy: Proxy
-- domain_suffix:
-    match: wuxiapple.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsfactory.net
-    policy: Proxy
-- domain_suffix:
-    match: 2013newbeatsworld.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-inc.net
-    policy: Proxy
-- domain_suffix:
-    match: applecenter.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: applewatchedition.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.com.au
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsmall.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatssales.com
-    policy: Proxy
-- domain_suffix:
-    match: illianacomputerrecycling.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsjoy.com
-    policy: Proxy
-- domain_suffix:
-    match: ocsp2.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.com
-    policy: Proxy
-- domain_suffix:
-    match: thinkdifferent.us
-    policy: Proxy
-- domain_suffix:
-    match: iphone5casescovers.com
-    policy: Proxy
-- domain_suffix:
-    match: designeriphonescases.com
-    policy: Proxy
-- domain_suffix:
-    match: applefinalcutproworld.com
-    policy: Proxy
-- domain_suffix:
-    match: headphoneshotsales.com
-    policy: Proxy
-- domain_suffix:
-    match: powerbeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: buyonlineheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer-imac.com
-    policy: Proxy
-- domain_suffix:
-    match: beddit.tv
-    policy: Proxy
-- domain_suffix:
-    match: faceid99.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: icloud.pt
-    policy: Proxy
-- domain_suffix:
-    match: imac.one
-    policy: Proxy
-- domain_suffix:
-    match: shopdrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: sunglassessale2014.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.hk
-    policy: Proxy
-- domain_suffix:
-    match: applezh.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecybermondaydeals2013.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrefriday.com
-    policy: Proxy
-- domain_suffix:
-    match: buyaapl.com
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsofficiel-fr.com
-    policy: Proxy
-- domain_suffix:
-    match: goodsdunk.net
-    policy: Proxy
-- domain_suffix:
-    match: itunes.hk
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsshops.net
-    policy: Proxy
-- domain_suffix:
-    match: igoshopping.net
-    policy: Proxy
-- domain_suffix:
-    match: frcasquesbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsodre.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrenew.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsdrdrecheap.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: pillbeatsblackfridaysale.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.com.br
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.my
-    policy: Proxy
-- domain_suffix:
-    match: applecare.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: iphone-vip3.com
-    policy: Proxy
-- domain_suffix:
-    match: appleappstore.tv
-    policy: Proxy
-- domain_suffix:
-    match: livephotos.tv
-    policy: Proxy
-- domain_suffix:
-    match: newbemany.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-club.com
-    policy: Proxy
-- domain_suffix:
-    match: dashwood360.com
-    policy: Proxy
-- domain_suffix:
-    match: jetfuelapp.com
-    policy: Proxy
-- domain_suffix:
-    match: appye.com
-    policy: Proxy
-- domain_suffix:
-    match: webobjects.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.sk
-    policy: Proxy
-- domain_suffix:
-    match: findmybeats.com
-    policy: Proxy
-- domain_suffix:
-    match: applefinalcutproworld.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrefr.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-australia.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.au
-    policy: Proxy
-- domain_suffix:
-    match: apyle.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsoutletstore.com
-    policy: Proxy
-- domain_suffix:
-    match: macintosh.eu
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsdesale.com
-    policy: Proxy
-- domain_suffix:
-    match: lexuemei.com
-    policy: Proxy
-- domain_suffix:
-    match: 2013beatsbydrdreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydresale.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats-solo.com
-    policy: Proxy
-- domain_suffix:
-    match: wwwapple.com
-    policy: Proxy
-- domain_suffix:
-    match: ituneas.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsau.com
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.com.au
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-singaporecheap.net
-    policy: Proxy
-- domain_suffix:
-    match: itunesstore.co
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.cr
-    policy: Proxy
-- domain_suffix:
-    match: appleafrica.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydrestore.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-store.wang
-    policy: Proxy
-- domain_suffix:
-    match: custombeatsforcheap.com
-    policy: Proxy
-- domain_suffix:
-    match: dispatcher.is.autonavi.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.mx
-    policy: Proxy
-- domain_suffix:
-    match: push-apple.com.akadns.net
-    policy: Proxy
-- domain_suffix:
-    match: iphone.wang
-    policy: Proxy
-- domain_suffix:
-    match: darwinsourcecode.com
-    policy: Proxy
-- domain_suffix:
-    match: highbolt.net
-    policy: Proxy
-- domain_suffix:
-    match: 2014cheapbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbus.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: buyaapl.net
-    policy: Proxy
-- domain_suffix:
-    match: indiaipad.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-x.tv
-    policy: Proxy
-- domain_suffix:
-    match: cheapheadsetshop.com
-    policy: Proxy
-- domain_suffix:
-    match: kickshatchannel.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdresalestore.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssaustraliabuy.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.ru
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrdrecanada.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonehangzhou.com
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.net
-    policy: Proxy
-- domain_suffix:
-    match: services-apple.net
-    policy: Proxy
-- domain_suffix:
-    match: ecgapp.net
-    policy: Proxy
-- domain_suffix:
-    match: testflight.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: gsp4-cn.ls.apple.com.edgekey.net
-    policy: Proxy
-- domain_suffix:
-    match: applestore.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: ibeatsbydre.cc
-    policy: Proxy
-- domain_suffix:
-    match: iphone.net.gr
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.lk
-    policy: Proxy
-- domain_suffix:
-    match: nflhotsalejerseys.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonesforcheap.net
-    policy: Proxy
-- domain_suffix:
-    match: ibook.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: akadns.net
-    policy: Proxy
-- domain_suffix:
-    match: onlyiphone5case.com
-    policy: Proxy
-- domain_suffix:
-    match: headphonesbeatsaudio.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatssalg.com
-    policy: Proxy
-- domain_suffix:
-    match: airtunes.net
-    policy: Proxy
-- domain_suffix:
-    match: ibooksauthor.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.space
-    policy: Proxy
-- domain_suffix:
-    match: beatsdreus.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.nl
-    policy: Proxy
-- domain_suffix:
-    match: airport.brussels
-    policy: Proxy
-- domain_suffix:
-    match: mbheadphone.com
-    policy: Proxy
-- domain_suffix:
-    match: webobjects.net
-    policy: Proxy
-- domain_suffix:
-    match: applemusicfestival.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.co.jp
-    policy: Proxy
-- domain_suffix:
-    match: beatsbysdrdres.com
-    policy: Proxy
-- domain_suffix:
-    match: imac.eu
-    policy: Proxy
-- domain_suffix:
-    match: applewallet.tv
-    policy: Proxy
-- domain_suffix:
-    match: beatbydreheadphonesonsale.com
-    policy: Proxy
-- domain_suffix:
-    match: thebeatsheadphonesale.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.es
-    policy: Proxy
-- domain_suffix:
-    match: macmini.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-dns.com
-    policy: Proxy
-- domain_suffix:
-    match: homepod.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresaleonlines-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbagshoes.com
-    policy: Proxy
-- domain_suffix:
-    match: appleid.hk
-    policy: Proxy
-- domain_suffix:
-    match: beats-sale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydredealsblackfriday.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-headphonesshop.com
-    policy: Proxy
-- domain_suffix:
-    match: bbestmall.com
-    policy: Proxy
-- domain_suffix:
-    match: beats2.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatspascher-bydre.com
-    policy: Proxy
-- domain_suffix:
-    match: headphones-cool.com
-    policy: Proxy
-- domain_suffix:
-    match: picknicekicks.net
-    policy: Proxy
-- domain_suffix:
-    match: setup.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: applenews.tv
-    policy: Proxy
-- domain_suffix:
-    match: appl4e.com
-    policy: Proxy
-- domain_suffix:
-    match: cqcorea.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-store.us
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.berlin
-    policy: Proxy
-- domain_suffix:
-    match: applewatch.tw
-    policy: Proxy
-- domain_suffix:
-    match: appstore.my
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdresale.net
-    policy: Proxy
-- domain_suffix:
-    match: casquesbeatsaudio.com
-    policy: Proxy
-- domain_suffix:
-    match: appe-store.com
-    policy: Proxy
-- domain_suffix:
-    match: francecasquebeatssolde.com
-    policy: Proxy
-- domain_suffix:
-    match: free-aa.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsmusic.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudo.de
-    policy: Proxy
-- domain_suffix:
-    match: imacapplecomputer.com
-    policy: Proxy
-- domain_suffix:
-    match: 1to1computing.com.au
-    policy: Proxy
-- domain_suffix:
-    match: aucheapbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatssale4u.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.host
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydreuk.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone4.com.br
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrdrestudio.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreoutletsale.com
-    policy: Proxy
-- domain_suffix:
-    match: onsalekey.com
-    policy: Proxy
-- domain_suffix:
-    match: qwapi.com
-    policy: Proxy
-- domain_suffix:
-    match: sneaker666.com
-    policy: Proxy
-- domain_suffix:
-    match: www.apple.com.edgekey.net
-    policy: Proxy
-- domain_suffix:
-    match: applf.com
-    policy: Proxy
-- domain_suffix:
-    match: beats4salecheap.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresolohdonline-canada.com
-    policy: Proxy
-- domain_suffix:
-    match: push.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: vipbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.ph
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreformall2013-nl.com
-    policy: Proxy
-- domain_suffix:
-    match: carekit.org
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsbillig.com
-    policy: Proxy
-- domain_suffix:
-    match: 2drdrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-livephotoskit.com
-    policy: Proxy
-- domain_suffix:
-    match: getdrebeatssale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-beatsheadphone.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.info
-    policy: Proxy
-- domain_suffix:
-    match: deviceenrollment.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: custombeatsny.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.uk
-    policy: Proxy
-- domain_suffix:
-    match: icloudos.de
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.berlin
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydreoutlets2013.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.fr
-    policy: Proxy
-- domain_suffix:
-    match: apple-darwin.com
-    policy: Proxy
-- domain_suffix:
-    match: apples-msk.ru
-    policy: Proxy
-- domain_suffix:
-    match: beatssaleus.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsfactoroutlets.com
-    policy: Proxy
-- domain_suffix:
-    match: ibook.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: beats-seller.com
-    policy: Proxy
-- domain_suffix:
-    match: ikids.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.sv
-    policy: Proxy
-- domain_suffix:
-    match: applesurveys.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydrdre.net
-    policy: Proxy
-- domain_suffix:
-    match: appletips.net
-    policy: Proxy
-- domain_suffix:
-    match: ebookforipad.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrediscount.com
-    policy: Proxy
-- domain_suffix:
-    match: casquemonsterbeatsbydre2013.com
-    policy: Proxy
-- domain_suffix:
-    match: braeburncapital.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydreoutlet-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: appldnld.apple.com.edgesuite.net
-    policy: Proxy
-- domain_suffix:
-    match: firewire.cl
-    policy: Proxy
-- domain_suffix:
-    match: appleid.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: customizedbeatsdre.com
-    policy: Proxy
-- domain_suffix:
-    match: imac-applecomputer.com
-    policy: Proxy
-- domain_suffix:
-    match: ios-icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.ru
-    policy: Proxy
-- domain_suffix:
-    match: macboxset.com
-    policy: Proxy
-- domain_suffix:
-    match: mbeats-tech.com
-    policy: Proxy
-- domain_suffix:
-    match: monster-beats-headphones.com
-    policy: Proxy
-- domain_suffix:
-    match: monstersbeatbydres.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.tw
-    policy: Proxy
-- domain_suffix:
-    match: ipod.ru
-    policy: Proxy
-- domain_suffix:
-    match: musickit.net
-    policy: Proxy
-- domain_suffix:
-    match: iosinthecar.com
-    policy: Proxy
-- domain_suffix:
-    match: namemybeats.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-mapkit.com
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.org
-    policy: Proxy
-- domain_suffix:
-    match: apple.us
-    policy: Proxy
-- domain_suffix:
-    match: machos.net
-    policy: Proxy
-- domain_suffix:
-    match: monstershopcheapbeats.net
-    policy: Proxy
-- domain_suffix:
-    match: i-book.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-darwin.net
-    policy: Proxy
-- domain_suffix:
-    match: iphonecollcase.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudos.net
-    policy: Proxy
-- domain_suffix:
-    match: iphone.cm
-    policy: Proxy
-- domain_suffix:
-    match: custombeatsdeals.com
-    policy: Proxy
-- domain_suffix:
-    match: beatscustomblackfriday.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.lt
-    policy: Proxy
-- domain_suffix:
-    match: appleid.com
-    policy: Proxy
-- domain_suffix:
-    match: applelink.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsua.com
-    policy: Proxy
-- domain_suffix:
-    match: appleid.berlin
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsforsaleus.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatspascher.net
-    policy: Proxy
-- domain_suffix:
-    match: appleone.website
-    policy: Proxy
-- domain_suffix:
-    match: beatscasque-france.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.net.gr
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatstudio.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecasquesfr.com
-    policy: Proxy
-- domain_suffix:
-    match: custombeatssbydreus.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.tv
-    policy: Proxy
-- domain_suffix:
-    match: macruby.net
-    policy: Proxy
-- domain_suffix:
-    match: repswing.com
-    policy: Proxy
-- domain_suffix:
-    match: buyshoponly.com
-    policy: Proxy
-- domain_suffix:
-    match: neborder.com
-    policy: Proxy
-- domain_suffix:
-    match: siri.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydrefau.com
-    policy: Proxy
-- domain_suffix:
-    match: powerbeats2wireless.com
-    policy: Proxy
-- domain_suffix:
-    match: appleshop.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: sulwerphoto.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsoutlet.net
-    policy: Proxy
-- domain_suffix:
-    match: tvappstore.net
-    policy: Proxy
-- domain_suffix:
-    match: wasdj.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydressale.com
-    policy: Proxy
-- domain_suffix:
-    match: jetfuelapps.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-apple-mapkit.com
-    policy: Proxy
-- domain_suffix:
-    match: device-manager.us
-    policy: Proxy
-- domain_suffix:
-    match: cdn-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookpro.net
-    policy: Proxy
-- domain_suffix:
-    match: newbeatsblackfriday.com
-    policy: Proxy
-- domain_suffix:
-    match: wholesalefine.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.sg
-    policy: Proxy
-- domain_suffix:
-    match: beatbydremonster.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdresale2013.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.ee
-    policy: Proxy
-- domain_suffix:
-    match: beatsdremonster-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonecases100.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsaudifonos.com
-    policy: Proxy
-- domain_suffix:
-    match: appleantilles.com
-    policy: Proxy
-- domain_suffix:
-    match: customizedbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonecases5.com
-    policy: Proxy
-- domain_suffix:
-    match: kopfhorergunstigshop.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.pr
-    policy: Proxy
-- domain_suffix:
-    match: burstlyrewards.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.ro
-    policy: Proxy
-- domain_suffix:
-    match: ischool.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.com.au
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.jp
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: myicloud.net
-    policy: Proxy
-- domain_suffix:
-    match: sustainthesound.com
-    policy: Proxy
-- domain_suffix:
-    match: applecentar.co.rs
-    policy: Proxy
-- domain_suffix:
-    match: beatsdresolo2013.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.se
-    policy: Proxy
-- domain_suffix:
-    match: itunes12days.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--gtvz22d.wang
-    policy: Proxy
-- domain_suffix:
-    match: applecomputerimac.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.ie
-    policy: Proxy
-- domain_suffix:
-    match: iphine.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreshops.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-dns.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre4usales.com
-    policy: Proxy
-- domain_suffix:
-    match: drdrefnac.com
-    policy: Proxy
-- domain_suffix:
-    match: ausbeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: cooliphonecasesstore.com
-    policy: Proxy
-- domain_suffix:
-    match: wwapple.net
-    policy: Proxy
-- domain_suffix:
-    match: buycheapbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonecase5.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.org
-    policy: Proxy
-- domain_suffix:
-    match: shopbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: brands098.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.mg
-    policy: Proxy
-- domain_suffix:
-    match: apple.net
-    policy: Proxy
-- domain_suffix:
-    match: appleschoolcontent.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdredanmark.com
-    policy: Proxy
-- domain_suffix:
-    match: applehongkong.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreblackfriday2013.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.py
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydretoutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreofficialdanmark.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.cn
-    policy: Proxy
-- domain_suffix:
-    match: icloud.om
-    policy: Proxy
-- domain_suffix:
-    match: ipad.host
-    policy: Proxy
-- domain_suffix:
-    match: ipadaustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: bookonsky.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-expo.com
-    policy: Proxy
-- domain_suffix:
-    match: app0le.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.eg
-    policy: Proxy
-- domain_suffix:
-    match: beatsincanada.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapmonsterbeatssale.com
-    policy: Proxy
-- domain_suffix:
-    match: dl-iphone.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.co.za
-    policy: Proxy
-- domain_suffix:
-    match: itunesmatch.com
-    policy: Proxy
-- domain_suffix:
-    match: mac.wang
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.pt
-    policy: Proxy
-- domain_suffix:
-    match: bpapi.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: idvd.eu
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.sg
-    policy: Proxy
-- domain_suffix:
-    match: apple.jp
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-chen.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com
-    policy: Proxy
-- domain_suffix:
-    match: beatspillnewcolor.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbymusic.net
-    policy: Proxy
-- domain_suffix:
-    match: cups.org
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.co
-    policy: Proxy
-- domain_suffix:
-    match: headphonessupply.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadmini.cm
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.mask.apple-dns.net
-    policy: Proxy
-- domain_suffix:
-    match: ipod.no
-    policy: Proxy
-- domain_suffix:
-    match: apple.ch
-    policy: Proxy
-- domain_suffix:
-    match: ipod.ca
-    policy: Proxy
-- domain_suffix:
-    match: macbook.tw
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats-solo.net
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrebilligde.com
-    policy: Proxy
-- domain_suffix:
-    match: moreheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.ae
-    policy: Proxy
-- domain_suffix:
-    match: mybeatsbydrestudio.com
-    policy: Proxy
-- domain_suffix:
-    match: officialdrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: paulsimon-music.com
-    policy: Proxy
-- domain_suffix:
-    match: appletv4.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: cheapdrdrebeatsca.com
-    policy: Proxy
-- domain_suffix:
-    match: mach-os.net
-    policy: Proxy
-- domain_suffix:
-    match: begin-trade.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-ibooks.cn
-    policy: Proxy
-- domain_suffix:
-    match: apple-native-relay.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: ecgapp.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreuk.net
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsonlinestoreuk.com
-    policy: Proxy
-- domain_suffix:
-    match: officialbeatsbydrestore.com
-    policy: Proxy
-- domain_suffix:
-    match: burstly.net
-    policy: Proxy
-- domain_suffix:
-    match: cheapheadsetmall.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud-sandbox.com
-    policy: Proxy
-- domain_suffix:
-    match: geoport.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadmini.lk
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdremall.com
-    policy: Proxy
-- domain_suffix:
-    match: applestor.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.cm
-    policy: Proxy
-- domain_suffix:
-    match: buy.itunes.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: soso7778.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--ruq8a011kt6y.xn--hxt814e
-    policy: Proxy
-- domain_suffix:
-    match: applepaymerchantsupplies.info
-    policy: Proxy
-- domain_suffix:
-    match: applestore.kr
-    policy: Proxy
-- domain_suffix:
-    match: appattest.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applewatchsport.com
-    policy: Proxy
-- domain_suffix:
-    match: shopcustomizedbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssbyaustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphones1.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookpros.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: buycheapbeatsbus.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.jp
-    policy: Proxy
-- domain_suffix:
-    match: firewire.eu
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydrestudioedition.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsok.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydre-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: smoot.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: thebeatsbydre.net
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsenligne.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.hr
-    policy: Proxy
-- domain_suffix:
-    match: macosxlion.com
-    policy: Proxy
-- domain_suffix:
-    match: appledns.cn
-    policy: Proxy
-- domain_suffix:
-    match: applenews.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrespeakers.com
-    policy: Proxy
-- domain_suffix:
-    match: airport.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-dns.cn
-    policy: Proxy
-- domain_suffix:
-    match: beats-deal.com
-    policy: Proxy
-- domain_suffix:
-    match: cheaperbeatsbydresale.com
-    policy: Proxy
-- domain_suffix:
-    match: appleenews.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresdanmark.net
-    policy: Proxy
-- domain_suffix:
-    match: beatspaschers.net
-    policy: Proxy
-- domain_suffix:
-    match: appstore.co.id
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.my
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydreoutletssale.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdrestore.com
-    policy: Proxy
-- domain_suffix:
-    match: applemx-icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsfactorycollection.com
-    policy: Proxy
-- domain_suffix:
-    match: applecare.cc
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreirelandonlines.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapheadphonesland.com
-    policy: Proxy
-- domain_suffix:
-    match: aple.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatscanada.com
-    policy: Proxy
-- domain_suffix:
-    match: gateway.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: headphoneses.com
-    policy: Proxy
-- domain_suffix:
-    match: applestoreonline.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.cr
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-outlet.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.news
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrerealstore.com
-    policy: Proxy
-- domain_suffix:
-    match: headphonezip.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-darwin.org
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.jp
-    policy: Proxy
-- domain_suffix:
-    match: ituneslogin.net
-    policy: Proxy
-- domain_suffix:
-    match: myferrariheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: nicesshop.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsmonstersales.com
-    policy: Proxy
-- domain_suffix:
-    match: personeelsland.com
-    policy: Proxy
-- domain_suffix:
-    match: simplyipod.com
-    policy: Proxy
-- domain_suffix:
-    match: wwwicloud.com
-    policy: Proxy
-- domain_suffix:
-    match: appleinclegal.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.hn
-    policy: Proxy
-- domain_suffix:
-    match: wwwmacbookair.com
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsdre2013.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.jo
-    policy: Proxy
-- domain_suffix:
-    match: itunes.us
-    policy: Proxy
-- domain_suffix:
-    match: beatsstudiohodetelefoner.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.co.ve
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.kr
-    policy: Proxy
-- domain_suffix:
-    match: beatsforme.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecheaponlinesales.com
-    policy: Proxy
-- domain_suffix:
-    match: ebuyheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: gg.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.film
-    policy: Proxy
-- domain_suffix:
-    match: applewatch.tv
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsshopbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: ig.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.rs
-    policy: Proxy
-- domain_suffix:
-    match: blackfridaydrebeatsshop.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.comscoreresearch.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreausale.net
-    policy: Proxy
-- domain_suffix:
-    match: beatscheap-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: applefilmmaker.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrestudio-australia.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-monster.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreheadphones-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrebeatsby.com
-    policy: Proxy
-- domain_suffix:
-    match: fundaiphone5s.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapsalemonster.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesfestivals.com
-    policy: Proxy
-- domain_suffix:
-    match: appledns.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: applepay.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: beatsshop-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: buyminibeatbox.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsheadphone2014.com
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.com
-    policy: Proxy
-- domain_suffix:
-    match: buzzardflapper.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-vip2.com
-    policy: Proxy
-- domain_suffix:
-    match: lovebeatsdr.com
-    policy: Proxy
-- domain_suffix:
-    match: hotbeatsonsale.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.th
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatscasques.com
-    policy: Proxy
-- domain_suffix:
-    match: hotmonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: applecard.tv
-    policy: Proxy
-- domain_suffix:
-    match: custom-iphonecase.com
-    policy: Proxy
-- domain_suffix:
-    match: darwinsource.org
-    policy: Proxy
-- domain_suffix:
-    match: insidemacintosh.com
-    policy: Proxy
-- domain_suffix:
-    match: airmay.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssingaporeshop.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.si
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.gt
-    policy: Proxy
-- domain_suffix:
-    match: aplleipods.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.mwcname.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoto.wang
-    policy: Proxy
-- domain_suffix:
-    match: me.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsla.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats-onsale.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonegermany.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.com.es
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonesusamall.com
-    policy: Proxy
-- domain_suffix:
-    match: officialbeatsbydreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: ipodcentre.nl
-    policy: Proxy
-- domain_suffix:
-    match: monsterdrebeats-canada.net
-    policy: Proxy
-- domain_suffix:
-    match: prostudiobeatscybersale.com
-    policy: Proxy
-- domain_suffix:
-    match: newlysprung.net
-    policy: Proxy
-- domain_suffix:
-    match: shopmonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: mallheadphone.com
-    policy: Proxy
-- domain_suffix:
-    match: spektral.cc
-    policy: Proxy
-- domain_suffix:
-    match: appleweb.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdre-solo.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-mall.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudmusic.net
-    policy: Proxy
-- domain_suffix:
-    match: incentivetravelgifts.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsblackfridayretails.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreol.com
-    policy: Proxy
-- domain_suffix:
-    match: euroipad.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.gr
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-expo.eu
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre411.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeats4sale.net
-    policy: Proxy
-- domain_suffix:
-    match: ipad.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: applecentre.info
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydremonsteraustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapdrebeats8.net
-    policy: Proxy
-- domain_suffix:
-    match: newestbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: ibook.eu
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydreoutletsale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-headphones.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.me
-    policy: Proxy
-- domain_suffix:
-    match: applewatch.hk
-    policy: Proxy
-- domain_suffix:
-    match: applesiri.cn
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.org
-    policy: Proxy
-- domain_suffix:
-    match: applewallet.com
-    policy: Proxy
-- domain_suffix:
-    match: edu-research.org
-    policy: Proxy
-- domain_suffix:
-    match: 12diasdepresentesdeitunes.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.pt
-    policy: Proxy
-- domain_suffix:
-    match: iwork.se
-    policy: Proxy
-- domain_suffix:
-    match: tracking-location.com
-    policy: Proxy
-- domain_suffix:
-    match: beatstoreusa.com
-    policy: Proxy
-- domain_suffix:
-    match: appleid-iclou.com
-    policy: Proxy
-- domain_suffix:
-    match: topbeatsdealer.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.co.cr
-    policy: Proxy
-- domain_suffix:
-    match: ipod.hk
-    policy: Proxy
-- domain_suffix:
-    match: iwork.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: v-has.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapheadphonessale.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.mwcloudcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonesdealer.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: xn--fiqs8sxootzz.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsone.net
-    policy: Proxy
-- domain_suffix:
-    match: itunes-apple.cn
-    policy: Proxy
-- domain_suffix:
-    match: applfe.com
-    policy: Proxy
-- domain_suffix:
-    match: hf-iphone.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-zh.com
-    policy: Proxy
-- domain_suffix:
-    match: imoviestage.com
-    policy: Proxy
-- domain_suffix:
-    match: www-sms-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdanmark2013.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydrdrepro.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.cn
-    policy: Proxy
-- domain_suffix:
-    match: apple-store.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydredealscybermonday.com
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.wang
-    policy: Proxy
-- domain_suffix:
-    match: cheapmonsterbeatsusa.us
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsheadphones-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: ipodrocks.com.au
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.com.au
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.cm
-    policy: Proxy
-- domain_suffix:
-    match: servicetalk.io
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreoksale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdreforsale.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.com.edgekey.net
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.hk
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsheadphones.net
-    policy: Proxy
-- domain_suffix:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: mach-os.com
-    policy: Proxy
-- domain_suffix:
-    match: theuab.net
-    policy: Proxy
-- domain_suffix:
-    match: bossae.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrenls.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreuk.com
-    policy: Proxy
-- domain_suffix:
-    match: myipod.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsallsale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsboxingdayuksale.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsfinland.com
-    policy: Proxy
-- domain_suffix:
-    match: iprofiles.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.community
-    policy: Proxy
-- domain_suffix:
-    match: beats-soaho.com
-    policy: Proxy
-- domain_suffix:
-    match: chomp.com
-    policy: Proxy
-- domain_suffix:
-    match: worldcoinpay.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonese.tv
-    policy: Proxy
-- domain_suffix:
-    match: dkbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoneclaro.com.br
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-onsale.com
-    policy: Proxy
-- domain_suffix:
-    match: applepodcasts.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre4sale.com
-    policy: Proxy
-- domain_suffix:
-    match: macbook.wang
-    policy: Proxy
-- domain_suffix:
-    match: cheapwireless04.com
-    policy: Proxy
-- domain_suffix:
-    match: hipzoom.net
-    policy: Proxy
-- domain_suffix:
-    match: macbookpro.co
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.kr
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphoness.com
-    policy: Proxy
-- domain_suffix:
-    match: eworld.com
-    policy: Proxy
-- domain_suffix:
-    match: newmonst1erbeatsto1re.com
-    policy: Proxy
-- domain_suffix:
-    match: newton.com
-    policy: Proxy
-- domain_suffix:
-    match: tradevip1.com
-    policy: Proxy
-- domain_suffix:
-    match: imac.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssales.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapwirelessbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudo.net
-    policy: Proxy
-- domain_suffix:
-    match: mmonsterheadphones.net
-    policy: Proxy
-- domain_suffix:
-    match: mzstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbeatsmonster.com
-    policy: Proxy
-- domain_suffix:
-    match: applecenter.cn
-    policy: Proxy
-- domain_suffix:
-    match: applefinalcutproworld.org
-    policy: Proxy
-- domain_suffix:
-    match: appleone.audio
-    policy: Proxy
-- domain_suffix:
-    match: apple-cloudkit.com
-    policy: Proxy
-- domain_suffix:
-    match: alchemysynth.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreoordopjes.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: macruby.org
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-monsteraustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: beatspromotions.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud-isupport.com
-    policy: Proxy
-- domain_suffix:
-    match: ocsp.digicert.com
-    policy: Proxy
-- domain_suffix:
-    match: 2013pascherbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapshoesvip.com
-    policy: Proxy
-- domain_suffix:
-    match: etheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.ca
-    policy: Proxy
-- domain_suffix:
-    match: mdmenrollment.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: webkit.org
-    policy: Proxy
-- domain_suffix:
-    match: apple-maps.cn
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreauofficial.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdre2014.com
-    policy: Proxy
-- domain_suffix:
-    match: appleaustralia.com.au
-    policy: Proxy
-- domain_suffix:
-    match: monstersdebea.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.sk
-    policy: Proxy
-- domain_suffix:
-    match: apple.tw
-    policy: Proxy
-- domain_suffix:
-    match: customdrdrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: auricularesbeatsbaratosshop.com
-    policy: Proxy
-- domain_suffix:
-    match: customizedbeatbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: casquemonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: iutunes.com
-    policy: Proxy
-- domain_suffix:
-    match: lyzsxx.com
-    policy: Proxy
-- domain_suffix:
-    match: mybeatsbydreuk.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreoslo.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsdrestudios.com
-    policy: Proxy
-- domain_suffix:
-    match: hebiphone.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.cl
-    policy: Proxy
-- domain_suffix:
-    match: bydrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsnzsale.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.co.ni
-    policy: Proxy
-- domain_suffix:
-    match: mask-canary.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeats-headphone.com
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.hk
-    policy: Proxy
-- domain_suffix:
-    match: shoers.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesessentials.com
-    policy: Proxy
-- domain_suffix:
-    match: applecare.eu
-    policy: Proxy
-- domain_suffix:
-    match: mask.apple-dns.net
-    policy: Proxy
-- domain_suffix:
-    match: courier.push.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydrenz.net
-    policy: Proxy
-- domain_suffix:
-    match: officialheadphone.com
-    policy: Proxy
-- domain_suffix:
-    match: appl-e.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.club
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-store.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsfactoryoutles.com
-    policy: Proxy
-- domain_suffix:
-    match: headphonepubs.com
-    policy: Proxy
-- domain_suffix:
-    match: mask-h2.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.net.gr
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.cn
-    policy: Proxy
-- domain_suffix:
-    match: luckyissue.com
-    policy: Proxy
-- domain_suffix:
-    match: safebrowsing.apple
-    policy: Proxy
-- domain_suffix:
-    match: applexpo.net
-    policy: Proxy
-- domain_suffix:
-    match: desktopmovie.com
-    policy: Proxy
-- domain_suffix:
-    match: ipple.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.cn
-    policy: Proxy
-- domain_suffix:
-    match: drebeatssolocybermondaysale.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.tw
-    policy: Proxy
-- domain_suffix:
-    match: appleiphone.hu
-    policy: Proxy
-- domain_suffix:
-    match: bag-glasses1.com
-    policy: Proxy
-- domain_suffix:
-    match: brandelectronic.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdredreheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: albeats.com
-    policy: Proxy
-- domain_suffix:
-    match: dctbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-monsterusa.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.cloud
-    policy: Proxy
-- domain_suffix:
-    match: certs.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.vn
-    policy: Proxy
-- domain_suffix:
-    match: iphone-yh.com
-    policy: Proxy
-- domain_suffix:
-    match: pullstring.net
-    policy: Proxy
-- domain_suffix:
-    match: applescreensavers.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreforstore.com
-    policy: Proxy
-- domain_suffix:
-    match: digicert.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsearbudsheadphoness.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.cm
-    policy: Proxy
-- domain_suffix:
-    match: detaliczny.com
-    policy: Proxy
-- domain_suffix:
-    match: drbeatsukmart.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: applestore.ph
-    policy: Proxy
-- domain_suffix:
-    match: iphonecase2013.com
-    policy: Proxy
-- domain_suffix:
-    match: bloommicroventures.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreblackfridaypro.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-cn.com
-    policy: Proxy
-- domain_suffix:
-    match: ipods.com
-    policy: Proxy
-- domain_suffix:
-    match: applle.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudsecure.net
-    policy: Proxy
-- domain_suffix:
-    match: lcdn-registration.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.hk
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats-headphone.com
-    policy: Proxy
-- domain_suffix:
-    match: topbeatsbydrdreoutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: aapl.tw
-    policy: Proxy
-- domain_suffix:
-    match: wwwipodlounge.com
-    policy: Proxy
-- domain_suffix:
-    match: appstore.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.lv
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdreus.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreonlines-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: appleid-applemx.us
-    policy: Proxy
-- domain_suffix:
-    match: apple-icloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsie.com
-    policy: Proxy
-- domain_suffix:
-    match: appleclub.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: airtunes.info
-    policy: Proxy
-- domain_suffix:
-    match: 100beatscheap.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.cn
-    policy: Proxy
-- domain_suffix:
-    match: apzones.com
-    policy: Proxy
-- domain_suffix:
-    match: beatselectronic.net
-    policy: Proxy
-- domain_suffix:
-    match: icloud.ch
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreaustraliaonlines.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesu.com
-    policy: Proxy
-- domain_suffix:
-    match: ls.apple.com.edgesuite.net
-    policy: Proxy
-- domain_suffix:
-    match: shop-headphones.net
-    policy: Proxy
-- domain_suffix:
-    match: tryrating.com
-    policy: Proxy
-- domain_suffix:
-    match: usa-beatsbydreheadphonesonsale.net
-    policy: Proxy
-- domain_suffix:
-    match: 40shopping.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.se
-    policy: Proxy
-- domain_suffix:
-    match: beats-headphones-buy-cheap.com
-    policy: Proxy
-- domain_suffix:
-    match: applenewsformat.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsshopstore.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterproduct.net
-    policy: Proxy
-- domain_suffix:
-    match: applestorepro.eu
-    policy: Proxy
-- domain_suffix:
-    match: beatsep.cn
-    policy: Proxy
-- domain_suffix:
-    match: applepaycash.net
-    policy: Proxy
-- domain_suffix:
-    match: axm-servicediscovery.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.ie
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsheadphones.us
-    policy: Proxy
-- domain_suffix:
-    match: ichat.co.in
-    policy: Proxy
-- domain_suffix:
-    match: iphone-sh.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydredanmarks.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdre.net
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.com.ve
-    policy: Proxy
-- domain_suffix:
-    match: applefilmaker.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.lv
-    policy: Proxy
-- domain_suffix:
-    match: appletv.fr
-    policy: Proxy
-- domain_suffix:
-    match: catalina.hk
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdrekaufenschweiz.net
-    policy: Proxy
-- domain_suffix:
-    match: applemasters.info
-    policy: Proxy
-- domain_suffix:
-    match: find-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoneacessorios.com.br
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.af
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beats1.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdrebiz.com
-    policy: Proxy
-- domain_suffix:
-    match: drdre-beats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreirelandsonline.com
-    policy: Proxy
-- domain_suffix:
-    match: negozimonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsretail2013.com
-    policy: Proxy
-- domain_suffix:
-    match: swiftui.cn
-    policy: Proxy
-- domain_suffix:
-    match: valid.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: vip-beats.com
-    policy: Proxy
-- domain_suffix:
-    match: vipshoes2.com
-    policy: Proxy
-- domain_suffix:
-    match: ipad3.com
-    policy: Proxy
-- domain_suffix:
-    match: mobileme.dk
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.co
-    policy: Proxy
-- domain_suffix:
-    match: appstore.ph
-    policy: Proxy
-- domain_suffix:
-    match: negoziomonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatspills.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-sell.com
-    policy: Proxy
-- domain_suffix:
-    match: audiobeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoneunlockimei.com
-    policy: Proxy
-- domain_suffix:
-    match: 5lml.com
-    policy: Proxy
-- domain_suffix:
-    match: buydrdrebeatbox.com
-    policy: Proxy
-- domain_suffix:
-    match: appleshare.info
-    policy: Proxy
-- domain_suffix:
-    match: ipod.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: desktopmovie.org
-    policy: Proxy
-- domain_suffix:
-    match: coreml.net
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.tv
-    policy: Proxy
-- domain_suffix:
-    match: store.apple.com.edgekey.net
-    policy: Proxy
-- domain_suffix:
-    match: webobjects.eu
-    policy: Proxy
-- domain_suffix:
-    match: italiabeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: cheap-beats-by-dre.net
-    policy: Proxy
-- domain_suffix:
-    match: appl.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-appstore.cn
-    policy: Proxy
-- domain_suffix:
-    match: appleid-uk.us
-    policy: Proxy
-- domain_suffix:
-    match: crl3.digicert.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaycash.tv
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-singaporecheap.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatstudio.com
-    policy: Proxy
-- domain_suffix:
-    match: a0pple.net
-    policy: Proxy
-- domain_suffix:
-    match: aeasyshop.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrehut.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats-cheap.com
-    policy: Proxy
-- domain_suffix:
-    match: cheerwholesale.us
-    policy: Proxy
-- domain_suffix:
-    match: macbook.hk
-    policy: Proxy
-- domain_suffix:
-    match: wholesale-exporter1.com
-    policy: Proxy
-- domain_suffix:
-    match: deviceservices-external.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.net
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatspascher2013.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.pt
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.fr
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresale-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapcustombeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: vpp.itunes.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applecentre.com.au
-    policy: Proxy
-- domain_suffix:
-    match: applestore.cc
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresstudio.com
-    policy: Proxy
-- domain_suffix:
-    match: beatspascher.net
-    policy: Proxy
-- domain_suffix:
-    match: headphonesretailer.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoneimessage.com
-    policy: Proxy
-- domain_suffix:
-    match: mesu.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.jp
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatssydneyaustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.bn
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonesale.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreonlinesale-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: hipaa6020.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbydrebeat.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesiradio.com
-    policy: Proxy
-- domain_suffix:
-    match: applereach.net
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.tw
-    policy: Proxy
-- domain_suffix:
-    match: ipodcleaner.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--gtvq61aiijy0b.xn--hxt814e
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydr.com
-    policy: Proxy
-- domain_suffix:
-    match: faceid99.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-headphones.us
-    policy: Proxy
-- domain_suffix:
-    match: icloud.hu
-    policy: Proxy
-- domain_suffix:
-    match: icloud.is
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.jo
-    policy: Proxy
-- domain_suffix:
-    match: headphones-outlet-online.com
-    policy: Proxy
-- domain_suffix:
-    match: solostudioksale.com
-    policy: Proxy
-- domain_suffix:
-    match: desktopmovie.net
-    policy: Proxy
-- domain_suffix:
-    match: icloud.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: appleone.guide
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydremonster.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydreaustraliacheap.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-solo.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreoutletscheap.com
-    policy: Proxy
-- domain_suffix:
-    match: faceshift.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrestorevip.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone.com.gr
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrenorge1.net
-    policy: Proxy
-- domain_suffix:
-    match: appleaustralia.net.au
-    policy: Proxy
-- domain_suffix:
-    match: cheapmonsterbeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: ipodprices.com
-    policy: Proxy
-- domain_suffix:
-    match: macossierra.com
-    policy: Proxy
-- domain_suffix:
-    match: metrics.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatstang.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.gr
-    policy: Proxy
-- domain_suffix:
-    match: drebeatshome.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-dns.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: buycheapbeatsdreuk.com
-    policy: Proxy
-- domain_suffix:
-    match: appleimac.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-singapore.com
-    policy: Proxy
-- domain_suffix:
-    match: powerbook.eu
-    policy: Proxy
-- domain_suffix:
-    match: applestore.co.ug
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreforsalesonline.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreheadphonesolo.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterheadphone.net
-    policy: Proxy
-- domain_suffix:
-    match: aplestore.com
-    policy: Proxy
-- domain_suffix:
-    match: emagic.de
-    policy: Proxy
-- domain_suffix:
-    match: itunesu.net
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydreoutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: beatbydre2013.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-headphones.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.pe
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydressolo.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatshere.com
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.tv
-    policy: Proxy
-- domain_suffix:
-    match: beats4.net
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatssale7.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.be
-    policy: Proxy
-- domain_suffix:
-    match: beats1.cc
-    policy: Proxy
-- domain_suffix:
-    match: gamebeforethegame.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresonline-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: canada-beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: tteshop.com
-    policy: Proxy
-- domain_suffix:
-    match: appleid.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsforsale.com
-    policy: Proxy
-- domain_suffix:
-    match: ocsp.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: wwwitunes.com
-    policy: Proxy
-- domain_suffix:
-    match: appledarwin.net
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.gy
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatstienda.com
-    policy: Proxy
-- domain_suffix:
-    match: buy-from-shanghai.com
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsale.com
-    policy: Proxy
-- domain_suffix:
-    match: crl4.digicert.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydre99.com
-    policy: Proxy
-- domain_suffix:
-    match: chinaclothesstore.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.pl
-    policy: Proxy
-- domain_suffix:
-    match: casque-fr.com
-    policy: Proxy
-- domain_suffix:
-    match: finalcutpro.com
-    policy: Proxy
-- domain_suffix:
-    match: earphonescheapest.com
-    policy: Proxy
-- domain_suffix:
-    match: applecom.com
-    policy: Proxy
-- domain_suffix:
-    match: airsupportapp.com
-    policy: Proxy
-- domain_suffix:
-    match: imac-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.chat
-    policy: Proxy
-- domain_suffix:
-    match: apple.ca
-    policy: Proxy
-- domain_suffix:
-    match: discountbeatsbydre-us.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonerip.net
-    policy: Proxy
-- domain_suffix:
-    match: mylcloud.net
-    policy: Proxy
-- domain_suffix:
-    match: topbeatsforsale.com
-    policy: Proxy
-- domain_suffix:
-    match: touchid.wang
-    policy: Proxy
-- domain_suffix:
-    match: cheapmonstersbeatsonsale.com
-    policy: Proxy
-- domain_suffix:
-    match: buybeatsbydre-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: biitii.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.net.cn
-    policy: Proxy
-- domain_suffix:
-    match: icloudpay.net
-    policy: Proxy
-- domain_suffix:
-    match: icloud.fr
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsalestore.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreaustraliaonline.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-store.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecheap-outletstore.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: ilife.eu
-    policy: Proxy
-- domain_suffix:
-    match: ls.apple.cn
-    policy: Proxy
-- domain_suffix:
-    match: appla.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdreneon.com
-    policy: Proxy
-- domain_suffix:
-    match: ilife.gr
-    policy: Proxy
-- domain_suffix:
-    match: hopstop.tv
-    policy: Proxy
-- domain_suffix:
-    match: applecare.wang
-    policy: Proxy
-- domain_suffix:
-    match: iphone-vip5.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.com.co
-    policy: Proxy
-- domain_suffix:
-    match: beatsep.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdres.com
-    policy: Proxy
-- domain_suffix:
-    match: hrsaz.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputerinc.info
-    policy: Proxy
-- domain_suffix:
-    match: icloudbox.net
-    policy: Proxy
-- domain_suffix:
-    match: livephotos.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: camelspaceeffect.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-itunes.cn
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-enews.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdreoutletsale.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-studio.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-watch.com.ru
-    policy: Proxy
-- domain_suffix:
-    match: apple.lk
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresingaporesale.com
-    policy: Proxy
-- domain_suffix:
-    match: probe.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: applemalaysia.com.my
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsstore.com
-    policy: Proxy
-- domain_suffix:
-    match: imovie.eu
-    policy: Proxy
-- domain_suffix:
-    match: iphone.pt
-    policy: Proxy
-- domain_suffix:
-    match: applestore.de
-    policy: Proxy
-- domain_suffix:
-    match: beatsforcheap-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdre-it.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreexecutivesale.com
-    policy: Proxy
-- domain_suffix:
-    match: emac.co.in
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresold.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudo.com
-    policy: Proxy
-- domain_suffix:
-    match: rbsgr.com
-    policy: Proxy
-- domain_suffix:
-    match: applepay.berlin
-    policy: Proxy
-- domain_suffix:
-    match: promonsterbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: salecheaphandbags.com
-    policy: Proxy
-- domain_suffix:
-    match: straightouttasomewhere.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.cz
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecolors.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsaustraliasale.com
-    policy: Proxy
-- domain_suffix:
-    match: yourmonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: audiobeatsau.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatbd.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreforyououtlet.com
-    policy: Proxy
-- domain_suffix:
-    match: shopping-days.net
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeats-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsstudio2013.com
-    policy: Proxy
-- domain_suffix:
-    match: monster-beats-by-dr-dre.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-singapore.net
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatssolo.net
-    policy: Proxy
-- domain_suffix:
-    match: ilife.wang
-    policy: Proxy
-- domain_suffix:
-    match: aanaan.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.hu
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsaustralia-cheap.com
-    policy: Proxy
-- domain_suffix:
-    match: webobjects.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: ipad.wang
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.mx
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-studio.com
-    policy: Proxy
-- domain_suffix:
-    match: coolmonster.net
-    policy: Proxy
-- domain_suffix:
-    match: ipod.fr
-    policy: Proxy
-- domain_suffix:
-    match: cheapdrdrebeats8.com
-    policy: Proxy
-- domain_suffix:
-    match: developer-advisor.com
-    policy: Proxy
-- domain_suffix:
-    match: auricularemonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: appleexpo.eu
-    policy: Proxy
-- domain_suffix:
-    match: applewatchseries3.net
-    policy: Proxy
-- domain_suffix:
-    match: apps.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.cl
-    policy: Proxy
-- domain_suffix:
-    match: ipadair.ie
-    policy: Proxy
-- domain_suffix:
-    match: iphoto.no
-    policy: Proxy
-- domain_suffix:
-    match: applestore.co.hu
-    policy: Proxy
-- domain_suffix:
-    match: monstercasquebeatspascher.net
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeats.us
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsoldes.com
-    policy: Proxy
-- domain_suffix:
-    match: ibeats-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: appledarwin.com
-    policy: Proxy
-- domain_suffix:
-    match: makeeu.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsmusic.wang
-    policy: Proxy
-- domain_suffix:
-    match: ukipad.com
-    policy: Proxy
-- domain_suffix:
-    match: swiftui.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: appleclassicipod.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbestdeals.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreboxingdayca.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.hn
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdrecuffie.net
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydrestudioutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: headphoneshome.com
-    policy: Proxy
-- domain_suffix:
-    match: icloude.com
-    policy: Proxy
-- domain_suffix:
-    match: appleaustralia.com
-    policy: Proxy
-- domain_suffix:
-    match: appule.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-us.com
-    policy: Proxy
-- domain_suffix:
-    match: blackfridaydrebeatsnew.com
-    policy: Proxy
-- domain_suffix:
-    match: headphones-dre.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydre-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: applereach.com
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.com.ni
-    policy: Proxy
-- domain_suffix:
-    match: newmonsterbeatsheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrew.com
-    policy: Proxy
-- domain_suffix:
-    match: imonsterbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatscommunity.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdre-monster.com
-    policy: Proxy
-- domain_suffix:
-    match: 12joursdecadeauxdeitunes.com
-    policy: Proxy
-- domain_suffix:
-    match: appstore.hk
-    policy: Proxy
-- domain_suffix:
-    match: mask-api.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: micstl.com
-    policy: Proxy
-- domain_suffix:
-    match: newdrediscount.com
-    policy: Proxy
-- domain_suffix:
-    match: newschristmasshopping.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrecheap.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydre2015.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-imac.com
-    policy: Proxy
-- domain_suffix:
-    match: appleicloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: ipod.rs
-    policy: Proxy
-- domain_suffix:
-    match: bestiphonestuff.com
-    policy: Proxy
-- domain_suffix:
-    match: gc.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: appletvapp.apple
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsdocteurdre.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsdrdresolo.com
-    policy: Proxy
-- domain_suffix:
-    match: jkbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: mac-mini.com
-    policy: Proxy
-- domain_suffix:
-    match: iwork.com
-    policy: Proxy
-- domain_suffix:
-    match: beatscollection2014.com
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.info
-    policy: Proxy
-- domain_suffix:
-    match: bestshoesale2014.net
-    policy: Proxy
-- domain_suffix:
-    match: cheap-beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: pocketbiketrader.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrefactory.com
-    policy: Proxy
-- domain_suffix:
-    match: the-monster-beats.com
-    policy: Proxy
-- domain_suffix:
-    match: cuffiesaldi.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.pk
-    policy: Proxy
-- domain_suffix:
-    match: beatspascher-fr.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsoutletonlines.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--kput3imi374g.xn--hxt814e
-    policy: Proxy
-- domain_suffix:
-    match: drdreheadphonebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: ipodnano.com
-    policy: Proxy
-- domain_suffix:
-    match: applecare.berlin
-    policy: Proxy
-- domain_suffix:
-    match: icloud-content.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: studiobeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-store.cn
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.pa
-    policy: Proxy
-- domain_suffix:
-    match: beatsfranceofficiel.com
-    policy: Proxy
-- domain_suffix:
-    match: beatselectronics.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.pk
-    policy: Proxy
-- domain_suffix:
-    match: appleswift.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.de
-    policy: Proxy
-- domain_suffix:
-    match: appletv.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecheaper.com
-    policy: Proxy
-- domain_suffix:
-    match: skl.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: tv.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: takegoto.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrevipde.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.kr
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.hr
-    policy: Proxy
-- domain_suffix:
-    match: axm-app.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaycash.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydremall2013.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.gr
-    policy: Proxy
-- domain_suffix:
-    match: macbookpro.com
-    policy: Proxy
-- domain_suffix:
-    match: shazam.com
-    policy: Proxy
-- domain_suffix:
-    match: 2013beatshdcybermonday.com
-    policy: Proxy
-- domain_suffix:
-    match: pascherbeatsmonster.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssingapores.com
-    policy: Proxy
-- domain_suffix:
-    match: applepremiumreseller.com.au
-    policy: Proxy
-- domain_suffix:
-    match: app-store.wang
-    policy: Proxy
-- domain_suffix:
-    match: appleexpo.info
-    policy: Proxy
-- domain_suffix:
-    match: apple.dk
-    policy: Proxy
-- domain_suffix:
-    match: beats-by-dre-australia.com
-    policy: Proxy
-- domain_suffix:
-    match: desktopmovies.org
-    policy: Proxy
-- domain_suffix:
-    match: iphone.es
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresalemall2013.com
-    policy: Proxy
-- domain_suffix:
-    match: beatscheap-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: appleiservices.com
-    policy: Proxy
-- domain_suffix:
-    match: bandgirlz.com
-    policy: Proxy
-- domain_suffix:
-    match: vertexsmb.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.cn
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsaustralia-cheap.net
-    policy: Proxy
-- domain_suffix:
-    match: mac.com
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrestudio.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-outletsale.net
-    policy: Proxy
-- domain_suffix:
-    match: fr-beatsbydrestore.com
-    policy: Proxy
-- domain_suffix:
-    match: perfectkickz.net
-    policy: Proxy
-- domain_suffix:
-    match: applepay.hamburg
-    policy: Proxy
-- domain_suffix:
-    match: identity.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: aaplimg.com
-    policy: Proxy
-- domain_suffix:
-    match: downloadsforipod.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.eu
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreus.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud-apple.cn
-    policy: Proxy
-- domain_suffix:
-    match: appleone.blog
-    policy: Proxy
-- domain_suffix:
-    match: onbeatsbydresale.com
-    policy: Proxy
-- domain_suffix:
-    match: appleiphone.net
-    policy: Proxy
-- domain_suffix:
-    match: digitalhub.com
-    policy: Proxy
-- domain_suffix:
-    match: beatswirelesscuffie.com
-    policy: Proxy
-- domain_suffix:
-    match: appletaiwan.com
-    policy: Proxy
-- domain_suffix:
-    match: diagassets.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: mairbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: 2beatsdre.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.is
-    policy: Proxy
-- domain_suffix:
-    match: beatspromonsterjp.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.fi
-    policy: Proxy
-- domain_suffix:
-    match: brandproducts1688.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.de
-    policy: Proxy
-- domain_suffix:
-    match: imoviegallery.com
-    policy: Proxy
-- domain_suffix:
-    match: itunes.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsoutlet.us
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrehd.net
-    policy: Proxy
-- domain_suffix:
-    match: quatrowireless.com
-    policy: Proxy
-- domain_suffix:
-    match: applescript.info
-    policy: Proxy
-- domain_suffix:
-    match: saleblackfridaydrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsireland.net
-    policy: Proxy
-- domain_suffix:
-    match: desktopmovies.net
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--gtvz22d.xn--hxt814e
-    policy: Proxy
-- domain_suffix:
-    match: applepencil.net
-    policy: Proxy
-- domain_suffix:
-    match: drebyby.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydre-mall.com
-    policy: Proxy
-- domain_suffix:
-    match: lojaiphone.com.br
-    policy: Proxy
-- domain_suffix:
-    match: applepay.co.rs
-    policy: Proxy
-- domain_suffix:
-    match: icloud.org
-    policy: Proxy
-- domain_suffix:
-    match: iphonefc.com
-    policy: Proxy
-- domain_suffix:
-    match: vipheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: baxsound.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdre4cheap.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecustomwireless.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydresingapores.com
-    policy: Proxy
-- domain_suffix:
-    match: next.com
-    policy: Proxy
-- domain_suffix:
-    match: beatssbydredanmark.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudsetup.com
-    policy: Proxy
-- domain_suffix:
-    match: 5beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: mybeatscheapbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: webkitgtk.org
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydreoutletsale.net
-    policy: Proxy
-- domain_suffix:
-    match: ipodtouch.com
-    policy: Proxy
-- domain_suffix:
-    match: beats4.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre-outletstore.com
-    policy: Proxy
-- domain_suffix:
-    match: iphonexs.tv
-    policy: Proxy
-- domain_suffix:
-    match: ipodtouch.co
-    policy: Proxy
-- domain_suffix:
-    match: cnshopin.com
-    policy: Proxy
-- domain_suffix:
-    match: ipa-iphone.net
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.com.hn
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphonestudio.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsshop-uk.com
-    policy: Proxy
-- domain_suffix:
-    match: canary.mask.apple-dns.net
-    policy: Proxy
-- domain_suffix:
-    match: earpod.net
-    policy: Proxy
-- domain_suffix:
-    match: icloud-content.com
-    policy: Proxy
-- domain_suffix:
-    match: supplybestjerseys.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.pl
-    policy: Proxy
-- domain_suffix:
-    match: casquedrdrebeatssfr.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydredr.com
-    policy: Proxy
-- domain_suffix:
-    match: researchandcare.org
-    policy: Proxy
-- domain_suffix:
-    match: account.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: samebags.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputers.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: beats1.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: ilecture.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: auricularesbeatsmarkt.com
-    policy: Proxy
-- domain_suffix:
-    match: latticedata.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreinexpensive.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsstudiosite.com
-    policy: Proxy
-- domain_suffix:
-    match: buyaple.com
-    policy: Proxy
-- domain_suffix:
-    match: drdreheadphonekey.com
-    policy: Proxy
-- domain_suffix:
-    match: macbook.co
-    policy: Proxy
-- domain_suffix:
-    match: applecarbon.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsofdre-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: cmhalq.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsbuy.com
-    policy: Proxy
-- domain_suffix:
-    match: researchkit.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: itunes-radio.net
-    policy: Proxy
-- domain_suffix:
-    match: ms4dre.com
-    policy: Proxy
-- domain_suffix:
-    match: sanvaras.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterdrebeats-usa.com
-    policy: Proxy
-- domain_suffix:
-    match: dreprofy.com
-    policy: Proxy
-- domain_suffix:
-    match: beatdrdres.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatspill.com
-    policy: Proxy
-- domain_suffix:
-    match: offerairjordanlebron.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--fiqs8sxootzz.xn--hxt814e
-    policy: Proxy
-- domain_suffix:
-    match: xn--hxtr4rozx.xn--czr694b
-    policy: Proxy
-- domain_suffix:
-    match: apple-online.com
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsfracheter.com
-    policy: Proxy
-- domain_suffix:
-    match: ciattackers.com
-    policy: Proxy
-- domain_suffix:
-    match: sverigebeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: 2013cheapestbeats.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.qa
-    policy: Proxy
-- domain_suffix:
-    match: swscan.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: ibookpartner.com
-    policy: Proxy
-- domain_suffix:
-    match: touchid.tv
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdrecustom.com
-    policy: Proxy
-- domain_suffix:
-    match: gmnetworks.net
-    policy: Proxy
-- domain_suffix:
-    match: beats1.tv
-    policy: Proxy
-- domain_suffix:
-    match: ipodnano.net
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats365buy.com
-    policy: Proxy
-- domain_suffix:
-    match: annstores.net
-    policy: Proxy
-- domain_suffix:
-    match: appletv4.cn
-    policy: Proxy
-- domain_suffix:
-    match: icloud.ee
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.jm
-    policy: Proxy
-- domain_suffix:
-    match: imac.gr
-    policy: Proxy
-- domain_suffix:
-    match: appleos.tv
-    policy: Proxy
-- domain_suffix:
-    match: businesswebwise.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.it
-    policy: Proxy
-- domain_suffix:
-    match: headset987.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.sg
-    policy: Proxy
-- domain_suffix:
-    match: bestbeats4u.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.cl
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeats-chen.com
-    policy: Proxy
-- domain_suffix:
-    match: gateway.push.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.my
-    policy: Proxy
-- domain_suffix:
-    match: szwinnertechnology.com
-    policy: Proxy
-- domain_suffix:
-    match: beatswholesale.us
-    policy: Proxy
-- domain_suffix:
-    match: axm-adm-scep.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: leecountytimes.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone-vip1.com
-    policy: Proxy
-- domain_suffix:
-    match: xn--czrs0t4phtr3a.cn
-    policy: Proxy
-- domain_suffix:
-    match: itunes.rio
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsforu.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-pay.wang
-    policy: Proxy
-- domain_suffix:
-    match: brandeasygo.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsnegozi.net
-    policy: Proxy
-- domain_suffix:
-    match: shopbeatsdre.com
-    policy: Proxy
-- domain_suffix:
-    match: audiomonsterbeatsonline.com
-    policy: Proxy
-- domain_suffix:
-    match: apole.com
-    policy: Proxy
-- domain_suffix:
-    match: itunbes.com
-    policy: Proxy
-- domain_suffix:
-    match: airtunes.com
-    policy: Proxy
-- domain_suffix:
-    match: aaagradeheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: itun.es
-    policy: Proxy
-- domain_suffix:
-    match: macpazar.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.fastly-edge.com
-    policy: Proxy
-- domain_suffix:
-    match: imac.co
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: 2buybeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: facetime.net
-    policy: Proxy
-- domain_suffix:
-    match: apple.so
-    policy: Proxy
-- domain_suffix:
-    match: emac.in
-    policy: Proxy
-- domain_suffix:
-    match: ioffergift.com
-    policy: Proxy
-- domain_suffix:
-    match: appleappstore.cn
-    policy: Proxy
-- domain_suffix:
-    match: ipad.de
-    policy: Proxy
-- domain_suffix:
-    match: crl.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: 1monsterbeatsbydreus.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadmini.com.lk
-    policy: Proxy
-- domain_suffix:
-    match: applebk.net
-    policy: Proxy
-- domain_suffix:
-    match: appleiphonecell.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsbydreoutlet.com
-    policy: Proxy
-- domain_suffix:
-    match: islamiccenterofnewlondon.com
-    policy: Proxy
-- domain_suffix:
-    match: appleonline.net
-    policy: Proxy
-- domain_suffix:
-    match: ibook.net
-    policy: Proxy
-- domain_suffix:
-    match: gsa.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: ubnw.net
-    policy: Proxy
-- domain_suffix:
-    match: iphoneplus.wang
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreireland-sales.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre.jp
-    policy: Proxy
-- domain_suffix:
-    match: wwwapple.net
-    policy: Proxy
-- domain_suffix:
-    match: ap0le.com
-    policy: Proxy
-- domain_suffix:
-    match: drdreprobeatssale.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.br
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-online.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrenewcolorful4usale.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudnet.net
-    policy: Proxy
-- domain_suffix:
-    match: iphone4s.com
-    policy: Proxy
-- domain_suffix:
-    match: headphonesbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: 2013beatsbydrdreonline.com
-    policy: Proxy
-- domain_suffix:
-    match: applecoronavirus.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeats-france.com
-    policy: Proxy
-- domain_suffix:
-    match: pickshoesclothes.com
-    policy: Proxy
-- domain_suffix:
-    match: truedepth3d.com
-    policy: Proxy
-- domain_suffix:
-    match: imac.co.nz
-    policy: Proxy
-- domain_suffix:
-    match: abcheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.ee
-    policy: Proxy
-- domain_suffix:
-    match: macosx.info
-    policy: Proxy
-- domain_suffix:
-    match: findmyipad.com
-    policy: Proxy
-- domain_suffix:
-    match: cozydrdrebeats.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.rio
-    policy: Proxy
-- domain_suffix:
-    match: iwork.wang
-    policy: Proxy
-- domain_suffix:
-    match: ipod.de
-    policy: Proxy
-- domain_suffix:
-    match: ibeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.at
-    policy: Proxy
-- domain_suffix:
-    match: iphone-8.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydres-shop.com
-    policy: Proxy
-- domain_suffix:
-    match: beatswirelesscheap.com
-    policy: Proxy
-- domain_suffix:
-    match: itools.info
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsru.com
-    policy: Proxy
-- domain_suffix:
-    match: swift.org
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.pe
-    policy: Proxy
-- domain_suffix:
-    match: applehongkong.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.cdn20.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.rs
-    policy: Proxy
-- domain_suffix:
-    match: beatbydrekopen.com
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsbydrdresolohd.com
-    policy: Proxy
-- domain_suffix:
-    match: discussionsapple.com
-    policy: Proxy
-- domain_suffix:
-    match: applepaysupplies.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydregot.com
-    policy: Proxy
-- domain_suffix:
-    match: headphonesol.com
-    policy: Proxy
-- domain_suffix:
-    match: ipodshop.com.au
-    policy: Proxy
-- domain_suffix:
-    match: offrezdesipods.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapnewbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: mask.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudmail.net
-    policy: Proxy
-- domain_suffix:
-    match: cheapmonsterbeatsheadsets.com
-    policy: Proxy
-- domain_suffix:
-    match: custombeatsbydrebuy.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeats365.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.bg
-    policy: Proxy
-- domain_suffix:
-    match: casquebeatsmer.net
-    policy: Proxy
-- domain_suffix:
-    match: imac.rs
-    policy: Proxy
-- domain_suffix:
-    match: mac.rs
-    policy: Proxy
-- domain_suffix:
-    match: monstercheapbeatss.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: reform-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: shoestop2.com
-    policy: Proxy
-- domain_suffix:
-    match: specialtyheadphones.com
-    policy: Proxy
-- domain_suffix:
-    match: texture.com
-    policy: Proxy
-- domain_suffix:
-    match: wholesaleonlinemart.com
-    policy: Proxy
-- domain_suffix:
-    match: wpewebkit.org
-    policy: Proxy
-- domain_suffix:
-    match: itunesapple.cn
-    policy: Proxy
-- domain_suffix:
-    match: unstyle.us
-    policy: Proxy
-- domain_suffix:
-    match: www-cdn.icloud.com.akadns.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsep.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudhome.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.co
-    policy: Proxy
-- domain_suffix:
-    match: wwwapplemusic.com
-    policy: Proxy
-- domain_suffix:
-    match: applecentar.rs
-    policy: Proxy
-- domain_suffix:
-    match: beats-dre-us.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsaudios.net
-    policy: Proxy
-- domain_suffix:
-    match: carbon.com
-    policy: Proxy
-- domain_suffix:
-    match: discountbeatsstore.com
-    policy: Proxy
-- domain_suffix:
-    match: foundationdb.org
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.com.hk
-    policy: Proxy
-- domain_suffix:
-    match: beatsaudiobydre.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.fi
-    policy: Proxy
-- domain_suffix:
-    match: thebeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: hottestheadphonesonline.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrediscountonline.net
-    policy: Proxy
-- domain_suffix:
-    match: ogameblog.com
-    policy: Proxy
-- domain_suffix:
-    match: ipadpro.buzz
-    policy: Proxy
-- domain_suffix:
-    match: 12diasderegalosdeitunes.co
-    policy: Proxy
-- domain_suffix:
-    match: buycheapbeatsbydreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: outletbeatsshop.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsdrdre-headphones.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: axm-adm-mdm.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbysdrbre.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrecybermondaydeals2013.net
-    policy: Proxy
-- domain_suffix:
-    match: drdremonster-beats.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsblackfridaydeals.net
-    policy: Proxy
-- domain_suffix:
-    match: ajtalk.com
-    policy: Proxy
-- domain_suffix:
-    match: gobuyonlinestore.net
-    policy: Proxy
-- domain_suffix:
-    match: ids-apple.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.ch
-    policy: Proxy
-- domain_suffix:
-    match: macbooksale.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeats8beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydres.com
-    policy: Proxy
-- domain_suffix:
-    match: myappleid.com
-    policy: Proxy
-- domain_suffix:
-    match: danemarket.com
-    policy: Proxy
-- domain_suffix:
-    match: beats4outlets.com
-    policy: Proxy
-- domain_suffix:
-    match: mac.com.au
-    policy: Proxy
-- domain_suffix:
-    match: scnshop.cc
-    policy: Proxy
-- domain_suffix:
-    match: chihair-straightener.com
-    policy: Proxy
-- domain_suffix:
-    match: monsterbeatsbydrdre-nz.com
-    policy: Proxy
-- domain_suffix:
-    match: appleone.tech
-    policy: Proxy
-- domain_suffix:
-    match: appletv.wang
-    policy: Proxy
-- domain_suffix:
-    match: pong.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: drebeatsdeutschland.net
-    policy: Proxy
-- domain_suffix:
-    match: salebeatslasteststyle4you.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.com.ru
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.au
-    policy: Proxy
-- domain_suffix:
-    match: beatsaudiobydre.net
-    policy: Proxy
-- domain_suffix:
-    match: apple.bg
-    policy: Proxy
-- domain_suffix:
-    match: appleappstore.net
-    policy: Proxy
-- domain_suffix:
-    match: applestore.ch
-    policy: Proxy
-- domain_suffix:
-    match: appleipodsettlement.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphones2u.com
-    policy: Proxy
-- domain_suffix:
-    match: highdefinitionbeatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.es
-    policy: Proxy
-- domain_suffix:
-    match: ipod.net
-    policy: Proxy
-- domain_suffix:
-    match: itunesparty.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydreoutletonline.com
-    policy: Proxy
-- domain_suffix:
-    match: applestore.sg
-    policy: Proxy
-- domain_suffix:
-    match: famosascalvas.com
-    policy: Proxy
-- domain_suffix:
-    match: applemusic.com
-    policy: Proxy
-- domain_suffix:
-    match: configuration.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: mr-apple.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: applw.com
-    policy: Proxy
-- domain_suffix:
-    match: icloudads.net
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.mz
-    policy: Proxy
-- domain_suffix:
-    match: crashlytics.com
-    policy: Proxy
-- domain_suffix:
-    match: danmarkbeatsbydrdre.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.bs
-    policy: Proxy
-- domain_suffix:
-    match: applewatch.wang
-    policy: Proxy
-- domain_suffix:
-    match: appleaccount.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrdre-officials5.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone5s5case.com
-    policy: Proxy
-- domain_suffix:
-    match: cybermondaybeats4sale.com
-    policy: Proxy
-- domain_suffix:
-    match: ipod.com.au
-    policy: Proxy
-- domain_suffix:
-    match: ipodrip.ca
-    policy: Proxy
-- domain_suffix:
-    match: macreach.com
-    policy: Proxy
-- domain_suffix:
-    match: beats-bydrecheapsale.com
-    policy: Proxy
-- domain_suffix:
-    match: applecomputer.com.tw
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreirelandsale.com
-    policy: Proxy
-- domain_suffix:
-    match: drdrebeatsuk.com
-    policy: Proxy
-- domain_suffix:
-    match: dvdstudiopro.us
-    policy: Proxy
-- domain_suffix:
-    match: beats123.com
-    policy: Proxy
-- domain_suffix:
-    match: honawalaan.com
-    policy: Proxy
-- domain_suffix:
-    match: cheapbeatsbydreonsale.com
-    policy: Proxy
-- domain_suffix:
-    match: i-book.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.no
-    policy: Proxy
-- domain_suffix:
-    match: apple.hu
-    policy: Proxy
-- domain_suffix:
-    match: icloudapple.cn
-    policy: Proxy
-- domain_suffix:
-    match: launchpad.wang
-    policy: Proxy
-- domain_suffix:
-    match: livephotos.cn
-    policy: Proxy
-- domain_suffix:
-    match: macbookair.es
-    policy: Proxy
-- domain_suffix:
-    match: organicfruitapps.com
-    policy: Proxy
-- domain_suffix:
-    match: quicktime.cc
-    policy: Proxy
-- domain_suffix:
-    match: 2013beatsbydreshop.com
-    policy: Proxy
-- domain_suffix:
-    match: drdremonsterdre.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.sa
-    policy: Proxy
-- domain_suffix:
-    match: appleonline.com
-    policy: Proxy
-- domain_suffix:
-    match: dealsbeatsblackfriday.com
-    policy: Proxy
-- domain_suffix:
-    match: ipoditouch.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.in
-    policy: Proxy
-- domain_suffix:
-    match: macreach.net
-    policy: Proxy
-- domain_suffix:
-    match: dotmac.de
-    policy: Proxy
-- domain_suffix:
-    match: beatsheadphones-discount.com
-    policy: Proxy
-- domain_suffix:
-    match: bybeatsdre.com
-    policy: Proxy
-- domain_suffix:
-    match: calendarserver.org
-    policy: Proxy
-- domain_suffix:
-    match: hellokittybeats.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoto.se
-    policy: Proxy
-- domain_suffix:
-    match: apple.xn--fiqs8s
-    policy: Proxy
-- domain_suffix:
-    match: apple.xyz
-    policy: Proxy
-- domain_suffix:
-    match: appmediagroup.com
-    policy: Proxy
-- domain_suffix:
-    match: aokwholesale.net
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydre2081.com
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreaustraliasales.com
-    policy: Proxy
-- domain_suffix:
-    match: beatbydreuk2014.com
-    policy: Proxy
-- domain_suffix:
-    match: drdreheadphonesusstore.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.com.tr
-    policy: Proxy
-- domain_suffix:
-    match: icloudbrowser.net
-    policy: Proxy
-- domain_suffix:
-    match: macappsto.re
-    policy: Proxy
-- domain_suffix:
-    match: overapple.com
-    policy: Proxy
-- domain_suffix:
-    match: wholesalediscountpurses.com
-    policy: Proxy
-- domain_suffix:
-    match: apple.co
-    policy: Proxy
-- domain_suffix:
-    match: ipod.is
-    policy: Proxy
-- domain_suffix:
-    match: airport.eu
-    policy: Proxy
-- domain_suffix:
-    match: apple.co.hu
-    policy: Proxy
-- domain_suffix:
-    match: apple.fr
-    policy: Proxy
-- domain_suffix:
-    match: applemagickeyboard.com
-    policy: Proxy
-- domain_suffix:
-    match: applenews.berlin
-    policy: Proxy
-- domain_suffix:
-    match: applepaycash.com.cn
-    policy: Proxy
-- domain_suffix:
-    match: 4beatsbydre.com
-    policy: Proxy
-- domain_suffix:
-    match: appstoreapple.cn
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydrsmonsterinusa.com
-    policy: Proxy
-- domain_suffix:
-    match: dreprobeats.com
-    policy: Proxy
-- domain_suffix:
-    match: free-sns.com
-    policy: Proxy
-- domain_suffix:
-    match: icloud.jp
-    policy: Proxy
-- domain_suffix:
-    match: api.push.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: iphone5.com
-    policy: Proxy
-- domain_suffix:
-    match: asto.re
-    policy: Proxy
-- domain_suffix:
-    match: beatsbydreforshop2013-nl.com
-    policy: Proxy
-- domain_suffix:
-    match: iphoto.eu
-    policy: Proxy
-- domain_suffix:
-    match: itunes.com
-    policy: Proxy
-- domain_suffix:
-    match: ituneslatino.com
-    policy: Proxy
-- domain_suffix:
-    match: itunesradio.cn
-    policy: Proxy
-- domain:
-    match: gspe19-2-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: time-macos.apple.com
-    policy: Proxy
-- domain:
-    match: certs.apple.com
-    policy: Proxy
-- domain:
-    match: support.apple.com
-    policy: Proxy
-- domain:
-    match: news-edge.apple.com
-    policy: Proxy
-- domain:
-    match: apps.apple.com
-    policy: Proxy
-- domain:
-    match: init-p01st.push.apple.com
-    policy: Proxy
-- domain:
-    match: is2.mzstatic.com
-    policy: Proxy
-- domain:
-    match: books.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cds.apple.com
-    policy: Proxy
-- domain:
-    match: gsp13-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: init-p01md.apple.com
-    policy: Proxy
-- domain:
-    match: itunes-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: ocsp.apple.com
-    policy: Proxy
-- domain:
-    match: store.apple.com.edgekey.net
-    policy: Proxy
-- domain:
-    match: weather-map.apple.com
-    policy: Proxy
-- domain:
-    match: itunesconnect.apple.com
-    policy: Proxy
-- domain:
-    match: gspe85-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: ocsp2.apple.com
-    policy: Proxy
-- domain:
-    match: ml.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: configuration.apple.com
-    policy: Proxy
-- domain:
-    match: amp-api.media.apple.com
-    policy: Proxy
-- domain:
-    match: mesu.apple.com
-    policy: Proxy
-- domain:
-    match: osxapps.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: dejavu.apple.com
-    policy: Proxy
-- domain:
-    match: news-client.apple.com
-    policy: Proxy
-- domain:
-    match: mesu-cdn.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: amp-api.apps.apple.com
-    policy: Proxy
-- domain:
-    match: store.storeimages.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: is5.mzstatic.com
-    policy: Proxy
-- domain:
-    match: devstreaming-cdn.apple.com
-    policy: Proxy
-- domain:
-    match: store.storeimages.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: weather-map2.apple.com
-    policy: Proxy
-- domain:
-    match: gsp-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: devimages-cdn.apple.com
-    policy: Proxy
-- domain:
-    match: client-api.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: valid.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cl3.apple.com
-    policy: Proxy
-- domain:
-    match: init-s01st.push.apple.com
-    policy: Proxy
-- domain:
-    match: news-assets.apple.com
-    policy: Proxy
-- domain:
-    match: news-client-search.apple.com
-    policy: Proxy
-- domain:
-    match: gateway.icloud.com
-    policy: Proxy
-- domain:
-    match: is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: pancake.apple.com
-    policy: Proxy
-- domain:
-    match: su.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: a3.mzstatic.com
-    policy: Proxy
-- domain:
-    match: pba0.apple.com
-    policy: Proxy
-- domain:
-    match: sequoia.apple.com
-    policy: Proxy
-- domain:
-    match: tj-pod1-smp-device.apple.com
-    policy: Proxy
-- domain:
-    match: is1-ssl.mzstatic.com
-    policy: Proxy
-- domain:
-    match: apptrailers.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cl2.apple.com
-    policy: Proxy
-- domain:
-    match: iosapps.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: mask-h2.icloud.com
-    policy: Proxy
-- domain:
-    match: stocks-sparkline.apple.com
-    policy: Proxy
-- domain:
-    match: experiments.apple.com
-    policy: Proxy
-- domain:
-    match: swcatalog-cdn.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: api-p-ap-d.smoot.apple.com
-    policy: Proxy
-- domain:
-    match: gs.apple.com
-    policy: Proxy
-- domain:
-    match: swcatalog.apple.com
-    policy: Proxy
-- domain:
-    match: is3-ssl.mzstatic.com
-    policy: Proxy
-- domain:
-    match: js-cdn.music.apple.com
-    policy: Proxy
-- domain:
-    match: adcdownload.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: streamingaudio.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: api.apps.apple.com
-    policy: Proxy
-- domain:
-    match: download.developer.apple.com
-    policy: Proxy
-- domain:
-    match: gspe21-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: static.gc.apple.com
-    policy: Proxy
-- domain:
-    match: guzzoni.smoot.apple.com
-    policy: Proxy
-- domain:
-    match: gspe35-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: appleworldwidedeveloper.hb-api.omtrdc.net
-    policy: Proxy
-- domain:
-    match: is4.mzstatic.com
-    policy: Proxy
-- domain:
-    match: gsp5-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: is1.mzstatic.com
-    policy: Proxy
-- domain:
-    match: mvod.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: swdist.apple.com
-    policy: Proxy
-- domain:
-    match: itcmobile.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: updates.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: cdsassets.apple.com
-    policy: Proxy
-- domain:
-    match: weatherkit.apple.com
-    policy: Proxy
-- domain:
-    match: ocsp2-lb.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: prod-support.apple-support.akadns.net
-    policy: Proxy
-- domain:
-    match: captive.apple.com
-    policy: Proxy
-- domain:
-    match: cdn2.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: cstat.apple.com
-    policy: Proxy
-- domain:
-    match: ipcdn.apple.com
-    policy: Proxy
-- domain:
-    match: testflight.apple.com
-    policy: Proxy
-- domain:
-    match: probe.siri.apple.com
-    policy: Proxy
-- domain:
-    match: gsp4-cn.ls.apple.com.edgekey.net
-    policy: Proxy
-- domain:
-    match: hls-amt.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: play-edge.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: aod-ssl.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cdn.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: bookkeeper.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: swallow-apple-com.v.aaplimg.com
-    policy: Proxy
-- domain:
-    match: gspe12-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: init.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: sh-pod2-smp-device.apple.com
-    policy: Proxy
-- domain:
-    match: communities.apple.com
-    policy: Proxy
-- domain:
-    match: beatselectronicsllc.tt.omtrdc.net
-    policy: Proxy
-- domain:
-    match: configuration.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cl1-cdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cvws.icloud-content.com
-    policy: Proxy
-- domain:
-    match: bag-cdn.itunes-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cl4-cdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: audio-ssl.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: gspe19-cn.ls-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: guzzoni-apple-com.v.aaplimg.com
-    policy: Proxy
-- domain:
-    match: is5-ssl.mzstatic.com
-    policy: Proxy
-- domain:
-    match: mask.icloud.com
-    policy: Proxy
-- domain:
-    match: idv-prod1.apple.com
-    policy: Proxy
-- domain:
-    match: cdn1.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: sync.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: app-site-association.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: oscdn.apple.com
-    policy: Proxy
-- domain:
-    match: mesu-china.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: iadsdk.apple.com
-    policy: Proxy
-- domain:
-    match: idv.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: publicassets.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: courier-push-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: gsp64-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: init-p01st-lb.push-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: downloaddispatch.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: init-s01st-lb.push-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: gspe19-2-cn-ssl.ls-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: gspe21.ls.apple.com
-    policy: Proxy
-- domain:
-    match: swcdn.apple.com
-    policy: Proxy
-- domain:
-    match: e16991.b.akamaiedge.net
-    policy: Proxy
-- domain:
-    match: updates-http.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: apps.mzstatic.com
-    policy: Proxy
-- domain:
-    match: api-p-ap-c.smoot.apple.com
-    policy: Proxy
-- domain:
-    match: appldnld.apple.com.edgesuite.net
-    policy: Proxy
-- domain:
-    match: a2.mzstatic.com
-    policy: Proxy
-- domain:
-    match: cl5.apple.com
-    policy: Proxy
-- domain:
-    match: p-events-delivery.akamaized.net
-    policy: Proxy
-- domain:
-    match: cdn.apple-cloudkit.com
-    policy: Proxy
-- domain:
-    match: icloud-cdn.icloud.com.akadns.net
-    policy: Proxy
-- domain:
-    match: sq-device.apple.com
-    policy: Proxy
-- domain:
-    match: iphone-ld.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: is4-ssl.mzstatic.com
-    policy: Proxy
-- domain:
-    match: api-edge.apps.apple.com
-    policy: Proxy
-- domain:
-    match: store.apple.com.edgekey.net.globalredir.akadns.net
-    policy: Proxy
-- domain:
-    match: assistant.apple.com
-    policy: Proxy
-- domain:
-    match: mask-api.fe.apple-dns.net
-    policy: Proxy
-- domain:
-    match: apple-events.akamaized.net
-    policy: Proxy
-- domain:
-    match: swscan-cdn.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: certs-lb.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: appleid.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: time.apple.com
-    policy: Proxy
-- domain:
-    match: gspe1-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: lookup-api.apple.com
-    policy: Proxy
-- domain:
-    match: gs-loc-cn.apple.com
-    policy: Proxy
-- domain:
-    match: is3.mzstatic.com
-    policy: Proxy
-- domain:
-    match: a4.mzstatic.com
-    policy: Proxy
-- domain:
-    match: images.apple.com.edgekey.net.globalredir.akadns.net
-    policy: Proxy
-- domain:
-    match: amp-api-search-edge.apps.apple.com
-    policy: Proxy
-- domain:
-    match: dd-cdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: fmipmobile.icloud.com
-    policy: Proxy
-- domain:
-    match: api-glb-sea.smoot.apple.com
-    policy: Proxy
-- domain:
-    match: oscdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: se-edge.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: xp.apple.com
-    policy: Proxy
-- domain:
-    match: cds-cdn.v.aaplimg.com
-    policy: Proxy
-- domain:
-    match: sylvan.apple.com
-    policy: Proxy
-- domain:
-    match: crl.apple.com
-    policy: Proxy
-- domain:
-    match: init-p01md-lb.push-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cl2-cn.apple.com
-    policy: Proxy
-- domain:
-    match: gsp12-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: itunes.apple.com
-    policy: Proxy
-- domain:
-    match: gspe11-2-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: gsp4-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: bag.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: iosapps.itunes.g.aaplimg.com
-    policy: Proxy
-- domain:
-    match: static.ips.apple.com
-    policy: Proxy
-- domain:
-    match: ocsp-lb.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: swallow.apple.com
-    policy: Proxy
-- domain:
-    match: humb.apple.com
-    policy: Proxy
-- domain:
-    match: gspe35-ssl.ls.apple.cn
-    policy: Proxy
-- domain:
-    match: iphone-ld.apple.com
-    policy: Proxy
-- domain:
-    match: mask-api.icloud.com
-    policy: Proxy
-- domain:
-    match: sf-api-token-service.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: seed-sequoia.siri.apple.com
-    policy: Proxy
-- domain:
-    match: cdn3.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: cma.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: gdmf.apple.com
-    policy: Proxy
-- domain:
-    match: apple.comscoreresearch.com
-    policy: Proxy
-- domain:
-    match: news-events.apple.com
-    policy: Proxy
-- domain:
-    match: cn-smp-paymentservices.apple.com
-    policy: Proxy
-- domain:
-    match: images.apple.com
-    policy: Proxy
-- domain:
-    match: km.support.apple.com
-    policy: Proxy
-- domain:
-    match: np-edge.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: reserve-prime.apple.com
-    policy: Proxy
-- domain:
-    match: statici.icloud.com
-    policy: Proxy
-- domain:
-    match: tv.applemusic.com
-    policy: Proxy
-- domain:
-    match: apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: cdn4.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: smp-device-content.apple.com
-    policy: Proxy
-- domain:
-    match: appleworldwidedeveloper.sc.omtrdc.net
-    policy: Proxy
-- domain:
-    match: gspe19-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: seed-swallow.siri.apple.com
-    policy: Proxy
-- domain:
-    match: a5.mzstatic.com
-    policy: Proxy
-- domain:
-    match: play.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: supportdownload.apple.com
-    policy: Proxy
-- domain:
-    match: clientflow.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: crl-lb.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: upp.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: push-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: lookup-api.apple.com.edgekey.net
-    policy: Proxy
-- domain:
-    match: www-cdn.icloud.com.akadns.net
-    policy: Proxy
-- domain:
-    match: edge.apple
-    policy: Proxy
-- domain:
-    match: swdist.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: adcdownload.apple.com
-    policy: Proxy
-- domain:
-    match: api-p-ap-e.smoot.apple.com
-    policy: Proxy
-- domain:
-    match: beta.apple.com
-    policy: Proxy
-- domain:
-    match: developer.apple.com
-    policy: Proxy
-- domain:
-    match: gsp85-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: cstat.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: search.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: valid.apple.com
-    policy: Proxy
-- domain:
-    match: fmfmobile.icloud.com
-    policy: Proxy
-- domain:
-    match: cl1.apple.com
-    policy: Proxy
-- domain:
-    match: app-site-association.networking.apple
-    policy: Proxy
-- domain:
-    match: www.apple.com.edgekey.net
-    policy: Proxy
-- domain:
-    match: api.smoot.apple.cn
-    policy: Proxy
-- domain:
-    match: beta.music.apple.com
-    policy: Proxy
-- domain:
-    match: cdn-cn2.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: iosapps-ssl.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cds.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: mask.apple-dns.net
-    policy: Proxy
-- domain:
-    match: store.apple.com
-    policy: Proxy
-- domain:
-    match: appldnld.g.aaplimg.com
-    policy: Proxy
-- domain:
-    match: guzzoni.apple.com
-    policy: Proxy
-- domain:
-    match: tbsc.apple.com
-    policy: Proxy
-- domain:
-    match: uts-api.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: doh.dns.apple.com
-    policy: Proxy
-- domain:
-    match: clientflow.apple.com
-    policy: Proxy
-- domain:
-    match: weather-data.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: music.apple.com
-    policy: Proxy
-- domain:
-    match: audio.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: ppq.apple.com
-    policy: Proxy
-- domain:
-    match: appldnld.apple.com
-    policy: Proxy
-- domain:
-    match: stocks-sparkline-lb.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: mask-t.apple-dns.net
-    policy: Proxy
-- domain:
-    match: albert.apple.com
-    policy: Proxy
-- domain:
-    match: cdn-cn3.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: a1.mzstatic.com
-    policy: Proxy
-- domain:
-    match: gspe19-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: pos-device.apple.com
-    policy: Proxy
-- domain:
-    match: time-ios.apple.com
-    policy: Proxy
-- domain:
-    match: shazam-insights.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: icons.axm-usercontent-apple.com
-    policy: Proxy
-- domain:
-    match: amp-api-updates.apps.apple.com
-    policy: Proxy
-- domain:
-    match: gs-loc.apple.com
-    policy: Proxy
-- domain:
-    match: cl5-cdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: gsp10-ssl-cn.ls.apple.com
-    policy: Proxy
-- domain:
-    match: cl4-cn.apple.com
-    policy: Proxy
-- domain:
-    match: hls.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: hls-svod.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: discussionschinese.apple.com
-    policy: Proxy
-- domain:
-    match: seed.siri.apple.com
-    policy: Proxy
-- domain:
-    match: support-china.apple-support.akadns.net
-    policy: Proxy
-- domain:
-    match: gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-    policy: Proxy
-- domain:
-    match: cl4.apple.com
-    policy: Proxy
-- domain:
-    match: sp.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: icloud.cdn-apple.com
-    policy: Proxy
-- domain:
-    match: se2.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: is2-ssl.mzstatic.com
-    policy: Proxy
-- domain:
-    match: sandbox.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: fides-pol.apple.com
-    policy: Proxy
-- domain:
-    match: pd.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cdn-cn1.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: swcdn.g.aaplimg.com
-    policy: Proxy
-- domain:
-    match: updates-http.cdn-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: init.ess.apple.com
-    policy: Proxy
-- domain:
-    match: gspe79-cn-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: osxapps.itunes.g.aaplimg.com
-    policy: Proxy
-- domain:
-    match: swscan.apple.com
-    policy: Proxy
-- domain:
-    match: www.apple.com
-    policy: Proxy
-- domain:
-    match: docs-assets.developer.apple.com
-    policy: Proxy
-- domain:
-    match: pancake.cdn-apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: s.mzstatic.com
-    policy: Proxy
-- domain:
-    match: amp-api.fitness.apple.com
-    policy: Proxy
-- domain:
-    match: images.apple.com.akadns.net
-    policy: Proxy
-- domain:
-    match: weather-data.apple.com
-    policy: Proxy
-- domain:
-    match: cdn-cn4.apple-mapkit.com
-    policy: Proxy
-- domain:
-    match: maps.apple.com
-    policy: Proxy
-- domain:
-    match: www.apple.com.edgekey.net.globalredir.akadns.net
-    policy: Proxy
-- domain:
-    match: se.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: appstoreconnect.apple.com
-    policy: Proxy
-- domain:
-    match: init-kt.apple.com
-    policy: Proxy
-- domain:
-    match: aod.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: cl3-cdn.origin-apple.com.akadns.net
-    policy: Proxy
-- domain_keyword:
-    match: apple.com.edgekey.net
-    policy: Proxy
-- domain_keyword:
-    match: testflight
-    policy: Proxy
-- domain_keyword:
-    match: apple.com.akadns.net
-    policy: Proxy
-- domain_keyword:
-    match: buy.itunes.apple.com
-    policy: Proxy
-- domain_keyword:
-    match: smp-device
-    policy: Proxy
-- domain_keyword:
-    match: apple-support.akadns.net
-    policy: Proxy
-- domain_keyword:
-    match: icloud.com.akadns.net
-    policy: Proxy
-- domain_wildcard:
-    match: '*-content.icloud.com.cn'
-    policy: Proxy
-- domain_wildcard:
-    match: init*.push.apple.com
-    policy: Proxy
-- domain_wildcard:
-    match: init*.push-apple.com.akadns.net
-    policy: Proxy
-- domain_wildcard:
-    match: apple.com.*
-    policy: Proxy
-- domain_wildcard:
-    match: ipod.*
-    policy: Proxy
-- domain_wildcard:
-    match: iphone.*
-    policy: Proxy
-- domain_wildcard:
-    match: appleworldwidedeveloper.*.net
-    policy: Proxy
-- domain_wildcard:
-    match: macbookpro.*
-    policy: Proxy
-- domain_wildcard:
-    match: macbook.*
-    policy: Proxy
-- domain_wildcard:
-    match: ipad.*
-    policy: Proxy
-- domain_wildcard:
-    match: macbookair.*
-    policy: Proxy
-- domain_wildcard:
-    match: ipadmini.*
-    policy: Proxy
-- domain_wildcard:
-    match: ipadair.*
-    policy: Proxy
-- domain_wildcard:
-    match: apple.*
-    policy: Proxy
-- domain_wildcard:
-    match: imac.*
-    policy: Proxy
-- ip_cidr6:
-    match: 2620:149::/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 63.92.224.0/19
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 17.0.0.0/8
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 65.199.22.0/23
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 144.178.0.0/19
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 144.178.36.0/22
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 198.183.17.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 144.178.48.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 139.178.128.0/18
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2a01:b740::/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 205.180.175.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 192.35.50.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2403:300::/32
-    no_resolve: 'true'
-    policy: Proxy
-- user_agent:
-    match: FindMyFriends*
-    policy: Proxy
-- user_agent:
-    match: Music*
-    policy: Proxy
-- user_agent:
-    match: com.apple.appstored*
-    policy: Proxy
-- user_agent:
-    match: locationd*
-    policy: Proxy
-- user_agent:
-    match: '*FindMyiPhone?'
-    policy: Proxy
-- user_agent:
-    match: fmflocatord*
-    policy: Proxy
-- user_agent:
-    match: passd*
-    policy: Proxy
-- user_agent:
-    match: '*com.apple.Maps?'
-    policy: Proxy
-- user_agent:
-    match: Wallet*
-    policy: Proxy
-- user_agent:
-    match: FindMyiPhone*
-    policy: Proxy
-- user_agent:
-    match: com.apple.Maps
-    policy: Proxy
-- user_agent:
-    match: com.apple.news*
-    policy: Proxy
-- user_agent:
-    match: com.apple.tv*
-    policy: Proxy
-- user_agent:
-    match: AppleNews*
-    policy: Proxy
-- user_agent:
-    match: Maps*
-    policy: Proxy
-- user_agent:
-    match: AppleTV*
-    policy: Proxy
-- user_agent:
-    match: '*com.apple.mobileme.fmip1'
-    policy: Proxy
-- user_agent:
-    match: '*WeatherFoundation*'
-    policy: Proxy
-- user_agent:
-    match: FMFD*
-    policy: Proxy
-- user_agent:
-    match: com.apple.trustd*
-    policy: Proxy
-- user_agent:
-    match: FMDClient*
-    policy: Proxy
-- user_agent:
-    match: '*Music?'
-    policy: Proxy
-- user_agent:
-    match: geod*
-    policy: Proxy
+domain_keyword_set:
+- testflight
+- buy.itunes.apple.com
+- apple.com.edgekey.net
+- apple.com.akadns.net
+- apple-support.akadns.net
+- icloud.com.akadns.net
+- smp-device
+domain_set:
+- store.apple.com
+- gspe1-ssl.ls.apple.com
+- api-p-ap-e.smoot.apple.com
+- cl4.apple.com
+- beatselectronicsllc.tt.omtrdc.net
+- devimages-cdn.apple.com
+- downloaddispatch.itunes.apple.com
+- testflight.apple.com
+- cl3.apple.com
+- edge.apple
+- www.apple.com.edgekey.net
+- tv.applemusic.com
+- configuration.apple.com
+- dd-cdn.origin-apple.com.akadns.net
+- init-p01md.apple.com
+- lookup-api.apple.com
+- cl5-cdn.origin-apple.com.akadns.net
+- osxapps.itunes.apple.com
+- api-edge.apps.apple.com
+- apps.apple.com
+- crl-lb.apple.com.akadns.net
+- mask-h2.icloud.com
+- api-p-ap-c.smoot.apple.com
+- tbsc.apple.com
+- news-edge.apple.com
+- seed-swallow.siri.apple.com
+- weather-data.apple.com.akadns.net
+- is3-ssl.mzstatic.com
+- cdn1.apple-mapkit.com
+- cdn.apple-cloudkit.com
+- iosapps.itunes.g.aaplimg.com
+- gs.apple.com
+- guzzoni.smoot.apple.com
+- news-events.apple.com
+- crl.apple.com
+- gdmf.apple.com
+- sandbox.itunes.apple.com
+- seed.siri.apple.com
+- bag-cdn.itunes-apple.com.akadns.net
+- gsp5-cn.ls.apple.com
+- a2.mzstatic.com
+- is3.mzstatic.com
+- fmfmobile.icloud.com
+- seed-sequoia.siri.apple.com
+- store.storeimages.cdn-apple.com
+- icloud-cdn.icloud.com.akadns.net
+- publicassets.cdn-apple.com
+- api.apps.apple.com
+- cds.apple.com.akadns.net
+- itcmobile.itunes.apple.com
+- support.apple.com
+- beta.music.apple.com
+- valid.apple.com
+- www-cdn.icloud.com.akadns.net
+- amp-api.fitness.apple.com
+- valid.origin-apple.com.akadns.net
+- init.itunes.apple.com
+- sf-api-token-service.itunes.apple.com
+- news-client.apple.com
+- tj-pod1-smp-device.apple.com
+- weather-data.apple.com
+- gspe19-cn-ssl.ls.apple.com
+- cdn-cn4.apple-mapkit.com
+- cl4-cdn.origin-apple.com.akadns.net
+- push-apple.com.akadns.net
+- assistant.apple.com
+- updates.cdn-apple.com
+- ocsp2.apple.com
+- cdn-cn3.apple-mapkit.com
+- init-s01st.push.apple.com
+- oscdn.apple.com
+- init.ess.apple.com
+- mask-t.apple-dns.net
+- mesu-cdn.apple.com.akadns.net
+- gspe19-2-cn-ssl.ls.apple.com
+- time-ios.apple.com
+- gs-loc.apple.com
+- iosapps-ssl.itunes.apple.com
+- clientflow.apple.com
+- app-site-association.cdn-apple.com
+- appleworldwidedeveloper.sc.omtrdc.net
+- configuration.apple.com.akadns.net
+- mvod.itunes.apple.com
+- cn-smp-paymentservices.apple.com
+- pos-device.apple.com
+- se-edge.itunes.apple.com
+- store.apple.com.edgekey.net.globalredir.akadns.net
+- s.mzstatic.com
+- itunes-apple.com.akadns.net
+- cl2.apple.com
+- images.apple.com.akadns.net
+- app-site-association.networking.apple
+- shazam-insights.cdn-apple.com
+- is1.mzstatic.com
+- pancake.apple.com
+- swallow-apple-com.v.aaplimg.com
+- apple-events.akamaized.net
+- communities.apple.com
+- guzzoni.apple.com
+- apptrailers.itunes.apple.com
+- aod-ssl.itunes.apple.com
+- docs-assets.developer.apple.com
+- gspe21.ls.apple.com
+- aod.itunes.apple.com
+- swallow.apple.com
+- mesu.apple.com
+- clientflow.apple.com.akadns.net
+- audio-ssl.itunes.apple.com
+- itunesconnect.apple.com
+- reserve-prime.apple.com
+- sq-device.apple.com
+- appldnld.apple.com.edgesuite.net
+- api-p-ap-d.smoot.apple.com
+- gsp-ssl.ls.apple.com
+- hls.itunes.apple.com
+- updates-http.cdn-apple.com
+- cl1.apple.com
+- doh.dns.apple.com
+- init-p01md-lb.push-apple.com.akadns.net
+- np-edge.itunes.apple.com
+- humb.apple.com
+- swcatalog-cdn.apple.com.akadns.net
+- gsp10-ssl-cn.ls.apple.com
+- upp.itunes.apple.com
+- gspe35-ssl.ls.apple.cn
+- swscan.apple.com
+- gsp12-cn.ls.apple.com
+- hls-amt.itunes.apple.com
+- devstreaming-cdn.apple.com
+- hls-svod.itunes.apple.com
+- iadsdk.apple.com
+- icons.axm-usercontent-apple.com
+- client-api.itunes.apple.com
+- adcdownload.apple.com.akadns.net
+- adcdownload.apple.com
+- cvws.icloud-content.com
+- gateway.icloud.com
+- stocks-sparkline.apple.com
+- km.support.apple.com
+- amp-api-search-edge.apps.apple.com
+- gspe19-2-cn-ssl.ls-apple.com.akadns.net
+- supportdownload.apple.com
+- albert.apple.com
+- init-kt.apple.com
+- time-macos.apple.com
+- images.apple.com
+- cdn-cn1.apple-mapkit.com
+- swcdn.apple.com
+- amp-api-updates.apps.apple.com
+- cl5.apple.com
+- smp-device-content.apple.com
+- oscdn.origin-apple.com.akadns.net
+- js-cdn.music.apple.com
+- a5.mzstatic.com
+- gspe19-cn.ls.apple.com
+- guzzoni-apple-com.v.aaplimg.com
+- mask.apple-dns.net
+- bookkeeper.itunes.apple.com
+- cl2-cn.apple.com
+- discussionschinese.apple.com
+- music.apple.com
+- gspe11-2-cn-ssl.ls.apple.com
+- static.ips.apple.com
+- idv-prod1.apple.com
+- mesu-china.apple.com.akadns.net
+- pancake.cdn-apple.com.akadns.net
+- pba0.apple.com
+- swdist.apple.com.akadns.net
+- www.apple.com
+- gspe21-ssl.ls.apple.com
+- download.developer.apple.com
+- osxapps.itunes.g.aaplimg.com
+- is5-ssl.mzstatic.com
+- search.itunes.apple.com
+- statici.icloud.com
+- init-p01st-lb.push-apple.com.akadns.net
+- apple.comscoreresearch.com
+- is2.mzstatic.com
+- idv.cdn-apple.com
+- appldnld.apple.com
+- probe.siri.apple.com
+- cdn4.apple-mapkit.com
+- dejavu.apple.com
+- images.apple.com.edgekey.net.globalredir.akadns.net
+- mask-api.fe.apple-dns.net
+- gspe12-cn-ssl.ls.apple.com
+- news-assets.apple.com
+- weatherkit.apple.com
+- support-china.apple-support.akadns.net
+- updates-http.cdn-apple.com.akadns.net
+- bag.itunes.apple.com
+- apple.com.akadns.net
+- api-glb-sea.smoot.apple.com
+- is4-ssl.mzstatic.com
+- appstoreconnect.apple.com
+- cds-cdn.v.aaplimg.com
+- courier-push-apple.com.akadns.net
+- is1-ssl.mzstatic.com
+- cl1-cdn.origin-apple.com.akadns.net
+- cl4-cn.apple.com
+- sp.itunes.apple.com
+- time.apple.com
+- xp.apple.com
+- cdn-cn2.apple-mapkit.com
+- gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+- sequoia.apple.com
+- mask.icloud.com
+- p-events-delivery.akamaized.net
+- iosapps.itunes.apple.com
+- swscan-cdn.apple.com.akadns.net
+- e16991.b.akamaiedge.net
+- appldnld.g.aaplimg.com
+- maps.apple.com
+- store.storeimages.apple.com.akadns.net
+- ml.cdn-apple.com
+- weather-map.apple.com
+- gsp4-cn.ls.apple.com
+- cdsassets.apple.com
+- is4.mzstatic.com
+- a1.mzstatic.com
+- amp-api.media.apple.com
+- experiments.apple.com
+- appleid.cdn-apple.com
+- gsp4-cn.ls.apple.com.edgekey.net
+- gspe35-ssl.ls.apple.com
+- play.itunes.apple.com
+- iphone-ld.origin-apple.com.akadns.net
+- swdist.apple.com
+- streamingaudio.itunes.apple.com
+- ppq.apple.com
+- ipcdn.apple.com
+- is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+- certs.apple.com
+- cdn.apple-mapkit.com
+- cstat.apple.com
+- init-p01st.push.apple.com
+- gsp85-cn-ssl.ls.apple.com
+- stocks-sparkline-lb.apple.com.akadns.net
+- gspe85-cn-ssl.ls.apple.com
+- ocsp2-lb.apple.com.akadns.net
+- ocsp.apple.com
+- amp-api.apps.apple.com
+- gsp13-cn.ls.apple.com
+- gsp64-ssl.ls.apple.com
+- mask-api.icloud.com
+- play-edge.itunes.apple.com
+- su.itunes.apple.com
+- is2-ssl.mzstatic.com
+- cdn3.apple-mapkit.com
+- cdn2.apple-mapkit.com
+- gs-loc-cn.apple.com
+- sh-pod2-smp-device.apple.com
+- developer.apple.com
+- iphone-ld.apple.com
+- itunes.apple.com
+- se.itunes.apple.com
+- www.apple.com.edgekey.net.globalredir.akadns.net
+- cl3-cdn.origin-apple.com.akadns.net
+- books.itunes.apple.com
+- certs-lb.apple.com.akadns.net
+- icloud.cdn-apple.com
+- news-client-search.apple.com
+- beta.apple.com
+- is5.mzstatic.com
+- swcatalog.apple.com
+- fmipmobile.icloud.com
+- gspe79-cn-ssl.ls.apple.com
+- lookup-api.apple.com.edgekey.net
+- init-s01st-lb.push-apple.com.akadns.net
+- a4.mzstatic.com
+- gspe19-cn.ls-apple.com.akadns.net
+- audio.itunes.apple.com
+- captive.apple.com
+- static.gc.apple.com
+- cma.itunes.apple.com
+- pd.itunes.apple.com
+- prod-support.apple-support.akadns.net
+- sylvan.apple.com
+- fides-pol.apple.com
+- swcdn.g.aaplimg.com
+- cstat.cdn-apple.com
+- api.smoot.apple.cn
+- cds.apple.com
+- uts-api.itunes.apple.com
+- weather-map2.apple.com
+- a3.mzstatic.com
+- sync.itunes.apple.com
+- appleworldwidedeveloper.hb-api.omtrdc.net
+- apps.mzstatic.com
+- store.apple.com.edgekey.net
+- se2.itunes.apple.com
+- ocsp-lb.apple.com.akadns.net
+domain_suffix_set:
+- monsterbeatsdrdrecheap.com
+- beatsbydreaustraliasales.com
+- ocsp2.apple.com
+- setup.icloud.com
+- apple-relay.mask.apple-dns.net
+- 12joursdecadeauxdeitunes.com
+- beatmonstersaustralia.net
+- beats-bydreoutletsale.com
+- beats-bydrdre.net
+- 40shopping.com
+- beatsbydreus.com
+- cheapdrdrebeats8.com
+- deviceenrollment.apple.com
+- bandgirlz.com
+- beatsbydremall2013.com
+- drebeatspill.com
+- beats-by-dre-australia.com
+- beatsbydrdre-headphones.com
+- appledarwin.com
+- apple.lk
+- beatssbydredanmark.com
+- drdrebeatsdiscount.com
+- ebookforipad.com
+- hotbeatsonsale.com
+- itools.info
+- macbookair.com.es
+- macpazar.com
+- mmonsterheadphones.net
+- officialbeatsbydreshop.com
+- pickshoesclothes.com
+- apple.co.uk
+- aaplimg.com
+- desktopmovies.org
+- beatsfranceofficiel.com
+- applestore.ch
+- beatsshop-uk.com
+- airtunes.com
+- apple-darwin.net
+- aokwholesale.net
+- apple.com.my
+- buycheapbeatsdreuk.com
+- icloud-apple.cn
+- itunesradio.com.cn
+- apple.dk
+- thebeatsheadphonesale.com
+- beatsbydreheadphonesolo.com
+- imac-apple.com
+- imac.com
+- ipodcentre.nl
+- latticedata.com
+- beatsbydre-mall.com
+- apple.com.pl
+- beatsmusic.wang
+- drbeatsukmart.com
+- macbook.wang
+- begin-trade.com
+- next.com
+- airport.brussels
+- iphoneplus.wang
+- ocsp.apple.com
+- mac.rs
+- buybeatsbydre-uk.com
+- icloud.hu
+- apple.ch
+- beatsbydresingapores.com
+- ipa-iphone.net
+- mask-h2.icloud.com
+- asto.re
+- appl.com
+- apple.si
+- appleoriginalproductions.com
+- beatsheadphonestudio.com
+- ikids.com
+- newschristmasshopping.com
+- sustainthesound.com
+- apyle.com
+- beatsbydre-us.com
+- beatssaleus.com
+- wholesalefine.com
+- beatsdre4cheap.com
+- bestiphonestuff.com
+- applewatchsport.com
+- cheapbeatsie.com
+- supplybestjerseys.com
+- researchkit.tv
+- icloud.pt
+- apple.fi
+- applecenter.cn
+- 2013newbeatsworld.com
+- apple.us
+- headphoneshotsales.com
+- ipodrip.ca
+- mr-apple.com.tw
+- macruby.org
+- cqcorea.com
+- iphone-cd.com
+- apple.xn--fiqs8s
+- apple.lt
+- shopdrebeats.com
+- onsaletrend.com
+- appstoreapple.cn
+- kopfhorergunstigshop.com
+- mac.wang
+- beatsbydresingaporesale.com
+- beatsbydre-chen.com
+- itunes12days.com
+- webobjects.net
+- macruby.net
+- repsneakermall.com
+- apple.com.mx
+- beatsfacstore.com
+- 12diasderegalosdeitunes.co.ve
+- 4beatsbydre.com
+- apple.co.hu
+- monstershopcheapbeats.net
+- beatsbydreonlie2013-nl.com
+- buzzardflapper.com
+- deviceservices-external.apple.com
+- iphone.net.gr
+- macruby.com
+- itunes.org
+- etheadphones.com
+- fr-beatsbydrestore.com
+- icloud.sk
+- quatrowireless.com
+- quicktime.eu
+- apple.comscoreresearch.com
+- applefilmaker.com
+- applemasters.info
+- applemusic.com.au
+- beatsbydremonsteraustralia.com
+- beatsfactorycollection.com
+- beatsheadphonesforcheap.net
+- imoviestage.com
+- apple.is
+- appleid-applemx.com
+- danmarkbeatsbydrdre.com
+- dot-mac.de
+- dvdstudiopro.com
+- ipadair.com.br
+- monsterbeatssalg.com
+- thebeatsbydre.net
+- applereach.com
+- beatsbydrenls.com
+- itunesiradio.com
+- cheaperbeatsbydresale.com
+- cheapdrdrebeatsca.com
+- onlyiphone5case.com
+- hipaa6020.com
+- cheapheadphonesland.com
+- icloud.apple.com
+- ipod.hk
+- applecomputerimac.com
+- appleid.cdn-apple.com
+- apple-relay.akamaized.net
+- shopcustomizedbeats.com
+- italiabeatsbydrdre.com
+- itunesu.com
+- cheapbeatsbydremonster.com
+- beatsbydreshop-uk.com
+- foundationdb.org
+- catalina.hk
+- applestore.co.uk
+- applecomputer.cn
+- apple.hr
+- drebeatsdeutschland.net
+- monsterheadphone.net
+- buy.itunes.apple.com
+- appleaustralia.net.au
+- bestbeats4u.com
+- airmay.com
+- apple-native-relay.apple.com
+- apple.com.cdn20.com
+- beatsstudiohodetelefoner.com
+- canary.mask.apple-dns.net
+- custombeatsny.com
+- ios-icloud.com
+- cheapbeatsdrestudios.com
+- ipodrocks.com.au
+- headphones-cool.com
+- appletv.com
+- monsterbeats-cheap.com
+- wwwapple.com
+- faceidglobal.com
+- valid.apple.com
+- wwwitunes.com
+- apple.xn--czr694b
+- beatsbydrestudio.com
+- drdreprobeatssale.com
+- account.apple.com
+- cheapbeatsbydreoutlet.com
+- customizedbeatsbydre.com
+- abeatsbydrdre.com
+- cheapdrebeats8.net
+- applecomputer.co.nz
+- beatsbydreheadphones-nz.com
+- ipod.de
+- applecomputer-imac.com
+- monsterbeatsheadphones.net
+- monsterbeatsforsale.com
+- beatsdrecheap.com
+- applestore.bg
+- 2013pascherbeatsbydre.com
+- drebeatsheadphones-nz.com
+- monsterbeatsbydrenew.com
+- cheap-beatsbydre.com
+- ibookpartner.com
+- cheapbeatsbydreonsale.com
+- digitalhub.com
+- cdn-apple.com
+- beatsheadphoness.com
+- i-book.net
+- beatsbydrdre-store.us
+- beatssingapores.com
+- itunesradio.tw
+- beatsbydrdres.com
+- beatsshop-usa.com
+- beatshopuk.com
+- paulsimon-music.com
+- services-apple.net
+- apple-usa.net
+- applemusic.co
+- applewatch.hk
+- apple.com.pa
+- beatsaudiobydre.net
+- burstlyrewards.com
+- axm-adm-scep.apple.com
+- beatsbydrecybermondaydeals2013.com
+- cheapbeatsbydreoutlets2013.com
+- appletaiwan.com
+- applemusicconnect.com
+- drdrebeatsale.com
+- drdremonster-beats.com
+- applepaymerchantsupplies.info
+- drebeatsbuy.com
+- icloud-isupport.com
+- identity.apple.com
+- imoviegallery.com
+- applepaysupplies.info
+- appstore.hk
+- imacsources.com
+- bbestmall.com
+- facetime.net
+- beatsbydreirelandsonline.com
+- drdrefnac.com
+- ibook.com
+- apple-mapkit.com
+- imonsterbeats.com
+- iphonexs.tv
+- iphoto.se
+- beatsbydresold.com
+- applestore.co.hu
+- beatsnzsale.com
+- edu-research.org
+- itunes-apple.cn
+- ms4dre.com
+- usa-beatsbydreheadphonesonsale.net
+- beatsbydre-store.com
+- camelphat.com
+- wwwapplemusic.com
+- gateway.push.apple.com
+- makeeu.com
+- beatsbydresales.us
+- vpp.itunes.apple.com
+- applefilmmaker.com
+- beatsbydre.jp
+- tvappstore.net
+- shopping-days.net
+- cybermondaybeats4sale.com
+- qwapi.com
+- beatsdrdre-solo.com
+- ap0le.com
+- monsterbeatsnegozi.net
+- wuxiapple.com
+- apple.com.lk
+- appleappstore.net
+- ipod.co.uk
+- ibooksauthor.com
+- applefinalcutproworld.net
+- mac.com
+- appledarwin.net
+- appleonline.com
+- euroipad.com
+- beatbydrekopen.com
+- newlysprung.net
+- lovebeatsdr.com
+- beatsinsingapore.com
+- beatsbydreoutletscheap.com
+- applewallet.com
+- iphonecases5.com
+- quicktime.com.au
+- applestore.com.ru
+- aplestore.com
+- 12diasderegalosdeitunes.com.hn
+- cheapbeatsbydrestudioedition.com
+- apple.com.af
+- icloudbrowser.net
+- itunes.hk
+- itunesstore.co
+- mairbeats.com
+- mac.com.au
+- onlinemonsterbeatsonsale.com
+- brandproducts1688.com
+- applestore.com.ph
+- chihair-straightener.com
+- icloud.lv
+- applewatch.wang
+- icloud.vn
+- applecentre.com.au
+- beatsbydressale.com
+- apple.com.pe
+- appletips.net
+- drebeats-monster.com
+- gobuyonlinestore.net
+- push-apple.com.akadns.net
+- szcheapmonsterheadphones.com
+- salebeatslasteststyle4you.com
+- beatsep.cn
+- moreheadphones.com
+- ipadmini.cm
+- mylcloud.net
+- apple.sk
+- audiomonsterbeatsonline.com
+- beatbd.com
+- beatsforme.com
+- darwinsourcecode.com
+- applepay.jp
+- macbookair.es
+- thinkdifferent.us
+- desktopmovies.net
+- topbeatsbydrdreoutlet.com
+- apple-watch.com.ru
+- canada-beatsbydre.com
+- ilife.gr
+- iphone5s5case.com
+- iphonegermany.com
+- axm-adm-enroll.apple.com
+- ipodshop.com.au
+- beatsbydrehut.com
+- itunesapple.cn
+- customdrdrebeats.com
+- appleswift.com
+- jkbeats.com
+- macbookpros.com
+- mask-api.icloud.com
+- appstore.ph
+- appleiphone.hu
+- beatsbydrespeakers.com
+- dispatcher.is.autonavi.com
+- buycheapbeatsbydreshop.com
+- beatsbydreaustraliaonlines.com
+- ibook.net
+- appleid.hk
+- beatsbydreformall2013-nl.com
+- 1monsterbeatsbydreus.com
+- apple-maps.cn
+- apple.com.mwcloudcdn.com
+- apple.com.pt
+- 2buybeatsbydre.com
+- bestshoesale2014.net
+- frishoes.com
+- iphone5casescovers.com
+- appleone.blog
+- appleone.film
+- beatsbydreofficialdanmark.com
+- beatsbydrehd.com
+- applenews.berlin
+- monstercasquebeatspascher.net
+- applenewsformat.com
+- beatsbydreblackfridaypro.com
+- monsterbeatssydneyaustralia.com
+- applestore.net
+- headset987.com
+- applewatchedition.com
+- livephotos.cn
+- airport.eu
+- apple.bs
+- appleid.com
+- samebags.com
+- shoppinguheadphones.com
+- headphonesbeatsaudio.com
+- icloud.fr
+- appe-store.com
+- beatsbydreboxingdayca.com
+- icloud.si
+- apple.com.jm
+- itunes.mx
+- apple.pl
+- beatsbydresstudio.com
+- beatsbydresonline-nz.com
+- ipod.com.hk
+- newton.com
+- burstly.net
+- reform-apple.com
+- iphone.cm
+- beatsbydre-headphones.com
+- wwapple.net
+- xn--fiqs8sxootzz.cn
+- applebk.net
+- buyminibeatbox.com
+- macbookair.co.uk
+- icloudsecure.net
+- bloommicroventures.com
+- headphoneses.com
+- applepaysupplies.com
+- beatsheadphonesonline.com
+- ilife.eu
+- illianacomputerrecycling.com
+- free-aa.com
+- applelink.com
+- drdrebeatsuk.com
+- headphones-outlet-online.com
+- iphine.com
+- airtunes.info
+- sulwerphoto.com
+- applepay.hamburg
+- appleappstore.tv
+- applestore.net.gr
+- apple-expo.com
+- appleone.tech
+- dotmac.de
+- beatsbydreshops.net
+- apple-dns.com
+- ipodtouch.co
+- beatsdreinau.com
+- monsterbeatsbydre-usa.com
+- applestore.cm
+- cheapwirelessbeats.com
+- beatsbydrdre-store.com
+- beatsbydreoutletsale.com
+- dl-iphone.com
+- beatsbydre-outletstore.com
+- drdrebeatsbillig.com
+- find-apple.com
+- imac.co.nz
+- drdreheadphonebeats.com
+- iphone-8.com.cn
+- ipod.pk
+- macbookair.com.cn
+- wwwlapple.com
+- beats1.com.cn
+- beatselectronic.net
+- applepay.rs
+- monsterbeatscommunity.com
+- touchid.wang
+- appletv.fr
+- cheapbeatsbydr.com
+- applestore.com.ee
+- drebeatsforsaleus.com
+- crashlytics.com
+- ipodnano.net
+- monstersdebea.com
+- drebeatsoldes.com
+- monsterdrebeats-usa.net
+- apple-store.wang
+- 12diasderegalosdeitunes.pe
+- apple-imac.com
+- appleschoolcontent.com
+- iphonecase5.com
+- apple.sa
+- beatswirelesscuffie.com
+- apple.co.nz
+- applepaysupplies.com.cn
+- dreprofy.com
+- cheapbeatsbydrestudioutlet.com
+- ciattackers.com
+- ipad3.com
+- ipod.cm
+- itunes.co
+- ischool.com
+- ls.apple.com.edgesuite.net
+- mbheadphone.com
+- gsp4-cn.ls.apple.com.edgekey.net
+- dashwood360.com
+- monsterbeatsonlinestoreuk.com
+- buyshoponly.com
+- camelspaceeffect.com
+- macbookair.com.au
+- newdrediscount.com
+- cheapheadsetshop.com
+- appye.com
+- 100beatscheap.com
+- ipod.co.za
+- icloudo.net
+- ipod.net
+- apple.com
+- monsterbeats-solo.net
+- gamebeforethegame.com
+- apple.com.py
+- monsterbeatstienda.com
+- beatscheap-nz.com
+- beatscasque-france.com
+- apple.hu
+- bookonsky.net
+- apple.jo
+- apple.ie
+- buyonlineheadphones.com
+- beatsbydre-beatsheadphone.com
+- custombeatssbydreus.com
+- drebeatssolocybermondaysale.com
+- applecomputers.co.nz
+- applecomputer.co.in
+- headphonessupply.com
+- iphone.es
+- icloudhome.com
+- 2013cheapestbeats.com
+- ls.apple.com
+- newbeatsblackfriday.com
+- apple-inc.net
+- apple.kr
+- applecard.tv
+- apple.com.gr
+- appleclassicipod.com
+- apple-cloudkit.com
+- applemalaysia.com.my
+- baxsound.com
+- beatsbestdeals.com
+- cheapshoesvip.com
+- skl.apple.com
+- casquebeatsdocteurdre.com
+- vipbeatsbydre.com
+- appleone.club
+- macreach.com
+- beatbydremonster.com
+- repswing.com
+- appleone.chat
+- fundaiphone5s.com
+- guzzoni.apple.com
+- cheapbeats4sale.net
+- touchid.tv
+- monsterbeatsbydres.com
+- imovie.eu
+- webkitgtk.org
+- beatsdreforsale.com
+- casquemonsterbeats.com
+- aple.com
+- ituneas.com
+- mask.icloud.com
+- itunesmatch.com
+- beatsbydrecybermondaydeals2013.net
+- icloudmusic.net
+- beatsoutletanytime.com
+- axm-servicediscovery.apple.com
+- drebeatsstudio2013.com
+- monster-beats-by-dr-dre.com
+- ipodnano.com
+- livephotos.tv
+- metrics.icloud.com
+- apple.ee
+- applewatchseries3.net
+- abcheadphones.com
+- iphonefc.com
+- beatfactoryoutlets.com
+- itunes.apple.com
+- negozimonsterbeats.com
+- researchandcare.org
+- ipodcleaner.com
+- ipod.tw
+- appsto.re
+- beatsbydrecheaponlinesales.com
+- beatsmusic.com
+- cheapmonsterbeatsheadsets.com
+- cnshopin.com
+- headphoneshome.com
+- hipzoom.net
+- appletv.wang
+- beatsbydre4usales.com
+- imacapplecomputer.com
+- monsterbeatsok.com
+- iphonecollcase.com
+- ukipad.com
+- beatsbydre-outletsale.net
+- www.apple.com.edgekey.net
+- applestore.cc
+- iphone-sh.com
+- wwwapple.net
+- homepod.cn
+- beats-bydreuk.com
+- islamiccenterofnewlondon.com
+- dreprobeats.com
+- macosx.info
+- beatspascher.net
+- picknicekicks.net
+- applestore.com.pt
+- appletv4.cn
+- spiritclubs.com
+- apple-dns.com.cn
+- tv.apple.com
+- apple.hn
+- firewire.eu
+- beatsbydrdredanmark.com
+- beatsbydrevipde.com
+- luckyissue.com
+- xn--kput3imi374g.xn--hxt814e
+- 12diasderegalosdeitunes.cl
+- headphonesol.com
+- beatsofdre-usa.com
+- beats4salecheap.com
+- apple.co.jp
+- beatsbydrdre-online.com
+- custombeatsforcheap.com
+- vipheadphones.com
+- apple-store.cn
+- geoport.com
+- i-book.com
+- beatspaschers.net
+- ipadair.fr
+- iphonese.tv
+- ipod.com.au
+- wholesale-exporter1.com
+- appleid-uk.us
+- ibeatsbydre.com
+- apple.tt
+- www-sms-apple.com
+- beatssales.com
+- beatsbeatsmonster.com
+- imacapple.com
+- beatsbydre-outlet.com
+- beatsbydressolo.com
+- 12diasderegalosdeitunes.co.ni
+- beatsboxingdayuksale.com
+- icloud.se
+- offerairjordanlebron.com
+- diagassets.apple.com
+- applemusic.wang
+- apple.be
+- applestore.cn
+- dvdstudiopro.biz
+- shop-headphones.net
+- tracking-location.com
+- beatsoutlet.net
+- beatsbydre.com
+- appleone.community
+- cheapbeatsbydre-au.com
+- overapple.com
+- beats-dre-us.com
+- applezh.com
+- applesiri.cn
+- ipod.es
+- monsterbeatsbydreaustraliacheap.com
+- beatsbydres-shop.com
+- ipod.com.fr
+- faceshift.cn
+- swiftui.com.cn
+- vipshoes2.com
+- 2beatsdre.com
+- icloudapple.cn
+- simplyipod.com
+- push.apple.com
+- wasdj.com
+- xn--ohq11k7pl25iyo8a.cn
+- monsterbeatsau.com
+- headphones-dre.com
+- monsterbeats-onsale.com
+- 2013beatsbydrdreshop.com
+- beatsbydredealscybermonday.com
+- appleone.host
+- apple-relay.apple.com
+- applemusic.berlin
+- beatscheap-uk.com
+- beatsdrdre-it.com
+- icloud-content.com.cn
+- icloudpay.net
+- iprofiles.apple.com
+- itunesessentials.com
+- myferrariheadphones.com
+- nflhotsalejerseys.com
+- beatsbydreoslo.com
+- beatsbydreaustralia-sale.com
+- axm-app.apple.com
+- powerbeats2wireless.com
+- worldcoinpay.com
+- mdmenrollment.apple.com
+- beatsbydresalesonline-australia.com
+- ausbeatsbydrdre.com
+- icloude.com
+- earpod.net
+- buybeatsheadphonesbydre.com
+- beats1.tv
+- beatsaudiobydre.com
+- applestore.hk
+- ebuyheadphones.com
+- itunbes.com
+- apple.com.sg
+- beatsbydresalemall2013.com
+- store.apple.com.edgekey.net
+- apple.co.th
+- ipadpro.buzz
+- neborder.com
+- beatsbydreonlines-uk.com
+- beatsbydrestorevip.com
+- cheapnewbeatsbydre.com
+- appl-e.com
+- newmonsterbeatsheadphones.com
+- iphone4.com.br
+- appleone.space
+- macintoshsoftware.com
+- appleid.berlin
+- imac.rs
+- probe.icloud.com
+- officialdrdre.com
+- the-monster-beats.com
+- airport.com
+- apple.ru
+- appleclub.com.hk
+- appleiphone.net
+- beatsbydrdrebiz.com
+- applepaycash.cn
+- applestore.ph
+- aucheapbeats.com
+- auricularesbeatsmarkt.com
+- beatsbydreuk.com
+- beatsdresolo2013.com
+- cheapmonsterbeatssale.com
+- ichat.co.in
+- ipadair.jp
+- beatsbydrediscountonline.net
+- icloudos.net
+- ipod.fr
+- itunes.rio
+- testflight.apple.com
+- wwwicloud.com
+- itunesradio.rio
+- launchpad.wang
+- beatsincanada.com
+- cp4.cloudflare.com
+- gsa.apple.com
+- headphonezip.com
+- apple.com.do
+- apple.cl
+- apple-store.net
+- beats4.cn
+- 1to1conference.com.au
+- beatsbydrediscount.com
+- buyaapl.com
+- sunglassessale2014.com
+- beatsbydresdanmark.net
+- beatsdrdrekaufenschweiz.net
+- drebeats-monsteraustralia.com
+- imac.one
+- mybeatsbydrestudio.com
+- ecgapp.com.cn
+- beatsbydresolohdonline-canada.com
+- cheerwholesale.us
+- sverigebeatsbydrdre.com
+- apple-appstore.cn
+- beatsheadphones2u.com
+- appleaustralia.com
+- cheapbeatssale4u.com
+- cheapbeatsbydrenz.net
+- applestore.com.hr
+- desktopmovie.com
+- applereach.net
+- macosxlion.com
+- apple.com.gy
+- apple-relay.fastly-edge.com
+- webobjects.eu
+- brandeasygo.com
+- beatsep.com
+- icloudo.com
+- beatsbydreol.com
+- iphone.com
+- dealsbeatsblackfriday.com
+- alchemysynth.com
+- beatscollection2014.com
+- drdremonsterdre.com
+- apples-msk.ru
+- applemusic.hamburg
+- icloud-sandbox.com
+- applepaysupplies.cn
+- apple.cn
+- iwork.wang
+- icloud.net.cn
+- monsterbeatsbydre-nz.com
+- cheapbeatsbydremall.com
+- beatswholesale.us
+- beatsbydrew.com
+- beatsodre.com
+- developer-advisor.com
+- appleappstore.cn
+- beatsbydrdre-onsale.com
+- faceid99.net
+- monsterbeatsstore.com
+- outletbeatsshop.com
+- wwwmacbookair.com
+- drebeats-france.com
+- appule.com
+- auricularemonsterbeats.com
+- esbeatsbydrebuy.com
+- hellokittybeats.com
+- beatsbydrefr.com
+- unstyle.us
+- frcasquesbeats.com
+- applestore.com
+- appleexpo.info
+- applescript.info
+- beatsheadphones-discount.com
+- iphone.pt
+- itunes.co.th
+- beats2.com.cn
+- beatsbydregot.com
+- imac-applecomputer.com
+- studiobeatsbydrdre.com
+- ipadair.cl
+- igoshopping.net
+- beddit.tv
+- applestore.me
+- appstore.my
+- apple-hk.com
+- beatspromotions.com
+- drebeats-studio.com
+- szwinnertechnology.com
+- beatstoreusa.com
+- apple.pt
+- beatsdreus.com
+- 12diasderegalosdeitunes.co
+- beats4.net
+- custom-iphonecase.com
+- highdefinitionbeatsbydre.com
+- beatsheadphonesale.com
+- macbookpro.net
+- monsterbeatsfinland.com
+- beatsearbudsheadphoness.com
+- macreach.net
+- aplleipods.com
+- mybeatsbydreuk.com
+- headphonesretailer.com
+- wpewebkit.org
+- applemx-icloud.com
+- beatssbyaustralia.com
+- emac.in
+- 12diasderegalosdeitunes.com.co
+- apple.co.mz
+- beatsbydrebeatsby.com
+- iphone.rs
+- casquemonsterbeatsbydre2013.com
+- drdrebeatsretail2013.com
+- ids-apple.com
+- livephotos.com.cn
+- beatsbydreforshop2013-nl.com
+- appleenews.com
+- beatsfactoroutlets.com
+- mac.eu
+- macmini.com
+- monsterdrebeats-canada.net
+- officialheadphone.com
+- pong.icloud.com
+- 12diasderegalosdeitunes.co.cr
+- appstore.com
+- apple-pay.rs
+- ipoditouch.com
+- applestoreonline.com
+- beatselectronics.com
+- apple.net
+- applecomputer.com.hk
+- cheapbeatsbydre99.com
+- coolmonster.net
+- mask.apple-dns.net
+- cheapbeatsbydresale.com
+- crl4.digicert.com
+- monsterbeatspascher.net
+- drdreheadphonekey.com
+- negoziomonsterbeats.com
+- apple-darwin.org
+- beatsdrdrecuffie.net
+- cheapbeatsheadphone2014.com
+- apple.sg
+- highbolt.net
+- icloud.fi
+- itunesradio.cn
+- apple.com.de
+- casquebeatsfracheter.com
+- beatsbysdrbre.com
+- beatsbydrefrcasquepascher.com
+- beats-soaho.com
+- darwinsource.org
+- icloud.is
+- monsterbeats-solo.com
+- configuration.apple.com
+- itunesparty.com
+- researchkit.hk
+- theuab.net
+- beatdrdres.com
+- drebeatscanada.com
+- apple.co
+- hrsaz.com
+- applecomputerinc.info
+- applestor.com
+- beatsbydreireland-sales.com
+- beatsbydre-headphonesshop.com
+- beatsforcheap-usa.com
+- icloudsetup.com
+- iphone-cn.com
+- applescreensavers.com
+- appleiservices.com
+- appldnld.apple.com.edgesuite.net
+- designeriphonescases.com
+- drdrebeats-chen.com
+- ioffergift.com
+- ipod.ca
+- applepodcasts.com
+- annstores.net
+- beatsbydreausale.net
+- beatsbydreforstore.com
+- casquebeatsenligne.com
+- iphone-vip5.com
+- monsterproduct.net
+- myicloud.net
+- superearsenjoy.com
+- airtunes.net
+- drebeats-australia.com
+- icloudo.de
+- ipods.com
+- ilecture.co.nz
+- mach-os.net
+- ipod.rs
+- beatsbydrecheaper.com
+- applestore.qa
+- beatsbydre2081.com
+- beatsbydreonlines-ireland.com
+- chinaclothesstore.com
+- gg.apple.com
+- beatsdrenewcolorful4usale.com
+- cheapbeatsbus.com
+- discountbeatsstore.com
+- beatsneon.com
+- aeasyshop.com
+- beats-bydreoutletssale.net
+- icloud.com
+- dvdstudiopro.info
+- icloudmail.net
+- downloadsforipod.com
+- imessage.tv
+- drebeats-singaporecheap.net
+- appleaccount.net
+- apple.cz
+- applepremiumreseller.com.au
+- 5beatsbydre.com
+- ipod.com.cn
+- 2013beatsbydrdreonline.com
+- beats-sale.com
+- beatsoutletonlines.com
+- cheapheadsetmall.com
+- itunes.ca
+- macappsto.re
+- monster-beats-headphones.com
+- iphone-x.tv
+- officialbeatsbydrestore.com
+- onlineapplestore.com
+- pullstring.net
+- 12diasdepresentesdeitunes.com
+- applecentar.rs
+- goodsdunk.net
+- cheapbeatsbydreshop.com
+- cheapbeats365.com
+- imac.eu
+- beatsbydrdreoutlet.com
+- mallheadphone.com
+- cheapmonstersbeatsonsale.com
+- quicktime.tv
+- iphoto.wang
+- indiaipad.com
+- apple.ca
+- siri.com
+- apole.com
+- specialtyheadphones.com
+- wholesaleonlinemart.com
+- xn--czrs0t4phtr3a.cn
+- itunes.us
+- organicfruitapps.com
+- beatsaudifonos.com
+- 2014cheapbeatsbydre.com
+- apple.com.uy
+- beatsbydrecolors.com
+- beatscheapforsale.com
+- beatsbydrerealstore.com
+- beatsep.net
+- 12diasderegalosdeitunes.com.ni
+- beatsdresale2013.com
+- courier.push.apple.com
+- emagic.de
+- iphone4s.com
+- iwork.se
+- solostudioksale.com
+- webobjects.de
+- xn--gtvz22d.wang
+- drdre-beats.com
+- researchkit.org
+- apple.xyz
+- beatspromonsterjp.com
+- ibook.eu
+- webobjects.com
+- drebeats-solo.com
+- beatsbydrdre-officials5.com
+- iutunes.com
+- apple-dns.cn
+- applecomputer.com.tw
+- apple.fr
+- beatsbysdrdres.com
+- beatsdrdre-headphones.com
+- beatsheadphonesusamall.com
+- finalcutpro.com
+- headphonepubs.com
+- cheapheadphonessale.com
+- macbookair.kr
+- drdrebeats-usa.com
+- macbookpro.com
+- monsterbeatsshops.net
+- straightouttasomewhere.com
+- xn--fiqs8sxootzz.xn--hxt814e
+- tradevip1.com
+- 12diasderegalosdeitunes.cr
+- beatsbydreuk.net
+- beatsdresalestore.com
+- iphonerip.net
+- apple.rs
+- applepay.tv
+- crl3.digicert.com
+- apple.tw
+- monsterbeatsbydrdre-nz.com
+- monsterbeatssales.com
+- cmhalq.com
+- macbookpro.co
+- ipple.com
+- monsterbeatsbydrefactory.com
+- applemusic.com
+- pocketbiketrader.com
+- applewatch.tv
+- casquebeatsbydrdresolohd.com
+- cheapbeatsbydrdrepro.com
+- newbemany.com
+- beatsbydrenorge1.net
+- applestore.com.hk
+- beatsbydredr.com
+- micstl.com
+- apple-itunes.cn
+- apple.se
+- cheapbeatsheadphones.us
+- applestore.com.tw
+- beatsaudios.net
+- beatsbydrestudio-australia.com
+- appleweb.net
+- imac.co
+- servicetalk.io
+- beatsallsale.com
+- iphonecase2013.com
+- iphoto.no
+- applepaycash.tv
+- apple.com.tw
+- beats-headphones-buy-cheap.com
+- macbookpro.us
+- iphoneunlockimei.com
+- apple-enews.com
+- applecenter.com.cn
+- beatsbydrdrecustom.com
+- beatsbydreforsalesonline.com
+- idmsa.apple.com
+- dremonsterbeatsoutlets.com
+- swiftui.cn
+- buyaple.com
+- cups.org
+- appleid.hamburg
+- ipod.eu
+- airsupportapp.com
+- apple.nl
+- beatsbydrecasquesfr.com
+- auricularesbeatsbaratosshop.com
+- applecare.hamburg
+- drebeatssite.com
+- iphone-zh.com
+- soso7778.com
+- applecentar.co.rs
+- axm-adm-mdm.apple.com
+- appleone.guide
+- audiobeatsau.com
+- apple.ro
+- beatsjoy.com
+- carbon.com
+- apple-online.com
+- drebeatsbydreoutlet.com
+- itunesfestivals.com
+- ipod.com.sg
+- famosascalvas.com
+- beatsbydreoksale.com
+- appleimac.com
+- gmnetworks.net
+- macossierra.com
+- monsterbeatsbydrebilligde.com
+- monsterbeatsheadphone.com
+- offrezdesipods.com
+- shopbydre.com
+- apple.com.co
+- drebeatsaustralia-cheap.com
+- icloud.om
+- cheapbeatsdrdresolo.com
+- danemarket.com
+- lojaiphone.com.br
+- lovemarca.com
+- applestore.co.jp
+- newmonst1erbeatsto1re.com
+- appleone.audio
+- beatsbydreirelandsale.com
+- bossae.com
+- casquedrdrebeatssfr.com
+- blackfridaydrebeatsshop.com
+- audiobeatsbydre.com
+- cheapmonsterbeatsusa.us
+- monsterbeatsbydre2015.com
+- beatsbydrdreus.com
+- monsterbeatsbydrdrestudio.com
+- beatsbydrdrestore.com
+- detaliczny.com
+- researchkit.cn
+- applepaycash.net
+- applecentre.info
+- applestore.com.bn
+- 5lml.com
+- apple-relay.cloudflare.com
+- apple.in
+- applewatch.tw
+- beatsblackfridaydeals.net
+- beatspascher-bydre.com
+- drebeats-singaporecheap.com
+- apple.com.pr
+- drebeatsaustralia-cheap.net
+- cheapbeatsbydrefau.com
+- darwinsource.com
+- findmybeats.com
+- getdrebeatssale.com
+- honawalaan.com
+- apple.it
+- icloud.com.cn
+- beatsbydrdresale.net
+- ipad.wang
+- lcdn-locator.apple.com
+- quicktime.net
+- smoot.apple.com
+- beatsbydreaustraliaonline.com
+- ibook.co.nz
+- topbeatsdealer.com
+- 12diasderegalosdeitunes.com.ve
+- customizedbeatbydre.com
+- prostudiobeatscybersale.com
+- 12diasderegalosdeitunes.com
+- beatsblackfridayretails.com
+- applestore.com.ro
+- bydrebeats.com
+- 2013beatsbydreshop.com
+- applecare.wang
+- apple.es
+- buydrdrebeatbox.com
+- iphoneclaro.com.br
+- ig.apple.com
+- safebrowsing.apple
+- ituneslogin.net
+- iphoneacessorios.com.br
+- mesu.apple.com
+- sanvaras.com
+- ipod.co.nz
+- apple.bg
+- xn--ruq8a011kt6y.xn--hxt814e
+- monsterbeatsbydrdrecanada.com
+- applepaysupplies.tv
+- dvdstudiopro.org
+- drdrebeatssale7.com
+- applewallet.tv
+- beatsdanmark2013.com
+- desktopmovie.org
+- beatbydreheadphonesonsale.com
+- appleaustralia.com.au
+- apple.com.sv
+- appletv4.com.cn
+- app-store.wang
+- applepay.com.tw
+- iphone-yh.com
+- ipod.gr
+- apple-expo.eu
+- applestore.com.au
+- beatsbydreexecutivesale.com
+- calendarserver.org
+- applestorepro.eu
+- iphone.com.au
+- ipod.is
+- applecomputer.hu
+- beatssaustraliabuy.com
+- ipadair.com.es
+- iwork.com
+- applf.com
+- beatscustomblackfriday.com
+- certs.apple.com
+- icloud.ch
+- ipad.host
+- jetfuelapp.com
+- eworld.com
+- applestore.co.ug
+- kobbeatssbydredk.com
+- monsterbeatstudio.com
+- aaagradeheadphones.com
+- beats-deal.com
+- apple.com.mwcname.com
+- cheapbeatsla.com
+- ibeatsbydre.cc
+- lyzsxx.com
+- appleshare.info
+- ipod.ru
+- macbook.hk
+- applepaysupplies.berlin
+- monsterdrebeats-usa.com
+- myipod.net
+- nicesshop.net
+- shopmonsterbeats.com
+- sneakerskick.com
+- icloud.jp
+- tteshop.com
+- ubnw.net
+- discountbeatsbydre-us.com
+- powerbeatsbydrdre.com
+- pillbeatsblackfridaysale.com
+- applecomputer.com.cn
+- beatsdre-monster.com
+- buycheapbeatsbydre.com
+- beatsbydrdremall.com
+- dvdstudiopro.us
+- ipod.no
+- beatspascher-fr.net
+- beatsdreoutletsale.com
+- blackfridaydrebeatsnew.com
+- quicktime.cc
+- applecare.eu
+- beats-bydreoutletsale.net
+- shopbeatsdre.com
+- ipodtouch.com
+- carekit.org
+- applecare.cc
+- beatsbydreblackfriday2013.com
+- casquebeatsofficiel-fr.com
+- apple.co.kr
+- hotmonsterbeats.com
+- buycheapbeatsbus.com
+- apple.hamburg
+- apple-pay.wang
+- apple.com.cn
+- apple.com.mg
+- apple.so
+- cooliphonecasesstore.com
+- discussionsapple.com
+- icloudnet.net
+- iosinthecar.com
+- itunesradio.tv
+- macbooksale.com
+- applfe.com
+- beatsua.com
+- apple.lv
+- appledns.cn
+- beatsonblackfriday2013.com
+- cheapbeatsaustraliasale.com
+- ipod.ch
+- mobileme.dk
+- monsterbeats8beatsbydre.com
+- monsterbeatsitaly.com
+- monstercheapbeatss.com
+- apple.no
+- beats1.cn
+- icloud.org
+- beatspillnewcolor.com
+- iphone.com.gr
+- idvd.eu
+- monsterbeatsale.com
+- salecheaphandbags.com
+- sneaker666.com
+- iphonehangzhou.com
+- monsterbeatsfactory.net
+- applemagickeyboard.com
+- appleos.tv
+- beats-bydrecheapsale.com
+- beats4outlets.com
+- wwwipodlounge.com
+- ipadair.cm
+- vertexsmb.com
+- insidear.cn
+- icloud.ee
+- onbeatsbydresale.com
+- macbookair.net
+- applefinalcutproworld.org
+- beatsbydre-studio.com
+- beatsbydresaleonlines-nz.com
+- monbeats2013.com
+- beats123.com
+- monsterbeatsru.com
+- albeats.com
+- cheapestbeatsdrdre.com
+- beatsbydredanmarks.com
+- saleblackfridaydrebeats.com
+- buy-from-shanghai.com
+- monsterbeats365buy.com
+- casquebeatspascher2013.com
+- macbookpro.com.au
+- beatsdredreheadphones.com
+- dvdstudiopro.net
+- ipad.co.kr
+- cheapsalemonster.com
+- chomp.com
+- gc.apple.com
+- ipadmini.com.lk
+- beatsdremonster-uk.com
+- macintosh.eu
+- appleone.website
+- apple-dns.net
+- myappleid.com
+- iphone.host
+- itunnel.apple.com
+- applefinalcutproworld.com
+- monsterbeatsbydrdre-usa.com
+- beatsdre.net
+- iphone5.com
+- monsterbeatsoutlet.us
+- beatsheadphones1.com
+- monsterbeatscasques.com
+- beats-bydre-mall.com
+- appleiphonecell.com
+- hopstop.tv
+- iphone.ru
+- itun.es
+- itunes-radio.net
+- cheapbeatsbydreoutlet-nz.com
+- monsterbeatsmall.com
+- macboxset.com
+- mach-os.com
+- sneakerpage.net
+- a0pple.net
+- casquebeatsmer.net
+- coreml.net
+- iphone4.com
+- texture.com
+- webobjects.co.uk
+- beatsdrdre2014.com
+- xn--hxtr4rozx.xn--czr694b
+- beatsfactoryoutles.com
+- appleonline.net
+- monsterbeatsbydreshop.com
+- imac.gr
+- applepay.co.rs
+- beatsireland.net
+- applestore.wang
+- applestore.kr
+- applestore.com.cn
+- hottestheadphonesonline.com
+- lexuemei.com
+- buyaapl.net
+- monstersbeatbydres.com
+- shoers.com
+- tryrating.com
+- iphonecases100.com
+- bag-glasses1.com
+- xn--gtvq61aiijy0b.xn--hxt814e
+- appletvapp.apple
+- app0le.com
+- apple.com.br
+- aapl.tw
+- applepay.berlin
+- applestore.com.gr
+- beatsbydre-club.com
+- itunes.com.edgekey.net
+- promonsterbeatsbydre.com
+- digicert.com
+- apple.pk
+- brandelectronic.com
+- ipadair.ie
+- monsterbeats-headphone.com
+- casque-fr.com
+- custombeatsdeals.com
+- insidemacintosh.com
+- cheapbeats.us
+- appattest.apple.com
+- drebyby.com
+- ipodprices.com
+- itunes.com
+- namemybeats.com
+- incentivetravelgifts.com
+- macbookair.jp
+- mybeatscheapbydre.com
+- applehongkong.com
+- drdrebeatsforu.com
+- researchkit.com.cn
+- webkit.org
+- applemusicfestival.com
+- lcdn-registration.apple.com
+- ipadair.hk
+- cheapmonsterbeatsbydrdre.com
+- beatsbydrsmonsterinusa.com
+- drdrebeatsdesale.com
+- appleinclegal.com
+- appleexpo.eu
+- firewire.cl
+- headphonesbeatsbydre.com
+- ipad.de
+- beatbydreuk2014.com
+- appleid-applemx.us
+- ajtalk.com
+- apple.my
+- applestore.com.sn
+- 12diasderegalosdeitunes.gt
+- ogameblog.com
+- appledns.com.cn
+- appstore.co.id
+- applecomputer.kr
+- beatsbydrehd.net
+- icloud-content.com
+- cheapbagshoes.com
+- gobeatsye.com
+- cdn-apple-mapkit.com
+- apple-ibooks.cn
+- apple.com.tr
+- beatsbydreauofficial.com
+- ipadaustralia.com
+- quicktime.com
+- monsterbydrebeat.com
+- apple.jp
+- appleafrica.com
+- shazam.com
+- businesswebwise.com
+- francecasquebeatssolde.com
+- applecom.com
+- apple.me
+- applenews.tv
+- cheapbeatsshopbydre.com
+- iphone-vip3.com
+- beats-seller.com
+- apple.net.gr
+- appl4e.com
+- appleshop.co.uk
+- macbook.co
+- applenews.hamburg
+- beatssingaporeshop.com
+- 1to1computing.com.au
+- macbook.tw
+- macbookair.co.kr
+- powerbook.eu
+- applepaycash.com.cn
+- gateway.icloud.com
+- ipod.co
+- takegoto.com
+- applesurveys.com
+- biitii.com
+- onsalekey.com
+- vip-beats.com
+- bpapi.apple.com
+- beatsbydredealsblackfriday.com
+- applecarbon.com
+- appleipodsettlement.com
+- applle.com
+- beatsbydre-sell.com
+- beatsstudiosite.com
+- findmyipad.com
+- powerbeatsbydre.com
+- akadns.net
+- brands098.com
+- iwork.apple.com
+- drebeatstudio.com
+- swscan.apple.com
+- appleicloud.cn
+- apple-icloud.cn
+- drdreheadphonesusstore.com
+- macosforge.org
+- apple.at
+- beatsbydreonlinesale-nz.com
+- ocsp.digicert.com
+- applestore.sg
+- ls.apple.cn
+- beatsbydreoordopjes.com
+- drdrebeats-headphone.com
+- apple.de
+- apzones.com
+- monsterbeatstang.com
+- macbookair.com
+- bybeatsdre.com
+- ipod.com
+- hf-iphone.com
+- icloudbox.net
+- faceid99.com
+- icloudos.de
+- newestbeatsbydre.com
+- ipadair.tw
+- mac-mini.com
+- aanaan.com
+- apple-darwin.com
+- beatsbydreirelandonlines.com
+- crl.apple.com
+- applw.com
+- beatsone.net
+- custombeatsbydrebuy.com
+- ecgapp.net
+- beatsbydrecustomwireless.com
+- applestore.com.eg
+- apple-livephotoskit.com
+- apple.eu
+- dctbeatsbydre.com
+- iphone-vip4.com
+- v-has.com
+- ilife.wang
+- applestore.com.pl
+- beats-bydreoutletonline.com
+- beats-bydrestore.com
+- applepaysupplies.net
+- applepencil.net
+- beatsbydrdre4sale.com
+- beatsbymusic.net
+- desktopmovie.net
+- drebeats-singapore.com
+- beatsbydresale-uk.com
+- beatsbydrefriday.com
+- ituneslatino.com
+- drebeats-monsterusa.com
+- cheapcustombeatsbydre.com
+- jetfuelapps.com
+- machos.net
+- mbeats-tech.com
+- icloud.ro
+- itunesradio.com
+- personeelsland.com
+- shoestop2.com
+- swift.org
+- thebeatsbydre.com
+- beatsbydre411.com
+- appleone.cloud
+- iphoto.eu
+- topbeatsforsale.com
+- applecoronavirus.com
+- beatbydre2013.com
+- emac.co.in
+- cozydrdrebeats.com
+- icloud.ie
+- ipod.com.tw
+- applestore.com.my
+- applecare.berlin
+- beatsheadphonesdealer.com
+- beatsbydrecheap-outletstore.com
+- ibeats-uk.com
+- monsterbeatshere.com
+- appmediagroup.com
+- beatswirelesscheap.com
+- beats-headphones.us
+- appleid.apple.com
+- spektral.cc
+- beatsbydreinexpensive.com
+- macos.com.au
+- beatsbydre.com.cn
+- iphone-vip1.com
+- pascherbeatsmonster.com
+- applestore.com.jo
+- apple.cm
+- drebeats-singapore.net
+- macbookair.cn
+- appleantilles.com
+- me.com
+- apple.com.au
+- apple.news
+- applepay.hk
+- applepay.info
+- 2013beatshdcybermonday.com
+- monsterbeatsalestore.com
+- mzstatic.com
+- beatsbydretoutlet.com
+- apple.com.bo
+- applexpo.net
+- customizedbeatsdre.com
+- dtsell.com
+- icloud.de
+- casquesbeatsaudio.com
+- apple.co.cr
+- iphone-vip2.com
+- cheapwireless04.com
+- drebeatshome.com
+- kickshatchannel.com
+- device-manager.us
+- perfectkickz.net
+- applestore.de
+- iphone.wang
+- beatsmonstersales.com
+- leecountytimes.com
+- free-sns.com
+- apple-pay.com
+- researchkit.net
+- ocsp.digicert.cn
+- truedepth3d.com
+- macbookair.hk
+- beats1.cc
+- iphoneimessage.com
+- 12diasderegalosdeitunes.hn
+- beatsshopstore.com
+- cheap-beats-by-dre.net
+- icloud.cn
+- musickit.net
+- applecomputer.com
+- apple.ae
+- appla.com
+- xn--gtvz22d.xn--hxt814e
+- cuffiesaldi.com
+- applehongkong.com.hk
+- casquebeatssolo.net
+- casquebeatsdre2013.com
+- beatsdrdreneon.com
+- hebiphone.com
+- mask-canary.icloud.com
+- appleid-iclou.com
+- beatsbydreforyououtlet.com
+- apps.apple.com
+- ipadmini.lk
+- earphonescheapest.com
+- rbsgr.com
+- applepremiumresellers.com.au
+- yourmonsterbeats.com
+- beatspills.com
+- www-cdn.icloud.com.akadns.net
+- icloudads.net
+- wholesalediscountpurses.com
+- drebeatsoutletstore.com
+- apple.uk
+- scnshop.cc
+- 2drdrebeats.com
+- dkbeatsbydre.com
+- api.push.apple.com
+- itunesu.net
+- braeburncapital.com
+domain_wildcard_set:
+- apple.*
+- init*.push-apple.com.akadns.net
+- macbookair.*
+- init*.push.apple.com
+- macbookpro.*
+- ipadair.*
+- ipad.*
+- appleworldwidedeveloper.*.net
+- imac.*
+- '*-content.icloud.com.cn'
+- iphone.*
+- macbook.*
+- apple.com.*
+- ipadmini.*
+- ipod.*
+ip_cidr6_set:
+- 2403:300::/32
+- 2620:149::/32
+- 2a01:b740::/32
+ip_cidr_set:
+- 139.178.128.0/18
+- 144.178.48.0/20
+- 198.183.17.0/24
+- 17.0.0.0/8
+- 144.178.0.0/19
+- 205.180.175.0/24
+- 192.35.50.0/24
+- 63.92.224.0/19
+- 65.199.22.0/23
+- 144.178.36.0/22
+no_resolve: true
+user_agent_set:
+- FMFD*
+- Wallet*
+- com.apple.appstored*
+- passd*
+- '*WeatherFoundation*'
+- '*com.apple.mobileme.fmip1'
+- FindMyiPhone*
+- Maps*
+- '*com.apple.Maps?'
+- Music*
+- geod*
+- locationd*
+- AppleTV*
+- '*FindMyiPhone?'
+- fmflocatord*
+- AppleNews*
+- FMDClient*
+- FindMyFriends*
+- com.apple.news*
+- com.apple.trustd*
+- '*Music?'
+- com.apple.Maps
+- com.apple.tv*

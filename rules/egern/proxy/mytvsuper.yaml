@@ -1,20 +1,10 @@
 # Gins-Rules: mytvsuper
-rules:
-- domain_suffix:
-    match: tvb.com
-    policy: Proxy
-- domain_suffix:
-    match: mytvsuper.com
-    policy: Proxy
-- domain:
-    match: mytvsuperlimited.hb.omtrdc.net
-    policy: Proxy
-- domain:
-    match: mytvsuperlimited.sc.omtrdc.net
-    policy: Proxy
-- domain_keyword:
-    match: nowtv100
-    policy: Proxy
-- domain_keyword:
-    match: rthklive
-    policy: Proxy
+domain_keyword_set:
+- nowtv100
+- rthklive
+domain_set:
+- mytvsuperlimited.sc.omtrdc.net
+- mytvsuperlimited.hb.omtrdc.net
+domain_suffix_set:
+- tvb.com
+- mytvsuper.com

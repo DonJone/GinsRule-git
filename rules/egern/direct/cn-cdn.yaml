@@ -1,47 +1,17 @@
 # Gins-Rules: cn-cdn
-rules:
-- domain_suffix:
-    match: staticfile.org
-    policy: Proxy
-- domain_suffix:
-    match: qbox.me
-    policy: Proxy
-- domain_suffix:
-    match: qiniudn.com
-    policy: Proxy
-- domain_suffix:
-    match: ucloud.cn
-    policy: Proxy
-- domain_suffix:
-    match: upyun.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn.bootcss.com
-    policy: Proxy
-- domain_suffix:
-    match: npmmirror.com
-    policy: Proxy
-- domain_suffix:
-    match: bootcdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: qiniu.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn.bootcdn.net
-    policy: Proxy
-- domain_suffix:
-    match: 75cdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: cdn.npmmirror.com
-    policy: Proxy
-- domain_suffix:
-    match: bspapp.com
-    policy: Proxy
-- domain_suffix:
-    match: registry.npmmirror.com
-    policy: Proxy
-- domain_suffix:
-    match: qiniucdn.com
-    policy: Proxy
+domain_suffix_set:
+- qiniu.com
+- qiniucdn.com
+- cdn.bootcdn.net
+- cdn.npmmirror.com
+- qbox.me
+- bootcdn.cn
+- 75cdn.cn
+- npmmirror.com
+- ucloud.cn
+- qiniudn.com
+- staticfile.org
+- upyun.com
+- registry.npmmirror.com
+- cdn.bootcss.com
+- bspapp.com

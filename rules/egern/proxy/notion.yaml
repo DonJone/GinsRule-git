@@ -1,11 +1,5 @@
 # Gins-Rules: notion
-rules:
-- domain_suffix:
-    match: notion.com
-    policy: Proxy
-- domain_suffix:
-    match: notion.so
-    policy: Proxy
-- domain_suffix:
-    match: notion.site
-    policy: Proxy
+domain_suffix_set:
+- notion.site
+- notion.com
+- notion.so

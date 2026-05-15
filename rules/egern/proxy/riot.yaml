@@ -1,11 +1,5 @@
 # Gins-Rules: riot
-rules:
-- domain_suffix:
-    match: leagueoflegends.com
-    policy: Proxy
-- domain_suffix:
-    match: riotcdn.net
-    policy: Proxy
-- domain_suffix:
-    match: riotgames.com
-    policy: Proxy
+domain_suffix_set:
+- leagueoflegends.com
+- riotcdn.net
+- riotgames.com

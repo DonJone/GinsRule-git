@@ -1,147 +1,52 @@
 # Gins-Rules: telegram
-rules:
-- domain_suffix:
-    match: tx.me
-    policy: Proxy
-- domain_suffix:
-    match: contest.com
-    policy: Proxy
-- domain_suffix:
-    match: telegram-cdn.org
-    policy: Proxy
-- domain_suffix:
-    match: telegra.ph
-    policy: Proxy
-- domain_suffix:
-    match: graph.org
-    policy: Proxy
-- domain_suffix:
-    match: legra.ph
-    policy: Proxy
-- domain_suffix:
-    match: t.me
-    policy: Proxy
-- domain_suffix:
-    match: usercontent.dev
-    policy: Proxy
-- domain_suffix:
-    match: tg.dev
-    policy: Proxy
-- domain_suffix:
-    match: mbrx.app
-    policy: Proxy
-- domain_suffix:
-    match: telegram.me
-    policy: Proxy
-- domain_suffix:
-    match: telegram.org
-    policy: Proxy
-- domain_suffix:
-    match: telesco.pe
-    policy: Proxy
-- domain_suffix:
-    match: stel.com
-    policy: Proxy
-- domain_suffix:
-    match: cdn-telegram.org
-    policy: Proxy
-- domain_suffix:
-    match: comments.app
-    policy: Proxy
-- domain_suffix:
-    match: telegram.dog
-    policy: Proxy
-- domain_suffix:
-    match: quiz.directory
-    policy: Proxy
-- domain_suffix:
-    match: tdesktop.com
-    policy: Proxy
-- domain_suffix:
-    match: telega.one
-    policy: Proxy
-- domain_suffix:
-    match: telegramdownload.com
-    policy: Proxy
-- domain_suffix:
-    match: telegram.space
-    policy: Proxy
-- domain:
-    match: api.swiftgram.app
-    policy: Proxy
-- domain:
-    match: api.imem.app
-    policy: Proxy
-- domain_keyword:
-    match: nicegram
-    policy: Proxy
-- domain_keyword:
-    match: telegram
-    policy: Proxy
-- ip_cidr:
-    match: 149.154.160.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 5.28.192.0/18
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 95.161.64.0/20
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 139.59.210.98/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 109.239.140.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2001:b28:f23d::/48
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 196.55.216.167/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2a0a:f280::/29
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2a0a:f280::/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2001:b28:f23c::/47
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2001:67c:4e8::/48
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 91.108.0.0/16
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr6:
-    match: 2001:b28:f23f::/48
-    no_resolve: 'true'
-    policy: Proxy
-- asn:
-    match: AS62014
-    policy: Proxy
-- asn:
-    match: AS211157
-    policy: Proxy
-- asn:
-    match: AS44907
-    policy: Proxy
-- asn:
-    match: AS59930
-    policy: Proxy
-- asn:
-    match: AS62041
-    policy: Proxy
+asn_set:
+- AS59930
+- AS62041
+- AS211157
+- AS62014
+- AS44907
+domain_keyword_set:
+- nicegram
+- telegram
+domain_set:
+- api.imem.app
+- api.swiftgram.app
+domain_suffix_set:
+- stel.com
+- t.me
+- telegram.space
+- tdesktop.com
+- telegram.dog
+- contest.com
+- telegramdownload.com
+- telega.one
+- telegram-cdn.org
+- telegram.me
+- graph.org
+- telegra.ph
+- telegram.org
+- telesco.pe
+- usercontent.dev
+- legra.ph
+- cdn-telegram.org
+- comments.app
+- tg.dev
+- mbrx.app
+- quiz.directory
+- tx.me
+ip_cidr6_set:
+- 2001:b28:f23c::/47
+- 2a0a:f280::/29
+- 2a0a:f280::/32
+- 2001:67c:4e8::/48
+- 2001:b28:f23d::/48
+- 2001:b28:f23f::/48
+ip_cidr_set:
+- 109.239.140.0/24
+- 196.55.216.167/32
+- 95.161.64.0/20
+- 139.59.210.98/32
+- 5.28.192.0/18
+- 149.154.160.0/20
+- 91.108.0.0/16
+no_resolve: true

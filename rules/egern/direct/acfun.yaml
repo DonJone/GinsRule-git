@@ -1,14 +1,6 @@
 # Gins-Rules: acfun
-rules:
-- domain_suffix:
-    match: acfun.cn
-    policy: Proxy
-- domain_suffix:
-    match: acfun.com
-    policy: Proxy
-- domain_suffix:
-    match: aixifan.com
-    policy: Proxy
-- domain_suffix:
-    match: acfun.tv
-    policy: Proxy
+domain_suffix_set:
+- acfun.tv
+- aixifan.com
+- acfun.com
+- acfun.cn

@@ -1,20 +1,8 @@
 # Gins-Rules: playstation
-rules:
-- domain_suffix:
-    match: sony.com
-    policy: Proxy
-- domain_suffix:
-    match: playstationnetwork.com
-    policy: Proxy
-- domain_suffix:
-    match: playstation.net
-    policy: Proxy
-- domain_suffix:
-    match: playstation.com
-    policy: Proxy
-- domain_suffix:
-    match: sonyentertainmentnetwork.com
-    policy: Proxy
-- domain_suffix:
-    match: sie.com
-    policy: Proxy
+domain_suffix_set:
+- playstationnetwork.com
+- playstation.net
+- sonyentertainmentnetwork.com
+- playstation.com
+- sie.com
+- sony.com

@@ -1,100 +1,39 @@
 # Gins-Rules: spotify
-rules:
-- domain_suffix:
-    match: spotify-everywhere.com
-    policy: Proxy
-- domain_suffix:
-    match: spotifycodes.com
-    policy: Proxy
-- domain_suffix:
-    match: audio-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: byspotify.com
-    policy: Proxy
-- domain_suffix:
-    match: heads4-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: scdn.co
-    policy: Proxy
-- domain_suffix:
-    match: spoti.fi
-    policy: Proxy
-- domain_suffix:
-    match: spotify.design
-    policy: Proxy
-- domain_suffix:
-    match: spotilocal.com
-    policy: Proxy
-- domain_suffix:
-    match: tospotify.com
-    policy: Proxy
-- domain_suffix:
-    match: spotifycharts.com
-    policy: Proxy
-- domain_suffix:
-    match: spotify.app.link
-    policy: Proxy
-- domain_suffix:
-    match: spotify-com.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: pscdn.co
-    policy: Proxy
-- domain_suffix:
-    match: spotifycdn.net
-    policy: Proxy
-- domain_suffix:
-    match: spotifycdn.com
-    policy: Proxy
-- domain_suffix:
-    match: spotifyforbrands.com
-    policy: Proxy
-- domain_suffix:
-    match: spotifynewsroom.jp
-    policy: Proxy
-- domain_suffix:
-    match: spotifyjobs.com
-    policy: Proxy
-- domain_suffix:
-    match: spotify.com
-    policy: Proxy
-- domain:
-    match: spotify.com.edgesuite.net
-    policy: Proxy
-- domain:
-    match: spotify.map.fastlylb.net
-    policy: Proxy
-- domain:
-    match: heads-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain:
-    match: cdn-spotify-experiments.conductrics.com
-    policy: Proxy
-- domain:
-    match: audio4-ak-spotify-com.akamaized.net
-    policy: Proxy
-- domain:
-    match: spotify.map.fastly.net
-    policy: Proxy
-- domain_keyword:
-    match: spotify
-    policy: Proxy
-- domain_keyword:
-    match: -spotify-
-    policy: Proxy
-- domain_keyword:
-    match: spotify.com
-    policy: Proxy
-- ip_cidr:
-    match: 35.186.224.47/32
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 104.154.127.126/32
-    no_resolve: 'true'
-    policy: Proxy
-- user_agent:
-    match: Spotify*
-    policy: Proxy
+domain_keyword_set:
+- spotify
+- -spotify-
+- spotify.com
+domain_set:
+- audio4-ak-spotify-com.akamaized.net
+- cdn-spotify-experiments.conductrics.com
+- spotify.map.fastlylb.net
+- heads-ak-spotify-com.akamaized.net
+- spotify.com.edgesuite.net
+- spotify.map.fastly.net
+domain_suffix_set:
+- spotify.com
+- spotify.design
+- spotifycdn.com
+- spotifynewsroom.jp
+- spotify-everywhere.com
+- spotifycdn.net
+- spotifyforbrands.com
+- spotilocal.com
+- tospotify.com
+- heads4-ak-spotify-com.akamaized.net
+- spotifycharts.com
+- audio-ak-spotify-com.akamaized.net
+- spoti.fi
+- spotifyjobs.com
+- spotifycodes.com
+- scdn.co
+- spotify-com.akamaized.net
+- spotify.app.link
+- byspotify.com
+- pscdn.co
+ip_cidr_set:
+- 104.154.127.126/32
+- 35.186.224.47/32
+no_resolve: true
+user_agent_set:
+- Spotify*

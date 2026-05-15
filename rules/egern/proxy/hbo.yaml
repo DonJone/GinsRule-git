@@ -1,80 +1,30 @@
 # Gins-Rules: hbo
-rules:
-- domain_suffix:
-    match: discomax.com
-    policy: Proxy
-- domain_suffix:
-    match: hbogoasia.com
-    policy: Proxy
-- domain_suffix:
-    match: hbomax.com
-    policy: Proxy
-- domain_suffix:
-    match: hbo.com
-    policy: Proxy
-- domain_suffix:
-    match: hbomaxcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: hboasia.com
-    policy: Proxy
-- domain_suffix:
-    match: hbogo.com
-    policy: Proxy
-- domain_suffix:
-    match: max.com
-    policy: Proxy
-- domain_suffix:
-    match: hbonow.com
-    policy: Proxy
-- domain_suffix:
-    match: hbogoasia.hk
-    policy: Proxy
-- domain:
-    match: hbogoprod-vod.akamaized.net
-    policy: Proxy
-- domain:
-    match: hboasia3-i.akamaihd.net
-    policy: Proxy
-- domain:
-    match: s3-ap-southeast-1.amazonaws.com
-    policy: Proxy
-- domain:
-    match: 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    policy: Proxy
-- domain:
-    match: hbolb.onwardsmg.com
-    policy: Proxy
-- domain:
-    match: hbounify-prod.evergent.com
-    policy: Proxy
-- domain:
-    match: bcbolthboa-a.akamaihd.net
-    policy: Proxy
-- domain:
-    match: hboasia5-i.akamaihd.net
-    policy: Proxy
-- domain:
-    match: dai3fd1oh325y.cloudfront.net
-    policy: Proxy
-- domain:
-    match: hboasia1-i.akamaihd.net
-    policy: Proxy
-- domain:
-    match: hboasia2-i.akamaihd.net
-    policy: Proxy
-- domain:
-    match: hboasialive.akamaized.net
-    policy: Proxy
-- domain:
-    match: hboasia4-i.akamaihd.net
-    policy: Proxy
-- domain:
-    match: cf-images.ap-southeast-1.prod.boltdns.net
-    policy: Proxy
-- domain:
-    match: players.brightcove.net
-    policy: Proxy
-- domain_keyword:
-    match: hbogoasia
-    policy: Proxy
+domain_keyword_set:
+- hbogoasia
+domain_set:
+- hboasialive.akamaized.net
+- hboasia2-i.akamaihd.net
+- hboasia3-i.akamaihd.net
+- hboasia1-i.akamaihd.net
+- s3-ap-southeast-1.amazonaws.com
+- hbounify-prod.evergent.com
+- hbolb.onwardsmg.com
+- bcbolthboa-a.akamaihd.net
+- dai3fd1oh325y.cloudfront.net
+- hbogoprod-vod.akamaized.net
+- hboasia4-i.akamaihd.net
+- hboasia5-i.akamaihd.net
+- cf-images.ap-southeast-1.prod.boltdns.net
+- 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+- players.brightcove.net
+domain_suffix_set:
+- hbomax.com
+- discomax.com
+- hbogoasia.com
+- hbo.com
+- hbomaxcdn.com
+- hbogoasia.hk
+- hbogo.com
+- hbonow.com
+- max.com
+- hboasia.com

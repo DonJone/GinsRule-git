@@ -1,71 +1,25 @@
 # Gins-Rules: pinterest
-rules:
-- domain_suffix:
-    match: pinimg.com
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.com.au
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.ca
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.de
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.dk
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.com
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.es
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.fr
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.ie
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.ch
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.pt
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.ru
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.com.mx
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.at
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.it
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.nz
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.ph
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.se
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.jp
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.nl
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.co.kr
-    policy: Proxy
-- domain_suffix:
-    match: pinterest.cl
-    policy: Proxy
+domain_suffix_set:
+- pinterest.ch
+- pinterest.at
+- pinterest.co.uk
+- pinterest.nz
+- pinterest.ph
+- pinterest.co.kr
+- pinterest.ca
+- pinterest.com.mx
+- pinterest.com
+- pinterest.jp
+- pinterest.nl
+- pinterest.pt
+- pinterest.fr
+- pinimg.com
+- pinterest.dk
+- pinterest.ie
+- pinterest.es
+- pinterest.com.au
+- pinterest.se
+- pinterest.cl
+- pinterest.ru
+- pinterest.it
+- pinterest.de

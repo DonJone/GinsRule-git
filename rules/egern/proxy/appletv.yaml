@@ -1,32 +1,14 @@
 # Gins-Rules: appletv
-rules:
-- domain_suffix:
-    match: trailers.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: tv.apple.com
-    policy: Proxy
-- domain:
-    match: hls-amt.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: uts-api.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: tv.applemusic.com
-    policy: Proxy
-- domain:
-    match: play-edge.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: np-edge.itunes.apple.com
-    policy: Proxy
-- domain:
-    match: hls.itunes.apple.com
-    policy: Proxy
-- user_agent:
-    match: com.apple.tv*
-    policy: Proxy
-- user_agent:
-    match: AppleTV*
-    policy: Proxy
+domain_set:
+- hls.itunes.apple.com
+- np-edge.itunes.apple.com
+- uts-api.itunes.apple.com
+- hls-amt.itunes.apple.com
+- tv.applemusic.com
+- play-edge.itunes.apple.com
+domain_suffix_set:
+- trailers.apple.com
+- tv.apple.com
+user_agent_set:
+- com.apple.tv*
+- AppleTV*

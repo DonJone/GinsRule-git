@@ -1,11 +1,5 @@
 # Gins-Rules: xbox
-rules:
-- domain_suffix:
-    match: xboxlive.com
-    policy: Proxy
-- domain_suffix:
-    match: xbox.com
-    policy: Proxy
-- domain_suffix:
-    match: xboxservices.com
-    policy: Proxy
+domain_suffix_set:
+- xbox.com
+- xboxlive.com
+- xboxservices.com

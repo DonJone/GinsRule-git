@@ -1,44 +1,16 @@
 # Gins-Rules: douyu-huya
-rules:
-- domain_suffix:
-    match: edgesrv.com
-    policy: Proxy
-- domain_suffix:
-    match: huyacdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: bytefcdnrd.com
-    policy: Proxy
-- domain_suffix:
-    match: huyagame.cn
-    policy: Proxy
-- domain_suffix:
-    match: msstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: douyuscdn.com
-    policy: Proxy
-- domain_suffix:
-    match: peiwanlu.com
-    policy: Proxy
-- domain_suffix:
-    match: huya.com
-    policy: Proxy
-- domain_suffix:
-    match: snapplay.com
-    policy: Proxy
-- domain_suffix:
-    match: douyucdn2.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyu.tv
-    policy: Proxy
-- domain_suffix:
-    match: douyucdn.cn
-    policy: Proxy
-- domain_suffix:
-    match: douyutv.com
-    policy: Proxy
-- domain_suffix:
-    match: douyu.com
-    policy: Proxy
+domain_suffix_set:
+- huyagame.cn
+- douyutv.com
+- msstatic.com
+- douyuscdn.com
+- bytefcdnrd.com
+- douyu.tv
+- edgesrv.com
+- snapplay.com
+- peiwanlu.com
+- huya.com
+- douyucdn.cn
+- douyucdn2.cn
+- huyacdn.cn
+- douyu.com

@@ -1,38 +1,14 @@
 # Gins-Rules: heroku
-rules:
-- domain_suffix:
-    match: heroku.com
-    policy: Proxy
-- domain_suffix:
-    match: herokucdn.com
-    policy: Proxy
-- domain_suffix:
-    match: codeish.io
-    policy: Proxy
-- domain_suffix:
-    match: heroku-app.com
-    policy: Proxy
-- domain_suffix:
-    match: herokussl.com
-    policy: Proxy
-- domain_suffix:
-    match: herokuapp.com
-    policy: Proxy
-- domain_suffix:
-    match: herokucharge.com
-    policy: Proxy
-- domain_suffix:
-    match: heroku-charge.com
-    policy: Proxy
-- domain_suffix:
-    match: codeish.co
-    policy: Proxy
-- domain_suffix:
-    match: codei.sh
-    policy: Proxy
-- domain_suffix:
-    match: heroku.me
-    policy: Proxy
-- domain_suffix:
-    match: heroku.co
-    policy: Proxy
+domain_suffix_set:
+- herokuapp.com
+- codeish.io
+- heroku-app.com
+- herokucharge.com
+- herokussl.com
+- codei.sh
+- heroku-charge.com
+- codeish.co
+- heroku.co
+- heroku.com
+- heroku.me
+- herokucdn.com

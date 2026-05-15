@@ -1,171 +1,61 @@
 # Gins-Rules: openai
-rules:
-- domain_suffix:
-    match: vimeo.com
-    policy: Proxy
-- domain_suffix:
-    match: vimeocdn.com
-    policy: Proxy
-- domain_suffix:
-    match: claude.ai
-    policy: Proxy
-- domain_suffix:
-    match: featuregates.org
-    policy: Proxy
-- domain_suffix:
-    match: sora.com
-    policy: Proxy
-- domain_suffix:
-    match: akamaized.com
-    policy: Proxy
-- domain_suffix:
-    match: anthropic.com
-    policy: Proxy
-- domain_suffix:
-    match: hcaptcha.com
-    policy: Proxy
-- domain_suffix:
-    match: chatgpt.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: oaiusercontent.com
-    policy: Proxy
-- domain_suffix:
-    match: launchdarkly.com
-    policy: Proxy
-- domain_suffix:
-    match: openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    policy: Proxy
-- domain_suffix:
-    match: ai.com
-    policy: Proxy
-- domain_suffix:
-    match: openaicomproductionae4b.blob.core.windows.net
-    policy: Proxy
-- domain_suffix:
-    match: auth0.com
-    policy: Proxy
-- domain_suffix:
-    match: sentry.io
-    policy: Proxy
-- domain_suffix:
-    match: host.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: stripe.com
-    policy: Proxy
-- domain_suffix:
-    match: chatgpt.com
-    policy: Proxy
-- domain_suffix:
-    match: events.statsigapi.net
-    policy: Proxy
-- domain_suffix:
-    match: identrust.com
-    policy: Proxy
-- domain_suffix:
-    match: intercomcdn.com
-    policy: Proxy
-- domain_suffix:
-    match: turn.livekit.cloud
-    policy: Proxy
-- domain_suffix:
-    match: chat.com
-    policy: Proxy
-- domain_suffix:
-    match: api.statsig.com
-    policy: Proxy
-- domain_suffix:
-    match: observeit.net
-    policy: Proxy
-- domain_suffix:
-    match: openaicom.imgix.net
-    policy: Proxy
-- domain_suffix:
-    match: poe.com
-    policy: Proxy
-- domain_suffix:
-    match: client-api.arkoselabs.com
-    policy: Proxy
-- domain_suffix:
-    match: chat.openai.com.cdn.cloudflare.net
-    policy: Proxy
-- domain_suffix:
-    match: intercom.io
-    policy: Proxy
-- domain_suffix:
-    match: gatewayai.com
-    policy: Proxy
-- domain_suffix:
-    match: openaiapi-site.azureedge.net
-    policy: Proxy
-- domain_suffix:
-    match: tktn.be
-    policy: Proxy
-- domain_suffix:
-    match: platform.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: auth0.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: oaistatic.com
-    policy: Proxy
-- domain_suffix:
-    match: challenges.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: api.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: chat.openai.com
-    policy: Proxy
-- domain_suffix:
-    match: openai.com
-    policy: Proxy
-- domain:
-    match: openai-api.arkoselabs.com
-    policy: Proxy
-- domain:
-    match: openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-    policy: Proxy
-- domain:
-    match: api.statsig.com
-    policy: Proxy
-- domain:
-    match: challenges.cloudflare.com
-    policy: Proxy
-- domain:
-    match: production-openaicom-storage.azureedge.net
-    policy: Proxy
-- domain:
-    match: cdn.oaistatic.com
-    policy: Proxy
-- domain:
-    match: openaicomproductionae4b.blob.core.windows.net
-    policy: Proxy
-- domain:
-    match: cdn.auth0.com
-    policy: Proxy
-- domain:
-    match: chat.openai.com.cdn.cloudflare.net
-    policy: Proxy
-- domain_keyword:
-    match: openai
-    policy: Proxy
-- ip_cidr:
-    match: 205.164.56.29/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 50.117.27.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 63.251.124.0/24
-    no_resolve: 'true'
-    policy: Proxy
-- ip_cidr:
-    match: 69.46.75.0/24
-    no_resolve: 'true'
-    policy: Proxy
+domain_keyword_set:
+- openai
+domain_set:
+- openai-api.arkoselabs.com
+- cdn.oaistatic.com
+- challenges.cloudflare.com
+- chat.openai.com.cdn.cloudflare.net
+- cdn.auth0.com
+- openaicomproductionae4b.blob.core.windows.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- api.statsig.com
+- production-openaicom-storage.azureedge.net
+domain_suffix_set:
+- auth0.com
+- intercom.io
+- oaistatic.com
+- chat.com
+- hcaptcha.com
+- openaicomproductionae4b.blob.core.windows.net
+- sora.com
+- tktn.be
+- platform.openai.com
+- challenges.cloudflare.com
+- vimeo.com
+- vimeocdn.com
+- sentry.io
+- openai.com
+- api.openai.com
+- chat.openai.com.cdn.cloudflare.net
+- gatewayai.com
+- openaicom.imgix.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- intercomcdn.com
+- oaiusercontent.com
+- ai.com
+- stripe.com
+- chatgpt.livekit.cloud
+- featuregates.org
+- api.statsig.com
+- identrust.com
+- poe.com
+- turn.livekit.cloud
+- akamaized.com
+- launchdarkly.com
+- observeit.net
+- chatgpt.com
+- openaiapi-site.azureedge.net
+- client-api.arkoselabs.com
+- auth0.openai.com
+- anthropic.com
+- claude.ai
+- host.livekit.cloud
+- chat.openai.com
+- events.statsigapi.net
+ip_cidr_set:
+- 50.117.27.0/24
+- 63.251.124.0/24
+- 69.46.75.0/24
+- 205.164.56.29/24
+no_resolve: true

@@ -1,89 +1,31 @@
 # Gins-Rules: vercel
-rules:
-- domain_suffix:
-    match: netlify.com
-    policy: Proxy
-- domain_suffix:
-    match: err.sh
-    policy: Proxy
-- domain_suffix:
-    match: hyper.is
-    policy: Proxy
-- domain_suffix:
-    match: zeit-world.net
-    policy: Proxy
-- domain_suffix:
-    match: zeit-world.org
-    policy: Proxy
-- domain_suffix:
-    match: zeitworld.com
-    policy: Proxy
-- domain_suffix:
-    match: turborepo.org
-    policy: Proxy
-- domain_suffix:
-    match: vercel.store
-    policy: Proxy
-- domain_suffix:
-    match: static.fun
-    policy: Proxy
-- domain_suffix:
-    match: vercel.com
-    policy: Proxy
-- domain_suffix:
-    match: vercel.live
-    policy: Proxy
-- domain_suffix:
-    match: vercel-analytics.com
-    policy: Proxy
-- domain_suffix:
-    match: netlify.app
-    policy: Proxy
-- domain_suffix:
-    match: vercel-status.com
-    policy: Proxy
-- domain_suffix:
-    match: zeit-world.co.uk
-    policy: Proxy
-- domain_suffix:
-    match: vercel.events
-    policy: Proxy
-- domain_suffix:
-    match: vercel.blog
-    policy: Proxy
-- domain_suffix:
-    match: zeit.sh
-    policy: Proxy
-- domain_suffix:
-    match: nextjs.org
-    policy: Proxy
-- domain_suffix:
-    match: vercel.pub
-    policy: Proxy
-- domain_suffix:
-    match: title.sh
-    policy: Proxy
-- domain_suffix:
-    match: vercel-insights.com
-    policy: Proxy
-- domain_suffix:
-    match: zeit.co
-    policy: Proxy
-- domain_suffix:
-    match: zeit-world.com
-    policy: Proxy
-- domain_suffix:
-    match: vercel.link
-    policy: Proxy
-- domain_suffix:
-    match: vercel.sh
-    policy: Proxy
-- domain_suffix:
-    match: vercel-dns.com
-    policy: Proxy
-- domain_suffix:
-    match: now.sh
-    policy: Proxy
-- domain_suffix:
-    match: vercel.app
-    policy: Proxy
+domain_suffix_set:
+- vercel.store
+- vercel.live
+- title.sh
+- zeit.sh
+- vercel.events
+- now.sh
+- zeit-world.net
+- zeitworld.com
+- vercel.pub
+- vercel.blog
+- err.sh
+- netlify.app
+- static.fun
+- hyper.is
+- vercel-analytics.com
+- zeit-world.org
+- nextjs.org
+- zeit-world.com
+- turborepo.org
+- vercel-dns.com
+- vercel-status.com
+- vercel.com
+- netlify.com
+- vercel.link
+- vercel-insights.com
+- zeit-world.co.uk
+- zeit.co
+- vercel.sh
+- vercel.app

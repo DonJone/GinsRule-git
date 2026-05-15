@@ -1,41 +1,15 @@
 # Gins-Rules: binance
-rules:
-- domain_suffix:
-    match: binancecnt.com
-    policy: Proxy
-- domain_suffix:
-    match: appsflayer.com
-    policy: Proxy
-- domain_suffix:
-    match: binancefuture.com
-    policy: Proxy
-- domain_suffix:
-    match: bnappzh.co
-    policy: Proxy
-- domain_suffix:
-    match: bnbstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: binance.info
-    policy: Proxy
-- domain_suffix:
-    match: bnbzh.ac
-    policy: Proxy
-- domain_suffix:
-    match: bntrace.com
-    policy: Proxy
-- domain_suffix:
-    match: binance.me
-    policy: Proxy
-- domain_suffix:
-    match: saasexch.cc
-    policy: Proxy
-- domain_suffix:
-    match: saasexch.com
-    policy: Proxy
-- domain_suffix:
-    match: binance.com
-    policy: Proxy
-- domain_suffix:
-    match: binance.cloud
-    policy: Proxy
+domain_suffix_set:
+- bnappzh.co
+- bnbstatic.com
+- binance.me
+- saasexch.com
+- binance.com
+- binancefuture.com
+- binance.cloud
+- binancecnt.com
+- bnbzh.ac
+- saasexch.cc
+- binance.info
+- appsflayer.com
+- bntrace.com

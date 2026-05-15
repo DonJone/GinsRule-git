@@ -1,8 +1,4 @@
 # Gins-Rules: douyin
-rules:
-- domain_suffix:
-    match: amemv.com
-    policy: Proxy
-- domain_suffix:
-    match: douyinvod.com
-    policy: Proxy
+domain_suffix_set:
+- douyinvod.com
+- amemv.com

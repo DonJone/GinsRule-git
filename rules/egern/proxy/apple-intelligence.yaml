@@ -1,44 +1,17 @@
 # Gins-Rules: apple-intelligence
-rules:
-- domain_suffix:
-    match: guzzoni.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: gspe1-ssl.ls.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.apple.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.cloudflare.com
-    policy: Proxy
-- domain_suffix:
-    match: apps.mzstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: gateway.icloud.com
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.akamaized.net
-    policy: Proxy
-- domain_suffix:
-    match: apple-relay.fastly-edge.com
-    policy: Proxy
-- domain:
-    match: gspe1-ssl.ls.apple.com
-    policy: Proxy
-- domain:
-    match: cp4.cloudflare.com
-    policy: Proxy
-- domain:
-    match: apple-relay.apple.com
-    policy: Proxy
-- domain:
-    match: apple-relay.cloudflare.com
-    policy: Proxy
-- domain:
-    match: apple-relay.fastly-edge.com
-    policy: Proxy
+domain_set:
+- cp4.cloudflare.com
+- apple-relay.apple.com
+- apple-relay.cloudflare.com
+- gspe1-ssl.ls.apple.com
+- apple-relay.fastly-edge.com
+domain_suffix_set:
+- apple-relay.akamaized.net
+- apple-relay.apple.com
+- gspe1-ssl.ls.apple.com
+- cp4.cloudflare.com
+- apple-relay.cloudflare.com
+- gateway.icloud.com
+- guzzoni.apple.com
+- apple-relay.fastly-edge.com
+- apps.mzstatic.com

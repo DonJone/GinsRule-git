@@ -1,17 +1,7 @@
 # Gins-Rules: huya
-rules:
-- domain_suffix:
-    match: huyagame.cn
-    policy: Proxy
-- domain_suffix:
-    match: msstatic.com
-    policy: Proxy
-- domain_suffix:
-    match: snapplay.com
-    policy: Proxy
-- domain_suffix:
-    match: peiwanlu.com
-    policy: Proxy
-- domain_suffix:
-    match: huya.com
-    policy: Proxy
+domain_suffix_set:
+- msstatic.com
+- snapplay.com
+- huyagame.cn
+- peiwanlu.com
+- huya.com

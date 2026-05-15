@@ -1,50 +1,18 @@
 # Gins-Rules: microsoft-cdn
-rules:
-- domain_suffix:
-    match: officecdn.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: windowsupdate.com
-    policy: Proxy
-- domain_suffix:
-    match: crl.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: wns.windows.com
-    policy: Proxy
-- domain_suffix:
-    match: update.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: go.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: download.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: microsoft.akadns.net
-    policy: Proxy
-- domain_suffix:
-    match: officeclient.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: activation.sls.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: adl.windows.com
-    policy: Proxy
-- domain_suffix:
-    match: office15client.microsoft.com
-    policy: Proxy
-- domain_suffix:
-    match: windows.com
-    policy: Proxy
-- domain_suffix:
-    match: officecdn.microsoft.com.edgesuite.net
-    policy: Proxy
-- domain_suffix:
-    match: windows.net
-    policy: Proxy
-- domain_suffix:
-    match: otelrules.azureedge.net
-    policy: Proxy
+domain_suffix_set:
+- officecdn.microsoft.com.edgesuite.net
+- officecdn.microsoft.com
+- activation.sls.microsoft.com
+- crl.microsoft.com
+- microsoft.akadns.net
+- adl.windows.com
+- wns.windows.com
+- windowsupdate.com
+- windows.com
+- download.microsoft.com
+- officeclient.microsoft.com
+- update.microsoft.com
+- office15client.microsoft.com
+- windows.net
+- otelrules.azureedge.net
+- go.microsoft.com
