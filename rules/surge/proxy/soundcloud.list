@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
 USER-AGENT,SoundCloud*
