@@ -1,6 +1,6 @@
 # Gins-Rules: redbook
 domain_suffix_set:
-- xhscdn.net
-- xhscdn.com
 - xiaohongshu.com
+- xhscdn.com
+- xhscdn.net
 - fengkongcloud.com
