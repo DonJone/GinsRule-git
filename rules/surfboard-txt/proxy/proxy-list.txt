@@ -14751,6 +14751,7 @@
 .holycross.ac.uk
 .holymountaincn.com
 .holyspiritspeaks.org
+.home-assistant.io
 .home-made-porn-movies.com
 .home-made-videos.com
 .home-sex-tapes.com
@@ -27426,6 +27427,7 @@
 .side.ac.uk
 .sidelinesnews.com
 .sidelinessportseatery.com
+.sider.ai
 .sie.ac.uk
 .siege-amazon.com
 .sierrafriendsoftibet.org
@@ -34957,6 +34959,7 @@
 .zhangboli.net
 .zhangboz1.xyz
 .zhangtianliang.com
+.zhangzhehan.net
 .zhanlve.org
 .zhao.1984.city
 .zhenghui.org
@@ -35131,7 +35134,6 @@
 3dns-4.adobe.com
 3dns-5.adobe.com
 3dns.adobe.com
-7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 a.ppy.sh
 a4e8s8k3.map2.ssl.hwcdn.net
 abematv.akamaized.net

@@ -25481,6 +25481,7 @@
 +.cdtcxh.org
 +.cdtft.cn
 +.cdtftpay.cn
++.cdthunder.com
 +.cdtianda.com
 +.cdtkdw.com
 +.cdtlev.com
@@ -36904,6 +36905,7 @@
 +.dfzxvip.com
 +.dfzyxy.net
 +.dg-360lhx.com
++.dg-dn.com
 +.dg-dns.com
 +.dg-dx.com
 +.dg-hanxin.com
@@ -48962,6 +48964,7 @@
 +.geedu.com
 +.geeetech.com
 +.geeeu.com
++.geeflex.com
 +.geehy.com
 +.geejing.com
 +.geek-docs.com
@@ -64243,6 +64246,7 @@
 +.i5sto.com
 +.i5tea.com
 +.i5z.cc
++.i5zhen.com
 +.i66wan.com
 +.i6879.com
 +.i6sy.cn
@@ -70786,6 +70790,7 @@
 +.jiupaicom.com
 +.jiupainews.com
 +.jiupaipay.com
++.jiuphone.com
 +.jiuq.com
 +.jiuqianwan.group
 +.jiuqianwanjituan.com
@@ -78061,7 +78066,6 @@
 +.lc1001.com
 +.lc123.net
 +.lc1618.com
-+.lc442.com
 +.lc787.com
 +.lcang.com
 +.lcatgame.com
@@ -84104,7 +84108,6 @@
 +.meetyoumuseum.com
 +.meetzoom.net
 +.meexin.com
-+.meexx.xyz
 +.mefactech.com
 +.mefcl.com
 +.mefenglife.com
@@ -99098,6 +99101,7 @@
 +.qrobot.com
 +.qrprt.com
 +.qrqaiwvmy.com
++.qrstuvwxyzab.com
 +.qrtest.com
 +.qrtgskxq.com
 +.qrtz.co
@@ -126988,6 +126992,7 @@
 +.witiretxa.com
 +.witkeyschool.com
 +.witmart.net
++.witmem.com
 +.witnew.net
 +.witontek.com
 +.witrn.com
@@ -131525,6 +131530,7 @@
 +.xinda-bio.com
 +.xindachem.com
 +.xindalawyer.com
++.xindao6.com
 +.xindaohang123.com
 +.xindasulian.com
 +.xinde.org
@@ -135104,6 +135110,7 @@
 +.xyyb.net
 +.xyybs.com
 +.xyycrc.com
++.xyydedge.com
 +.xyydnode.com
 +.xyyh.com.cn
 +.xyyh.xyz
@@ -135700,6 +135707,7 @@
 +.yanjinews.com
 +.yanjiubaogao.com
 +.yanjiuchubanshe.com
++.yanjiwangluo.com
 +.yanjob.com
 +.yanjun7858.com
 +.yanjunbo.com
@@ -138479,6 +138487,7 @@
 +.ymxinxi.com
 +.ymxlass.com
 +.ymyun.com
++.ymyw.net
 +.ymyxsw.com
 +.ymzer.com
 +.ymzsl.com
@@ -148561,7 +148570,6 @@
 103.121.250.0/24
 103.121.252.0/22
 103.121.52.0/22
-103.121.52.0/24
 103.121.55.0/24
 103.121.92.0/22
 103.122.176.0/22
@@ -151947,7 +151955,7 @@
 114.66.240.0/20
 114.66.64.0/24
 114.66.72.0/21
-114.66.80.0/23
+114.66.81.0/24
 114.67.128.0/17
 114.67.128.0/23
 114.67.130.0/24
@@ -155720,24 +155728,19 @@
 182.239.0.0/19
 182.240.0.0/13
 182.254.0.0/16
-182.254.0.0/21
+182.254.0.0/23
 182.254.102.0/23
-182.254.104.0/21
+182.254.104.0/23
+182.254.110.0/23
 182.254.114.0/23
 182.254.116.0/24
-182.254.117.0/24
-182.254.118.0/23
-182.254.120.0/21
-182.254.14.0/23
+182.254.118.0/24
 182.254.160.0/19
 182.254.192.0/20
 182.254.224.0/20
-182.254.24.0/21
-182.254.251.0/24
-182.254.252.0/22
+182.254.24.0/23
 182.254.32.0/21
-182.254.64.0/21
-182.254.98.0/23
+182.254.6.0/23
 182.255.60.0/22
 182.32.0.0/12
 182.45.255.0/24
@@ -164938,6 +164941,7 @@
 2406:840:e540::/42
 2406:840:e580::/41
 2406:840:e600::/39
+2406:840:e600::/44
 2406:840:e620::/47
 2406:840:e800::/39
 2406:840:e80f::/48
