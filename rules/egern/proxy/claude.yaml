@@ -1,17 +1,17 @@
 # Gins-Rules: claude
 domain_set:
-- cdn.usefathom.com
 - docs.anthropic.com
-- console.anthropic.com
 - status.anthropic.com
+- cdn.usefathom.com
+- console.anthropic.com
 - api.anthropic.com
 domain_suffix_set:
-- claude.site
-- anthropic.com
-- clau.de
 - claude.com
-- claudeusercontent.com
+- anthropic.com
 - claude.ai
+- clau.de
+- claude.site
+- claudeusercontent.com
 ip_cidr6_set:
 - 2607:6bc0::/48
 ip_cidr_set:

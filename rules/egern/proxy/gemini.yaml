@@ -1,16 +1,16 @@
 # Gins-Rules: gemini
 domain_suffix_set:
-- generativelanguage.googleapis.com
-- geller-pa.googleapis.com
-- aida.googleapis.com
-- deepmind.google
-- makersuite.google.com
-- alkalicore-pa.clients6.google.com
-- alkalimakersuite-pa.clients6.google.com
-- ai.google.dev
 - aistudio.google.com
 - bard.google.com
-- deepmind.com
-- generativeai.google
-- proactivebackend-pa.googleapis.com
 - gemini.google.com
+- makersuite.google.com
+- alkalicore-pa.clients6.google.com
+- deepmind.google
+- alkalimakersuite-pa.clients6.google.com
+- geller-pa.googleapis.com
+- proactivebackend-pa.googleapis.com
+- aida.googleapis.com
+- generativeai.google
+- generativelanguage.googleapis.com
+- ai.google.dev
+- deepmind.com
