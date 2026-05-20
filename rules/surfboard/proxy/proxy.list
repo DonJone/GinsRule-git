@@ -388,6 +388,7 @@ DOMAIN,experiments.apple.com
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,fandom.zendesk.com
 DOMAIN,faronics.kayako.com
+DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase.google.com
@@ -562,6 +563,7 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,legy.line-apps.com
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,liff.line.me
@@ -962,6 +964,7 @@ DOMAIN,teamviewer.com.cdn.cloudflare.net
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,testflight.apple.com
 DOMAIN,theater-kktv.cdn.hinet.net
+DOMAIN,thumbnail-hamivideo.cdn.hinet.net
 DOMAIN,time-a-b.nist.gov
 DOMAIN,time-a-g.nist.gov
 DOMAIN,time-a-wwv.nist.gov
@@ -998,6 +1001,7 @@ DOMAIN,time4.facebook.com
 DOMAIN,time4.google.com
 DOMAIN,time5.facebook.com
 DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tlmr-hamivideo2.cdn.hinet.net
 DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,tmdb-web-image-prod.b-cdn.net
 DOMAIN,trae-api-sg.mchost.guru
@@ -1078,6 +1082,7 @@ DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN,weblive-hamivideo.cdn.hinet.net
+DOMAIN,webvodad-hamivideo.cdn.hinet.net
 DOMAIN,wego.here.com
 DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com
@@ -2922,6 +2927,7 @@ DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alexlur.org
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
@@ -31751,6 +31757,8 @@ DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,teams.cloud.microsoft
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN-SUFFIX,teamskeet.com
+DOMAIN-SUFFIX,teamspeak-services.com
+DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,teamviewer.us
 DOMAIN-SUFFIX,teamwork.ac.uk
