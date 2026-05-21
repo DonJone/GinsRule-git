@@ -1,13 +1,13 @@
 # Gins-Rules: oracle
 domain_suffix_set:
-- oraclecloud.com
-- covid19rx.org
+- sun.com
+- oracle
 - oraclefoundation.org
 - oracle.com
-- bronto.com
-- sun.com
 - oracleinfinity.io
-- oracleimg.com
-- covid19-rx.org
-- oracle
 - ateam-oracle.com
+- covid19-rx.org
+- covid19rx.org
+- oracleimg.com
+- oraclecloud.com
+- bronto.com
