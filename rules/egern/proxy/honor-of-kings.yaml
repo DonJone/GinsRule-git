@@ -2,9 +2,9 @@
 domain_keyword_set:
 - sgameglobal.com
 domain_suffix_set:
-- sgameglobal.com
-- appsflyersdk.com
 - intlgame.com
+- appsflyersdk.com
+- sgameglobal.com
 ip_cidr_set:
 - 183.192.65.101/16
 - 43.132.55.55/16
