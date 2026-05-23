@@ -4,9 +4,9 @@ domain_set:
 domain_suffix_set:
 - copilot-telemetry.githubusercontent.com
 - api.githubcopilot.com
-- githubcopilot.com
 - bing.com
-- copilot-proxy.githubusercontent.com
-- default.exp-tas.com
 - copilot.github.com
+- default.exp-tas.com
+- githubcopilot.com
+- copilot-proxy.githubusercontent.com
 - copilot.microsoft.com

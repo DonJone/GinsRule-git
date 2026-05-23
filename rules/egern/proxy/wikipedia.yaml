@@ -2,14 +2,14 @@
 domain_suffix_set:
 - wikibooks.org
 - wikimedia.org
-- mediawiki.org
-- wikileaks.org
-- wikiversity.org
-- wikiwand.com
-- wikipedia.org
-- wikidata.org
-- wikisource.org
 - wikinews.org
+- mediawiki.org
+- wikipedia.org
 - wikiquote.org
-- wiktionary.org
+- wikidata.org
 - wikivoyage.org
+- wikileaks.org
+- wikisource.org
+- wikiwand.com
+- wiktionary.org
+- wikiversity.org
