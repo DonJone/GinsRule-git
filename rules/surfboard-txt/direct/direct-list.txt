@@ -64620,6 +64620,7 @@
 .ichoice.xin
 .ichong123.com
 .ichongdao.com
+.ichongqing.info
 .ichtcm.com
 .ichuanghui.cn
 .ichuanghui.org
@@ -75699,6 +75700,7 @@
 .knewbi.com
 .knewone.com
 .knewsmart.com
+.knfastpic.com
 .knfeco.com
 .knight-fair.com
 .knight-un.com
@@ -98652,6 +98654,7 @@
 .qnssl.com
 .qnvic.com
 .qnvic.net
+.qnvip.com
 .qnvipmall.com
 .qnvipxd.com
 .qnxsw.com
