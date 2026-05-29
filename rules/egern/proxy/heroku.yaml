@@ -1,14 +1,14 @@
 # Gins-Rules: heroku
 domain_suffix_set:
+- herokuapp.com
+- heroku.com
 - herokucdn.com
+- heroku-charge.com
+- herokussl.com
+- codei.sh
+- codeish.co
 - heroku.co
 - herokucharge.com
-- herokuapp.com
-- codei.sh
-- heroku.com
-- heroku.me
 - codeish.io
-- codeish.co
-- herokussl.com
-- heroku-charge.com
 - heroku-app.com
+- heroku.me
