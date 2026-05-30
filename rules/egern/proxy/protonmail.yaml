@@ -1,7 +1,7 @@
 # Gins-Rules: protonmail
 domain_suffix_set:
-- pm.me
 - proton.ch
+- pm.me
 - proton.me
-- protonvpn.com
 - protonmail.com
+- protonvpn.com

@@ -1,7 +1,7 @@
 # Gins-Rules: huya
 domain_suffix_set:
-- huya.com
-- msstatic.com
-- snapplay.com
-- peiwanlu.com
 - huyagame.cn
+- peiwanlu.com
+- snapplay.com
+- msstatic.com
+- huya.com

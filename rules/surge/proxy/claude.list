@@ -1,13 +1,13 @@
 DOMAIN,console.anthropic.com
-DOMAIN,cdn.usefathom.com
 DOMAIN,docs.anthropic.com
 DOMAIN,status.anthropic.com
 DOMAIN,api.anthropic.com
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.site
-IP-CIDR,160.79.104.0/23,no-resolve
+DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-CIDR,160.79.104.0/23,no-resolve
