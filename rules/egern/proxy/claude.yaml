@@ -6,11 +6,11 @@ domain_set:
 - api.anthropic.com
 - cdn.usefathom.com
 domain_suffix_set:
-- claude.com
 - anthropic.com
 - clau.de
-- claude.ai
 - claude.site
+- claude.ai
+- claude.com
 - claudeusercontent.com
 ip_cidr6_set:
 - 2607:6bc0::/48
