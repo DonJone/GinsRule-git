@@ -605,6 +605,7 @@ DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
 DOMAIN,mobileso.bz.mgtv.com
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN,mscrl.microsoft.com
 DOMAIN,msh.amazon.co.uk
 DOMAIN,mtalk-dev.google.com
@@ -36195,8 +36196,11 @@ DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xhlive.org
+DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro
+DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN-SUFFIX,xhub.tv
 DOMAIN-SUFFIX,xianba.net
 DOMAIN-SUFFIX,xianchawang.net
