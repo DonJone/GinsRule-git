@@ -5,11 +5,11 @@ domain_set:
 - licdn.cn.cdn20.com
 domain_suffix_set:
 - l-0005.dc-msedge.net
-- linkedin.cn
-- linkedin.com
-- bizographics.com
-- licdn.com
-- linkedin.at
 - l-0005.l-msedge.net
 - licdn.cn
+- linkedin.at
+- linkedin.com
+- linkedin.cn
+- bizographics.com
 - lnkd.in
+- licdn.com
