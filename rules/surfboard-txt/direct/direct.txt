@@ -43265,6 +43265,7 @@
 .edgeonevod1.net
 .edgeorgn.com
 .edgep.net
+.edgescloud.cloud
 .edgespeedup.com
 .edgespeedup.net
 .edgesrv.com
@@ -58148,6 +58149,7 @@
 .habitpai.com
 .habwjc.com
 .hacfatech.com
+.hacg.site
 .hach-hanna.com
 .hachicnc.com
 .hacjkq.com
@@ -73537,6 +73539,7 @@
 .jinjiang.tv
 .jinjianghotels.com
 .jinjianginns.com
+.jinjiangonline.net
 .jinjiangwater.com
 .jinjiaomh.com
 .jinjie.tech
@@ -89439,6 +89442,7 @@
 .mingqi.co
 .mingqian666.com
 .mingqu.xyz
+.mingque.com
 .mingr.com
 .mingren888.com
 .mingricctv.com
@@ -96177,6 +96181,7 @@
 .oemsocuat.download.prss.microsoft.com
 .oemssl.cn.cdn.cloudflare.net
 .oemucdn.com
+.oemxitong.com
 .oeob.cn
 .oeob.com
 .oeob.com.cn
@@ -98644,6 +98649,7 @@
 .peekpipai.com
 .peento.com
 .peepic.com
+.peer.as
 .peerkennel.com
 .peerpai.cn
 .pegbiocq.com
@@ -105218,6 +105224,7 @@
 .rationalwh.com
 .ratogh.com
 .ratoo.net
+.rauqa.net
 .rauto.com
 .ravenna0943.xyz
 .raverstern.site
@@ -118159,6 +118166,7 @@
 .syrc.org
 .syrcb.net
 .syrczpw.com
+.syrds.pro
 .syreads.com
 .syrecovery.com
 .syrhkj.com
@@ -128144,6 +128152,7 @@
 .videoxiaoyouxi.com
 .videoyx.com
 .videozaixian.com
+.vidhash.net
 .vidmate.mobi
 .vidmate.net
 .vidmatefilm.org
@@ -139504,6 +139513,7 @@
 .xn--gmq238c5fy.com
 .xn--gmqr9gdtrhuf56g.com
 .xn--h0tn34c.cc
+.xn--h5qy75o.vip
 .xn--husx9zj2eepau0se83d.com
 .xn--hutn94av9amzg.net
 .xn--hxt814e
