@@ -1196,6 +1196,7 @@ DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.bilibili.com
 DOMAIN,www.bing.com
+DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN,xp.apple.com
 DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,yangzhi.app
@@ -8699,6 +8700,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,clb.org.hk
@@ -31575,6 +31577,7 @@ DOMAIN-SUFFIX,suttoncollege.ac.uk
 DOMAIN-SUFFIX,suxib.com
 DOMAIN-SUFFIX,suxiebu.com
 DOMAIN-SUFFIX,suyangg.com
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,suzuri.jp
 DOMAIN-SUFFIX,svaboda.org
 DOMAIN-SUFFIX,svc.ms
@@ -36080,6 +36083,7 @@ DOMAIN-SUFFIX,wozy.in
 DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpewebkit.org
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqe.ac.uk

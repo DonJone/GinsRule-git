@@ -1,10 +1,10 @@
 # Gins-Rules: mytvsuper
 domain_keyword_set:
-- rthklive
 - nowtv100
+- rthklive
 domain_set:
-- mytvsuperlimited.hb.omtrdc.net
 - mytvsuperlimited.sc.omtrdc.net
+- mytvsuperlimited.hb.omtrdc.net
 domain_suffix_set:
-- tvb.com
 - mytvsuper.com
+- tvb.com
