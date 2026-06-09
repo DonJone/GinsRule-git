@@ -2,8 +2,8 @@
 domain_keyword_set:
 - jooxweb-api
 domain_suffix_set:
-- i-joox.com
 - sanook.com
+- i-joox.com
 - joox.com
 ip_cidr_set:
 - 203.205.234.0/23

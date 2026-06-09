@@ -1,15 +1,15 @@
 # Gins-Rules: binance
 domain_suffix_set:
-- appsflayer.com
-- saasexch.com
-- binance.com
-- bntrace.com
-- bnappzh.co
-- binancecnt.com
-- binance.cloud
-- bnbstatic.com
 - bnbzh.ac
-- binance.info
+- binance.com
 - binancefuture.com
+- bnbstatic.com
+- bnappzh.co
+- bntrace.com
 - saasexch.cc
 - binance.me
+- binance.cloud
+- appsflayer.com
+- binance.info
+- saasexch.com
+- binancecnt.com

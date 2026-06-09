@@ -2,21 +2,21 @@
 domain_set:
 - d2wy8f7a9ursnm.cloudfront.net
 - auth.docker.com
-- d36jcksde1wxzq.cloudfront.net
 - hub.docker.com
-- api.docker.com
-- production.cloudflare.docker.com
-- auth.docker.io
-- d1q6f0aelx0por.cloudfront.net
-- login.docker.com
-- registry-1.docker.io
-- desktop.docker.com
-- registry.scout.docker.com
 - api.dso.docker.com
+- desktop.docker.com
+- production.cloudflare.docker.com
+- registry-1.docker.io
+- registry.scout.docker.com
+- d36jcksde1wxzq.cloudfront.net
+- login.docker.com
+- d1q6f0aelx0por.cloudfront.net
+- auth.docker.io
+- api.docker.com
 domain_suffix_set:
-- dhi.io
 - dockerhub.com
 - docker.io
 - dockerstatus.com
 - docker.com
+- dhi.io
 - compose-spec.io
