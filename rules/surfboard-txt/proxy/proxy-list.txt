@@ -22841,6 +22841,7 @@
 .nxta.org
 .nxtdig.com.hk
 .nxtdig.com.tw
+.nxtv.jp
 .ny.stgloballink.com
 .ny1.com
 .nyaa.eu
@@ -31391,6 +31392,9 @@
 .understanding-inequalities.ac.uk
 .understandingsociety.ac.uk
 .underwoodammo.com
+.unext-info.jp
+.unext.co.jp
+.unext.jp
 .unfiltered.news
 .ungrounded.net
 .unholyknight.com

@@ -1,5 +1,5 @@
 # Gins-Rules: okx
 domain_suffix_set:
+- oklink.com
 - okex.com
 - okx.com
-- oklink.com
