@@ -2,18 +2,18 @@
 domain_keyword_set:
 - cn-hk-eq-bcache-
 domain_set:
-- api.biliapi.com
-- app.biliapi.com
-- app.bilibili.com
-- app.biliapi.net
-- cache.video.iqiyi.com
-- grpc.biliapi.net
-- m.bilibili.com
 - upos-hz-mirrorakam.akamaized.net
 - www.bilibili.com
+- m.bilibili.com
+- app.biliapi.net
+- app.biliapi.com
 - mobileso.bz.mgtv.com
 - api.biliapi.net
+- grpc.biliapi.net
+- api.biliapi.com
 - api.bilibili.com
+- app.bilibili.com
+- cache.video.iqiyi.com
 domain_suffix_set:
 - api.mgtv.com
 ip_cidr_set:

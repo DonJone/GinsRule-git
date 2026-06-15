@@ -1,14 +1,14 @@
 # Gins-Rules: appletv
 domain_set:
 - play-edge.itunes.apple.com
+- hls-amt.itunes.apple.com
+- np-edge.itunes.apple.com
+- hls.itunes.apple.com
 - tv.applemusic.com
 - uts-api.itunes.apple.com
-- hls-amt.itunes.apple.com
-- hls.itunes.apple.com
-- np-edge.itunes.apple.com
 domain_suffix_set:
 - trailers.apple.com
 - tv.apple.com
 user_agent_set:
-- com.apple.tv*
 - AppleTV*
+- com.apple.tv*
