@@ -13429,6 +13429,7 @@
 +.aichat.net
 +.aichat1234.com
 +.aichaxiansuo.com
++.aichaxun.com
 +.aichehe.com
 +.aichehome.com
 +.aichi-zhe.com
@@ -18861,6 +18862,7 @@
 +.bdcaigou.cn
 +.bdcases.org.cn
 +.bdcb.cc
++.bdcgslb.com
 +.bdcgz.com
 +.bdchangtujs.com
 +.bdchf.top
@@ -26321,6 +26323,7 @@
 +.chartboost-china.com
 +.chase-secure55.wiki
 +.chasedorisu.com
++.chasedream.com
 +.chaseyanyu.net
 +.chashebao.com
 +.chashudi.com
@@ -33231,6 +33234,7 @@
 +.csgjhzzx.com
 +.csgjjt.com
 +.csgkjt.com
++.csgky.net
 +.csgmall.com.cn
 +.csgocn.net
 +.csgongshui.com
@@ -65357,6 +65361,7 @@
 +.ikuncdnfb.com
 +.ikunpay.com
 +.ikupan.me
++.ikutu.com
 +.ikvoaxzw.com
 +.ikx.me
 +.ikyuedu.cn
@@ -65425,6 +65430,7 @@
 +.ilmgq.com
 +.ilohas.com
 +.iloli.bid
++.iloli.love
 +.iloli.xin
 +.ilongre.com
 +.ilongyuan.cn
@@ -65775,6 +65781,7 @@
 +.imt519.com
 +.imt519.com.cn
 +.imtaweb.net
++.imtedge.com
 +.imtics.com
 +.imtmp.net
 +.imtodo.cn
@@ -69397,6 +69404,7 @@
 +.jiemogame.cn
 +.jiemogame.com
 +.jiemoselect.com
++.jiemu5.com
 +.jieniuzevoto.com
 +.jienyl.com
 +.jiepai.net
@@ -74585,6 +74593,7 @@
 +.kfcbest.com
 +.kfcdn.com
 +.kfcjrl.com
++.kfcrm.com
 +.kfd3sm2c.com
 +.kfdcc.com
 +.kffone.com
@@ -76278,6 +76287,7 @@
 +.kunduo.com
 +.kungfucloud.com
 +.kungfuenglish.com
++.kungfumars.com
 +.kunguankeji.com
 +.kunguanyx.net
 +.kunjuke.com
@@ -83423,6 +83433,7 @@
 +.mdnice.com
 +.mdouvip.com
 +.mdouwz.com
++.mdown.asia
 +.mdp-mm.com
 +.mdpda.com
 +.mdpetrotech.com
@@ -89417,6 +89428,7 @@
 +.niuk12020gi.com
 +.niukk.com
 +.niuming147.com
++.niumowang.com
 +.niunai.com
 +.niunaibox.com
 +.niunaios.com
@@ -92405,6 +92417,7 @@
 +.orayos.net
 +.orbiepharm.com
 +.orbitmes.com
++.orbrand.com
 +.orcadt.com
 +.orcaterm.com
 +.orchome.com
@@ -96704,6 +96717,7 @@
 +.qgyksr.com
 +.qgyqshz.com
 +.qgysj.org
++.qgyyl.com
 +.qgyyzs.net
 +.qgzb.com.cn
 +.qgzb.net
@@ -117295,6 +117309,7 @@
 +.toast.pub
 +.toaw.net
 +.tobaccochina.com
++.tobaccodb.org
 +.tobaccosz.com
 +.tobebetterjavaer.com
 +.toberp.com
@@ -118671,6 +118686,7 @@
 +.ttnea.com
 +.ttnongli.com
 +.ttnqh.com
++.ttoffice.net
 +.ttongda.com
 +.ttpaicdn.com
 +.ttpaihang.com
@@ -124660,6 +124676,7 @@
 +.weishipin.com
 +.weishishuhyuan.com
 +.weishishuyuan.com
++.weishucdn.cloud
 +.weisiliang.com
 +.weismarts.com
 +.weistang.com
@@ -130767,6 +130784,7 @@
 +.xindongfangbian.xyz
 +.xindonghuyu123.com
 +.xindongnvsheng.com
++.xindonshan.com
 +.xindu.cc
 +.xinduo.com
 +.xinduoad.com
@@ -131217,6 +131235,7 @@
 +.xinruiyun.cn
 +.xinsanbanbao.com
 +.xinsankeji.com
++.xinsannong.com
 +.xinsdn.com
 +.xinsenz.com
 +.xinsf.cc
@@ -134012,6 +134031,7 @@
 +.xxkucun.com
 +.xxkxjx.net
 +.xxkxw.net
++.xxlab.tech
 +.xxlcn.com
 +.xxlifexx.com
 +.xxliudsp.com
@@ -149698,6 +149718,7 @@
 103.79.200.0/22
 103.79.208.0/21
 103.79.228.0/23
+103.79.228.0/24
 103.79.24.0/21
 103.79.24.0/22
 103.79.24.0/23
@@ -156432,7 +156453,6 @@
 202.121.176.0/21
 202.121.192.0/20
 202.121.208.0/24
-202.121.224.0/23
 202.121.240.0/21
 202.121.252.0/22
 202.121.28.0/22
@@ -163596,7 +163616,6 @@
 2404:bc0:4300::/44
 2404:bc0:4400::/43
 2404:bc0:4500::/43
-2404:bc0:4620::/44
 2404:bc0:4f00::/43
 2404:bc0::/32
 2404:bc40::/32
@@ -167494,7 +167513,6 @@
 2a14:7586:6104::/47
 2a14:7586:6106::/48
 2a14:7586:6110::/48
-2a14:7586:6113::/48
 2a14:7586:6300::/44
 2a14:7586:6500::/48
 2a14:7dc0:506::/48
@@ -167781,7 +167799,6 @@
 42.240.224.0/20
 42.240.240.0/21
 42.240.248.0/23
-42.240.48.0/24
 42.240.8.0/22
 42.242.0.0/15
 42.244.0.0/14

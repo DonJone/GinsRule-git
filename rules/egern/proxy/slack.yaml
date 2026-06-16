@@ -2,7 +2,7 @@
 domain_suffix_set:
 - slack-msgs.com
 - slack-edge.com
-- slack-files.com
-- slack.com
 - slack.engineering
 - slack-imgs.com
+- slack.com
+- slack-files.com

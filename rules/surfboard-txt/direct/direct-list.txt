@@ -13429,6 +13429,7 @@
 .aichat.net
 .aichat1234.com
 .aichaxiansuo.com
+.aichaxun.com
 .aichehe.com
 .aichehome.com
 .aichi-zhe.com
@@ -18861,6 +18862,7 @@
 .bdcaigou.cn
 .bdcases.org.cn
 .bdcb.cc
+.bdcgslb.com
 .bdcgz.com
 .bdchangtujs.com
 .bdchf.top
@@ -26321,6 +26323,7 @@
 .chartboost-china.com
 .chase-secure55.wiki
 .chasedorisu.com
+.chasedream.com
 .chaseyanyu.net
 .chashebao.com
 .chashudi.com
@@ -33231,6 +33234,7 @@
 .csgjhzzx.com
 .csgjjt.com
 .csgkjt.com
+.csgky.net
 .csgmall.com.cn
 .csgocn.net
 .csgongshui.com
@@ -65357,6 +65361,7 @@
 .ikuncdnfb.com
 .ikunpay.com
 .ikupan.me
+.ikutu.com
 .ikvoaxzw.com
 .ikx.me
 .ikyuedu.cn
@@ -65425,6 +65430,7 @@
 .ilmgq.com
 .ilohas.com
 .iloli.bid
+.iloli.love
 .iloli.xin
 .ilongre.com
 .ilongyuan.cn
@@ -65775,6 +65781,7 @@
 .imt519.com
 .imt519.com.cn
 .imtaweb.net
+.imtedge.com
 .imtics.com
 .imtmp.net
 .imtodo.cn
@@ -69397,6 +69404,7 @@
 .jiemogame.cn
 .jiemogame.com
 .jiemoselect.com
+.jiemu5.com
 .jieniuzevoto.com
 .jienyl.com
 .jiepai.net
@@ -74585,6 +74593,7 @@
 .kfcbest.com
 .kfcdn.com
 .kfcjrl.com
+.kfcrm.com
 .kfd3sm2c.com
 .kfdcc.com
 .kffone.com
@@ -76278,6 +76287,7 @@
 .kunduo.com
 .kungfucloud.com
 .kungfuenglish.com
+.kungfumars.com
 .kunguankeji.com
 .kunguanyx.net
 .kunjuke.com
@@ -83423,6 +83433,7 @@
 .mdnice.com
 .mdouvip.com
 .mdouwz.com
+.mdown.asia
 .mdp-mm.com
 .mdpda.com
 .mdpetrotech.com
@@ -89417,6 +89428,7 @@
 .niuk12020gi.com
 .niukk.com
 .niuming147.com
+.niumowang.com
 .niunai.com
 .niunaibox.com
 .niunaios.com
@@ -92405,6 +92417,7 @@
 .orayos.net
 .orbiepharm.com
 .orbitmes.com
+.orbrand.com
 .orcadt.com
 .orcaterm.com
 .orchome.com
@@ -96704,6 +96717,7 @@
 .qgyksr.com
 .qgyqshz.com
 .qgysj.org
+.qgyyl.com
 .qgyyzs.net
 .qgzb.com.cn
 .qgzb.net
@@ -117295,6 +117309,7 @@
 .toast.pub
 .toaw.net
 .tobaccochina.com
+.tobaccodb.org
 .tobaccosz.com
 .tobebetterjavaer.com
 .toberp.com
@@ -118671,6 +118686,7 @@
 .ttnea.com
 .ttnongli.com
 .ttnqh.com
+.ttoffice.net
 .ttongda.com
 .ttpaicdn.com
 .ttpaihang.com
@@ -124660,6 +124676,7 @@
 .weishipin.com
 .weishishuhyuan.com
 .weishishuyuan.com
+.weishucdn.cloud
 .weisiliang.com
 .weismarts.com
 .weistang.com
@@ -130767,6 +130784,7 @@
 .xindongfangbian.xyz
 .xindonghuyu123.com
 .xindongnvsheng.com
+.xindonshan.com
 .xindu.cc
 .xinduo.com
 .xinduoad.com
@@ -131217,6 +131235,7 @@
 .xinruiyun.cn
 .xinsanbanbao.com
 .xinsankeji.com
+.xinsannong.com
 .xinsdn.com
 .xinsenz.com
 .xinsf.cc
@@ -134012,6 +134031,7 @@
 .xxkucun.com
 .xxkxjx.net
 .xxkxw.net
+.xxlab.tech
 .xxlcn.com
 .xxlifexx.com
 .xxliudsp.com
