@@ -1,7 +1,7 @@
 # Gins-Rules: mihoyo
 domain_suffix_set:
-- yuanshen.com
-- miyoushe.com
-- bh3.com
-- mob.com
 - mihoyo.com
+- miyoushe.com
+- yuanshen.com
+- mob.com
+- bh3.com
