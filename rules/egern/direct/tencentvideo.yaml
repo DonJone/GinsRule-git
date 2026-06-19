@@ -1,5 +1,5 @@
 # Gins-Rules: tencentvideo
 domain_suffix_set:
+- video.qq.com
 - v.smtcdns.com
 - v.qq.com
-- video.qq.com

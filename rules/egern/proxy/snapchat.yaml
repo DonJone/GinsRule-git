@@ -1,9 +1,9 @@
 # Gins-Rules: snapchat
 domain_suffix_set:
 - sc-cdn.net
-- snap.com
 - sc-static.net
-- sc-jpl.com
 - snapchat.com
 - sc-prod.net
 - snapkit.co
+- snap.com
+- sc-jpl.com
