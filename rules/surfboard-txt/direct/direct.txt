@@ -1848,6 +1848,7 @@
 .114-91.com
 .114.com.cn
 .114.org
+.114.tel
 .1145858.com
 .11467.com
 .11478.com
@@ -17552,6 +17553,7 @@
 .asilu.com
 .asim-emc.com
 .asimi8.com
+.asinking.com
 .asit.cc
 .asjnu.com
 .ask.amd.com
@@ -19426,7 +19428,9 @@
 .bao265.com
 .bao315.com
 .bao369.com
+.baoanbi.com
 .baoanchina.com
+.baoangold.com
 .baob123.com
 .baobanli.com
 .baobao001.com
@@ -29057,6 +29061,7 @@
 .chinaejiao.com
 .chinaemail.cn
 .chinaembassy.at
+.chinaemd.com
 .chinaepg.cn
 .chinaepoxy.com
 .chinaepu.com
@@ -29764,6 +29769,7 @@
 .chinawriter.com.cn
 .chinaws.net
 .chinawssdxh.com
+.chinawu.com
 .chinawudang.com
 .chinawulong.com
 .chinawutong.com
@@ -36153,6 +36159,7 @@
 .cyudun.com
 .cyudun.net
 .cyue.vip
+.cyuegame.com
 .cyuew.com
 .cyuizkzpv.com
 .cyuntech.com
@@ -53174,6 +53181,7 @@
 .goldsunchn.com
 .goldsunmachinery.com
 .goldsupplier.com
+.goldtianyan.com
 .goldvole.com
 .goldwaterhk.com
 .goldwavechina.cn
@@ -69618,6 +69626,7 @@
 .inmeng.net
 .inmense.site
 .inmiao.com
+.inmis.com
 .inmuu.com
 .inmyshow.com
 .inmyworld.cn
@@ -83481,6 +83490,7 @@
 .lingxinai.com
 .lingxing.com
 .lingxingcai.com
+.lingxingerp.com
 .lingxingkj.com
 .lingxingxinli.com
 .lingxintong.com
@@ -91947,6 +91957,7 @@
 .myhkw.com
 .myhl-china315.com
 .myhll.cn
+.myhloli.com
 .myhm.org
 .myholley.cn
 .myhomeok.com
@@ -92158,6 +92169,7 @@
 .mysore-yoga.com
 .mysoulmate.cn
 .myspain.org
+.mysqil.com
 .mysql360.com
 .mysqlab.net
 .mysqlpub.com
@@ -125949,6 +125961,7 @@
 .tzuniverse.com
 .tzvec.com
 .tzvtc.com
+.tzwdsoft.com
 .tzwpco.com
 .tzxingtang.com
 .tzxwzx.com
@@ -135644,6 +135657,7 @@
 .xcstuido.com
 .xcsyy.com
 .xctgdpai.cn
+.xcthings.com
 .xctmr.com
 .xcukezmr.com
 .xcultur.com
@@ -137662,6 +137676,7 @@
 .xinghejoy.com
 .xinghengedu.com
 .xingheoa.com
+.xinghewanglu.com
 .xinghua.org.cn
 .xinghuaport.com
 .xinghuazixun.com
@@ -148485,6 +148500,8 @@
 .zacdn.cn
 .zachina.org
 .zack.asia
+.zaconad.com
+.zaconbs.com
 .zacveh.com
 .zad1.cn
 .zadebt.cn
