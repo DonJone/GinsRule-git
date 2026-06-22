@@ -18470,6 +18470,7 @@
 +.b-quan.net
 +.b-raymedia.com
 +.b.biz
++.b.c2r.ts.cdn.office.net
 +.b01.net
 +.b02f0d7f3745ba7c.com
 +.b041e427810281.beer
@@ -45670,6 +45671,7 @@
 +.f-insight.com
 +.f-stack.org
 +.f.biz
++.f.c2r.ts.cdn.office.net
 +.f.cx
 +.f.video.weibocdn.com
 +.f008.com
@@ -101065,6 +101067,7 @@
 +.pw1999.com
 +.pw88.com
 +.pwand.com
++.pwcinema.com
 +.pwdding.icu
 +.pwesports.cn
 +.pwfutm.cn
@@ -111436,6 +111439,7 @@
 +.shekou.com
 +.shelfpai.cn
 +.shelive.net
++.shell.cdn.office.net
 +.shellpub.com
 +.shellsec.com
 +.shelter-china.com
@@ -116570,6 +116574,7 @@
 +.staticfile.org
 +.statickksmg.com
 +.statics.cc
++.statics.teams.cdn.office.net
 +.staticsdd.com
 +.staticsoe.com
 +.staticsoem.com
@@ -117537,6 +117542,7 @@
 +.surepush.cn
 +.surerp.com
 +.surface.download.prss.microsoft.com
++.surface.downloads.prss.microsoft.com
 +.surfacetreatmentgroup.com
 +.surfacetreatmenttechnology.com
 +.surfcg.com
@@ -159700,6 +159706,7 @@
 118.229.0.0/20
 118.229.128.0/17
 118.229.16.0/20
+118.229.40.0/22
 118.229.96.0/19
 118.230.0.0/16
 118.230.224.0/19
@@ -161624,7 +161631,6 @@
 140.75.0.0/16
 14033.live.streamtheworld.com
 141.11.219.0/24
-141.11.50.0/23
 141.11.51.0/24
 142.70.0.0/16
 142.86.0.0/16
@@ -161820,6 +161826,8 @@
 154.19.88.0/21
 154.19.96.0/19
 154.197.128.0/17
+154.203.204.0/23
+154.203.244.0/23
 154.209.251.0/24
 154.36.92.0/23
 154.72.42.0/24
@@ -171940,7 +171948,7 @@
 2406:840:e580::/41
 2406:840:e600::/39
 2406:840:e600::/44
-2406:840:e620::/47
+2406:840:e621::/48
 2406:840:e800::/39
 2406:840:e80f::/48
 2406:840:ea00::/40
@@ -172413,7 +172421,6 @@
 2408:4016:1000::/36
 2408:4016:100::/40
 2408:4016:10::/44
-2408:4016:1::/48
 2408:4016:2000::/35
 2408:4016:200::/39
 2408:4016:20::/43
@@ -174908,6 +174915,7 @@
 2a0f:1cc5:2d01::/48
 2a0f:1cc5:2d03::/48
 2a0f:1cc5:3200::/46
+2a0f:1cc5:3203::/48
 2a0f:1cc5:3204::/47
 2a0f:1cc5:3206::/48
 2a0f:1cc5:3222::/48
@@ -175058,6 +175066,7 @@
 2a14:7581:30b6::/48
 2a14:7581:ffb::/48
 2a14:7583:f220::/43
+2a14:7583:f240::/42
 2a14:7583:f244::/48
 2a14:7583:f248::/48
 2a14:7583:f260::/43
@@ -177670,6 +177679,10 @@ assets2.xboxlive.cn
 astro1.rastream.com
 auth.music.apple.com
 avail.googleflights.net
+azuremigrate.download.prss.microsoft.com
+azuremigratetest.download.prss.microsoft.com
+azurestackhub.download.prss.microsoft.com
+azurestackhubuat.download.prss.microsoft.com
 b.c2r.ts.cdn.office.net
 bag-cdn.itunes-apple.com.akadns.net
 bag.itunes.apple.com
@@ -177694,6 +177707,7 @@ cache-management-prod.google.com
 cache.pack.google.com
 cast.news98.com.tw
 cast.uforadio.com.tw
+cbdstest.download.prss.microsoft.com
 cbsnewshd-lh.akamaihd.net
 cdn-cn.apple-mapkit.com
 cdn-cn1.apple-mapkit.com
@@ -177752,6 +177766,8 @@ cn.download.nvidia.com
 cn.widevine.com
 cn.windowssearch.com
 cnappinstall.googleadapis.com
+collaborate.download.prss.microsoft.com
+collaborateppe.download.prss.microsoft.com
 communities.apple.com
 config.ubnt.com
 configuration.apple.com
@@ -177826,6 +177842,8 @@ download.qatp1.net
 download.tensorflow.google.com
 download.visualstudio.microsoft.com
 downloaddispatch.itunes.apple.com
+dreamspark.download.prss.microsoft.com
+dreamsparkuat.download.prss.microsoft.com
 e1.vdowowza.vip.hk1.tvb.com
 ea2cn-dev-outlet.dell.com
 ea2cn-prod-outlet.dell.com
@@ -177989,6 +178007,8 @@ is4-ssl.mzstatic.com
 is4.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
+itacademy.download.prss.microsoft.com
+itacademyuat.download.prss.microsoft.com
 itunes-apple.com.akadns.net
 itunes.apple.com
 itunesconnect.apple.com
@@ -178030,6 +178050,8 @@ kwmu-flash.streamguys1.com
 l2-uberproxy.corp.google.com
 lb.streaming.sk
 learn.microsoft.com
+lex.download.prss.microsoft.com
+lexuat.download.prss.microsoft.com
 lf3-static.bytednsdoc.com
 live-350k.streamingfast.net
 live-echotv.cdnvideo.ru
@@ -178074,12 +178096,14 @@ m3u8channel-yj.wuxianyaan.com
 m3u8channel.wuxianyaan.com
 mam.netease.com
 maps.apple.com
+mbs.download.prss.microsoft.com
 mdr.ksn.kaspersky-labs.com
 media.cdn.queniuqe.com
 media.fantv.hk
 media.joycorp.co.kr
 media.trrtv.com
 mediaprima.rastream.com
+mensura.cdn-apple.com
 menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
@@ -178092,8 +178116,14 @@ monitoring.qpdp1.net
 moo.qq.com
 moocs.unipus.cn
 movie.mcas.jp
+mpnbenefits.download.prss.microsoft.com
+mpnbenefitsrtl.download.prss.microsoft.com
+mpnbenefitsrtluat.download.prss.microsoft.com
+msdn.download.prss.microsoft.com
+msdprod-ad.download.prss.microsoft.com
 msg.umeng.com
 msg.umengcloud.com
+msproduct.download.prss.microsoft.com
 mtalk.google.com
 music.apple.com
 musicstatus.music.apple.com
@@ -178136,12 +178166,16 @@ ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 ocsp2.globalsign.com
 oemsoc.download.prss.microsoft.com
+oemsocuat.download.prss.microsoft.com
 officecdn.microsoft.com
+officemkt.download.prss.microsoft.com
+officemktuat.download.prss.microsoft.com
 opencourse.pku.edu.cn
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
+osrelease.download.prss.microsoft.com
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
 ott-live.olympicchannel.com
@@ -178234,6 +178268,7 @@ rfcmedia.streamguys1.com
 rfimonde-lh.akamaihd.net
 rmonitor.qq.com
 rmtv24hweblive-lh.akamaihd.net
+rsm.download.prss.microsoft.com
 rthklive1-lh.akamaihd.net
 rthklive2-lh.akamaihd.net
 rtvcdn.com.au
@@ -178321,6 +178356,8 @@ store.apple.com.edgekey.net
 store.apple.com.edgekey.net.globalredir.akadns.net
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
+storecorefulfillment.download.prss.microsoft.com
+storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 stream.baoxinwen.com
 stream.dybtv.com
@@ -178354,6 +178391,7 @@ sup.l.google.com
 support-china.apple-support.akadns.net
 support.apple.com
 supportassist.dell.com
+surface.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com
 swallow-apple-com.v.aaplimg.com
 swallow.apple.com
@@ -178419,7 +178457,9 @@ video-public-1258344701.shiply-cdn.qq.com
 video-search-1258344701.shiply-cdn.qq.com
 video-vip-1258344701.shiply-cdn.qq.com
 vip888.kuyun99.com
+vlportal.download.prss.microsoft.com
 voa-lh.akamaihd.net
+volic.download.prss.microsoft.com
 vscode.download.prss.microsoft.com
 vss.cbnmtv.com
 vweixinf.tc.qq.com
@@ -178436,6 +178476,7 @@ weatherkit.apple.com
 weixin.com
 weixin110.qq.com
 weizhiyundong.list
+windbg.download.prss.microsoft.com
 wosu.streamguys1.com
 wowza-stream.wbur.org
 wowza.montevideo.com.uy

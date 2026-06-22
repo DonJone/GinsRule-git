@@ -13827,8 +13827,10 @@
 +.gofundme.com
 +.gog-cdn-fastly-cp77.gog.com
 +.gog-cdn-fastly.gog.com
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogeo.ac.uk
 +.gogettaxi.org
 +.gogle.com
@@ -40213,6 +40215,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.bilibili.com
 www.bing.com
+www.microsoft.com
 www.quora.com.cdn.cloudflare.net
 xp.apple.com
 yandex-pogoda.static-storage.net

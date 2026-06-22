@@ -1210,6 +1210,7 @@ DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.bilibili.com
 DOMAIN,www.bing.com
+DOMAIN,www.microsoft.com
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN,xp.apple.com
 DOMAIN,yandex-pogoda.static-storage.net
@@ -15138,8 +15139,10 @@ DOMAIN-SUFFIX,gofuckmenow.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gog-cdn-fastly-cp77.gog.com
 DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gogeo.ac.uk
 DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com

@@ -17302,6 +17302,7 @@
 .b-quan.net
 .b-raymedia.com
 .b.biz
+.b.c2r.ts.cdn.office.net
 .b01.net
 .b02f0d7f3745ba7c.com
 .b041e427810281.beer
@@ -43232,6 +43233,7 @@
 .f-insight.com
 .f-stack.org
 .f.biz
+.f.c2r.ts.cdn.office.net
 .f.cx
 .f008.com
 .f015dfc4510292.beer
@@ -95759,6 +95761,7 @@
 .pw1999.com
 .pw88.com
 .pwand.com
+.pwcinema.com
 .pwdding.icu
 .pwesports.cn
 .pwfutm.cn
@@ -105602,6 +105605,7 @@
 .shekou.com
 .shelfpai.cn
 .shelive.net
+.shell.cdn.office.net
 .shellpub.com
 .shellsec.com
 .shelter-china.com
@@ -110498,6 +110502,7 @@
 .staticfile.org
 .statickksmg.com
 .statics.cc
+.statics.teams.cdn.office.net
 .staticsdd.com
 .staticsoe.com
 .staticsoem.com
@@ -111408,6 +111413,7 @@
 .surepush.cn
 .surerp.com
 .surface.download.prss.microsoft.com
+.surface.downloads.prss.microsoft.com
 .surfacetreatmentgroup.com
 .surfacetreatmenttechnology.com
 .surfcg.com
@@ -146763,6 +146769,10 @@ assets2.xboxlive.cn
 astro1.rastream.com
 auth.music.apple.com
 avail.googleflights.net
+azuremigrate.download.prss.microsoft.com
+azuremigratetest.download.prss.microsoft.com
+azurestackhub.download.prss.microsoft.com
+azurestackhubuat.download.prss.microsoft.com
 b.c2r.ts.cdn.office.net
 bag-cdn.itunes-apple.com.akadns.net
 bag.itunes.apple.com
@@ -146785,6 +146795,7 @@ cache-management-prod.google.com
 cache.pack.google.com
 cast.news98.com.tw
 cast.uforadio.com.tw
+cbdstest.download.prss.microsoft.com
 cbsnewshd-lh.akamaihd.net
 cdn-cn.apple-mapkit.com
 cdn-cn1.apple-mapkit.com
@@ -146840,6 +146851,8 @@ cn-smp-paymentservices.apple.com
 cn.download.nvidia.com
 cn.widevine.com
 cn.windowssearch.com
+collaborate.download.prss.microsoft.com
+collaborateppe.download.prss.microsoft.com
 communities.apple.com
 config.ubnt.com
 configuration.apple.com
@@ -146870,7 +146883,6 @@ dc1.ksn.kaspersky-labs.com
 dd-cdn.origin-apple.com.akadns.net
 dds.dell.com
 dejavu.apple.com
-devblogs.microsoft.com
 developer.microsoft.com
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
@@ -146910,6 +146922,8 @@ download.mlcc.google.com
 download.tensorflow.google.com
 download.visualstudio.microsoft.com
 downloaddispatch.itunes.apple.com
+dreamspark.download.prss.microsoft.com
+dreamsparkuat.download.prss.microsoft.com
 e1.vdowowza.vip.hk1.tvb.com
 ea2cn-dev-outlet.dell.com
 ea2cn-prod-outlet.dell.com
@@ -147057,6 +147071,8 @@ is4-ssl.mzstatic.com
 is4.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
+itacademy.download.prss.microsoft.com
+itacademyuat.download.prss.microsoft.com
 itunes-apple.com.akadns.net
 itunes.apple.com
 itunesconnect.apple.com
@@ -147097,6 +147113,8 @@ kut-hls.streamguys1.com
 kwmu-flash.streamguys1.com
 lb.streaming.sk
 learn.microsoft.com
+lex.download.prss.microsoft.com
+lexuat.download.prss.microsoft.com
 live-350k.streamingfast.net
 live-echotv.cdnvideo.ru
 live.btgdt.com
@@ -147134,12 +147152,14 @@ m3u8channel-yc.wuxianyaan.com
 m3u8channel-yj.wuxianyaan.com
 m3u8channel.wuxianyaan.com
 maps.apple.com
+mbs.download.prss.microsoft.com
 mdr.ksn.kaspersky-labs.com
 media.cdn.queniuqe.com
 media.fantv.hk
 media.joycorp.co.kr
 media.trrtv.com
 mediaprima.rastream.com
+mensura.cdn-apple.com
 menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
@@ -147150,6 +147170,12 @@ ml.cdn-apple.com
 mobile.ccdntech.com
 moocs.unipus.cn
 movie.mcas.jp
+mpnbenefits.download.prss.microsoft.com
+mpnbenefitsrtl.download.prss.microsoft.com
+mpnbenefitsrtluat.download.prss.microsoft.com
+msdn.download.prss.microsoft.com
+msdprod-ad.download.prss.microsoft.com
+msproduct.download.prss.microsoft.com
 music.apple.com
 musicstatus.music.apple.com
 mvod.itunes.apple.com
@@ -147188,12 +147214,16 @@ ocsp.pki.goog
 ocsp2.apple.com
 ocsp2.globalsign.com
 oemsoc.download.prss.microsoft.com
+oemsocuat.download.prss.microsoft.com
 officecdn.microsoft.com
+officemkt.download.prss.microsoft.com
+officemktuat.download.prss.microsoft.com
 opencourse.pku.edu.cn
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
+osrelease.download.prss.microsoft.com
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
 ott-live.olympicchannel.com
@@ -147268,12 +147298,11 @@ redirector.offline-maps.gvt1.com
 redirector.snap.gvt1.com
 redirector.xn--ngstr-lra8j.com
 refresh-bkg.activation-v2.kaspersky.com
-res-1.cdn.office.net
-res.cdn.office.net
 rfcmedia.streamguys1.com
 rfimonde-lh.akamaihd.net
 rmonitor.qq.com
 rmtv24hweblive-lh.akamaihd.net
+rsm.download.prss.microsoft.com
 rthklive1-lh.akamaihd.net
 rthklive2-lh.akamaihd.net
 rtvcdn.com.au
@@ -147350,6 +147379,8 @@ store.apple.com.edgekey.net
 store.apple.com.edgekey.net.globalredir.akadns.net
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
+storecorefulfillment.download.prss.microsoft.com
+storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 stream.baoxinwen.com
 stream.dybtv.com
@@ -147377,6 +147408,7 @@ su.itunes.apple.com
 support-china.apple-support.akadns.net
 support.apple.com
 supportassist.dell.com
+surface.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com
 swallow-apple-com.v.aaplimg.com
 swallow.apple.com
@@ -147422,7 +147454,9 @@ v1.one-tv.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
 vip888.kuyun99.com
+vlportal.download.prss.microsoft.com
 voa-lh.akamaihd.net
+volic.download.prss.microsoft.com
 vscode.download.prss.microsoft.com
 vss.cbnmtv.com
 vz.download.prss.microsoft.com
@@ -147436,6 +147470,7 @@ weather-map.apple.com
 weather-map2.apple.com
 weatherkit.apple.com
 weixin.com
+windbg.download.prss.microsoft.com
 wosu.streamguys1.com
 wowza-stream.wbur.org
 wowza.montevideo.com.uy

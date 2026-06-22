@@ -66,6 +66,10 @@ DOMAIN,assets2.xboxlive.cn
 DOMAIN,astro1.rastream.com
 DOMAIN,auth.music.apple.com
 DOMAIN,avail.googleflights.net
+DOMAIN,azuremigrate.download.prss.microsoft.com
+DOMAIN,azuremigratetest.download.prss.microsoft.com
+DOMAIN,azurestackhub.download.prss.microsoft.com
+DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN,bag.itunes.apple.com
@@ -88,6 +92,7 @@ DOMAIN,cache-management-prod.google.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cast.news98.com.tw
 DOMAIN,cast.uforadio.com.tw
+DOMAIN,cbdstest.download.prss.microsoft.com
 DOMAIN,cbsnewshd-lh.akamaihd.net
 DOMAIN,cdn-cn.apple-mapkit.com
 DOMAIN,cdn-cn1.apple-mapkit.com
@@ -143,6 +148,8 @@ DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cn.widevine.com
 DOMAIN,cn.windowssearch.com
+DOMAIN,collaborate.download.prss.microsoft.com
+DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,communities.apple.com
 DOMAIN,config.ubnt.com
 DOMAIN,configuration.apple.com
@@ -173,7 +180,6 @@ DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
-DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
@@ -213,6 +219,8 @@ DOMAIN,download.mlcc.google.com
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,dreamspark.download.prss.microsoft.com
+DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN,e1.vdowowza.vip.hk1.tvb.com
 DOMAIN,ea2cn-dev-outlet.dell.com
 DOMAIN,ea2cn-prod-outlet.dell.com
@@ -360,6 +368,8 @@ DOMAIN,is4-ssl.mzstatic.com
 DOMAIN,is4.mzstatic.com
 DOMAIN,is5-ssl.mzstatic.com
 DOMAIN,is5.mzstatic.com
+DOMAIN,itacademy.download.prss.microsoft.com
+DOMAIN,itacademyuat.download.prss.microsoft.com
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
@@ -400,6 +410,8 @@ DOMAIN,kut-hls.streamguys1.com
 DOMAIN,kwmu-flash.streamguys1.com
 DOMAIN,lb.streaming.sk
 DOMAIN,learn.microsoft.com
+DOMAIN,lex.download.prss.microsoft.com
+DOMAIN,lexuat.download.prss.microsoft.com
 DOMAIN,live-350k.streamingfast.net
 DOMAIN,live-echotv.cdnvideo.ru
 DOMAIN,live.btgdt.com
@@ -437,12 +449,14 @@ DOMAIN,m3u8channel-yc.wuxianyaan.com
 DOMAIN,m3u8channel-yj.wuxianyaan.com
 DOMAIN,m3u8channel.wuxianyaan.com
 DOMAIN,maps.apple.com
+DOMAIN,mbs.download.prss.microsoft.com
 DOMAIN,mdr.ksn.kaspersky-labs.com
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN,media.fantv.hk
 DOMAIN,media.joycorp.co.kr
 DOMAIN,media.trrtv.com
 DOMAIN,mediaprima.rastream.com
+DOMAIN,mensura.cdn-apple.com
 DOMAIN,menu-static.gog-statics.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
@@ -453,6 +467,12 @@ DOMAIN,ml.cdn-apple.com
 DOMAIN,mobile.ccdntech.com
 DOMAIN,moocs.unipus.cn
 DOMAIN,movie.mcas.jp
+DOMAIN,mpnbenefits.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
+DOMAIN,msdn.download.prss.microsoft.com
+DOMAIN,msdprod-ad.download.prss.microsoft.com
+DOMAIN,msproduct.download.prss.microsoft.com
 DOMAIN,music.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
@@ -491,12 +511,16 @@ DOMAIN,ocsp.pki.goog
 DOMAIN,ocsp2.apple.com
 DOMAIN,ocsp2.globalsign.com
 DOMAIN,oemsoc.download.prss.microsoft.com
+DOMAIN,oemsocuat.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
+DOMAIN,officemkt.download.prss.microsoft.com
+DOMAIN,officemktuat.download.prss.microsoft.com
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
+DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,ott-live.olympicchannel.com
@@ -571,12 +595,11 @@ DOMAIN,redirector.offline-maps.gvt1.com
 DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
 DOMAIN,refresh-bkg.activation-v2.kaspersky.com
-DOMAIN,res-1.cdn.office.net
-DOMAIN,res.cdn.office.net
 DOMAIN,rfcmedia.streamguys1.com
 DOMAIN,rfimonde-lh.akamaihd.net
 DOMAIN,rmonitor.qq.com
 DOMAIN,rmtv24hweblive-lh.akamaihd.net
+DOMAIN,rsm.download.prss.microsoft.com
 DOMAIN,rthklive1-lh.akamaihd.net
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,rtvcdn.com.au
@@ -653,6 +676,8 @@ DOMAIN,store.apple.com.edgekey.net
 DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,store.storeimages.apple.com.akadns.net
 DOMAIN,store.storeimages.cdn-apple.com
+DOMAIN,storecorefulfillment.download.prss.microsoft.com
+DOMAIN,storeedge.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,stream.baoxinwen.com
 DOMAIN,stream.dybtv.com
@@ -680,6 +705,7 @@ DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
 DOMAIN,supportassist.dell.com
+DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swallow.apple.com
@@ -725,7 +751,9 @@ DOMAIN,v1.one-tv.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,vip888.kuyun99.com
+DOMAIN,vlportal.download.prss.microsoft.com
 DOMAIN,voa-lh.akamaihd.net
+DOMAIN,volic.download.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vss.cbnmtv.com
 DOMAIN,vz.download.prss.microsoft.com
@@ -739,6 +767,7 @@ DOMAIN,weather-map.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
 DOMAIN,weixin.com
+DOMAIN,windbg.download.prss.microsoft.com
 DOMAIN,wosu.streamguys1.com
 DOMAIN,wowza-stream.wbur.org
 DOMAIN,wowza.montevideo.com.uy
@@ -18114,6 +18143,7 @@ DOMAIN-SUFFIX,b-quan.com
 DOMAIN-SUFFIX,b-quan.net
 DOMAIN-SUFFIX,b-raymedia.com
 DOMAIN-SUFFIX,b.biz
+DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,b01.net
 DOMAIN-SUFFIX,b02f0d7f3745ba7c.com
 DOMAIN-SUFFIX,b041e427810281.beer
@@ -44044,6 +44074,7 @@ DOMAIN-SUFFIX,f-dou.com
 DOMAIN-SUFFIX,f-insight.com
 DOMAIN-SUFFIX,f-stack.org
 DOMAIN-SUFFIX,f.biz
+DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,f.cx
 DOMAIN-SUFFIX,f008.com
 DOMAIN-SUFFIX,f015dfc4510292.beer
@@ -96571,6 +96602,7 @@ DOMAIN-SUFFIX,pw-partners.com
 DOMAIN-SUFFIX,pw1999.com
 DOMAIN-SUFFIX,pw88.com
 DOMAIN-SUFFIX,pwand.com
+DOMAIN-SUFFIX,pwcinema.com
 DOMAIN-SUFFIX,pwdding.icu
 DOMAIN-SUFFIX,pwesports.cn
 DOMAIN-SUFFIX,pwfutm.cn
@@ -106414,6 +106446,7 @@ DOMAIN-SUFFIX,sheketiandi.com
 DOMAIN-SUFFIX,shekou.com
 DOMAIN-SUFFIX,shelfpai.cn
 DOMAIN-SUFFIX,shelive.net
+DOMAIN-SUFFIX,shell.cdn.office.net
 DOMAIN-SUFFIX,shellpub.com
 DOMAIN-SUFFIX,shellsec.com
 DOMAIN-SUFFIX,shelter-china.com
@@ -111310,6 +111343,7 @@ DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statickksmg.com
 DOMAIN-SUFFIX,statics.cc
+DOMAIN-SUFFIX,statics.teams.cdn.office.net
 DOMAIN-SUFFIX,staticsdd.com
 DOMAIN-SUFFIX,staticsoe.com
 DOMAIN-SUFFIX,staticsoem.com
@@ -112220,6 +112254,7 @@ DOMAIN-SUFFIX,suremail.com.cn
 DOMAIN-SUFFIX,surepush.cn
 DOMAIN-SUFFIX,surerp.com
 DOMAIN-SUFFIX,surface.download.prss.microsoft.com
+DOMAIN-SUFFIX,surface.downloads.prss.microsoft.com
 DOMAIN-SUFFIX,surfacetreatmentgroup.com
 DOMAIN-SUFFIX,surfacetreatmenttechnology.com
 DOMAIN-SUFFIX,surfcg.com
@@ -152405,6 +152440,7 @@ IP-CIDR,118.228.40.0/21,no-resolve
 IP-CIDR,118.229.0.0/20,no-resolve
 IP-CIDR,118.229.128.0/17,no-resolve
 IP-CIDR,118.229.16.0/20,no-resolve
+IP-CIDR,118.229.40.0/22,no-resolve
 IP-CIDR,118.229.96.0/19,no-resolve
 IP-CIDR,118.230.0.0/16,no-resolve
 IP-CIDR,118.230.224.0/19,no-resolve
@@ -154310,7 +154346,6 @@ IP-CIDR,140.250.0.0/16,no-resolve
 IP-CIDR,140.255.0.0/16,no-resolve
 IP-CIDR,140.75.0.0/16,no-resolve
 IP-CIDR,141.11.219.0/24,no-resolve
-IP-CIDR,141.11.50.0/23,no-resolve
 IP-CIDR,141.11.51.0/24,no-resolve
 IP-CIDR,142.70.0.0/16,no-resolve
 IP-CIDR,142.86.0.0/16,no-resolve
@@ -154504,6 +154539,8 @@ IP-CIDR,154.19.86.0/23,no-resolve
 IP-CIDR,154.19.88.0/21,no-resolve
 IP-CIDR,154.19.96.0/19,no-resolve
 IP-CIDR,154.197.128.0/17,no-resolve
+IP-CIDR,154.203.204.0/23,no-resolve
+IP-CIDR,154.203.244.0/23,no-resolve
 IP-CIDR,154.209.251.0/24,no-resolve
 IP-CIDR,154.36.92.0/23,no-resolve
 IP-CIDR,154.72.42.0/24,no-resolve
@@ -167083,7 +167120,7 @@ IP-CIDR6,2406:840:e540::/42,no-resolve
 IP-CIDR6,2406:840:e580::/41,no-resolve
 IP-CIDR6,2406:840:e600::/39,no-resolve
 IP-CIDR6,2406:840:e600::/44,no-resolve
-IP-CIDR6,2406:840:e620::/47,no-resolve
+IP-CIDR6,2406:840:e621::/48,no-resolve
 IP-CIDR6,2406:840:e800::/39,no-resolve
 IP-CIDR6,2406:840:e80f::/48,no-resolve
 IP-CIDR6,2406:840:ea00::/40,no-resolve
@@ -167556,7 +167593,6 @@ IP-CIDR6,2408:4014::/31,no-resolve
 IP-CIDR6,2408:4016:1000::/36,no-resolve
 IP-CIDR6,2408:4016:100::/40,no-resolve
 IP-CIDR6,2408:4016:10::/44,no-resolve
-IP-CIDR6,2408:4016:1::/48,no-resolve
 IP-CIDR6,2408:4016:2000::/35,no-resolve
 IP-CIDR6,2408:4016:200::/39,no-resolve
 IP-CIDR6,2408:4016:20::/43,no-resolve
@@ -169992,6 +170028,7 @@ IP-CIDR6,2a0f:1cc5:2680::/42,no-resolve
 IP-CIDR6,2a0f:1cc5:2d01::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:2d03::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:3200::/46,no-resolve
+IP-CIDR6,2a0f:1cc5:3203::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:3204::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:3206::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:3222::/48,no-resolve
@@ -170142,6 +170179,7 @@ IP-CIDR6,2a14:7580:fffa::/48,no-resolve
 IP-CIDR6,2a14:7581:30b6::/48,no-resolve
 IP-CIDR6,2a14:7581:ffb::/48,no-resolve
 IP-CIDR6,2a14:7583:f220::/43,no-resolve
+IP-CIDR6,2a14:7583:f240::/42,no-resolve
 IP-CIDR6,2a14:7583:f244::/48,no-resolve
 IP-CIDR6,2a14:7583:f248::/48,no-resolve
 IP-CIDR6,2a14:7583:f260::/43,no-resolve
