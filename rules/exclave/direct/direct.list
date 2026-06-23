@@ -13644,6 +13644,7 @@
 +.adxmq.com
 +.adxpand.com
 +.adxqd.com
++.adxsenmeng.com
 +.adxvip.com
 +.adxwork.com
 +.adxyun.com
@@ -15447,6 +15448,7 @@
 +.alidns.com
 +.alidns.net
 +.alidnsv4.com
++.alidnsv5.com
 +.alidz.net
 +.aliedge.com
 +.alienfans.net
@@ -110355,6 +110357,7 @@
 +.sf-saas.com
 +.sf-zs.net
 +.sf.cn
++.sf.global
 +.sf007.com
 +.sf024.com
 +.sf2021.com
@@ -120464,6 +120467,7 @@
 +.tcnvmms.com
 +.tcoejox.shop
 +.tcomall.com
++.tcp-crm.com
 +.tcp.hk
 +.tcp.mk
 +.tcp.pub
@@ -157060,8 +157064,14 @@
 103.45.0.0/18
 103.45.128.0/18
 103.45.128.0/19
-103.45.128.0/20
-103.45.144.0/20
+103.45.128.0/24
+103.45.130.0/23
+103.45.132.0/22
+103.45.136.0/21
+103.45.145.0/24
+103.45.146.0/23
+103.45.148.0/22
+103.45.152.0/21
 103.45.160.0/22
 103.45.160.0/23
 103.45.168.0/23
@@ -162983,7 +162993,7 @@
 194.127.229.0/24
 194.138.136.0/24
 194.138.202.0/23
-194.138.202.0/24
+194.138.203.0/24
 194.138.245.0/24
 194.156.99.0/24
 194.179.146.0/24
@@ -164325,13 +164335,13 @@
 202.197.32.0/19
 202.197.64.0/18
 202.198.0.0/18
+202.198.104.0/21
 202.198.128.0/18
 202.198.192.0/19
 202.198.224.0/24
 202.198.240.0/20
 202.198.64.0/20
 202.198.88.0/21
-202.198.96.0/20
 202.199.0.0/20
 202.199.112.0/21
 202.199.128.0/19
@@ -172421,6 +172431,7 @@
 2408:4016:1000::/36
 2408:4016:100::/40
 2408:4016:10::/44
+2408:4016:1::/48
 2408:4016:2000::/35
 2408:4016:200::/39
 2408:4016:20::/43
@@ -173675,6 +173686,7 @@
 2a06:3600:fc00::/38
 2a06:3605::/32
 2a06:3606::/31
+2a06:3607::/32
 2a06:9f45:1111::/48
 2a06:a005:260::/43
 2a06:a005:280::/43
@@ -174897,9 +174909,7 @@
 2a0f:1cc5:110::/44
 2a0f:1cc5:130::/44
 2a0f:1cc5:140::/42
-2a0f:1cc5:140::/43
 2a0f:1cc5:14::/46
-2a0f:1cc5:170::/44
 2a0f:1cc5:1c00::/47
 2a0f:1cc5:1c02::/48
 2a0f:1cc5:1c20::/48
@@ -175067,9 +175077,6 @@
 2a14:7581:ffb::/48
 2a14:7583:f220::/43
 2a14:7583:f240::/42
-2a14:7583:f244::/48
-2a14:7583:f248::/48
-2a14:7583:f260::/43
 2a14:7583:f300::/46
 2a14:7583:f304::/47
 2a14:7583:f307::/48
@@ -176546,8 +176553,6 @@
 58.154.96.0/20
 58.155.0.0/18
 58.155.124.0/22
-58.155.128.0/21
-58.155.136.0/23
 58.155.144.0/22
 58.155.156.0/22
 58.155.160.0/19
@@ -177542,7 +177547,6 @@
 82.110.98.0/24
 82.156.0.0/15
 82.22.30.0/23
-82.22.31.0/24
 82.38.92.0/24
 85.12.7.192/28
 85.184.245.0/24
@@ -177665,6 +177669,7 @@ app-measurement.com
 app-site-association.cdn-apple.com
 app.adjust.com
 app.appsflyer.com
+app.viayoo.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 appleid.cdn-apple.com
@@ -178262,6 +178267,7 @@ redirector.xn--ngstr-lra8j.com
 refresh-bkg.activation-v2.kaspersky.com
 res-1.cdn.office.net
 res.cdn.office.net
+res.viayoo.com
 reserve-prime.apple.com
 rewards.hypixel.net
 rfcmedia.streamguys1.com
@@ -178453,6 +178459,7 @@ valid.apple.com
 valid.origin-apple.com.akadns.net
 vd.l.qq.com
 vi.l.qq.com
+viayoo.com
 video-public-1258344701.shiply-cdn.qq.com
 video-search-1258344701.shiply-cdn.qq.com
 video-vip-1258344701.shiply-cdn.qq.com
@@ -178509,6 +178516,7 @@ www.recaptcha.net
 www.soundvideostar.com
 www.support.apple.com
 www.szmgiptv.com
+www.viayoo.com
 www.weixin.com
 www.yxssp.com
 www4-static.gog-statics.com
