@@ -1,8 +1,8 @@
 # Gins-Rules: mihoyo-intl
 domain_suffix_set:
-- zenlesszonezerohoyoverse.com
 - hoyoverse.com
+- hoyolab.com
+- starrails.com
+- zenlesszonezerohoyoverse.com
 - genshin.hoyoverse.com
 - honkaiimpact3.com
-- starrails.com
-- hoyolab.com

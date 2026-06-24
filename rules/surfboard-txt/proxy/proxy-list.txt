@@ -1734,6 +1734,7 @@
 .allswingersclubs.org
 .allthefallen.moe
 .alma.ac.uk
+.almalinux.org
 .almasdarnews.com
 .almcollege.ac.uk
 .almostmy.com
@@ -5823,6 +5824,7 @@
 .bustyoldsluts.com
 .bustysammieblack.com
 .busu.org
+.busybox.net
 .busytrade.com
 .butex.ac.uk
 .buugaa.com
@@ -7753,6 +7755,7 @@
 .cpz.to
 .cq99.us
 .cqcorea.com
+.cr
 .crabporn.com
 .crackle.com
 .craigslist.org
@@ -10828,6 +10831,7 @@
 .exondomesday.ac.uk
 .exotic-ghana.com
 .exoticuganda.com
+.exp-tas.com
 .expatshield.com
 .expecthim.com
 .expekt.com
@@ -13088,6 +13092,7 @@
 .github-cloud.s3.amazonaws.com
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -18561,6 +18566,7 @@
 .life.ac.uk
 .lifearc.ac.uk
 .lifeatkings.ac.uk
+.lifeatspotify.com
 .lifelab.ac.uk
 .lifelonglearning.ac.uk
 .lifemiles.com
@@ -19401,6 +19407,7 @@
 .maniakey.homes
 .maniash.com
 .manicur4ik.ru
+.manjaro.org
 .manlitphil.ac.uk
 .manorama.com
 .manoramanews.com
@@ -26354,6 +26361,7 @@
 .rocksextube.com
 .rockstargames.com
 .rockstarnorth.com
+.rockylinux.org
 .roco.qq.com
 .rodbaston.ac.uk
 .roe.ac.uk
@@ -28619,6 +28627,7 @@
 .spotifycharts.com
 .spotifycodes.com
 .spotifyforbrands.com
+.spotifyforvendors.com
 .spotifyjobs.com
 .spr.ac.uk
 .spraynwash.com
@@ -32876,7 +32885,10 @@
 .vsco.co
 .vscode-cdn.net
 .vscode-unpkg.net
+.vscode-webview.net
 .vscode.dev
+.vscodeedu.app
+.vscodeedu.com
 .vsemrabota.ru
 .vsex.in
 .vsezoo.com
