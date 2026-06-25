@@ -1,5 +1,5 @@
-HOST-SUFFIX,instagr.am,PROXY
-HOST-SUFFIX,instagram.com,PROXY
-HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,ig.me,PROXY
+HOST-SUFFIX,instagr.am,PROXY
+HOST-SUFFIX,cdninstagram.com,PROXY
+HOST-SUFFIX,instagram.com,PROXY
 HOST-KEYWORD,instagram,PROXY
