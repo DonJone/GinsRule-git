@@ -1,11 +1,11 @@
-HOST-SUFFIX,oracle,PROXY
-HOST-SUFFIX,covid19-rx.org,PROXY
-HOST-SUFFIX,oracleimg.com,PROXY
 HOST-SUFFIX,covid19rx.org,PROXY
 HOST-SUFFIX,oracle.com,PROXY
-HOST-SUFFIX,oraclefoundation.org,PROXY
-HOST-SUFFIX,sun.com,PROXY
-HOST-SUFFIX,oraclecloud.com,PROXY
+HOST-SUFFIX,oracle,PROXY
 HOST-SUFFIX,bronto.com,PROXY
 HOST-SUFFIX,ateam-oracle.com,PROXY
+HOST-SUFFIX,covid19-rx.org,PROXY
+HOST-SUFFIX,oraclefoundation.org,PROXY
+HOST-SUFFIX,oraclecloud.com,PROXY
+HOST-SUFFIX,oracleimg.com,PROXY
 HOST-SUFFIX,oracleinfinity.io,PROXY
+HOST-SUFFIX,sun.com,PROXY
