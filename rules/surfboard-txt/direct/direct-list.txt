@@ -9030,6 +9030,7 @@
 .71k.com
 .71lady.com
 .71p.net
+.71shi.net
 .71study.cn
 .71tao.com
 .71tech.com
@@ -10289,6 +10290,7 @@
 .8llp.com
 .8lun.com
 .8ly3r.com
+.8m2.net
 .8m8t.com
 .8mcn.com
 .8mhh.com
@@ -15210,6 +15212,7 @@
 .aniu.so
 .aniu.tv
 .aniworld.tv
+.anixplayer.net
 .anjgas.com
 .anji-ceva.com
 .anji-logistics.com
@@ -15847,6 +15850,7 @@
 .apoyl.com
 .app-dangdang.com
 .app-router.com
+.app-static.com
 .app-ztna.com
 .app.so
 .app001.com
@@ -16516,6 +16520,7 @@
 .at58.com
 .at7790s887.com
 .at78.com
+.at8.fun
 .at98.com
 .ata-edu.com
 .ata-test.net
@@ -23690,6 +23695,7 @@
 .canvasite-staging.cn
 .canvasite.cn
 .canvcan.com
+.canviewone.com
 .canway.net
 .canwayit.com
 .canwayoa.net
@@ -28008,6 +28014,7 @@
 .chinaweizheng.com
 .chinawepon.com
 .chinawerewolf.com
+.chinawestagr.com
 .chinawie.com
 .chinawindnews.com
 .chinawinjoy.com
@@ -28814,6 +28821,7 @@
 .cilgroup.org
 .cilin.org
 .cilishenqi.cc
+.cilisouou.com
 .cilogo.com
 .cim2025.net
 .cimamotor.com
@@ -29756,6 +29764,7 @@
 .cm.fancyapi.com
 .cm.ipinyou.com
 .cm.steampowered.com
+.cm1.hk
 .cm233.com
 .cm253.com
 .cm3721.com
@@ -33952,6 +33961,7 @@
 .cxumol.com
 .cxw.com
 .cxwl.com
+.cxwlad.com
 .cxxjs.com
 .cxy521.com
 .cxy61.com
@@ -34369,6 +34379,7 @@
 .d1f41d7b74d2717d.com
 .d1ld.com
 .d1lx.com
+.d1mgroup.com
 .d1miao.com
 .d1mm.com
 .d1net.com
@@ -39202,6 +39213,7 @@
 .duiduihuishou.com
 .duiduilian.com
 .duiduipengds.com
+.duifene.com
 .duihuan.link
 .duijie666.com
 .duikuang.com
@@ -44014,6 +44026,7 @@
 .fdc.cn
 .fdc0746.com
 .fdcjj.org
+.fdctax.com
 .fdcyun.com
 .fdczbstatic.com
 .fdd0cd79c10281.beer
@@ -44104,6 +44117,7 @@
 .feelnowtrip.com
 .feelsoar.com
 .feemoo.com
+.feemoo.hk
 .feemoo.vip
 .feepan.com
 .feepawtech.com
@@ -46257,6 +46271,7 @@
 .fthformal.com
 .fthgz.com
 .fthimalayandb.com
+.ftihzjg.com
 .ftium4.com
 .ftlcloud.com
 .ftls.xyz
@@ -48181,6 +48196,7 @@
 .gdroro.com
 .gdrqj.org
 .gdrsrc.com
+.gdrtt.net
 .gdruien.com
 .gdruisheng.com
 .gdrxyy.com
@@ -51755,6 +51771,7 @@
 .gugu.fun
 .gugud.com
 .gugudang.com
+.gugudata.com
 .guguread.com
 .gugushuzi.com
 .guguyu.com
@@ -56049,6 +56066,7 @@
 .haowen100.com
 .haowenbo.com
 .haowenshi.com
+.haowenti.net
 .haowu.com
 .haowu.link
 .haowu.store
@@ -59578,6 +59596,7 @@
 .holoalpha.com
 .holsauto.com
 .holteksupport.com
+.holy58.com
 .holyfruit37.com
 .holymalls.com
 .holypai.cn
@@ -65897,6 +65916,7 @@
 .innopro.cc
 .innos.com
 .innoscience.com
+.innosystemtech.com
 .innotechx.com
 .innotek-co.com
 .innotimegood.com
@@ -66860,6 +66880,7 @@
 .italyvisacenterd.com
 .itamt.com
 .itangbole.com
+.itangsoft.com
 .itangyuan.com
 .itanlian.com
 .itany.com
@@ -68259,6 +68280,7 @@
 .jfchxcl.cn
 .jfcjt.com
 .jfcoo.com
+.jfcoop.com
 .jfdaily.com
 .jfdaily.com.cn
 .jfedu.net
@@ -85724,6 +85746,7 @@
 .moliplay.com
 .moliplayer.com
 .molipy.com
+.moliranran.com
 .molishe.com
 .molitv.cc
 .molitv.top
@@ -87018,6 +87041,7 @@
 .myfans.cc
 .myfdmg.com
 .myfhospital.com
+.myfilm.cc
 .myfrfr.com
 .myfriday.cn
 .myfun7.com
@@ -91110,6 +91134,7 @@
 .oemssl.cn.cdn.cloudflare.net
 .oemucdn.com
 .oemxitong.com
+.oend.net
 .oeob.cn
 .oeob.com
 .oeob.com.cn
@@ -91674,6 +91699,7 @@
 .onthetrip.com
 .onthink.com
 .onwaf.com
+.onwaytech.com
 .onwear.net
 .onwork.com
 .onwsw.com
@@ -97181,6 +97207,7 @@
 .qingting.com
 .qingting.fm
 .qingting123.com
+.qingtingai.net
 .qingtingfm.com
 .qingtingip.com
 .qingtingjh.com
@@ -122400,6 +122427,7 @@
 .vtaypehbe.com
 .vtcskapm.com
 .vtcsy.com
+.vtdd.vip
 .vteamgroup.com
 .vtears.com
 .vtepai.com
@@ -123059,6 +123087,7 @@
 .wanh5.com
 .wanhea.com
 .wanhebin.com
+.wanhengtech.com
 .wanheweb.com
 .wanhi.com
 .wanhongbao.com
@@ -126886,6 +126915,7 @@
 .wsisp.net
 .wsjcrm.com
 .wsjoker.com
+.wsjqnmmrmv.world
 .wsjtxia.com
 .wskam.com
 .wskj16818.xyz
@@ -128561,6 +128591,7 @@
 .xdj.com
 .xdja.com
 .xdjcgs.com
+.xdjk.net
 .xdju.com
 .xdjunxiao.com
 .xdjy369.com
@@ -131858,6 +131889,7 @@
 .xlphz.cn
 .xlphz.top
 .xlphz.xin
+.xlps.site
 .xlqeai.com
 .xlqzh.com
 .xlread.com
@@ -141415,6 +141447,7 @@
 .zggua.com
 .zggwy.com
 .zggwy.org
+.zggx100.com
 .zggxgp.com
 .zggxhj.com
 .zggxlbc.com
@@ -142390,6 +142423,7 @@
 .zhihuiep.com
 .zhihuifangdong.net
 .zhihuihongze.com
+.zhihuihub.com
 .zhihuihuiwu.com
 .zhihuihutong.com
 .zhihuiji.cn
