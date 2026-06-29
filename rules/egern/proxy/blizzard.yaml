@@ -1,6 +1,6 @@
 # Gins-Rules: blizzard
 domain_suffix_set:
-- blz-contentstack.com
-- battlenet.com
 - blizzard.com
+- blz-contentstack.com
 - battle.net
+- battlenet.com

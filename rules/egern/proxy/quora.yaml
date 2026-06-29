@@ -1,7 +1,7 @@
 # Gins-Rules: quora
 domain_suffix_set:
-- quora.com
+- poe.com
+- poecdn.net
 - qr.ae
 - quoracdn.net
-- poecdn.net
-- poe.com
+- quora.com
