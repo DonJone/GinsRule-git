@@ -12135,6 +12135,7 @@
 .abyssdawn.com
 .abzrcw.com
 .ac-innovation.com
+.ac.cn
 .ac.fun
 .ac268.com
 .ac3ba49731016.beer
@@ -17949,7 +17950,6 @@
 .balimtoy.com
 .balingtxt.com
 .ballard123.com
-.balldollars.com
 .ballgametime.com
 .ballpure.com
 .balltv.cc
@@ -44459,6 +44459,7 @@
 .fengli.su
 .fengliankeji.com
 .fenglichem.com
+.fenglingkj.com
 .fenglingroup.com
 .fenglingselect.com
 .fenglinjiu.com
@@ -58198,6 +58199,7 @@
 .hibbw.net
 .hibelarus.com
 .hibgm.com
+.hibianli.com
 .hibixin.com
 .hibogroup.com
 .hiboos.com
@@ -70651,6 +70653,7 @@
 .jlsemi.com
 .jlsfcyy.com
 .jlsgjt.com
+.jlshuiyuan.com
 .jlsjsjlhgczxxh.com
 .jlsjsxxw.com
 .jlsports.com
@@ -75082,6 +75085,7 @@
 .kobox.tv
 .kocard.net
 .kocla.com
+.kodakbanjara.com
 .kodcloud.com
 .koderover.com
 .kodmp.com
@@ -96187,7 +96191,6 @@
 .qdmcxh.com
 .qdmm.com
 .qdmswx.com
-.qdn4ydsg3s.com
 .qdns.com
 .qdnsyh.com
 .qdnxsyy.com
@@ -97236,6 +97239,7 @@
 .qingxunapp.com
 .qingyan888.cn
 .qingyantek.com
+.qingye.org
 .qingyeyun.com
 .qingyi.com
 .qingying.net
@@ -119523,6 +119527,7 @@
 .ucdchina.com
 .ucdesk.cn
 .ucdns22.com
+.ucdns4.com
 .ucdns7.com
 .ucdok.com
 .ucdrs.net
@@ -135514,6 +135519,7 @@
 .ygkarwfix.com
 .ygkj.cc
 .yglian.com
+.yglsr.com
 .ygmsy.com
 .ygonefamily.com
 .ygoxucl.cn
