@@ -9283,6 +9283,7 @@
 .777holiday.com
 .777lala.com
 .777moban.com
+.777ppt.com
 .777sy.com
 .777yh.am
 .77816.com
@@ -12557,6 +12558,7 @@
 .admin5.net
 .admin6.com
 .admin88.com
+.admincdn.com
 .admincloud.cn
 .adminer.com
 .admintony.com
@@ -18989,6 +18991,7 @@
 .beidousafety.org
 .beidouxingxueche.com
 .beiduolab.com
+.beie.org
 .beierbio.com
 .beierjin.net
 .beieryouxi.com
@@ -51990,6 +51993,7 @@
 .guojiayixuekaoshi.com
 .guojiazhiyezige.com
 .guojibeian.cn
+.guojibk.com
 .guojiexpress.com
 .guojihuochepiao.com
 .guojijinjia.com
@@ -101170,6 +101174,7 @@
 .rrjc.com
 .rrkf.com
 .rrky.com
+.rrmj.plus
 .rrmj.tv
 .rrppt.com
 .rrrdai.com
@@ -117003,6 +117008,7 @@
 .tokensky.net
 .tokimekiclub.org
 .tokyo.cn
+.tol.vip
 .tol24.cn
 .tol24.com
 .tom.cat
@@ -122290,6 +122296,7 @@
 .vpsrb.com
 .vpsss.net
 .vpssw.com
+.vpsvs.com
 .vpsvsvps.com
 .vpszh.com
 .vptek.com
@@ -124633,6 +124640,7 @@
 .wenmingwangzhan.cn
 .wenneart.com
 .wenovai.com
+.wenpai.org
 .wenpie.com
 .wenqy.com
 .wenroo.com
@@ -126665,6 +126673,7 @@
 .wpcio.com
 .wpcoayhtg.com
 .wpcsh.com
+.wpcy.com
 .wpdaxue.com
 .wpdian.com
 .wpengapp.com
