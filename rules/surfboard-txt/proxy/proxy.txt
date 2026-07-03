@@ -7966,6 +7966,7 @@
 .copilot-proxy.githubusercontent.com
 .copilot-telemetry.githubusercontent.com
 .copilot.cloud.microsoft
+.copilot.com
 .copilot.github.com
 .copilot.microsoft.com
 .copim.ac.uk
@@ -34445,6 +34446,7 @@
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -37621,6 +37623,7 @@ ood.opsource.net
 openai-api.arkoselabs.com
 openai.com.cdn.cloudflare.net
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
