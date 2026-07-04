@@ -1,10 +1,10 @@
 # Gins-Rules: douyu
 domain_suffix_set:
-- douyu.com
+- douyu.tv
 - douyutv.com
-- douyuscdn.com
+- douyu.com
+- douyucdn2.cn
 - edgesrv.com
 - bytefcdnrd.com
-- douyu.tv
-- douyucdn2.cn
+- douyuscdn.com
 - douyucdn.cn

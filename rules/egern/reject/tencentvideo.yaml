@@ -1,32 +1,32 @@
 # Gins-Rules: tencentvideo
 domain_keyword_set:
-- track.qq.com
 - 1258344696.file.myqcloud.com
 - trace.video.qq.com
 - pgdt.gtimg.c
+- track.qq.com
 - trace.qq.com
 domain_set:
+- info6.video.qq.com
 - ugchsy.gtimg.com
+- activity.video.qq.com
+- iacc.qq.com
+- rmonitor.qq.com
+- info4.video.qq.com
 - rdelivery.qq.com
 - tux.qq.com
-- activity.video.qq.com
-- info4.video.qq.com
-- iacc.qq.com
 - aegis.qq.com
-- info6.video.qq.com
-- rmonitor.qq.com
 domain_suffix_set:
-- omgmta1.qq.com
-- static-res.qq.com
-- gdt.qq.com
 - gdtimg.com
-- api.poll.video.qq.com
-- omgmta.qq.com
-- tpns.tencent.com
-- l.qq.com
 - video.mpush.qq.com
+- omgmta.qq.com
+- omgmta1.qq.com
+- l.qq.com
+- api.poll.video.qq.com
+- gdt.qq.com
+- static-res.qq.com
+- tpns.tencent.com
 ip_cidr_set:
-- 120.222.144.64/32
 - 183.201.213.194/32
 - 111.6.166.107/32
+- 120.222.144.64/32
 no_resolve: true

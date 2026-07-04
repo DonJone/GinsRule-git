@@ -2,10 +2,10 @@
 domain_keyword_set:
 - weibo
 domain_suffix_set:
-- sina.com.cn
 - sina.com
-- sinajs.cn
-- weibo.com
-- weibocdn.com
 - sinaimg.cn
+- sinajs.cn
 - weibo.cn
+- weibocdn.com
+- weibo.com
+- sina.com.cn

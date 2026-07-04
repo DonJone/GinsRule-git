@@ -154913,13 +154913,21 @@ aka-amd-njpwworld-hls-enlive.akamaized.net
 alibaba.cdn.steampipe.steamcontent.com
 aljazeera-eng-hd-live.hls.adaptive.level3.net
 alt1-mtalk.google.com
+alt1.mobile-gtalk.l.google.com
 alt2-mtalk.google.com
+alt2.mobile-gtalk.l.google.com
 alt3-mtalk.google.com
+alt3.mobile-gtalk.l.google.com
 alt4-mtalk.google.com
+alt4.mobile-gtalk.l.google.com
 alt5-mtalk.google.com
+alt5.mobile-gtalk.l.google.com
 alt6-mtalk.google.com
+alt6.mobile-gtalk.l.google.com
 alt7-mtalk.google.com
+alt7.mobile-gtalk.l.google.com
 alt8-mtalk.google.com
+alt8.mobile-gtalk.l.google.com
 amdlive-ch01.ctnd.com.edgesuite.net
 amdlive-ch03-ctnd-com.akamaized.net
 amdlive-ch03.ctnd.com.edgesuite.net
@@ -154935,6 +154943,7 @@ amp-api.media.apple.com
 amp-api.music.apple.com
 analytics.95516.com
 analytics.strava.com
+android.apis.google.com
 antvlive.ab5c6921.cdnviet.com
 aod-ssl.itunes.apple.com
 aod.itunes.apple.com
@@ -155089,6 +155098,7 @@ dds.dell.com
 dejavu.apple.com
 devblogs.microsoft.com
 developer.microsoft.com
+device-provisioning.googleapis.com
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 dg-meta.video.google.com
@@ -155154,6 +155164,7 @@ fides-pol.apple.com
 file.hhtv.cc
 file.mb.leshantv.net
 firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 fm901.cityfm.tw
 fm929.cityfm.tw
 fm971.cityfm.tw
@@ -155396,6 +155407,7 @@ mesu.apple.com
 mgugaklive.nowcdn.co.kr
 misc-assets.itunes.apple.com
 ml.cdn-apple.com
+mobile-gtalk.l.google.com
 mobile.ccdntech.com
 monitoring.qpdp1.net
 moo.qq.com
@@ -155409,7 +155421,10 @@ msdprod-ad.download.prss.microsoft.com
 msg.umeng.com
 msg.umengcloud.com
 msproduct.download.prss.microsoft.com
+mtalk-dev.google.com
+mtalk-staging.google.com
 mtalk.google.com
+mtalk4.google.com
 music.apple.com
 musicstatus.music.apple.com
 mvod.itunes.apple.com
