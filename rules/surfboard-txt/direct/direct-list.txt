@@ -15283,6 +15283,7 @@
 .anqingzhiyun.com
 .anqn.com
 .anqu.com
+.anquan
 .anquan.info
 .anquan.org
 .anquanbao.com
@@ -106415,6 +106416,7 @@
 .shouhuisoft.com
 .shouhuojiyun.com
 .shouhuola.com
+.shouji
 .shouji.com
 .shouji.racing
 .shouji10086.com
@@ -107542,6 +107544,7 @@
 .simwe.com
 .simxhs.com
 .sin0sites.com
+.sina
 .sina-cf.com
 .sina.cn
 .sina.com
@@ -123792,6 +123795,7 @@
 .weibangong.com
 .weibanio.cn
 .weibanzhushou.com
+.weibo
 .weibo.cn
 .weibo.com
 .weibo.com.cn
@@ -130028,6 +130032,7 @@
 .xihazsww.com
 .xihegp.com
 .xiherencai.com
+.xihuan
 .xihuan.com.cn
 .xihuan.me
 .xihuanbizhi.com
@@ -132102,6 +132107,7 @@
 .xn--91-y60d638c.xyz
 .xn--9et52u
 .xn--9kr72kqwe.com
+.xn--9krt00a
 .xn--9myo55bi8l.com
 .xn--9pr56vfna007k.com
 .xn--9pry86bq5ex68c.org
@@ -138978,6 +138984,7 @@
 .yummy.tech
 .yumstone.com
 .yumwsabec.com
+.yun
 .yun-ac.com
 .yun-app.net
 .yun-dns.com
@@ -146627,6 +146634,7 @@ edge.music-choice-play-chaina1.top.comcast.net
 emoi-cncdn.bing.com
 end-api.shallow.ink
 end.shallow.ink
+entitlements-edge.itunes.apple.com
 experiments.apple.com
 f.c2r.ts.cdn.office.net
 f24hls-i.akamaihd.net
@@ -146643,6 +146651,7 @@ fm983.cityfm.tw
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
+fpinit.itunes.apple.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com

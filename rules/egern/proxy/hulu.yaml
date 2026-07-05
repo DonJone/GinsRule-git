@@ -2,14 +2,14 @@
 domain_suffix_set:
 - huluim.com
 - hulu.jp
-- streaks.jp
-- yb.uncn.jp
-- hulustream.com
-- huluad.com
-- happyon.jp
-- hulu.sc.omtrdc.net
-- cws-hulu.conviva.com
 - hjholdings.jp
+- hulustream.com
 - hulu.com
-- hulu.hb.omtrdc.net
 - prod.hjholdings.tv
+- yb.uncn.jp
+- cws-hulu.conviva.com
+- hulu.sc.omtrdc.net
+- happyon.jp
+- streaks.jp
+- hulu.hb.omtrdc.net
+- huluad.com

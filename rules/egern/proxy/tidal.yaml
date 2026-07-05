@@ -1,6 +1,6 @@
 # Gins-Rules: tidal
 domain_suffix_set:
 - tidal.com
-- tidal-cms.s3.amazonaws.com
 - wimpmusic.com
 - tidalhifi.com
+- tidal-cms.s3.amazonaws.com

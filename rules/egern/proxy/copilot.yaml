@@ -3,10 +3,10 @@ domain_set:
 - sydney.bing.com
 domain_suffix_set:
 - default.exp-tas.com
-- githubcopilot.com
 - copilot-proxy.githubusercontent.com
-- copilot-telemetry.githubusercontent.com
-- bing.com
-- copilot.github.com
-- api.githubcopilot.com
 - copilot.microsoft.com
+- api.githubcopilot.com
+- bing.com
+- copilot-telemetry.githubusercontent.com
+- copilot.github.com
+- githubcopilot.com
