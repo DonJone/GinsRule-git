@@ -1,4 +1,4 @@
 # Gins-Rules: deezer
 domain_suffix_set:
-- dzcdn.net
 - deezer.com
+- dzcdn.net
