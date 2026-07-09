@@ -1,9 +1,9 @@
 DOMAIN,sydney.bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot.github.com
 DOMAIN-SUFFIX,api.githubcopilot.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,copilot.github.com
-DOMAIN-SUFFIX,default.exp-tas.com
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
-DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,default.exp-tas.com
 DOMAIN-SUFFIX,bing.com
