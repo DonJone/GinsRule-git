@@ -1,15 +1,15 @@
 # Gins-Rules: apple-music
 domain_set:
-- audio-ssl.itunes.apple.com
-- aod-ssl.itunes.apple.com
-- aod.itunes.apple.com
 - audio.itunes.apple.com
 - mvod.itunes.apple.com
 - play.itunes.apple.com
 - streamingaudio.itunes.apple.com
+- aod.itunes.apple.com
+- audio-ssl.itunes.apple.com
+- aod-ssl.itunes.apple.com
 domain_suffix_set:
-- applemusic.com
 - applemusic.apple
+- applemusic.com
 - music.apple.com
 - blobstore.apple.com
 user_agent_set:

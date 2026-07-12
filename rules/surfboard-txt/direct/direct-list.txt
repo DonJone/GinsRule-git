@@ -12425,6 +12425,7 @@
 .ad9377.com
 .ada-app.net
 .ada-post.com
+.adacpp.com
 .adalo.cn
 .adalo.com.cn
 .adamahf.com
@@ -39446,6 +39447,7 @@
 .duoyi.com
 .duoying.com
 .duoyinsu.com
+.duoyiwangluo.com
 .duoyoumi.com
 .duoyunguanli.com
 .duozhi.com
@@ -51339,6 +51341,7 @@
 .gtetern.com
 .gtfund.com
 .gtg56.com
+.gtgjtrip.com
 .gtgoyatit.com
 .gtgqw.com
 .gtgres.com
@@ -105429,6 +105432,7 @@
 .shedongyun.com
 .shedoor.com
 .shedunews.com
+.shedunews.net
 .sheec-tencentclb.cloud
 .sheec-tencentclb.com
 .sheec-tencentclb.net
@@ -129662,6 +129666,7 @@
 .xiaomeibangwo.com
 .xiaomeiti.com
 .xiaomeng1235.com
+.xiaomengai.com
 .xiaomi.cn
 .xiaomi.com
 .xiaomi.hk
@@ -135471,6 +135476,7 @@
 .ygcx.top
 .ygdatabase.com
 .ygdl.com
+.ygduoyi.com
 .yge.me
 .ygeer.com
 .ygei.com
