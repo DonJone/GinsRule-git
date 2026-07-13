@@ -1,6 +1,6 @@
 # Gins-Rules: epic
 domain_suffix_set:
 - epicgames.com
-- unrealengine.com
-- epicgames.dev
 - ol.epicgames.com
+- epicgames.dev
+- unrealengine.com
