@@ -12443,6 +12443,7 @@
 .adfunlink.com
 .adfuns.com
 .adg-dental.com
+.adglim.com
 .adgomob.com
 .adguardprivate.com
 .adhei.com
@@ -16049,6 +16050,7 @@
 .arayzou.com
 .arbays.com
 .arc-uds.com
+.arcadesos.com
 .arcas-da.com
 .arcdmi.com
 .arcdn.cn
@@ -16340,7 +16342,6 @@
 .asinking.com
 .asit.cc
 .asjnu.com
-.ask.amd.com
 .askci.com
 .askdd.org
 .askdiandian.com
@@ -25518,6 +25519,8 @@
 .cfcpn.com
 .cfd-china.com
 .cfd163.com
+.cfdns43.com
+.cfdns5.com
 .cfdp.org
 .cfdwater.com
 .cfead.cn
@@ -33504,7 +33507,6 @@
 .ctxcdn.cn
 .ctxcdn.com
 .ctxcdn.net
-.ctxcollect.com
 .ctxcpa.com
 .ctxirang.cn
 .ctxirang.com
@@ -39173,6 +39175,7 @@
 .dullbus.com.cn
 .dullr.com
 .dulmugame.com
+.dulupay.com
 .dulwich.org
 .dumall.com
 .dumanhua.com
@@ -47366,6 +47369,7 @@
 .gaohuasec.com
 .gaojer.com
 .gaoji.ren
+.gaojidata.com
 .gaojie.com
 .gaojihealth.com
 .gaojima.com
@@ -50527,6 +50531,7 @@
 .goselling.com
 .goshandong.com.cn
 .goshanxi.com.cn
+.goshare2.com
 .goshijia.com
 .goshopjp.com
 .gosinoic.com
@@ -54162,6 +54167,7 @@
 .gzanquan.com
 .gzap.net
 .gzaptech.net
+.gzasc.com
 .gzasp.net
 .gzate.com
 .gzautojet.com
@@ -56671,6 +56677,7 @@
 .hccoeutg.com
 .hccpcba.com
 .hcdamai.com
+.hcdns21.com
 .hcdyhr.com
 .hceia.com
 .hcepay.com
@@ -63610,6 +63617,7 @@
 .ibianma.com
 .ibicn.com
 .ibidian.com
+.ibidmob.com
 .ibiji.com
 .ibike668.com
 .ibike8.com
@@ -70443,6 +70451,7 @@
 .jlcfa.com
 .jlcmc.com
 .jlcops.com
+.jlcpcb.com
 .jlcsj.com
 .jlcsmt.com
 .jldjam.com
@@ -75263,6 +75272,7 @@
 .ksecit.com
 .ksedt.com
 .kseibitools.com
+.ksepton.com
 .ksfang.com
 .ksgslb.com
 .kshahn.com
@@ -77705,6 +77715,7 @@
 .lemon7.cc
 .lemon7.fun
 .lemonban.com
+.lemonedrum.com
 .lemongames.cn
 .lemongames.com
 .lemonnovel.com
@@ -78704,6 +78715,7 @@
 .linancity.com
 .linaoyiqi.com
 .linban.com
+.linbeigame.com
 .linchuangsy.com
 .lincoc.com
 .lindapatent.com
@@ -86459,6 +86471,7 @@
 .musiceol.com
 .musicgw.com
 .musiciansfriendsaleusa.shop
+.musiclemon.net
 .musicplusradio.cn
 .musicway.cn
 .musiness.vip
@@ -86999,6 +87012,7 @@
 .mymuwu.net
 .mynatapp.cc
 .mynb8.com
+.myndj.com
 .mynee.com
 .mynet.cn
 .mynocode.cn
@@ -91183,6 +91197,7 @@
 .okwuyou.com
 .okxr.com
 .okyueche.com
+.okywqapp.com
 .okzm.cn
 .ol-cdn.com
 .ol-img.com
@@ -91206,6 +91221,7 @@
 .oldding.net
 .oldj.net
 .oldmanemu.net
+.oldmanemu.org
 .oldmantvg.net
 .oldpan.me
 .ole-vod.com
@@ -98915,6 +98931,7 @@
 .qw5599.com
 .qwbk.cc
 .qwconnect.top
+.qwdjapp.com
 .qwe1e.com
 .qweapi.com
 .qweather.cn
@@ -100973,6 +100990,7 @@
 .rrrxz.com
 .rrrzwtevo.com
 .rrs.com
+.rrsp.app
 .rrsurg.com
 .rrswl.com
 .rrting.net
@@ -103487,7 +103505,6 @@
 .sdkamaiduo.com
 .sdkanbing.com
 .sdkbalance.com
-.sdkclick.com
 .sdkdch.com
 .sdkeli.com
 .sdkjjt.com
@@ -105282,7 +105299,6 @@
 .shekou.com
 .shelfpai.cn
 .shelive.net
-.shell.cdn.office.net
 .shellpub.com
 .shellsec.com
 .shelter-china.com
@@ -106277,6 +106293,7 @@
 .shorepai.cn
 .shorologe.com
 .shortcn.com
+.shortdramaop.com
 .shortdramas.com
 .shortof.com
 .shorturl.com.cn
@@ -112334,6 +112351,7 @@
 .szlanyou.com
 .szlawyers.com
 .szlc9.com
+.szlcmb.com
 .szlcsc.com
 .szlcwy.com
 .szldcc.com
@@ -114934,6 +114952,7 @@
 .test-edgeone-browser-rendering-cn.cn
 .test-edgeone-browser-rendering-cn.com
 .test-edgeone-browser-rendering-cn.com.cn
+.test-ipv6.com
 .test-qdairlines.com
 .test-twebrtc.cn
 .test-twebrtc.com
@@ -115087,6 +115106,7 @@
 .tgkjjg.com
 .tgldfm.com
 .tgljw.com
+.tglsinsure.com
 .tglxh.com
 .tgmis.cn
 .tgnet.com
@@ -120341,7 +120361,6 @@
 .uspard.com
 .usparkai.com
 .usqiaobao.com
-.usst.store
 .ustack.com
 .ustalk.cn
 .ustalk.com
@@ -121735,7 +121754,6 @@
 .vnet.cn
 .vnet.com
 .vnet.mobi
-.vniddlg.xyz
 .vnizzz.cn
 .vnkdin.cn
 .vnlin.com
@@ -123523,6 +123541,7 @@
 .webok.me
 .webok.net
 .webond.net
+.weboss.hk
 .webpackjs.com
 .webpki.net
 .webportal.cc
@@ -135479,6 +135498,7 @@
 .yichengji.com
 .yichengnews.com
 .yichengwangluo.net
+.yichengwlkj.com
 .yicheshi.com
 .yichi.tech
 .yichip.com
@@ -138292,6 +138312,7 @@
 .ytiao.cn
 .ytigusikq.com
 .ytiny.cn
+.ytj9999.com
 .ytjcpj.com
 .ytjh666.com
 .ytjiage.com
@@ -140255,6 +140276,7 @@
 .yzs.io
 .yzsbh.com
 .yzsfuer.com
+.yzsgo.com
 .yzshkjxx.com
 .yzshyzz.com
 .yzsljz.com

@@ -4,6 +4,6 @@ domain_set:
 domain_suffix_set:
 - zoomgov.com
 - zoominfo.com
-- zoom.com
-- zoom.us
 - zoomcdn.com
+- zoom.us
+- zoom.com
