@@ -3599,6 +3599,7 @@
 +.azuredns-prd.org
 +.azureedge-test.net
 +.azureedge.net
++.azureedge.us
 +.azurefd.net
 +.azurefd.us
 +.azurehdinsight.cn
@@ -7975,6 +7976,7 @@
 +.coova.org
 +.copac.ac.uk
 +.copilot-proxy.githubusercontent.com
++.copilot-stg.com
 +.copilot-telemetry.githubusercontent.com
 +.copilot.cloud.microsoft
 +.copilot.com
@@ -20766,6 +20768,7 @@
 +.mhcb.ru
 +.mhcbr.ru
 +.mhdss.ac.uk
++.mhgui.com
 +.mhhanman.xyz
 +.mhie.ac.uk
 +.mhqwe.xyz
@@ -30037,6 +30040,7 @@
 +.stargazer-games.com
 +.stark-verlag.ch
 +.starlink.ac.uk
++.starlink.com
 +.starott.com
 +.starp2p.com
 +.starplus.com

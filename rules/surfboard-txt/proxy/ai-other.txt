@@ -30,6 +30,7 @@
 .chat.openai.com.cdn.cloudflare.net
 .chatgpt.com
 .chatgpt.livekit.cloud
+.chatgpt.site
 .clau.de
 .claude.ai
 .claude.com

@@ -147016,7 +147016,6 @@ sync.itunes.apple.com
 szilinklong.weixin.com
 szilinkshort.weixin.com
 tac.googleapis.com
-tesla-cdn.thron.cn
 tf-feedback.itunes.apple.com
 time.amazonaws.cn
 time.izatcloud.net
