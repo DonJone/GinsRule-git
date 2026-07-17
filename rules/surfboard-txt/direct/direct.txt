@@ -37874,6 +37874,7 @@
 .dcyz.com
 .dcyzq.com
 .dczcsc.com
+.dczcy.com
 .dczkj.com
 .dczy168.com
 .dd-advisor.com
@@ -39246,6 +39247,7 @@
 .dididadidi.com
 .dididapiao.com
 .dididi88.com
+.didifinance.com
 .didiglobal.com
 .didikaihei.cn
 .didikaihei.com
@@ -49061,6 +49063,7 @@
 .fuchaoqun.com
 .fuchen33.com
 .fuchengshicai.com
+.fuchenkj.com
 .fuchuangyu.com
 .fucnm.com
 .fucol.club
@@ -64098,6 +64101,7 @@
 .hrs100.com
 .hrsalon.org
 .hrsay.com
+.hrsecn.com
 .hrsee.com
 .hrsel.com
 .hrsoft-china.com
@@ -73190,6 +73194,7 @@
 .jieshuitech.com
 .jieshuwang.com
 .jiesongjizhan.com
+.jietianz.com
 .jietu365.com
 .jietuankeji.com
 .jietuhb.com
@@ -100965,7 +100970,6 @@
 .pthxx.com
 .pthxxw.com
 .ptimg.org
-.pting.club
 .ptkckj.com
 .ptkeyppck.com
 .ptkill.com
@@ -109829,6 +109833,7 @@
 .sdsfjy.com
 .sdsgwy.com
 .sdshangya.com
+.sdshdc.com
 .sdshgk.com
 .sdshihua.com
 .sdshitu.com
@@ -112079,6 +112084,7 @@
 .shicaotangchina.com
 .shicehao.com
 .shichangbu.com
+.shicheng6.com
 .shichengbao.com
 .shichengyi.com
 .shichuangsj.com
@@ -126818,6 +126824,7 @@
 .ulinkcollege.com
 .ulixirglobal.com
 .uln.cn
+.ulongemg.com
 .ulpay.com
 .ultifit.com
 .ultimatemusic.cn
@@ -148068,6 +148075,7 @@
 .yximgs.com
 .yxin18.com
 .yxinbao.com
+.yxingfan.com
 .yxinnetwork.com
 .yxintent.com
 .yxit.cc
@@ -155115,6 +155123,7 @@ apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
 api-edge.apps.apple.com
 api.alibabacloud.com
+api.blipsandchitz.me
 api.iplay.163.com
 api.smoot.apple.cn
 apiintl.biliapi.net
@@ -155523,6 +155532,7 @@ live.hhtv.cc
 live.hnzzzzzdst.com
 live.lxzc.net
 live.ntdimg.com
+live.qinyangtv.com
 live.sccxtv.com
 live.sichuanmianning.com
 live.sjsgdzx.com
