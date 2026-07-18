@@ -1,6 +1,6 @@
 HOST-SUFFIX,weibo.com,PROXY
-HOST-SUFFIX,weibocdn.com,PROXY
 HOST-SUFFIX,sina.com,PROXY
+HOST-SUFFIX,weibocdn.com,PROXY
 HOST-SUFFIX,sina.com.cn,PROXY
 HOST-SUFFIX,sinaimg.cn,PROXY
 HOST-SUFFIX,sinajs.cn,PROXY

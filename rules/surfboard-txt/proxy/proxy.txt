@@ -2330,6 +2330,7 @@
 .api.pureapk.com
 .api.push.apple.com
 .api.recaptcha.net
+.api.revenuecat.com
 .api.statsig.com
 .api.steampowered.com
 .api.termius.com
@@ -26478,6 +26479,7 @@
 .qmw.ac.uk
 .qmzdd.com
 .qnap.com
+.qnapsupport.net
 .qobuz.at
 .qobuz.be
 .qobuz.biz

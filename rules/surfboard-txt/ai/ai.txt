@@ -14,6 +14,7 @@
 .api.githubcopilot.com
 .api.microsoftapp.net
 .api.openai.com
+.api.revenuecat.com
 .api.statsig.com
 .apis.google.com
 .app.launchdarkly.com
@@ -121,6 +122,7 @@
 .perplexity.com
 .platform.openai.com
 .poe.com
+.pool.ntp.org
 .pplx.ai
 .proactivebackend-pa.googleapis.com
 .prodregistryv2.org

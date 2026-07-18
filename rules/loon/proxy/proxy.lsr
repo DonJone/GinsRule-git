@@ -3667,6 +3667,7 @@ DOMAIN-SUFFIX,api.proxlet.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.push.apple.com
 DOMAIN-SUFFIX,api.recaptcha.net
+DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api.termius.com
@@ -27815,6 +27816,7 @@ DOMAIN-SUFFIX,qmul.ac.uk
 DOMAIN-SUFFIX,qmw.ac.uk
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qobuz.at
 DOMAIN-SUFFIX,qobuz.be
 DOMAIN-SUFFIX,qobuz.biz
@@ -38312,6 +38314,7 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
+IP-ASN,13335
 IP-ASN,14061
 IP-ASN,20473
 IP-ASN,211157

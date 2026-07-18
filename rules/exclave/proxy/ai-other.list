@@ -8,6 +8,7 @@
 +.anthropic.com
 +.anyscale.com
 +.api.microsoftapp.net
++.api.revenuecat.com
 +.api.statsig.com
 +.apis.google.com
 +.app.launchdarkly.com
@@ -109,6 +110,7 @@
 +.perplexity.ai
 +.perplexity.com
 +.poe.com
++.pool.ntp.org
 +.pplx.ai
 +.proactivebackend-pa.googleapis.com
 +.prodregistryv2.org

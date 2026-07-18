@@ -1,35 +1,35 @@
 # Gins-Rules: steam
 domain_set:
 - steamstore-a.akamaihd.net
-- steamcommunity-a.akamaihd.net
-- steambroadcast.akamaized.net
-- steampipe.akamaized.net
-- steamusercontent-a.akamaihd.net
 - steamuserimages-a.akamaihd.net
-domain_suffix_set:
-- steamstatic.com
-- steampipe-partner.akamaized.net
-- steam-api.com
-- steam.tv
-- steamcommunity-a.akamaihd.net
-- humblebundle.com
-- steampipe-kr.akamaized.net
-- steamstat.us
-- s.team
+- steampipe.akamaized.net
 - steambroadcast.akamaized.net
-- steamunlocked.net
+- steamcommunity-a.akamaihd.net
+- steamusercontent-a.akamaihd.net
+domain_suffix_set:
 - steamcommunity.com
-- steamgames.com
-- steampowered.com
+- steampipe-partner.akamaized.net
+- steampipe.akamaized.net
+- steamcommunity-a.akamaihd.net
+- steammobile.akamaized.net
+- steamunlocked.net
 - steamvideo-a.akamaihd.net
-- playartifact.com
 - underlords.com
 - steam-chat.com
+- steamgames.com
+- steampowered.com
 - valvesoftware.com
 - steamdeck.com
+- steamstat.us
 - wmsjsteam.com
-- fanatical.com
-- steammobile.akamaized.net
+- humblebundle.com
+- steam-api.com
 - steamserver.net
+- steam.tv
 - steamusercontent.com
-- steampipe.akamaized.net
+- steamstatic.com
+- steampipe-kr.akamaized.net
+- playartifact.com
+- steambroadcast.akamaized.net
+- fanatical.com
+- s.team
