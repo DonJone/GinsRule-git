@@ -1,6 +1,6 @@
 # Gins-Rules: signal
 domain_suffix_set:
 - signal.art
-- whispersystems.org
-- signal.org
 - signal.group
+- signal.org
+- whispersystems.org

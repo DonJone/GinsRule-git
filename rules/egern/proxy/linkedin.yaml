@@ -4,12 +4,12 @@ domain_set:
 - e122475.dscg.akamaiedge.net
 - linkedin.sc.omtrdc.net
 domain_suffix_set:
-- licdn.com
+- linkedin.at
+- bizographics.com
+- licdn.cn
 - linkedin.cn
 - lnkd.in
-- l-0005.dc-msedge.net
-- linkedin.com
-- licdn.cn
+- licdn.com
 - l-0005.l-msedge.net
-- bizographics.com
-- linkedin.at
+- linkedin.com
+- l-0005.dc-msedge.net
