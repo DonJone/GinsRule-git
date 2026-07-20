@@ -1,7 +1,7 @@
 # Gins-Rules: jd
 domain_suffix_set:
-- jd.com
 - jd.cn
-- jdcloud.com
-- 360buyimg.com
 - jd.hk
+- jdcloud.com
+- jd.com
+- 360buyimg.com

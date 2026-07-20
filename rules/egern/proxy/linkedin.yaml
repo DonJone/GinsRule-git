@@ -1,15 +1,15 @@
 # Gins-Rules: linkedin
 domain_set:
-- licdn.cn.cdn20.com
-- e122475.dscg.akamaiedge.net
 - linkedin.sc.omtrdc.net
+- e122475.dscg.akamaiedge.net
+- licdn.cn.cdn20.com
 domain_suffix_set:
-- linkedin.at
 - bizographics.com
+- l-0005.dc-msedge.net
+- linkedin.com
+- l-0005.l-msedge.net
 - licdn.cn
 - linkedin.cn
 - lnkd.in
 - licdn.com
-- l-0005.l-msedge.net
-- linkedin.com
-- l-0005.dc-msedge.net
+- linkedin.at

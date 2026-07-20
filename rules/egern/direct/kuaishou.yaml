@@ -1,8 +1,8 @@
 # Gins-Rules: kuaishou
 domain_suffix_set:
 - gifshow.com
+- kuaishouzt.com
+- apissl.ksapisrv.com
 - kuaishou.com
 - yxixy.com
-- apissl.ksapisrv.com
-- kuaishouzt.com
 - ksapisrv.com
