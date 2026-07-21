@@ -1046,6 +1046,7 @@ DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,tmdb-web-image-prod.b-cdn.net
 DOMAIN,trae-api-sg.mchost.guru
 DOMAIN,translomatic.foxfortmobile.com
+DOMAIN,trojan-gfw.github.io
 DOMAIN,tv.applemusic.com
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
@@ -1239,6 +1240,7 @@ DOMAIN,www.bing.com
 DOMAIN,www.microsoft.com
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN,xp.apple.com
+DOMAIN,xtls.github.io
 DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,yangzhi.app
 DOMAIN,youtubei.googleapis.com
@@ -5687,6 +5689,7 @@ DOMAIN-SUFFIX,beside.ac.uk
 DOMAIN-SUFFIX,bess.ac.uk
 DOMAIN-SUFFIX,best-sex-games.com
 DOMAIN-SUFFIX,best.ac.uk
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,best3dhere.com
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestamateurcumshots.com
@@ -8781,6 +8784,7 @@ DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,clasporno.org
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,classicnike.com
@@ -12687,9 +12691,11 @@ DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f-secure.com
+DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,f1esports.com
 DOMAIN-SUFFIX,f1manager.com
 DOMAIN-SUFFIX,f1play.com
+DOMAIN-SUFFIX,f1tv.com
 DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f5pf.com
 DOMAIN-SUFFIX,f6.dev
@@ -17452,6 +17458,7 @@ DOMAIN-SUFFIX,hutong9.net
 DOMAIN-SUFFIX,hutpromos.com
 DOMAIN-SUFFIX,hutton.ac.uk
 DOMAIN-SUFFIX,huyandex.com
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,hw.ac.uk
 DOMAIN-SUFFIX,hwadzan.tw
 DOMAIN-SUFFIX,hwayue.org.tw
@@ -28155,10 +28162,12 @@ DOMAIN-SUFFIX,rbmavericks.com
 DOMAIN-SUFFIX,rbnainternational.com
 DOMAIN-SUFFIX,rbplc.com
 DOMAIN-SUFFIX,rbrandlibrary.com
+DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,rbsgr.com
 DOMAIN-SUFFIX,rbsl.ac.uk
 DOMAIN-SUFFIX,rbslondon.ac.uk
 DOMAIN-SUFFIX,rbspeakup.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,rbx.com
 DOMAIN-SUFFIX,rbxcdn.com
@@ -32043,6 +32052,7 @@ DOMAIN-SUFFIX,sysmic.ac.uk
 DOMAIN-SUFFIX,sysresccd.org
 DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,systemicrisk.ac.uk
+DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,syzbj36.xyz

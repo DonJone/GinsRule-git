@@ -3,8 +3,8 @@ domain_keyword_set:
 - rthklive
 - nowtv100
 domain_set:
-- mytvsuperlimited.sc.omtrdc.net
 - mytvsuperlimited.hb.omtrdc.net
+- mytvsuperlimited.sc.omtrdc.net
 domain_suffix_set:
 - mytvsuper.com
 - tvb.com
