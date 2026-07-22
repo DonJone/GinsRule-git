@@ -90563,6 +90563,7 @@
 .moecat.best
 .moeclub.org
 .moedot.net
+.moedu.com
 .moeelf.com
 .moefactory.com
 .moefantasy.com
@@ -124942,6 +124943,7 @@
 .tsingpost.com
 .tsingshang.com
 .tsingtek.com
+.tsingtengms.com
 .tsingtoo.com
 .tsingtuo.com
 .tsingyangroup.com
@@ -135944,6 +135946,7 @@
 .xcxzww.com
 .xcyg.net
 .xcylrc.com
+.xcz.im
 .xczgu.top
 .xczhmzb.com
 .xczhsh.com
