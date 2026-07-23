@@ -1,9 +1,9 @@
 HOST,sydney.bing.com,PROXY
-HOST-SUFFIX,bing.com,PROXY
-HOST-SUFFIX,copilot-telemetry.githubusercontent.com,PROXY
 HOST-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
-HOST-SUFFIX,default.exp-tas.com,PROXY
 HOST-SUFFIX,api.githubcopilot.com,PROXY
-HOST-SUFFIX,githubcopilot.com,PROXY
+HOST-SUFFIX,default.exp-tas.com,PROXY
 HOST-SUFFIX,copilot.github.com,PROXY
+HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,copilot.microsoft.com,PROXY
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,PROXY
+HOST-SUFFIX,githubcopilot.com,PROXY
