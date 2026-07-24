@@ -2,29 +2,29 @@
 domain_keyword_set:
 - hbogoasia
 domain_set:
-- cf-images.ap-southeast-1.prod.boltdns.net
-- players.brightcove.net
 - 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-- hbogoprod-vod.akamaized.net
-- hboasialive.akamaized.net
 - bcbolthboa-a.akamaihd.net
-- hboasia3-i.akamaihd.net
 - hboasia5-i.akamaihd.net
-- hboasia2-i.akamaihd.net
-- hbolb.onwardsmg.com
+- hbogoprod-vod.akamaized.net
+- cf-images.ap-southeast-1.prod.boltdns.net
 - hboasia4-i.akamaihd.net
+- hboasia3-i.akamaihd.net
 - s3-ap-southeast-1.amazonaws.com
 - hbounify-prod.evergent.com
-- hboasia1-i.akamaihd.net
 - dai3fd1oh325y.cloudfront.net
+- hboasialive.akamaized.net
+- hboasia1-i.akamaihd.net
+- hboasia2-i.akamaihd.net
+- hbolb.onwardsmg.com
+- players.brightcove.net
 domain_suffix_set:
-- hbogo.com
+- hbomaxcdn.com
 - discomax.com
 - hbomax.com
-- max.com
-- hbomaxcdn.com
+- hboasia.com
+- hbogo.com
+- hbonow.com
 - hbo.com
 - hbogoasia.com
-- hbonow.com
+- max.com
 - hbogoasia.hk
-- hboasia.com
