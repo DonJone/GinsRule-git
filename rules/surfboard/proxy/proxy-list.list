@@ -7845,6 +7845,7 @@ DOMAIN-SUFFIX,cinny.in
 DOMAIN-SUFFIX,cios.org
 DOMAIN-SUFFIX,ciota.ac.uk
 DOMAIN-SUFFIX,cipfg.org
+DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,circleci.com
 DOMAIN-SUFFIX,circlethebayfortibet.org
 DOMAIN-SUFFIX,cirencester.ac.uk
@@ -10028,6 +10029,7 @@ DOMAIN-SUFFIX,docs.cfw.lbyczf.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,doctor-videos.com
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentforce.com
@@ -18605,6 +18607,7 @@ DOMAIN-SUFFIX,kaotic.com
 DOMAIN-SUFFIX,karabako-gmo.com
 DOMAIN-SUFFIX,karafarinbank.ir
 DOMAIN-SUFFIX,karayou.com
+DOMAIN-SUFFIX,kards.com
 DOMAIN-SUFFIX,karechat.ai
 DOMAIN-SUFFIX,karger.com
 DOMAIN-SUFFIX,karinahart.com
@@ -19697,6 +19700,7 @@ DOMAIN-SUFFIX,locate.ac.uk
 DOMAIN-SUFFIX,location.microsoft.com
 DOMAIN-SUFFIX,lockestek.com
 DOMAIN-SUFFIX,lockssalliance.ac.uk
+DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,logbot.net
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logic.ac.uk
@@ -31737,6 +31741,7 @@ DOMAIN-SUFFIX,truyenhentai.xyz
 DOMAIN-SUFFIX,truyenkk1.com
 DOMAIN-SUFFIX,truyentranh86.com
 DOMAIN-SUFFIX,truyenwk.com
+DOMAIN-SUFFIX,try.rw
 DOMAIN-SUFFIX,tryalias.com
 DOMAIN-SUFFIX,tryboobs.com
 DOMAIN-SUFFIX,trycloudflare.com
@@ -36573,7 +36578,6 @@ IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,192.173.64.0/18,no-resolve
 IP-CIDR,194.221.250.50/32,no-resolve
-IP-CIDR,196.55.216.167/32,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,203.104.103.0/24,no-resolve
