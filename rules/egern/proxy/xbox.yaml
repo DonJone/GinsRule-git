@@ -1,5 +1,5 @@
 # Gins-Rules: xbox
 domain_suffix_set:
-- xboxlive.com
-- xboxservices.com
 - xbox.com
+- xboxservices.com
+- xboxlive.com
