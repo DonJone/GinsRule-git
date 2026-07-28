@@ -1,6 +1,6 @@
 # Gins-Rules: reddit
 domain_suffix_set:
-- redditstatic.com
 - reddit.com
+- redditstatic.com
 - redditmedia.com
 - redd.it
