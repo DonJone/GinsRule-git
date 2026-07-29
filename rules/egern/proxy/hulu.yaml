@@ -1,15 +1,15 @@
 # Gins-Rules: hulu
 domain_suffix_set:
-- hulu.jp
-- hulu.hb.omtrdc.net
 - prod.hjholdings.tv
-- cws-hulu.conviva.com
-- hulu.com
+- hulu.hb.omtrdc.net
+- hulu.jp
 - huluim.com
-- streaks.jp
-- happyon.jp
-- yb.uncn.jp
 - hjholdings.jp
+- streaks.jp
+- yb.uncn.jp
 - huluad.com
-- hulu.sc.omtrdc.net
+- happyon.jp
+- hulu.com
+- cws-hulu.conviva.com
 - hulustream.com
+- hulu.sc.omtrdc.net

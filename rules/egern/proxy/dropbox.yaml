@@ -2,19 +2,19 @@
 domain_keyword_set:
 - dropbox
 domain_suffix_set:
-- dropbox.tech
+- dropboxinsiders.com
+- dropboxbusiness.com
 - dropboxpartners.com
 - db.tt
 - dropbox.zendesk.com
-- dropbox-dns.com
 - dropboxforums.com
-- dropboxcaptcha.com
+- dropbox-dns.com
+- dropboxstatic.com
 - dropbox.com
-- dropboxinsiders.com
-- dropboxbusiness.com
+- getdropbox.com
+- dropboxmail.com
 - dropboxapi.com
 - dropboxusercontent.com
-- dropboxstatic.com
-- dropboxmail.com
-- getdropbox.com
+- dropbox.tech
+- dropboxcaptcha.com
 - dropboxforum.com

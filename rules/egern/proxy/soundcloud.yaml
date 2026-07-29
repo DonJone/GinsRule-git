@@ -1,7 +1,7 @@
 # Gins-Rules: soundcloud
 domain_suffix_set:
-- sndcdn.com
 - soundcloud.com
+- sndcdn.com
 - p-cdn.us
 user_agent_set:
 - SoundCloud*
