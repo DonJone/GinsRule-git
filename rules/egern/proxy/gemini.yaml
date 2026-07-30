@@ -2,15 +2,15 @@
 domain_suffix_set:
 - aida.googleapis.com
 - aistudio.google.com
-- generativeai.google
-- makersuite.google.com
-- deepmind.com
-- deepmind.google
-- ai.google.dev
-- bard.google.com
-- alkalicore-pa.clients6.google.com
-- gemini.google.com
-- generativelanguage.googleapis.com
 - alkalimakersuite-pa.clients6.google.com
-- proactivebackend-pa.googleapis.com
 - geller-pa.googleapis.com
+- generativeai.google
+- gemini.google.com
+- deepmind.google
+- generativelanguage.googleapis.com
+- bard.google.com
+- makersuite.google.com
+- alkalicore-pa.clients6.google.com
+- proactivebackend-pa.googleapis.com
+- deepmind.com
+- ai.google.dev

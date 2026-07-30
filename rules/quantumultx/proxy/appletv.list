@@ -1,10 +1,10 @@
+HOST,np-edge.itunes.apple.com,PROXY
+HOST,tv.applemusic.com,PROXY
+HOST,hls.itunes.apple.com,PROXY
+HOST,uts-api.itunes.apple.com,PROXY
 HOST,play-edge.itunes.apple.com,PROXY
 HOST,hls-amt.itunes.apple.com,PROXY
-HOST,tv.applemusic.com,PROXY
-HOST,uts-api.itunes.apple.com,PROXY
-HOST,np-edge.itunes.apple.com,PROXY
-HOST,hls.itunes.apple.com,PROXY
-HOST-SUFFIX,trailers.apple.com,PROXY
 HOST-SUFFIX,tv.apple.com,PROXY
-USER-AGENT,AppleTV*,PROXY
+HOST-SUFFIX,trailers.apple.com,PROXY
 USER-AGENT,com.apple.tv*,PROXY
+USER-AGENT,AppleTV*,PROXY
