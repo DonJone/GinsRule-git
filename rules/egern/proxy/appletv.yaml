@@ -10,5 +10,5 @@ domain_suffix_set:
 - trailers.apple.com
 - tv.apple.com
 user_agent_set:
-- AppleTV*
 - com.apple.tv*
+- AppleTV*

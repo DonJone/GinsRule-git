@@ -4,12 +4,12 @@ domain_set:
 - linkedin.sc.omtrdc.net
 - licdn.cn.cdn20.com
 domain_suffix_set:
-- linkedin.at
-- linkedin.cn
-- lnkd.in
-- bizographics.com
 - licdn.com
+- linkedin.cn
+- linkedin.at
 - l-0005.l-msedge.net
 - linkedin.com
 - l-0005.dc-msedge.net
 - licdn.cn
+- lnkd.in
+- bizographics.com
