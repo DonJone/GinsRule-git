@@ -11669,7 +11669,6 @@
 .92ni.com
 .92oz46nne1.com
 .92paipai.cn
-.92read.com
 .92scj.com
 .92shuoshuo.com
 .92sucai.com
@@ -33606,7 +33605,6 @@
 .console.cdnetworks.com
 .constao.com
 .constar-gd.com
-.constasj.me
 .constgroup.com
 .consult.ac.cn
 .consumerfoundation.cn
@@ -155793,6 +155791,7 @@ live.todaydunhuang.com
 live.tvbaoji.com
 live.ugratv.cdnvideo.ru
 live.ybtvyun.com
+live.yichuntv.com
 live.zhihuizq.com
 live.zscz0768.com
 live02.rfi.fr
@@ -155844,6 +155843,7 @@ movie.mcas.jp
 mpnbenefits.download.prss.microsoft.com
 mpnbenefitsrtl.download.prss.microsoft.com
 mpnbenefitsrtluat.download.prss.microsoft.com
+ms3.yichuntv.com
 msdn.download.prss.microsoft.com
 msdprod-ad.download.prss.microsoft.com
 msg.umeng.com
