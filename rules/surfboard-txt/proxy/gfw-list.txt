@@ -692,6 +692,7 @@
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .certificate-transparency.org
 .certificate.revocationcheck.com
 .cfr.org
@@ -773,6 +774,7 @@
 .chromeexperiments.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .ci-en.jp
 .cia.gov
 .cici.com
@@ -2533,7 +2535,6 @@
 .motherless.com
 .movements.org
 .moviefap.com
-.mozilla.ai
 .mpettis.com
 .mpfinance.com
 .mpinews.com
