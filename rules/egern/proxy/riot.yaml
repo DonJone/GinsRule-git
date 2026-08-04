@@ -1,5 +1,5 @@
 # Gins-Rules: riot
 domain_suffix_set:
-- leagueoflegends.com
 - riotgames.com
+- leagueoflegends.com
 - riotcdn.net
