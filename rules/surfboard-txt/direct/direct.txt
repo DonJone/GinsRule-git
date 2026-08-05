@@ -311,7 +311,6 @@
 .020gzjx.com
 .020h.com
 .020job.com
-.020suv.com
 .020trvl.com
 .020xue.com
 .020ym.com
@@ -13398,7 +13397,6 @@
 .acurrent.cn
 .acustomer.cn
 .acv85.com
-.acvca.com
 .acwapowercn.com
 .acwifi.net
 .acwing.com
@@ -156189,6 +156187,8 @@ time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tl.gscm.tv
 tools.google.com
 tools.l.google.com
