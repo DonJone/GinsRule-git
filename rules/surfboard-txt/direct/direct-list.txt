@@ -81312,6 +81312,7 @@
 .madajiefood.com
 .madaomall.com
 .madboxi.com
+.made-in-china.com
 .made1cn.com
 .madefuns.com
 .madeinchinastone.com
@@ -83723,6 +83724,7 @@
 .microxiang.com
 .microyan.com
 .microzuji.com
+.micstatic.com
 .mictormedical.com
 .micu.hk
 .micun.com
@@ -94202,6 +94204,7 @@
 .powercx.com
 .powerde.com
 .powereasy.net
+.poweremarket.com
 .powerenergychain.com
 .powerex1.com
 .powerflow-tech.com

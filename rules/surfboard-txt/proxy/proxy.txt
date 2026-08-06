@@ -246,6 +246,7 @@
 .2047.name
 .2047.one
 .2049bbs.xyz
+.20thcenturystudios.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
@@ -288,12 +289,16 @@
 .2bit8.com
 .2buybeatsbydre.com
 .2ch.hk
+.2ch.life
 .2ch.net
+.2ch.org
 .2ch.sc
+.2ch.su
 .2chav.com
 .2dgen.com
 .2drdrebeats.com
 .2du5.com
+.2dust.link
 .2gayboys.com
 .2gis.ae
 .2gis.am
@@ -2052,6 +2057,7 @@
 .amnesty.org.hk
 .amnesty.tw
 .amnestyusa.org
+.amnezia.org
 .amnyemachen.org
 .amodoll.com
 .amof.ac.uk
@@ -3735,6 +3741,7 @@
 .bam.nr-date.net
 .bamgrid.com
 .bams.ac.uk
+.bamtech.net
 .bamtoki.com
 .banan.tv
 .banana-vpn.com
@@ -7453,10 +7460,13 @@
 .clarity.ms
 .clarivate.com
 .clash.com
+.clashmi.app
 .clashmini.com
 .clashofclans.com
+.clashparty.org
 .clashroyale.com
 .clashroyaleapp.com
+.clashverge.dev
 .clashyun.com
 .clasporno.org
 .classicalguitarblog.net
@@ -7555,9 +7565,11 @@
 .cloudflare-ipfs.com
 .cloudflare-quic.com
 .cloudflare-terms-of-service-abuse.com
+.cloudflare.app
 .cloudflare.com
 .cloudflare.dev
 .cloudflare.net
+.cloudflare.pay
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
@@ -9070,6 +9082,7 @@
 .detentiongirls.com
 .detnews.com
 .detodosparatodos.org
+.detpress.com
 .dettol-prize.com
 .dettol.at
 .dettol.be
@@ -9409,7 +9422,9 @@
 .disney.ru
 .disney.se
 .disney.sg
+.disneyaccount.com
 .disneyadsales.com
+.disneyanimation.com
 .disneyarena.com
 .disneyaulani.com
 .disneybaby.com
@@ -12278,6 +12293,7 @@
 .flatt.tech
 .flavournetwork.ac.uk
 .flbjc.net
+.flclashx.app
 .fldz8.buzz
 .flecheinthepeche.fr
 .fleshbot.com
@@ -12322,6 +12338,7 @@
 .flowgpt.com
 .flowhongkong.net
 .flowtype.org
+.flowvy.io
 .flowwow-images.com
 .flowwow.com
 .fls-na.amazon.com
@@ -12737,6 +12754,7 @@
 .freefacebookads.net
 .freefblikes.com
 .freefbx.com
+.freeform.com
 .freeforums.org
 .freefq.com
 .freefuckvids.com
@@ -15577,6 +15595,7 @@
 .hongjie10.xyz
 .hongjie11.xyz
 .hongkong.fandom.com
+.hongkongdisneyland.com
 .hongkongdoll.tv
 .hongkongdollvideo.org
 .hongkongfp.com
@@ -16837,6 +16856,7 @@
 .inclusivegrowthscore.com
 .incommon-rsa.org
 .incredibox.fr
+.incy.cc
 .ind.sh
 .indazn.com
 .indaznlab.com
@@ -18448,6 +18468,7 @@
 .karechat.ai
 .karger.com
 .karinahart.com
+.karing.app
 .karkhung.com
 .karlajames.com
 .karmahelp.ru
@@ -19829,6 +19850,7 @@
 .lubetube.com
 .lucahmelayu.club
 .lucasentertainment.com
+.lucasfilm.com
 .lucbjtu.ac.uk
 .lucid.ac.uk
 .luckydesigner.space
@@ -22541,6 +22563,7 @@
 .ncati.ac.uk
 .ncaveo.ac.uk
 .ncb.ac.uk
+.ncbi.nlm.nih.gov
 .ncbradford.ac.uk
 .ncc.ac.uk
 .nccadultlearning.ac.uk
@@ -22629,6 +22652,7 @@
 .neicad.com
 .neiexplicit.com
 .neifea.com
+.neigbuy.com
 .neimotion.com
 .neinastranincad.com
 .neipdg.ac.uk
@@ -23566,6 +23590,7 @@
 .nsfwr34.com
 .nsimg.net
 .nsirc.ac.uk
+.nsloon.com
 .nso.ac.uk
 .nso.nintendo.net
 .nspcr.ac.uk
@@ -24185,6 +24210,7 @@
 .onetrust.com
 .onevps.com
 .oneworldmanystories.com
+.onexray.com
 .onfinality.io
 .onindiansex.com
 .oninstagram.com
@@ -25380,6 +25406,7 @@
 .piwheels.org
 .pixanalytics.com
 .pixapp.net
+.pixar.com
 .pixate.com
 .pixeldrain.com
 .pixelmator.com
@@ -26200,6 +26227,7 @@
 .privilege.hk
 .privilege.tw
 .privoxy.org
+.prizrak.app
 .proactivebackend-pa.googleapis.com
 .probe.icloud.com
 .probit.com
@@ -28225,6 +28253,7 @@
 .search.xxx
 .search.yahoo.co.jp
 .search25.ac.uk
+.searchlightpictures.com
 .searchtruth.com
 .searx.me
 .seas.ac.uk
@@ -28646,6 +28675,7 @@
 .shadeyouvpn.com
 .shadow.ma
 .shadowcomplex.com
+.shadowlaunch.com
 .shadowsky.xyz
 .shadowslaves.com
 .shadowsocks-r.com
@@ -30121,6 +30151,8 @@
 .starwarsjedifallenorder.com
 .starwarskids.com
 .starwarstheoldrepublic.com
+.stash.wiki
+.stash.ws
 .stat.gov.tw
 .state.gov
 .stateofthemap.com
@@ -31833,6 +31865,7 @@
 .tokyo-sports.co.jp
 .tokyo-tosho.net
 .tokyocn.com
+.tokyodisneyresort.jp
 .tokyomotion.com
 .tokyomotion.net
 .tokyonightstyle.com
@@ -34339,6 +34372,7 @@
 .walmartimages.com
 .walsall-coce.ac.uk
 .walsallcollege.ac.uk
+.waltdisneystudios.com
 .waltermartin.com
 .waltermartin.org
 .waltham.ac.uk
@@ -34682,6 +34716,7 @@
 .wforum.com
 .wgcdn.co
 .wgcrowd.io
+.wgtunnel.com
 .wgu.ac.uk
 .wha.la
 .whasil.xyz
@@ -34971,6 +35006,7 @@
 .wirelessreach.com
 .wiremoneytoirelandwithxoomeasierandcheaper.com
 .wireshark.org
+.wiresock.net
 .wirralmet.ac.uk
 .wisdompubs.org
 .wise-research.com
@@ -37054,7 +37090,7 @@
 3dns-5.adobe.com
 3dns.adobe.com
 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
+7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 a.ppy.sh
 a1.mzstatic.com
 a2.mzstatic.com
@@ -37407,6 +37443,7 @@ dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
 discord-attachments-uploads-prd.storage.googleapis.com
 discussionschinese.apple.com
+disneyplus.com.ssl.sc.omtrdc.net
 dl-ssl.google.com
 dl.begellhouse.com
 dl.google.com
@@ -37673,6 +37710,7 @@ mask-h2.icloud.com
 mask-t.apple-dns.net
 mask.apple-dns.net
 mask.icloud.com
+matsuridayo.github.io
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
 media.line.me
@@ -37680,6 +37718,7 @@ medone-education.thieme.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
+metacubex.github.io
 misa-prod.s3.ap-northeast-1.amazonaws.com
 ml.cdn-apple.com
 mobilelive-hamivideo.cdn.hinet.net
@@ -37841,6 +37880,7 @@ q676790b.pmhcjk.com
 qualcomm.sc.omtrdc.net
 r.bing.com
 r2.cloudflarestorage.com
+rabbit-hole-1.gitbook.io
 registry-1.docker.io
 registry.scout.docker.com
 reserve-prime.apple.com
@@ -38052,6 +38092,7 @@ teamviewer.com.cdn.cloudflare.net
 tesla-cdn.thron.com
 testflight.apple.com
 theater-kktv.cdn.hinet.net
+throneproj.github.io
 thumbnail-hamivideo.cdn.hinet.net
 time-a-b.nist.gov
 time-a-g.nist.gov
