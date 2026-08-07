@@ -1,8 +1,8 @@
-HOST-SUFFIX,douyu.tv,PROXY
 HOST-SUFFIX,douyuscdn.com,PROXY
-HOST-SUFFIX,bytefcdnrd.com,PROXY
-HOST-SUFFIX,edgesrv.com,PROXY
-HOST-SUFFIX,douyu.com,PROXY
 HOST-SUFFIX,douyucdn.cn,PROXY
 HOST-SUFFIX,douyucdn2.cn,PROXY
 HOST-SUFFIX,douyutv.com,PROXY
+HOST-SUFFIX,douyu.tv,PROXY
+HOST-SUFFIX,edgesrv.com,PROXY
+HOST-SUFFIX,bytefcdnrd.com,PROXY
+HOST-SUFFIX,douyu.com,PROXY

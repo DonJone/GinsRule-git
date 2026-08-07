@@ -2,32 +2,32 @@
 domain_keyword_set:
 - avoddashs
 domain_set:
-- d1v5ir2lpwr8os.cloudfront.net
-- d27xxe7juh1us6.cloudfront.net
 - dmqdd6hw24ucf.cloudfront.net
-- d22qjgkvxw22r6.cloudfront.net
 - d25xi40x97liuc.cloudfront.net
+- d1v5ir2lpwr8os.cloudfront.net
+- d22qjgkvxw22r6.cloudfront.net
+- d27xxe7juh1us6.cloudfront.net
 domain_suffix_set:
-- media-amazon.com
-- primevideo.org
-- amazonprimevideo.com.cn
-- amazonprimevideo.cn
 - aiv-cdn.net
-- amazonvideo.com
-- avodmp4s3ww-a.akamaihd.net
-- fls-na.amazon.com
-- atv-ps.amazon.com
-- prime-video.com
-- primevideo.tv
-- llnwd.net
-- amazonvideo.cc
-- pv-cdn.net
-- aiv-delivery.net
 - amazon.com
+- amazonprimevideo.cn
+- atv-ps.amazon.com
 - primevideo.info
-- amazonprimevideos.com
+- primevideo.org
+- prime-video.com
+- aiv-delivery.net
+- avodmp4s3ww-a.akamaihd.net
+- amazonprimevideo.com.cn
+- amazonvideo.com
+- media-amazon.com
+- amazonvideo.cc
 - primevideo.cc
+- primevideo.tv
 - primevideo.com
+- pv-cdn.net
+- amazonprimevideos.com
+- fls-na.amazon.com
+- llnwd.net
 user_agent_set:
-- InstantVideo.US*
 - Prime%20Video*
+- InstantVideo.US*
