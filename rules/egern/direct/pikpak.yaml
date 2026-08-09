@@ -4,7 +4,7 @@ domain_keyword_set:
 domain_suffix_set:
 - hubciddata.sandai.net
 - dlandroid.rcv.sandai.net
-- hub5pr.v6.phub.sandai.net
 - hub5idx.v6.shub.sandai.net
-- hub5pn.wap.sandai.net
+- hub5pr.v6.phub.sandai.net
 - hub5pnc.sandai.net
+- hub5pn.wap.sandai.net

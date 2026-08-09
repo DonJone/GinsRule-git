@@ -1,18 +1,18 @@
 # Gins-Rules: microsoft-cdn
 domain_suffix_set:
+- windowsupdate.com
+- wns.windows.com
+- otelrules.azureedge.net
+- activation.sls.microsoft.com
 - adl.windows.com
 - officeclient.microsoft.com
-- microsoft.akadns.net
-- download.microsoft.com
-- update.microsoft.com
-- go.microsoft.com
-- officecdn.microsoft.com
-- windows.net
 - office15client.microsoft.com
-- otelrules.azureedge.net
-- windowsupdate.com
-- activation.sls.microsoft.com
-- crl.microsoft.com
-- officecdn.microsoft.com.edgesuite.net
-- wns.windows.com
+- go.microsoft.com
+- update.microsoft.com
 - windows.com
+- download.microsoft.com
+- crl.microsoft.com
+- microsoft.akadns.net
+- officecdn.microsoft.com
+- officecdn.microsoft.com.edgesuite.net
+- windows.net
