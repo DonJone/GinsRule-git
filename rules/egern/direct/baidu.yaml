@@ -1,16 +1,16 @@
 # Gins-Rules: baidu
 domain_suffix_set:
-- baidubce.com
+- hao123.com
+- yunjiasu-cdn.net
+- bdstatic.com
+- bdurl.net
+- bcebos.com
 - baidu.com
+- baidubcr.com
+- baiducontent.com
 - bdimg.com
 - baidupcs.com
+- baidubce.com
 - hao123img.com
-- baidubcr.com
 - baidustatic.com
-- yunjiasu-cdn.net
-- bdurl.net
-- hao123.com
-- baiducontent.com
-- bcebos.com
-- bdstatic.com
 - jomodns.com
