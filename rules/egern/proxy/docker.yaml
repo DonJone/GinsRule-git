@@ -1,22 +1,22 @@
 # Gins-Rules: docker
 domain_set:
-- hub.docker.com
-- registry.scout.docker.com
-- desktop.docker.com
-- auth.docker.io
 - d36jcksde1wxzq.cloudfront.net
+- auth.docker.io
+- production.cloudflare.docker.com
+- registry.scout.docker.com
+- hub.docker.com
 - d2wy8f7a9ursnm.cloudfront.net
+- desktop.docker.com
+- api.docker.com
+- api.dso.docker.com
 - auth.docker.com
 - d1q6f0aelx0por.cloudfront.net
-- api.dso.docker.com
 - login.docker.com
-- production.cloudflare.docker.com
-- api.docker.com
 - registry-1.docker.io
 domain_suffix_set:
-- dhi.io
 - docker.io
-- dockerhub.com
 - dockerstatus.com
-- compose-spec.io
 - docker.com
+- dhi.io
+- compose-spec.io
+- dockerhub.com

@@ -4,36 +4,36 @@ domain_keyword_set:
 - spotify
 - spotify.com
 domain_set:
-- audio4-ak-spotify-com.akamaized.net
-- spotify.com.edgesuite.net
 - spotify.map.fastly.net
-- spotify.map.fastlylb.net
-- cdn-spotify-experiments.conductrics.com
 - heads-ak-spotify-com.akamaized.net
+- cdn-spotify-experiments.conductrics.com
+- spotify.map.fastlylb.net
+- spotify.com.edgesuite.net
+- audio4-ak-spotify-com.akamaized.net
 domain_suffix_set:
-- spotify.design
-- spotifyforbrands.com
-- spotify.com
-- byspotify.com
-- spotifynewsroom.jp
-- tospotify.com
-- spotilocal.com
-- pscdn.co
-- spotifycdn.com
-- spotifyjobs.com
-- spoti.fi
-- spotifycdn.net
-- spotify-com.akamaized.net
+- spotifycharts.com
 - spotify.app.link
+- spotilocal.com
+- byspotify.com
+- spoti.fi
+- spotify-everywhere.com
+- heads4-ak-spotify-com.akamaized.net
+- spotifycdn.com
+- spotify-com.akamaized.net
+- spotify.design
 - audio-ak-spotify-com.akamaized.net
 - scdn.co
-- spotifycharts.com
-- heads4-ak-spotify-com.akamaized.net
-- spotify-everywhere.com
+- pscdn.co
+- spotify.com
+- tospotify.com
+- spotifycdn.net
+- spotifyjobs.com
+- spotifynewsroom.jp
 - spotifycodes.com
+- spotifyforbrands.com
 ip_cidr_set:
-- 104.154.127.126/32
 - 35.186.224.47/32
+- 104.154.127.126/32
 no_resolve: true
 user_agent_set:
 - Spotify*
