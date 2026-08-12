@@ -1,7 +1,7 @@
-HOST-SUFFIX,hub5idx.v6.shub.sandai.net,PROXY
-HOST-SUFFIX,hub5pnc.sandai.net,PROXY
+HOST-SUFFIX,hubciddata.sandai.net,PROXY
 HOST-SUFFIX,dlandroid.rcv.sandai.net,PROXY
+HOST-SUFFIX,hub5idx.v6.shub.sandai.net,PROXY
 HOST-SUFFIX,hub5pn.wap.sandai.net,PROXY
 HOST-SUFFIX,hub5pr.v6.phub.sandai.net,PROXY
-HOST-SUFFIX,hubciddata.sandai.net,PROXY
+HOST-SUFFIX,hub5pnc.sandai.net,PROXY
 HOST-KEYWORD,mypikpak,PROXY
