@@ -6014,6 +6014,7 @@
 .building3dcontent.com
 .builtenvsigns.ac.uk
 .builtfromebay.com
+.builtwithnix.org
 .bukkake-jav.com
 .bukkake.link
 .bullguard.com
@@ -22312,6 +22313,7 @@
 .mynetav.org
 .mynetname.net
 .mynike.com
+.mynixos.com
 .mynumber.org
 .myoctocat.com
 .myparagliding.com
@@ -23370,7 +23372,15 @@
 .nivod.tv
 .nivodi.tv
 .nivodz.com
+.nix-community.org
+.nix.dev
+.nix.store
+.nixcon.org
+.nixcon2017.org
+.nixlang.com
 .nixos.org
+.nixos.wiki
+.nixpkgs.org
 .niziero.info
 .nj.com
 .njactb.org
@@ -36285,6 +36295,7 @@
 .yandex.eu
 .yandex.fi
 .yandex.fr
+.yandex.it
 .yandex.jobs
 .yandex.kg
 .yandex.kz
@@ -37783,6 +37794,7 @@ news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
 news.ycombinator.com
+nix-community.github.io
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notebooklm-pa.googleapis.com
