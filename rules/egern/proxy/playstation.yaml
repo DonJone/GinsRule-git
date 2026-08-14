@@ -1,8 +1,8 @@
 # Gins-Rules: playstation
 domain_suffix_set:
-- playstationnetwork.com
 - playstation.net
 - sony.com
-- sonyentertainmentnetwork.com
 - sie.com
 - playstation.com
+- sonyentertainmentnetwork.com
+- playstationnetwork.com
