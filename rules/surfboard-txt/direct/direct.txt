@@ -33439,6 +33439,7 @@
 .collect-v6-51.la
 .college-ing.com
 .college.cn
+.collegeboard.org
 .collt.org
 .colly-pink.com
 .collycn.com

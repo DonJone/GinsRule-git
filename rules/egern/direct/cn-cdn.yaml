@@ -1,17 +1,17 @@
 # Gins-Rules: cn-cdn
 domain_suffix_set:
-- qiniudn.com
 - npmmirror.com
+- ucloud.cn
+- cdn.bootcss.com
 - 75cdn.cn
 - bspapp.com
-- cdn.bootcss.com
 - qiniucdn.com
-- bootcdn.cn
-- cdn.bootcdn.net
-- cdn.npmmirror.com
-- staticfile.org
-- ucloud.cn
 - qbox.me
-- upyun.com
+- qiniudn.com
+- cdn.npmmirror.com
 - qiniu.com
+- cdn.bootcdn.net
+- bootcdn.cn
+- upyun.com
 - registry.npmmirror.com
+- staticfile.org

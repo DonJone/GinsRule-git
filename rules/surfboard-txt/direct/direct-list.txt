@@ -17756,7 +17756,6 @@
 .bamboofactorychina.com
 .bambooolab.com
 .bambu-lab.com
-.bambulab.com
 .bamengame.com
 .bamensq.com
 .bamenyun.com
@@ -31111,6 +31110,7 @@
 .collect-med.com
 .college-ing.com
 .college.cn
+.collegeboard.org
 .collt.org
 .colly-pink.com
 .colmo.cn
