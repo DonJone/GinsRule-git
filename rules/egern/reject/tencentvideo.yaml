@@ -2,29 +2,29 @@
 domain_keyword_set:
 - pgdt.gtimg.c
 - trace.video.qq.com
-- track.qq.com
 - trace.qq.com
 - 1258344696.file.myqcloud.com
+- track.qq.com
 domain_set:
+- activity.video.qq.com
+- rmonitor.qq.com
 - info6.video.qq.com
-- aegis.qq.com
 - info4.video.qq.com
 - tux.qq.com
-- rmonitor.qq.com
-- ugchsy.gtimg.com
 - rdelivery.qq.com
-- activity.video.qq.com
+- aegis.qq.com
 - iacc.qq.com
+- ugchsy.gtimg.com
 domain_suffix_set:
-- video.mpush.qq.com
-- gdtimg.com
-- gdt.qq.com
-- tpns.tencent.com
 - api.poll.video.qq.com
-- l.qq.com
-- omgmta1.qq.com
+- gdtimg.com
 - omgmta.qq.com
 - static-res.qq.com
+- tpns.tencent.com
+- omgmta1.qq.com
+- gdt.qq.com
+- video.mpush.qq.com
+- l.qq.com
 ip_cidr_set:
 - 183.201.213.194/32
 - 120.222.144.64/32

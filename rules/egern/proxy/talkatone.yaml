@@ -1,10 +1,10 @@
 # Gins-Rules: talkatone
 domain_suffix_set:
-- tktn.be
 - mfx.mobilefuse.co
+- tktn.be
 ip_cidr_set:
-- 50.117.27.0/24
 - 63.251.124.0/24
-- 205.164.56.29/24
+- 50.117.27.0/24
 - 69.46.75.0/24
+- 205.164.56.29/24
 no_resolve: true
