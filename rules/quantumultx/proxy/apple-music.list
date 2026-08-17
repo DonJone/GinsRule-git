@@ -1,12 +1,12 @@
+HOST,aod-ssl.itunes.apple.com,PROXY
 HOST,audio.itunes.apple.com,PROXY
 HOST,mvod.itunes.apple.com,PROXY
-HOST,aod-ssl.itunes.apple.com,PROXY
 HOST,audio-ssl.itunes.apple.com,PROXY
 HOST,play.itunes.apple.com,PROXY
 HOST,streamingaudio.itunes.apple.com,PROXY
 HOST,aod.itunes.apple.com,PROXY
-HOST-SUFFIX,blobstore.apple.com,PROXY
-HOST-SUFFIX,music.apple.com,PROXY
 HOST-SUFFIX,applemusic.apple,PROXY
+HOST-SUFFIX,music.apple.com,PROXY
 HOST-SUFFIX,applemusic.com,PROXY
+HOST-SUFFIX,blobstore.apple.com,PROXY
 USER-AGENT,Music*,PROXY

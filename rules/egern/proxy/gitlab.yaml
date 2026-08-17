@@ -2,8 +2,8 @@
 domain_keyword_set:
 - gitlab
 domain_suffix_set:
+- gitlab.com
 - gitlab.io
 - gitlab.net
-- gitter-static.net
-- gitlab.com
 - gitter.im
+- gitter-static.net
