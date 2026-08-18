@@ -1,10 +1,10 @@
 # Gins-Rules: telegram
 asn_set:
+- AS59930
+- AS44907
+- AS62014
 - AS211157
 - AS62041
-- AS62014
-- AS44907
-- AS59930
 domain_keyword_set:
 - nicegram
 - telegram
@@ -12,41 +12,41 @@ domain_set:
 - api.imem.app
 - api.swiftgram.app
 domain_suffix_set:
-- tdesktop.com
-- telegramdownload.com
-- telesco.pe
-- telegram.dog
-- tg.dev
-- telegram-cdn.org
 - telegram.space
+- legra.ph
+- comments.app
+- telega.one
+- cdn-telegram.org
+- telegramdownload.com
+- telegram.org
+- graph.org
+- telegram.me
+- t.me
+- telesco.pe
+- usercontent.dev
+- quiz.directory
+- contest.com
+- telegra.ph
 - tx.me
 - mbrx.app
-- telega.one
-- telegra.ph
-- telegram.me
+- telegram.dog
+- tdesktop.com
+- telegram-cdn.org
+- tg.dev
 - stel.com
-- comments.app
-- telegram.org
-- legra.ph
-- graph.org
-- quiz.directory
-- usercontent.dev
-- cdn-telegram.org
-- contest.com
-- t.me
 ip_cidr6_set:
-- 2001:b28:f23f::/48
 - 2a0a:f280::/29
-- 2a0a:f280::/32
-- 2001:b28:f23d::/48
 - 2001:b28:f23c::/47
+- 2a0a:f280::/32
 - 2001:67c:4e8::/48
+- 2001:b28:f23f::/48
+- 2001:b28:f23d::/48
 ip_cidr_set:
+- 95.161.64.0/20
+- 196.55.216.167/32
+- 5.28.192.0/18
+- 149.154.160.0/20
+- 91.108.0.0/16
 - 109.239.140.0/24
 - 139.59.210.98/32
-- 91.108.0.0/16
-- 149.154.160.0/20
-- 196.55.216.167/32
-- 95.161.64.0/20
-- 5.28.192.0/18
 no_resolve: true
