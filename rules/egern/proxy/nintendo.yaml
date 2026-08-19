@@ -1,6 +1,6 @@
 # Gins-Rules: nintendo
 domain_suffix_set:
-- nintendo.com
-- nintendo.co.jp
-- nso.nintendo.net
 - nintendo.net
+- nintendo.co.jp
+- nintendo.com
+- nso.nintendo.net

@@ -3170,6 +3170,7 @@
 .s3-ap-southeast-2.amazonaws.com
 .s3-eu-central-1.amazonaws.com
 .s3.ap-northeast-2.amazonaws.com
+.s3.dualstack.us-west-2.amazonaws.com
 .s3.eu-central-1.amazonaws.com
 .s3.us-east-1.amazonaws.com
 .sacks.com
@@ -4127,6 +4128,7 @@
 .willw.net
 .wilsoncenter.org
 .windscribe.com
+.windy.com
 .wingamestore.com
 .wingy.site
 .wionews.com
