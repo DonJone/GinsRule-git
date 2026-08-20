@@ -1,6 +1,6 @@
 # Gins-Rules: stackoverflow
 domain_suffix_set:
-- stackoverflow.com
-- stackoverflowteams.com
-- stackexchange.com
 - sstatic.net
+- stackoverflow.com
+- stackexchange.com
+- stackoverflowteams.com
