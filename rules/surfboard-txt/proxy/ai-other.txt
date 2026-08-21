@@ -22,7 +22,6 @@
 .auth0.openai.com
 .bard.google.com
 .bing-shopping.microsoft-falcon.io
-.bing.com
 .cdn.workos.com
 .challenges.cloudflare.com
 .character.ai
@@ -45,7 +44,6 @@
 .cloudcode-pa.googleapis.com
 .cohere.ai
 .cohere.com
-.copilot.microsoft.com
 .cp4.cloudflare.com
 .ct.sendgrid.net
 .cursor.com

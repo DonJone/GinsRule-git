@@ -2,16 +2,16 @@
 domain_set:
 - cp4.cloudflare.com
 - apple-relay.apple.com
+- gspe1-ssl.ls.apple.com
 - apple-relay.cloudflare.com
 - apple-relay.fastly-edge.com
-- gspe1-ssl.ls.apple.com
 domain_suffix_set:
-- apple-relay.apple.com
-- apple-relay.cloudflare.com
-- cp4.cloudflare.com
-- gspe1-ssl.ls.apple.com
 - gateway.icloud.com
-- apps.mzstatic.com
+- apple-relay.apple.com
 - apple-relay.fastly-edge.com
+- cp4.cloudflare.com
 - apple-relay.akamaized.net
+- apps.mzstatic.com
 - guzzoni.apple.com
+- gspe1-ssl.ls.apple.com
+- apple-relay.cloudflare.com

@@ -39947,7 +39947,6 @@
 .dl56.net
 .dl8z.com
 .dlairport.com
-.dlandroid.rcv.sandai.net
 .dlbaohuang.com
 .dlbaolaijiancai.com
 .dlbbdk.com
@@ -65329,13 +65328,8 @@
 .huazhuhotels.com
 .huazirc.com
 .hub-wendinggame.org
-.hub5idx.v6.shub.sandai.net
-.hub5pn.wap.sandai.net
-.hub5pnc.sandai.net
-.hub5pr.v6.phub.sandai.net
 .hubamdi.com
 .hubashihuo.com
-.hubciddata.sandai.net
 .hubcyts.com
 .hubei88.com
 .hubeiamc.com
@@ -70187,8 +70181,6 @@
 .iot688.com
 .iot889.com
 .iotachem.com
-.iotaskyt.com
-.iotaskyty.com
 .iotbay.com
 .iotbetter.com
 .iotds.cn
@@ -120648,7 +120640,6 @@
 .tbcdn.cn
 .tbcdn.com
 .tbceshi001.cn
-.tbdesk.com
 .tbh5.com
 .tbhcc.com
 .tbhelper.com
@@ -155832,7 +155823,6 @@ live.hhtv.cc
 live.hnzzzzzdst.com
 live.lxzc.net
 live.ntdimg.com
-live.qinyangtv.com
 live.sccxtv.com
 live.sichuanmianning.com
 live.sjsgdzx.com
@@ -155840,8 +155830,6 @@ live.streamingfast.net
 live.todaydunhuang.com
 live.tvbaoji.com
 live.ugratv.cdnvideo.ru
-live.ybtvyun.com
-live.yichuntv.com
 live.zhihuizq.com
 live.zscz0768.com
 live02.rfi.fr
@@ -155852,7 +155840,6 @@ liveanevia.mncnow.id
 livecdn.fptplay.net
 livecdnh2.tvanywhere.ae
 livew.l.qq.com
-lmt.scqstv.com
 log.mmstat.com
 logger-dev.corp.google.com
 logger.corp.google.com
@@ -155893,7 +155880,6 @@ movie.mcas.jp
 mpnbenefits.download.prss.microsoft.com
 mpnbenefitsrtl.download.prss.microsoft.com
 mpnbenefitsrtluat.download.prss.microsoft.com
-ms3.yichuntv.com
 msdn.download.prss.microsoft.com
 msdprod-ad.download.prss.microsoft.com
 msg.umeng.com

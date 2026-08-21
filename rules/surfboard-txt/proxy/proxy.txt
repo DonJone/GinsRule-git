@@ -2330,7 +2330,6 @@
 .api.futunn.com
 .api.githubcopilot.com
 .api.lbkrs.com
-.api.mgtv.com
 .api.microsoftapp.net
 .api.mixpanel.com
 .api.moomoobull.com
@@ -16235,7 +16234,6 @@
 .i-cable.com
 .i-cablecomm.com
 .i-centralwm.ac.uk
-.i-joox.com
 .i-lab.ac.uk
 .i-o-u.info
 .i-part.com.tw
@@ -27976,7 +27974,6 @@
 .sankeishop.jp
 .sankie.net
 .sanmin.com.tw
-.sanook.com
 .sans.edu
 .sanspo.com
 .sanvaras.com
@@ -37231,9 +37228,6 @@ api-p-ap-e.smoot.apple.com
 api-p.videomarket.jp
 api.anthropic.com
 api.apps.apple.com
-api.biliapi.com
-api.biliapi.net
-api.bilibili.com
 api.docker.com
 api.dso.docker.com
 api.github.com
@@ -37256,9 +37250,6 @@ apl-hamivideo.cdn.hinet.net
 apm-misaka.biliapi.net
 app-site-association.cdn-apple.com
 app-site-association.networking.apple
-app.biliapi.com
-app.biliapi.net
-app.bilibili.com
 appldnld.apple.com
 appldnld.apple.com.edgesuite.net
 appldnld.g.aaplimg.com
@@ -37331,7 +37322,6 @@ browser-intake-us5-datadoghq.com
 bybit-exchange.github.io
 bybit.ada.support
 c.ppy.sh
-cache.video.iqiyi.com
 captive.apple.com
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
@@ -37609,7 +37599,6 @@ gog-cdn-lumen.secure2.footprint.net
 gog-cdn.akamaized.net
 gog.qtlglb.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
-grpc.biliapi.net
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gs.apple.com
@@ -37759,7 +37748,6 @@ login.microsoftonline.com
 lolstatic-a.akamaihd.net
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
-m.bilibili.com
 m1.ppy.sh
 mail.google.com
 makersuite.google.com
@@ -37785,7 +37773,6 @@ metacubex.github.io
 misa-prod.s3.ap-northeast-1.amazonaws.com
 ml.cdn-apple.com
 mobilelive-hamivideo.cdn.hinet.net
-mobileso.bz.mgtv.com
 mozilla-ohttp.fastly-edge.com
 mozilla.map.fastly.net
 mscrl.microsoft.com
@@ -38235,7 +38222,6 @@ updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
 upos-bstar-mirrorakam.akamaized.net
 upos-bstar1-mirrorakam.akamaized.net
-upos-hz-mirrorakam.akamaized.net
 upp.itunes.apple.com
 ut1-time.colorado.edu
 ut1-wwv.nist.gov
@@ -38388,7 +38374,6 @@ www-cdn.icloud.com.akadns.net
 www.apple.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.bilibili.com
 www.bing.com
 www.microsoft.com
 www.quora.com.cdn.cloudflare.net

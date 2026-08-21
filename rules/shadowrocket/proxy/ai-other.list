@@ -94,7 +94,6 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,character.ai
@@ -117,7 +116,6 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,ct.sendgrid.net
 DOMAIN-SUFFIX,cursor.com
