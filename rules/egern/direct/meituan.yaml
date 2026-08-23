@@ -1,6 +1,6 @@
 # Gins-Rules: meituan
 domain_suffix_set:
+- meituan.com
 - dianping.com
 - dpfile.com
 - meituan.net
-- meituan.com
