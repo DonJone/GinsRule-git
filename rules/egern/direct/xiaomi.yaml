@@ -1,13 +1,13 @@
 # Gins-Rules: xiaomi
 domain_suffix_set:
-- huawei.com
+- vivo.com
+- realme.com
 - xiaomi.com
-- xiaomiev.com
-- oppo.com
-- coloros.com
+- oneplus.com
 - honor.com
 - mi.com
-- oneplus.com
-- realme.com
-- vivo.com
+- xiaomiev.com
+- coloros.com
 - miui.com
+- oppo.com
+- huawei.com
