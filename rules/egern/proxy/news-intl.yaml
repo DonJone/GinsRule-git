@@ -1,14 +1,14 @@
 # Gins-Rules: news-intl
 domain_suffix_set:
 - economist.com
-- theguardian.com
-- washingtonpost.com
-- wsj.com
 - apnews.com
-- ft.com
-- bbc.co.uk
-- bbc.com
-- nytimes.com
-- reuters.com
 - bloomberg.com
+- theguardian.com
+- ft.com
+- bbc.com
 - cnn.com
+- reuters.com
+- wsj.com
+- washingtonpost.com
+- bbc.co.uk
+- nytimes.com

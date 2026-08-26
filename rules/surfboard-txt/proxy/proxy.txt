@@ -1004,6 +1004,7 @@
 .adguard.io
 .adguard.org
 .adguardaccount.com
+.adguardaccount.net
 .adguardcdn.com
 .adguardvpn.com
 .adhelpnews.com
@@ -24580,6 +24581,7 @@
 .oursteps.com.au
 .oursweb.net
 .ourtv.hk
+.ouryahoo.com
 .oustudios.ac.uk
 .out-app-purchase.com
 .outbound.io
@@ -36276,6 +36278,7 @@
 .yahoodns.net
 .yahoofinance.com
 .yahoohealth.com
+.yahooinc.com
 .yahoomusic.com
 .yahoosandbox.com
 .yahoosportsbook.com
