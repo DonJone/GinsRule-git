@@ -2,8 +2,8 @@
 domain_set:
 - zoom.cdn.arkoselabs.com
 domain_suffix_set:
-- zoom.com
-- zoomgov.com
-- zoominfo.com
 - zoom.us
 - zoomcdn.com
+- zoom.com
+- zoominfo.com
+- zoomgov.com

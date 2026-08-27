@@ -1,28 +1,28 @@
 # Gins-Rules: apple
 domain_set:
+- gs-loc-cn.apple.com
 - api.smoot.apple.cn
 - appleintelligencefeedback.care.apple.com
-- gs-loc-cn.apple.com
 domain_suffix_set:
-- devimages-cdn.apple.com
-- oscdn.apple.com
-- cn-ssl.ls.apple.com
-- pkg.apple.com
-- playgrounds-cdn.apple.com
-- updates-http.cdn-apple.com
-- playgrounds-assets-cdn.apple.com
-- audiocontentdownload.apple.com
-- cn.ls.apple.com
 - cn.apple.com
 - download.developer.apple.com
 - apple.com.cn
+- devimages-cdn.apple.com
+- playgrounds-cdn.apple.com
+- osrecovery.apple.com
 - swcdn.apple.com
 - swdownload.apple.com
-- gspe19-cn-ssl.ls.apple.com
-- osrecovery.apple.com
-- updates.cdn-apple.com
 - swdist.apple.com
-- appldnld.apple.com.edgesuite.net
+- playgrounds-assets-cdn.apple.com
+- gspe19-cn-ssl.ls.apple.com
 - sylvan.apple.com
-- icloud.com.cn
 - appldnld.apple.com
+- cn.ls.apple.com
+- audiocontentdownload.apple.com
+- updates-http.cdn-apple.com
+- icloud.com.cn
+- appldnld.apple.com.edgesuite.net
+- updates.cdn-apple.com
+- cn-ssl.ls.apple.com
+- oscdn.apple.com
+- pkg.apple.com
