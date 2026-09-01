@@ -2,7 +2,7 @@
 domain_keyword_set:
 - whatsapp
 domain_suffix_set:
-- waba.inner.fbpigeon.com
 - whatsapp.com
-- whatsapp-cdn.com
 - whatsapp.net
+- whatsapp-cdn.com
+- waba.inner.fbpigeon.com
