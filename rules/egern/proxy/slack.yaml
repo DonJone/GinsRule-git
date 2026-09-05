@@ -1,8 +1,8 @@
 # Gins-Rules: slack
 domain_suffix_set:
-- slack-files.com
-- slack-imgs.com
 - slack-msgs.com
+- slack.engineering
 - slack-edge.com
 - slack.com
-- slack.engineering
+- slack-files.com
+- slack-imgs.com
