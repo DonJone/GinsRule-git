@@ -27490,6 +27490,7 @@
 .roborecall.com
 .robotoffice.com
 .robustnessiskey.com
+.roc-taiwan.org
 .rochdalesfc.ac.uk
 .rocket-inc.net
 .rocket.chat
@@ -27562,6 +27563,7 @@
 .roughebonysex.com
 .roughman.net
 .roundtable.ac.uk
+.roushuwo.com
 .routerboard.com
 .routesintolanguages.ac.uk
 .routledgehandbooks.com
@@ -30952,6 +30954,7 @@
 .taiwancon.com
 .taiwandaily.net
 .taiwandc.org
+.taiwanembassy.org
 .taiwanhot.net
 .taiwanjobs.gov.tw
 .taiwanjustice.com
@@ -35320,6 +35323,7 @@
 .wspcr.ac.uk
 .wtbn.org
 .wtc.ac.uk
+.wtfpass.com
 .wtfpeople.com
 .wtmobile.com
 .wto.org

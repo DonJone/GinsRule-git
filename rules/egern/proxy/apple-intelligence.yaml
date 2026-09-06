@@ -1,17 +1,17 @@
 # Gins-Rules: apple-intelligence
 domain_set:
-- gspe1-ssl.ls.apple.com
+- apple-relay.fastly-edge.com
 - apple-relay.apple.com
 - apple-relay.cloudflare.com
-- apple-relay.fastly-edge.com
+- gspe1-ssl.ls.apple.com
 - cp4.cloudflare.com
 domain_suffix_set:
+- apple-relay.akamaized.net
+- apple-relay.apple.com
+- apple-relay.cloudflare.com
 - apple-relay.fastly-edge.com
 - apps.mzstatic.com
-- gspe1-ssl.ls.apple.com
-- apple-relay.apple.com
-- apple-relay.akamaized.net
-- apple-relay.cloudflare.com
-- guzzoni.apple.com
-- gateway.icloud.com
 - cp4.cloudflare.com
+- gateway.icloud.com
+- guzzoni.apple.com
+- gspe1-ssl.ls.apple.com

@@ -1,16 +1,16 @@
 # Gins-Rules: douyu-huya
 domain_suffix_set:
-- douyucdn.cn
 - edgesrv.com
-- huyacdn.cn
-- huyagame.cn
-- douyucdn2.cn
+- peiwanlu.com
 - bytefcdnrd.com
 - douyu.com
-- huya.com
-- msstatic.com
-- douyu.tv
+- douyucdn.cn
 - douyuscdn.com
+- huya.com
+- huyacdn.cn
 - douyutv.com
-- peiwanlu.com
+- douyucdn2.cn
+- huyagame.cn
+- msstatic.com
 - snapplay.com
+- douyu.tv
