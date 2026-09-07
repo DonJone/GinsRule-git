@@ -6,10 +6,10 @@ domain_set:
 domain_suffix_set:
 - linkedin.com
 - linkedin.cn
-- l-0005.dc-msedge.net
-- l-0005.l-msedge.net
-- linkedin.at
-- bizographics.com
-- licdn.com
 - lnkd.in
 - licdn.cn
+- bizographics.com
+- l-0005.l-msedge.net
+- l-0005.dc-msedge.net
+- licdn.com
+- linkedin.at
