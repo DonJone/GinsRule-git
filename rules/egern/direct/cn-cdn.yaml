@@ -2,16 +2,16 @@
 domain_suffix_set:
 - qiniudn.com
 - cdn.bootcdn.net
-- npmmirror.com
-- 75cdn.cn
-- bspapp.com
-- qbox.me
-- staticfile.org
-- ucloud.cn
-- bootcdn.cn
-- cdn.bootcss.com
 - qiniu.com
+- cdn.bootcss.com
+- staticfile.org
 - upyun.com
 - qiniucdn.com
+- qbox.me
+- bootcdn.cn
 - registry.npmmirror.com
 - cdn.npmmirror.com
+- npmmirror.com
+- 75cdn.cn
+- ucloud.cn
+- bspapp.com
