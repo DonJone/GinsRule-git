@@ -3657,14 +3657,11 @@ DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,apexprint.com.hk
 DOMAIN-SUFFIX,aphe.ac.uk
 DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,api-gl.lbkrs.com
 DOMAIN-SUFFIX,api-secure.recaptcha.net
 DOMAIN-SUFFIX,api-verify.recaptcha.net
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.amplitude.com
-DOMAIN-SUFFIX,api.futunn.com
 DOMAIN-SUFFIX,api.githubcopilot.com
-DOMAIN-SUFFIX,api.lbkrs.com
 DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.moomoobull.com
@@ -3685,7 +3682,6 @@ DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
 DOMAIN-SUFFIX,api.tv.colnv.com
 DOMAIN-SUFFIX,api.waqi.info
-DOMAIN-SUFFIX,api5.futunn.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apibay.org
@@ -8116,7 +8112,6 @@ DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.arstechnica.net
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
-DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cdn.onenote.net
@@ -11137,7 +11132,6 @@ DOMAIN-SUFFIX,download.com
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,download.dm.origin.com
 DOMAIN-SUFFIX,download.epicgames.com
-DOMAIN-SUFFIX,download.futunn.com
 DOMAIN-SUFFIX,download.hikarifield.co.jp
 DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.qcpp1.net
@@ -25701,12 +25695,8 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,openapi-quote.longbridge.cn
-DOMAIN-SUFFIX,openapi-quote.longbridge.com
 DOMAIN-SUFFIX,openapi-trade.longbridge.cn
-DOMAIN-SUFFIX,openapi-trade.longbridge.com
-DOMAIN-SUFFIX,openapi.futunn.com
 DOMAIN-SUFFIX,openapi.longbridge.cn
-DOMAIN-SUFFIX,openapi.longbridge.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,openart.ai
@@ -27993,14 +27983,13 @@ DOMAIN-SUFFIX,qso.ac.uk
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qt-project.org
 DOMAIN-SUFFIX,qt.io
-DOMAIN-SUFFIX,qtcard.futunn.com
-DOMAIN-SUFFIX,qtcardfthk.futufin.com
 DOMAIN-SUFFIX,qtrac.eu
 DOMAIN-SUFFIX,qtweeter.com
 DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,quadram.ac.uk
 DOMAIN-SUFFIX,quadraminstitute.ac.uk
 DOMAIN-SUFFIX,quadrat.ac.uk
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,qualcomm-email.com
 DOMAIN-SUFFIX,qualcomm-inc.com
 DOMAIN-SUFFIX,qualcomm.co.id
@@ -31987,7 +31976,6 @@ DOMAIN-SUFFIX,suppig.net
 DOMAIN-SUFFIX,supply-chain.ac.uk
 DOMAIN-SUFFIX,supplybestjerseys.com
 DOMAIN-SUFFIX,support-uber.com
-DOMAIN-SUFFIX,support.futunn.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,supremacy.com
@@ -33433,8 +33421,6 @@ DOMAIN-SUFFIX,tracingnetworks.ac.uk
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,tracking-location.com
-DOMAIN-SUFFIX,trade.futunn.com
-DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,tradeup.com
 DOMAIN-SUFFIX,tradevip1.com
 DOMAIN-SUFFIX,tradingview.com

@@ -1,9 +1,9 @@
 # Gins-Rules: hbo
 domain_suffix_set:
 - hbomaxcdn.com
-- discomax.com
-- hbo.com
-- hbomax.com
-- hbonow.com
 - hbogo.com
+- hbo.com
 - max.com
+- hbonow.com
+- discomax.com
+- hbomax.com

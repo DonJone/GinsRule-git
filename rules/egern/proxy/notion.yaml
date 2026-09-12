@@ -1,5 +1,5 @@
 # Gins-Rules: notion
 domain_suffix_set:
-- notion.site
-- notion.com
 - notion.so
+- notion.com
+- notion.site
