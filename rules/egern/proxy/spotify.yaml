@@ -1,36 +1,36 @@
 # Gins-Rules: spotify
 domain_keyword_set:
+- spotify.com
 - -spotify-
 - spotify
-- spotify.com
 domain_set:
 - audio4-ak-spotify-com.akamaized.net
-- cdn-spotify-experiments.conductrics.com
 - spotify.com.edgesuite.net
-- heads-ak-spotify-com.akamaized.net
 - spotify.map.fastly.net
 - spotify.map.fastlylb.net
+- heads-ak-spotify-com.akamaized.net
+- cdn-spotify-experiments.conductrics.com
 domain_suffix_set:
-- audio-ak-spotify-com.akamaized.net
-- spotify.app.link
-- spotifycdn.net
-- spotify-com.akamaized.net
-- spotifyforbrands.com
-- scdn.co
-- heads4-ak-spotify-com.akamaized.net
 - pscdn.co
-- spotifyjobs.com
-- spotifynewsroom.jp
-- tospotify.com
-- spotify.design
-- spotify.com
-- spotify-everywhere.com
 - spoti.fi
-- byspotify.com
 - spotifycdn.com
+- spotify.design
+- spotify.app.link
 - spotifycharts.com
 - spotifycodes.com
+- spotifyjobs.com
+- spotifynewsroom.jp
+- audio-ak-spotify-com.akamaized.net
+- spotifycdn.net
+- byspotify.com
+- heads4-ak-spotify-com.akamaized.net
+- scdn.co
+- spotify-com.akamaized.net
+- spotify.com
 - spotilocal.com
+- spotify-everywhere.com
+- spotifyforbrands.com
+- tospotify.com
 ip_cidr_set:
 - 104.154.127.126/32
 - 35.186.224.47/32
