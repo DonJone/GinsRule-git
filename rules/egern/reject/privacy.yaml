@@ -1,15 +1,15 @@
 # Gins-Rules: privacy
 domain_suffix_set:
-- mmstat.com
 - quantserve.com
+- mmstat.com
+- scorecardresearch.com
 - atpanel.com
-- exelator.com
-- rubiconproject.com
+- tanx.com
 - pubmatic.com
-- casalemedia.com
-- tapad.com
 - bluekai.com
+- rubiconproject.com
+- casalemedia.com
+- exelator.com
 - krxd.net
 - openx.net
-- scorecardresearch.com
-- tanx.com
+- tapad.com
