@@ -4,10 +4,10 @@ DOMAIN,docs.anthropic.com
 DOMAIN,console.anthropic.com
 DOMAIN,status.anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.com
-IP-CIDR,160.79.104.0/23,no-resolve
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claude.ai
 IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-CIDR,160.79.104.0/23,no-resolve
