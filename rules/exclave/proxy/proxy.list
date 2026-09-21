@@ -7754,6 +7754,7 @@
 +.code1984.com
 +.codeberg.org
 +.codeberg.page
++.codebuff.com
 +.codecademy.com
 +.codecov.io
 +.codeforaliving.io
@@ -12233,6 +12234,7 @@
 +.firearmsworld.net
 +.firebase-settings.crashlytics.com
 +.firebase.com
++.firebase.dev
 +.firebase.google.com
 +.firebase.io
 +.firebaseapp.com
@@ -12242,6 +12244,7 @@
 +.firech.at
 +.fireemblemawakening.com
 +.fireflyresearch.ac.uk
++.firefox-portal-detection.com
 +.firefox.com
 +.firefox.hu
 +.firefoxtweetmachine.com
@@ -12747,6 +12750,7 @@
 +.freebrowser.org
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecamstars.com
 +.freecartoons.biz
@@ -39703,6 +39707,8 @@ fides-pol.apple.com
 firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com

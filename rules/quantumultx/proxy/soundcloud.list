@@ -1,4 +1,4 @@
-HOST-SUFFIX,p-cdn.us,PROXY
 HOST-SUFFIX,sndcdn.com,PROXY
+HOST-SUFFIX,p-cdn.us,PROXY
 HOST-SUFFIX,soundcloud.com,PROXY
 USER-AGENT,SoundCloud*,PROXY
