@@ -2,11 +2,11 @@
 domain_set:
 - audio.itunes.apple.com
 - mvod.itunes.apple.com
+- audio-ssl.itunes.apple.com
 - play.itunes.apple.com
 - streamingaudio.itunes.apple.com
 - aod-ssl.itunes.apple.com
 - aod.itunes.apple.com
-- audio-ssl.itunes.apple.com
 domain_suffix_set:
 - applemusic.com
 - applemusic.apple
