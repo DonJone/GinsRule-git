@@ -1,5 +1,5 @@
 # Gins-Rules: duckduckgo
 domain_suffix_set:
-- duck.com
-- duckduckgo.com
 - ddg.gg
+- duckduckgo.com
+- duck.com
