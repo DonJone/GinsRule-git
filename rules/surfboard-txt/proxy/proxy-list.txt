@@ -11023,6 +11023,7 @@
 .gitbooks.io
 .gitgud.io
 .githack.com
+.github-api.arkoselabs.com
 .github-atom-io-herokuapp-com.freetls.fastly.net
 .github-avatars.oss-cn-hongkong.aliyuncs.com
 .github-cloud.s3.amazonaws.com
@@ -21735,7 +21736,6 @@
 .regiongold.com
 .registerhulu.com
 .registeridm.com
-.registry.google
 .reimu.net
 .reiporno.com
 .relateiq.com
