@@ -15450,7 +15450,6 @@
 .apirc.org
 .apiseven.com
 .apispace.com
-.apissl.ksapisrv.com
 .apistd.com
 .apitask.com
 .apitd.net

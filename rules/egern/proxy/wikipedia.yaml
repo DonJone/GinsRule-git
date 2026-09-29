@@ -1,15 +1,15 @@
 # Gins-Rules: wikipedia
 domain_suffix_set:
-- wikileaks.org
 - wiktionary.org
-- wikiversity.org
-- wikivoyage.org
-- mediawiki.org
 - wikibooks.org
+- wikiversity.org
+- mediawiki.org
+- wikidata.org
 - wikimedia.org
 - wikinews.org
+- wikivoyage.org
+- wikisource.org
+- wikileaks.org
 - wikiquote.org
 - wikipedia.org
-- wikidata.org
-- wikisource.org
 - wikiwand.com

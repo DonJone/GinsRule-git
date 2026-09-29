@@ -16083,7 +16083,6 @@ DOMAIN-SUFFIX,apira.org
 DOMAIN-SUFFIX,apirc.org
 DOMAIN-SUFFIX,apiseven.com
 DOMAIN-SUFFIX,apispace.com
-DOMAIN-SUFFIX,apissl.ksapisrv.com
 DOMAIN-SUFFIX,apistd.com
 DOMAIN-SUFFIX,apitask.com
 DOMAIN-SUFFIX,apitd.net
@@ -150103,7 +150102,6 @@ IP-CIDR,123.49.232.0/24,no-resolve
 IP-CIDR,123.49.236.0/24,no-resolve
 IP-CIDR,123.49.240.0/24,no-resolve
 IP-CIDR,123.49.242.0/23,no-resolve
-IP-CIDR,123.49.245.0/24,no-resolve
 IP-CIDR,123.49.248.0/21,no-resolve
 IP-CIDR,123.50.160.0/19,no-resolve
 IP-CIDR,123.52.0.0/14,no-resolve
@@ -159139,7 +159137,6 @@ IP-CIDR6,2408:4014::/31,no-resolve
 IP-CIDR6,2408:4016:1000::/36,no-resolve
 IP-CIDR6,2408:4016:100::/40,no-resolve
 IP-CIDR6,2408:4016:10::/44,no-resolve
-IP-CIDR6,2408:4016:1::/48,no-resolve
 IP-CIDR6,2408:4016:2000::/35,no-resolve
 IP-CIDR6,2408:4016:200::/39,no-resolve
 IP-CIDR6,2408:4016:20::/43,no-resolve
