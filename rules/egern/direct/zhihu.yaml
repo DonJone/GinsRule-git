@@ -1,8 +1,8 @@
 # Gins-Rules: zhihu
 domain_suffix_set:
+- csdn.net
 - zhihu.com
 - zhimg.com
-- csdn.net
 - jianshu.com
 - jianshu.io
 ip_cidr6_set:
