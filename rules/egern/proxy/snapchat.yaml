@@ -2,8 +2,8 @@
 domain_suffix_set:
 - sc-cdn.net
 - sc-jpl.com
-- snap.com
-- snapkit.co
 - sc-prod.net
-- snapchat.com
+- snap.com
 - sc-static.net
+- snapkit.co
+- snapchat.com

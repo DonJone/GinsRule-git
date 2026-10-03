@@ -7492,6 +7492,7 @@
 .clau.de
 .claude.ai
 .claude.com
+.claude.dev
 .claude.site
 .claudemcpclient.com
 .claudemcpcontent.com
@@ -29080,6 +29081,7 @@
 .sinchew.my
 .sinet.ac.uk
 .sing-box.app
+.sing-box.sagernet.org
 .sing4.lat
 .sing68.com
 .singaporepools.com.sg
@@ -29866,6 +29868,7 @@
 .speedtest.seattle.wa.limewave.net
 .speedtest.secv.com
 .speedtest.serverside.com
+.speedtest.sg
 .speedtest.shentel.net
 .speedtest.singnet.com.sg
 .speedtest.sits.su

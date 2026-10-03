@@ -1,40 +1,40 @@
 # Gins-Rules: tiktok
 domain_keyword_set:
+- musical.ly
 - tiktokcdn
 - tiktok
-- musical.ly
 domain_set:
 - lf16-pkgcdn.pitaya-clientai.com
+- p16-tiktokcdn-com.akamaized.net
 - trae-api-sg.mchost.guru
 - lf16-effectcdn.byteeffecttos-g.com
-- p16-tiktokcdn-com.akamaized.net
 domain_suffix_set:
-- tiktokcdn.com
-- tiktokd.org
+- isnssdk.com
+- tiktokd.net
+- tiktok.com
+- tiktokmusic.app
+- snssdk.com
+- bytedance.com
+- bytegecko-i18n.com
+- tiktokcdn-us.com
 - marscode.com
 - musical.ly
-- capcut.com
-- byteintlapi.com
-- tiktokd.net
-- bytegecko-i18n.com
-- ipstatp.com
-- byteoversea.com
 - bytedapm.com
-- snssdk.com
-- sgpstatp.com
-- ibyteimg.com
-- isnssdk.com
-- tik-tokapi.com
-- tiktokcdn-us.com
-- trae.ai
-- tiktokv.us
-- tiktok.com
-- ibytedtos.com
 - muscdn.com
-- bytedance.com
-- tiktokmusic.app
+- tiktokd.org
+- byteoversea.com
+- ibyteimg.com
+- ipstatp.com
+- sgpstatp.com
 - tiktokv.com
-- ttwstatic.com
+- tiktokv.us
+- trae.ai
+- tiktokcdn.com
 - ttwebview.com
+- tik-tokapi.com
+- ttwstatic.com
+- byteintlapi.com
+- ibytedtos.com
+- capcut.com
 user_agent_set:
 - TikTok*
