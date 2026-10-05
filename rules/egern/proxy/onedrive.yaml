@@ -1,27 +1,27 @@
 # Gins-Rules: onedrive
 domain_keyword_set:
-- onedrive
 - 1drv
+- onedrive
 - skydrive
 domain_suffix_set:
-- storage.live.com
-- skydrive.wearelive.cn
-- live.com
-- onedrive.com
-- sharepoint.com
-- storage.msn.com
-- docs.live.net
 - g.live.com
-- 1drv.ms
-- microsoftpersonalcontent.com
-- oneclient.sfx.ms
-- onedrive.live.com
-- photos.live.com
+- docs.live.net
 - 1drv.com
 - sharepointonline.com
+- live.com
+- oneclient.sfx.ms
+- storage.live.com
+- skydrive.wearelive.cn
+- onedrive.live.com
+- skydrive.wns.windows.com
+- photos.live.com
+- spoprod-a.akamaihd.net
 - livefilestore.com
+- onedrive.com
 - office.com
 - skyapi.onedrive.live.com
-- skydrive.wns.windows.com
+- 1drv.ms
+- sharepoint.com
 - admin.onedrive.com
-- spoprod-a.akamaihd.net
+- microsoftpersonalcontent.com
+- storage.msn.com
