@@ -1,15 +1,15 @@
 # Gins-Rules: npm
 domain_suffix_set:
-- gradle.org
-- pypi.org
+- jsdelivr.net
 - npmjs.com
+- npmjs.org
+- gradle.org
 - packagist.org
 - pythonhosted.org
-- unpkg.com
-- cocoapods.org
-- npm.community
-- npmjs.org
-- rubygems.org
 - mvnrepository.com
+- unpkg.com
+- pypi.org
 - crates.io
-- jsdelivr.net
+- cocoapods.org
+- rubygems.org
+- npm.community
