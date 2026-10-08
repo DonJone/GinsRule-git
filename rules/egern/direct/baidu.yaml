@@ -2,15 +2,15 @@
 domain_suffix_set:
 - baidubce.com
 - baiducontent.com
-- bdstatic.com
-- baidupcs.com
-- hao123.com
-- baidubcr.com
-- baidustatic.com
-- baidu.com
 - bcebos.com
+- baidupcs.com
 - bdimg.com
-- jomodns.com
 - bdurl.net
+- baidu.com
+- baidustatic.com
+- hao123.com
 - hao123img.com
+- baidubcr.com
 - yunjiasu-cdn.net
+- jomodns.com
+- bdstatic.com
