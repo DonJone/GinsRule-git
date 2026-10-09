@@ -104,6 +104,8 @@ DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,community.oneplus.com
 DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,crl.microsoft.com
@@ -276,6 +278,8 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN,imperial.insendi.com
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,lastfm-img.freetls.fastly.net
 DOMAIN,lastfm.freetls.fastly.net
 DOMAIN,lazer.ppy.sh
@@ -3204,6 +3208,7 @@ DOMAIN-SUFFIX,applw.com
 DOMAIN-SUFFIX,appmedia.jp
 DOMAIN-SUFFIX,appmediagroup.com
 DOMAIN-SUFFIX,approvedusedbmw.com
+DOMAIN-SUFFIX,approveit.today
 DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,apps5.oingo.com
 DOMAIN-SUFFIX,appshopper.com
@@ -25020,6 +25025,7 @@ DOMAIN-SUFFIX,surrenderat20.net
 DOMAIN-SUFFIX,suruga-ya.com
 DOMAIN-SUFFIX,suruga-ya.jp
 DOMAIN-SUFFIX,surugabank.co.jp
+DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,susiewildin.com
@@ -27108,6 +27114,7 @@ DOMAIN-SUFFIX,vanithaveedu.com
 DOMAIN-SUFFIX,vanityfair.com
 DOMAIN-SUFFIX,vanpeople.com
 DOMAIN-SUFFIX,vansky.com
+DOMAIN-SUFFIX,vanta.com
 DOMAIN-SUFFIX,vastenm.com
 DOMAIN-SUFFIX,vaticannews.va
 DOMAIN-SUFFIX,vatn.org

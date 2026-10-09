@@ -2403,6 +2403,7 @@
 +.appmedia.jp
 +.appmediagroup.com
 +.approvedusedbmw.com
++.approveit.today
 +.apps.evozi.com
 +.apps5.oingo.com
 +.appshopper.com
@@ -24219,6 +24220,7 @@
 +.suruga-ya.com
 +.suruga-ya.jp
 +.surugabank.co.jp
++.surveymonkey.com
 +.sushi.com
 +.sushi.ski
 +.susiewildin.com
@@ -26307,6 +26309,7 @@
 +.vanityfair.com
 +.vanpeople.com
 +.vansky.com
++.vanta.com
 +.vastenm.com
 +.vaticannews.va
 +.vatn.org
@@ -29843,6 +29846,8 @@ cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
 configuration-lb.ls-apple.com.akadns.net
 copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 copilot-workspace.githubnext.com
 copilotprodattachments.blob.core.windows.net
 crl.microsoft.com
@@ -30015,6 +30020,8 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
 lastfm-img.freetls.fastly.net
 lastfm.freetls.fastly.net
 lazer.ppy.sh

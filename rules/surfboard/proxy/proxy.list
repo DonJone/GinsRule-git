@@ -251,6 +251,8 @@ DOMAIN,console.groq.com
 DOMAIN,console.mistral.ai
 DOMAIN,content.jwplatform.com
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -547,6 +549,8 @@ DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN,imperial.insendi.com
 DOMAIN,in.appcenter.ms
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
@@ -4120,6 +4124,7 @@ DOMAIN-SUFFIX,applw.com
 DOMAIN-SUFFIX,appmedia.jp
 DOMAIN-SUFFIX,appmediagroup.com
 DOMAIN-SUFFIX,approvedusedbmw.com
+DOMAIN-SUFFIX,approveit.today
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,apps.mzstatic.com
@@ -32050,6 +32055,7 @@ DOMAIN-SUFFIX,surreyspace.ac.uk
 DOMAIN-SUFFIX,suruga-ya.com
 DOMAIN-SUFFIX,suruga-ya.jp
 DOMAIN-SUFFIX,surugabank.co.jp
+DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,surveynet.ac.uk
 DOMAIN-SUFFIX,suschem-nottingham-cdt.ac.uk
 DOMAIN-SUFFIX,sushi.com
@@ -34751,6 +34757,7 @@ DOMAIN-SUFFIX,vanithaveedu.com
 DOMAIN-SUFFIX,vanityfair.com
 DOMAIN-SUFFIX,vanpeople.com
 DOMAIN-SUFFIX,vansky.com
+DOMAIN-SUFFIX,vanta.com
 DOMAIN-SUFFIX,varndean.ac.uk
 DOMAIN-SUFFIX,vast.ac.uk
 DOMAIN-SUFFIX,vastenm.com

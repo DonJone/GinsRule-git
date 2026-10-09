@@ -2781,6 +2781,7 @@
 +.appmedia.jp
 +.appmediagroup.com
 +.approvedusedbmw.com
++.approveit.today
 +.apps.apple.com
 +.apps.evozi.com
 +.apps.mzstatic.com
@@ -30711,6 +30712,7 @@
 +.suruga-ya.com
 +.suruga-ya.jp
 +.surugabank.co.jp
++.surveymonkey.com
 +.surveynet.ac.uk
 +.suschem-nottingham-cdt.ac.uk
 +.sushi.com
@@ -33412,6 +33414,7 @@
 +.vanityfair.com
 +.vanpeople.com
 +.vansky.com
++.vanta.com
 +.varndean.ac.uk
 +.vast.ac.uk
 +.vastenm.com
@@ -39589,6 +39592,8 @@ console.groq.com
 console.mistral.ai
 content.jwplatform.com
 copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 copilot-workspace.githubnext.com
 copilot.microsoft.com
 copilotprodattachments.blob.core.windows.net
@@ -39885,6 +39890,8 @@ img-s-msn-com.akamaized.net
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
 in.appcenter.ms
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
 ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
