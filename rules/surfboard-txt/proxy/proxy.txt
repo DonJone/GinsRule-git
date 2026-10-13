@@ -2140,7 +2140,6 @@
 .andovercollege.ac.uk
 .android
 .android-x86.org
-.android.chat.openai.com
 .android.com
 .androidapksfree.com
 .androidauthority.com
@@ -2401,7 +2400,6 @@
 .app.cloudcone.com
 .app.element.io
 .app.heywire.com
-.app.launchdarkly.com
 .app.smartmailcloud.com
 .app.tutanota.com
 .app0le.com
@@ -3227,7 +3225,6 @@
 .auroraoss.com
 .ausbeatsbydrdre.com
 .auth.microsoft.com
-.auth.openai.com
 .auth0.com
 .auth0.openai.com
 .authorizeddns.net
@@ -6814,7 +6811,6 @@
 .cdn.softlayer.net
 .cdn.statically.io
 .cdn.ubi.com
-.cdn.workos.com
 .cdn.wup.shop.nintendo.net
 .cdn77.com
 .cdn77.org
@@ -7554,7 +7550,6 @@
 .clien.net
 .client-api.arkoselabs.com
 .clients6.google.com
-.clientstream.launchdarkly.com
 .cliffcollege.ac.uk
 .climate-lab-book.ac.uk
 .climate-server.com
@@ -8358,7 +8353,6 @@
 .csw.org.uk
 .ct-toolkit.ac.uk
 .ct.org.tw
-.ct.sendgrid.net
 .cta-observatory.ac.uk
 .ctan.org
 .ctao.org
@@ -9125,7 +9119,6 @@
 .desiresecrets.com
 .desk.com
 .deskconnect.com
-.desktop.chat.openai.com
 .desktopmovie.com
 .desktopmovie.net
 .desktopmovie.org
@@ -11337,7 +11330,6 @@
 .evchk.wikia.org
 .evemodels.com
 .even.stream
-.events.launchdarkly.com
 .events.statsigapi.net
 .eventsinfocus.org
 .everia.club
@@ -12058,7 +12050,6 @@
 .feacbooke.com
 .feacebook.com
 .feanonlinear.com
-.featureassets.org
 .featurecam.com
 .featuregates.org
 .fecbbok.com
@@ -12526,7 +12517,6 @@
 .forum.omy.sg
 .forum4hk.com
 .forums-free.com
-.forwarder.workos.com
 .forza.net
 .forzamotorsport.net
 .forzaracingchampionship.com
@@ -16857,7 +16847,6 @@
 .images-amazon.com
 .images-gaytube.com
 .images.prismic.io
-.images.workoscdn.com
 .imageshack.com
 .imageshack.us
 .imagetwist.com
@@ -17432,7 +17421,6 @@
 .iop.org
 .ios-icloud.com
 .ios.ac.uk
-.ios.chat.openai.com
 .iosinthecar.com
 .iotinactionevents.com
 .iownyour.biz
@@ -18389,10 +18377,8 @@
 .jr24h.com
 .jrs.ac.uk
 .js-agent.newrelic.com
-.js.intercomcdn.com
 .js.org
 .js.revsci.net
-.js.stripe.com
 .jsati.com
 .jsatmobile.com
 .jsbin.com
@@ -24073,10 +24059,8 @@
 .nzchinese.net.nz
 .o-courier.ru
 .o-uchi.ru
-.o207216.ingest.sentry.io
 .o2action.co.kr
 .o3.ru
-.o33249.ingest.sentry.io
 .o365cn.com
 .o365files.cn
 .o365weve-dev.com
@@ -26417,7 +26401,6 @@
 .prod.databe.floonet.goog
 .prod.hjholdings.tv
 .prodcontest.com
-.prodregistryv2.org
 .prodrive-japan.com
 .product.co.jp
 .producthunt.com
@@ -27856,7 +27839,6 @@
 .rule34pornvids.com
 .rule34video.com
 .ruleporn.com
-.rum.browser-intake-datadoghq.com
 .rumah123.com
 .rumble.com
 .rumporn.com
@@ -28612,9 +28594,7 @@
 .setsquared.ac.uk
 .settv.com.tw
 .setty.com.tw
-.setup.auth.openai.com
 .setup.icloud.com
-.setup.workos.com
 .sevenbank.co.jp
 .sevenload.com
 .severeporn.com
@@ -30386,8 +30366,6 @@
 .statics-marketingsites-neu-ms-com.akamaized.net
 .statics-marketingsites-wcus-ms-com.akamaized.net
 .statistics.ac.uk
-.statsig.com
-.statsigapi.net
 .statsmakemecry.com
 .statstutor.ac.uk
 .statueofdemocracy.org
@@ -31246,7 +31224,6 @@
 .tcpartnership.ac.uk
 .tcpspeed.co
 .tcpspeed.com
-.tcr9i.chat.openai.com
 .tcsbank.ru
 .tcsofbc.org
 .tcsovi.org
@@ -35391,8 +35368,6 @@
 .working-bing-int.com
 .workingclasswriting.ac.uk
 .workingtogethernorthwest.ac.uk
-.workos.com
-.workos.imgix.net
 .workplace.com
 .workplacementscotland.ac.uk
 .workplaceusecases.com
@@ -37416,9 +37391,6 @@ android.clients.google.com
 android.googlesource.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
-anthropic-com.ghost.io
-anthropic.auth0.com
-anthropic.com.cdn.cloudflare.net
 antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
@@ -37526,7 +37498,6 @@ bookkeeper.itunes.apple.com
 books.itunes.apple.com
 brightcove.imgix.net
 browser-intake-datadoghq.com
-browser-intake-us5-datadoghq.com
 bybit-exchange.github.io
 bybit.ada.support
 c.ppy.sh
@@ -37902,6 +37873,7 @@ imperial.insendi.com
 in.appcenter.ms
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
+inference.codeium.com
 ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
@@ -38276,6 +38248,8 @@ self.events.data.microsoft.com
 sentry.ppy.sh
 sequoia.apple.com
 servd-anthropic-website.b-cdn.net
+server.codeium.com
+server.self-serve.windsurf.com
 services.bingapis.com
 sf-api-token-service.itunes.apple.com
 sh-pod2-smp-device.apple.com

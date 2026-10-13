@@ -65,9 +65,6 @@ DOMAIN,android.clients.google.com
 DOMAIN,android.googlesource.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
-DOMAIN,anthropic-com.ghost.io
-DOMAIN,anthropic.auth0.com
-DOMAIN,anthropic.com.cdn.cloudflare.net
 DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity-unleash.goog
 DOMAIN,antigravity.google
@@ -175,7 +172,6 @@ DOMAIN,bookkeeper.itunes.apple.com
 DOMAIN,books.itunes.apple.com
 DOMAIN,brightcove.imgix.net
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN,c.ppy.sh
@@ -551,6 +547,7 @@ DOMAIN,imperial.insendi.com
 DOMAIN,in.appcenter.ms
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,inference.codeium.com
 DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
@@ -925,6 +922,8 @@ DOMAIN,self.events.data.microsoft.com
 DOMAIN,sentry.ppy.sh
 DOMAIN,sequoia.apple.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,server.codeium.com
+DOMAIN,server.self-serve.windsurf.com
 DOMAIN,services.bingapis.com
 DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
@@ -3483,7 +3482,6 @@ DOMAIN-SUFFIX,andover.ac.uk
 DOMAIN-SUFFIX,andovercollege.ac.uk
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android-x86.org
-DOMAIN-SUFFIX,android.chat.openai.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidapksfree.com
 DOMAIN-SUFFIX,androidauthority.com
@@ -3744,7 +3742,6 @@ DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.element.io
 DOMAIN-SUFFIX,app.heywire.com
-DOMAIN-SUFFIX,app.launchdarkly.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,app.tutanota.com
 DOMAIN-SUFFIX,app0le.com
@@ -4570,7 +4567,6 @@ DOMAIN-SUFFIX,auricularesbeatsmarkt.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
 DOMAIN-SUFFIX,auth.microsoft.com
-DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,authorizeddns.net
@@ -8157,7 +8153,6 @@ DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdn.softlayer.net
 DOMAIN-SUFFIX,cdn.statically.io
 DOMAIN-SUFFIX,cdn.ubi.com
-DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,cdn.wup.shop.nintendo.net
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
@@ -8897,7 +8892,6 @@ DOMAIN-SUFFIX,clickserver.googleads.com
 DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,cliffcollege.ac.uk
 DOMAIN-SUFFIX,climate-lab-book.ac.uk
 DOMAIN-SUFFIX,climate-server.com
@@ -9701,7 +9695,6 @@ DOMAIN-SUFFIX,csuchen.de
 DOMAIN-SUFFIX,csw.org.uk
 DOMAIN-SUFFIX,ct-toolkit.ac.uk
 DOMAIN-SUFFIX,ct.org.tw
-DOMAIN-SUFFIX,ct.sendgrid.net
 DOMAIN-SUFFIX,cta-observatory.ac.uk
 DOMAIN-SUFFIX,ctan.org
 DOMAIN-SUFFIX,ctao.org
@@ -10468,7 +10461,6 @@ DOMAIN-SUFFIX,desire-xx.supertop-100.com
 DOMAIN-SUFFIX,desiresecrets.com
 DOMAIN-SUFFIX,desk.com
 DOMAIN-SUFFIX,deskconnect.com
-DOMAIN-SUFFIX,desktop.chat.openai.com
 DOMAIN-SUFFIX,desktopmovie.com
 DOMAIN-SUFFIX,desktopmovie.net
 DOMAIN-SUFFIX,desktopmovie.org
@@ -12680,7 +12672,6 @@ DOMAIN-SUFFIX,evchk.wikia.com
 DOMAIN-SUFFIX,evchk.wikia.org
 DOMAIN-SUFFIX,evemodels.com
 DOMAIN-SUFFIX,even.stream
-DOMAIN-SUFFIX,events.launchdarkly.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,eventsinfocus.org
 DOMAIN-SUFFIX,everia.club
@@ -13401,7 +13392,6 @@ DOMAIN-SUFFIX,feacbook.com
 DOMAIN-SUFFIX,feacbooke.com
 DOMAIN-SUFFIX,feacebook.com
 DOMAIN-SUFFIX,feanonlinear.com
-DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,featurecam.com
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,fecbbok.com
@@ -13869,7 +13859,6 @@ DOMAIN-SUFFIX,forum.cyberctm.com
 DOMAIN-SUFFIX,forum.omy.sg
 DOMAIN-SUFFIX,forum4hk.com
 DOMAIN-SUFFIX,forums-free.com
-DOMAIN-SUFFIX,forwarder.workos.com
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -18200,7 +18189,6 @@ DOMAIN-SUFFIX,imagepost.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,images-gaytube.com
 DOMAIN-SUFFIX,images.prismic.io
-DOMAIN-SUFFIX,images.workoscdn.com
 DOMAIN-SUFFIX,imageshack.com
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,imagetwist.com
@@ -18775,7 +18763,6 @@ DOMAIN-SUFFIX,iooog.sbs
 DOMAIN-SUFFIX,iop.org
 DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,ios.ac.uk
-DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,iosinthecar.com
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,iownyour.biz
@@ -19732,10 +19719,8 @@ DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,jr24h.com
 DOMAIN-SUFFIX,jrs.ac.uk
 DOMAIN-SUFFIX,js-agent.newrelic.com
-DOMAIN-SUFFIX,js.intercomcdn.com
 DOMAIN-SUFFIX,js.org
 DOMAIN-SUFFIX,js.revsci.net
-DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,jsati.com
 DOMAIN-SUFFIX,jsatmobile.com
 DOMAIN-SUFFIX,jsbin.com
@@ -25416,10 +25401,8 @@ DOMAIN-SUFFIX,nzchinese.com
 DOMAIN-SUFFIX,nzchinese.net.nz
 DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,o-uchi.ru
-DOMAIN-SUFFIX,o207216.ingest.sentry.io
 DOMAIN-SUFFIX,o2action.co.kr
 DOMAIN-SUFFIX,o3.ru
-DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
@@ -27760,7 +27743,6 @@ DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,prod.databe.floonet.goog
 DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,prodcontest.com
-DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,prodrive-japan.com
 DOMAIN-SUFFIX,product.co.jp
 DOMAIN-SUFFIX,producthunt.com
@@ -29199,7 +29181,6 @@ DOMAIN-SUFFIX,rule34h.com
 DOMAIN-SUFFIX,rule34pornvids.com
 DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,ruleporn.com
-DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,rumah123.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,rumporn.com
@@ -29955,9 +29936,7 @@ DOMAIN-SUFFIX,setn.com
 DOMAIN-SUFFIX,setsquared.ac.uk
 DOMAIN-SUFFIX,settv.com.tw
 DOMAIN-SUFFIX,setty.com.tw
-DOMAIN-SUFFIX,setup.auth.openai.com
 DOMAIN-SUFFIX,setup.icloud.com
-DOMAIN-SUFFIX,setup.workos.com
 DOMAIN-SUFFIX,sevenbank.co.jp
 DOMAIN-SUFFIX,sevenload.com
 DOMAIN-SUFFIX,severeporn.com
@@ -31729,8 +31708,6 @@ DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statistics.ac.uk
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,statsmakemecry.com
 DOMAIN-SUFFIX,statstutor.ac.uk
 DOMAIN-SUFFIX,statueofdemocracy.org
@@ -32589,7 +32566,6 @@ DOMAIN-SUFFIX,tconf.ru
 DOMAIN-SUFFIX,tcpartnership.ac.uk
 DOMAIN-SUFFIX,tcpspeed.co
 DOMAIN-SUFFIX,tcpspeed.com
-DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,tcsbank.ru
 DOMAIN-SUFFIX,tcsofbc.org
 DOMAIN-SUFFIX,tcsovi.org
@@ -36734,8 +36710,6 @@ DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,workingclasswriting.ac.uk
 DOMAIN-SUFFIX,workingtogethernorthwest.ac.uk
-DOMAIN-SUFFIX,workos.com
-DOMAIN-SUFFIX,workos.imgix.net
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplacementscotland.ac.uk
 DOMAIN-SUFFIX,workplaceusecases.com
@@ -38692,11 +38666,9 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
-IP-ASN,13335
 IP-ASN,14061
 IP-ASN,20473
 IP-ASN,211157
-IP-ASN,399358
 IP-ASN,44907
 IP-ASN,59930
 IP-ASN,62014
@@ -39125,7 +39097,6 @@ IP-CIDR,16.62.7.192/26
 IP-CIDR,16.63.20.0/25
 IP-CIDR,16.63.77.8/29
 IP-CIDR,160.1.128.0/24
-IP-CIDR,160.79.104.0/21
 IP-CIDR,160.79.104.0/23
 IP-CIDR,161.0.157.195/32
 IP-CIDR,161.0.157.73/32
@@ -40821,7 +40792,6 @@ IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48
 IP-CIDR6,2402:2a80::/32
 IP-CIDR6,2403:300::/32
-IP-CIDR6,2607:6BC0::/32
 IP-CIDR6,2607:6bc0::/48
 IP-CIDR6,2607:fb10::/32
 IP-CIDR6,2620:100:3000::/40
