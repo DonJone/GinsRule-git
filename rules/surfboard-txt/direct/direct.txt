@@ -6291,6 +6291,7 @@
 .4399er.com
 .4399hdhh.com
 .4399hhh.com
+.4399houtai.com
 .4399hxjy.com
 .4399i.net
 .4399inc.com
@@ -7633,6 +7634,7 @@
 .51zhuanhongbao.com
 .51zhucai.com
 .51zixiu.com
+.51zjb.com
 .51zjedu.com
 .51zjxm.com
 .51zmt.net
@@ -11391,7 +11393,6 @@
 .8wss.com
 .8wym.com
 .8x.fit
-.8x14khzwmi.com
 .8x5vviy4r2.com
 .8x6x.com
 .8xf1.cn
@@ -41782,6 +41783,7 @@
 .dp.tech
 .dp168.com
 .dp2u.com
+.dpafmp641.vip
 .dpanel.cc
 .dpangzi.com
 .dpartner.com.cn
@@ -49734,6 +49736,7 @@
 .frp-ski.com
 .frp-sun.com
 .frp-tag.com
+.frp-web.com
 .frpapp.com
 .frrcw.com
 .frsvt.top
@@ -51018,7 +51021,9 @@
 .gamepp.com
 .gamepublisher.cn
 .gamer-gamer.com
+.gamer520.fan
 .gamer520.net
+.gamer520.wiki
 .gameragame.com
 .gameragames.com
 .gamerboom.com
@@ -51582,7 +51587,6 @@
 .gcykj.com
 .gcytf.cn
 .gcyts.com
-.gcyvm.com
 .gcyy08.com
 .gczw.me
 .gczyg.com
@@ -67502,6 +67506,7 @@
 .hxkj.vip
 .hxkjmedia.cn
 .hxkjmedia.com
+.hxkjtop.com
 .hxkq.net
 .hxkq.org
 .hxkqyxzz.net
@@ -68443,6 +68448,7 @@
 .hzzzpt.com
 .i-27.name
 .i-520.net
+.i-amtr.com
 .i-bei.com
 .i-bestmind.com
 .i-bigdatas.net
@@ -74431,7 +74437,6 @@
 .jidujiasu.com
 .jidukeji.com
 .jidumotors.com
-.jie.ge
 .jieanjiaotong.com
 .jiebai.com
 .jiebanchuyou.com
@@ -76268,6 +76273,7 @@
 .jmonline.org
 .jmp-cn.com
 .jmp.gd
+.jmqux.com
 .jmqy.com
 .jmqyjt.com
 .jmrb.com
@@ -80691,6 +80697,7 @@
 .klhuyan.com
 .klianfa.com
 .klicen.com
+.klinecharts.com
 .kling-ai.com
 .klingai.cn
 .klingai.com
@@ -87234,6 +87241,7 @@
 .lunlunapp.com
 .lunpaipai.cn
 .lunpaipai.com
+.lunprin.com
 .lunwengo.net
 .lunwenlib.com
 .lunwenstudy.com
@@ -94067,7 +94075,6 @@
 .myrec.cn
 .myrice.com
 .myrightone.com
-.myrny.xin
 .myroki.com
 .myroome.com
 .myrqjt.com
@@ -104342,7 +104349,6 @@
 .qiaoshoujituan.com
 .qiaosidea.com
 .qiaotu.com
-.qiaoxh.com
 .qiaoxuanhong.com
 .qiaoxuesi.com
 .qiaoyi.org
@@ -108662,6 +108668,7 @@
 .rljydt.com
 .rlkj.com
 .rlkj.net
+.rlkrmx.com
 .rlmeijia.com
 .rlnk.net
 .rlreader.com
@@ -128081,7 +128088,6 @@
 .tvfanqie.com
 .tvfuwu.com
 .tvguo.tv
-.tvhcoin.ai
 .tvhf.com
 .tvhuan.com
 .tvhuan.tv
@@ -130801,6 +130807,7 @@
 .vfvdf.com
 .vfx123.com
 .vfxforce.net.cn
+.vfxfu.com
 .vg.com
 .vg173.com
 .vg89qeas3xagd.com
@@ -136605,7 +136612,6 @@
 .wqyunpan.com
 .wqzsc36ou356m.com
 .wqzx.net
-.wr0s8zq4.lol
 .wr88.cc
 .wrating.com
 .wrcdn.com
@@ -138185,7 +138191,6 @@
 .xajjn.com
 .xajjwy.com
 .xajob.com
-.xajtl.com
 .xajx.com
 .xajxcw.com
 .xakaili.com
@@ -155282,7 +155287,6 @@
 .zjdyjob.com
 .zjdyrcw.com
 .zjdzqt.com
-.zjdzttfc.com
 .zje.com
 .zjeagles.com
 .zjeav.com
@@ -157376,7 +157380,6 @@
 .zxblinux.com
 .zxbook.net
 .zxbzr.com
-.zxc123zxc123.xyz
 .zxca.cn
 .zxca.com.cn
 .zxcard.cn
