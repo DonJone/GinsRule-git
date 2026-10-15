@@ -99572,7 +99572,6 @@
 .rtdsoft.com
 .rteazudzv.com
 .rteconf.com
-.rtesvc.com
 .rtf1688.com
 .rtfcode.com
 .rtfcpa.com
@@ -145035,6 +145034,7 @@ tj-pod3-smp-device.apple.com
 tools.google.com
 tux.qq.com
 ugchsy.gtimg.com
+umami.mao.fan
 universal-activity-service.itunes.apple.com
 update.crashlytics.com
 update.googleapis.com
