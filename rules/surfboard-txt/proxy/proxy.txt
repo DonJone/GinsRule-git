@@ -6501,6 +6501,9 @@
 .caoporn.us
 .cap.org.hk
 .capcut.com
+.capcutapi.com
+.capcutapi.us
+.capcutstatic.com
 .cape.ac.uk
 .capel.ac.uk
 .capitalccg.ac.uk
@@ -28247,6 +28250,7 @@
 .scct.ac.uk
 .scde.ac.uk
 .scdn.co
+.scea.com
 .scene7.com
 .scenesource.me
 .scentro.ac.uk
@@ -29678,6 +29682,7 @@
 .sony.com.pa
 .sony.com.pe
 .sony.com.ph
+.sony.com.py
 .sony.com.sg
 .sony.com.sv
 .sony.com.tr
@@ -29722,8 +29727,10 @@
 .sonyentertainmentnetwork.com
 .sonyged.com.cn
 .sonyglobalsolutions.jp
+.sonyinteractive.com
 .sonykigyo.jp
 .sonylatvija.com
+.sonymusic.com.hk
 .sonynetwork.co.jp
 .sonypcl.jp
 .sonypictures.com
