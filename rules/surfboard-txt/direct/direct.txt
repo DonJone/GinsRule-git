@@ -12700,6 +12700,7 @@
 .9fav.com
 .9fb8d5b6bff66a4d.com
 .9fbank.com
+.9fe06a.fyi
 .9fe3e7d4c10311.beer
 .9fe6d.com
 .9ff0p.cn
@@ -24800,7 +24801,6 @@
 .byd.auto
 .byd.com
 .byd.com.cn
-.byd119.com
 .bydata.cc
 .bydauto.com
 .bydauto.com.cn
@@ -40369,6 +40369,7 @@
 .ditiezu.net
 .ditingfqz.com
 .ditrit.com
+.dittocdn.com
 .ditu.live.com
 .dituhui.com
 .dituw.net
@@ -40865,6 +40866,7 @@
 .dns.com
 .dns.com.cn
 .dns.la
+.dns.lat
 .dns.pub
 .dns.tech
 .dns002.com
@@ -54909,6 +54911,7 @@
 .gravity-engine.com
 .gravityxr.cn
 .graz.quest
+.grboi.com
 .grcbank.com
 .grchina.com
 .grcwzx.com
@@ -101033,6 +101036,7 @@
 .petfh.top
 .petgugu.com
 .pethr.com
+.petkit.cn
 .petkit.com
 .petkoo.com
 .petktasia.com
@@ -103301,6 +103305,7 @@
 .pyneo.com
 .pyogampa.com
 .pyou.com
+.pyquan.com
 .pyral07m8m.com
 .pyrc.net
 .pyrcms.com
@@ -109248,6 +109253,7 @@
 .rtdsoft.com
 .rteazudzv.com
 .rteconf.com
+.rtesvc.com
 .rtf1688.com
 .rtfcode.com
 .rtfcpa.com
@@ -113877,6 +113883,7 @@
 .shengshu.com
 .shengshu.world
 .shengtai.com
+.shengtai.cyou
 .shengtaigroup.net
 .shengtaijiangtan.cn
 .shengtaitou.com
@@ -123966,6 +123973,7 @@
 .tengbai-it.com
 .tengbenyueji.com
 .tengbo.cc
+.tengcanxi.com
 .tengchangjiancai.com
 .tengchu.com
 .tengdatumu.com
@@ -139003,6 +139011,7 @@
 .xhlcsl.com
 .xhlld002.shop
 .xhlsgs.com
+.xhlylx.com
 .xhma.com
 .xhmarkets.cn
 .xhmarkets.com
